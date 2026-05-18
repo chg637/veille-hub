@@ -1,0 +1,738 @@
+<!DOCTYPE html>
+<script type="application/json" id="cowork-artifact-meta">
+{
+  "name": "Hub Veille Marché Isograd",
+  "schemaVersion": 1,
+  "description": "Hub central d'agrégation veille marché Isograd — 3 verticaux (Education, Organismes de formation, Corporate/DRH) + vue agrégée. Daily signaux + digest hebdo lundi. Prototype v0.1 — données mock pour validation maquette."
+}
+</script>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hub Veille Marché Isograd — 18 mai 2026</title>
+<style>
+  :root {
+    color-scheme: light;
+    --bg: #FAFBFC;
+    --card: #FFFFFF;
+    --text: #1A1F24;
+    --text-soft: #5B6470;
+    --border: #E2E8EC;
+    --isograd: #05676A;
+    --isograd-dark: #034547;
+    --edu: #3846D8;
+    --edu-soft: #EEF0FF;
+    --of: #0EA5A4;
+    --of-soft: #E0F7F6;
+    --corpo: #7C3AED;
+    --corpo-soft: #F1E9FE;
+    --warn: #F59E0B;
+    --good: #10B981;
+    --hot: #EF4444;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    padding: 20px 24px 40px;
+    font-family: -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", system-ui, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    font-size: 13px;
+    line-height: 1.55;
+  }
+
+  /* ───── HEADER ───── */
+  .hdr {
+    background: linear-gradient(135deg, var(--isograd) 0%, var(--isograd-dark) 100%);
+    color: #fff;
+    border-radius: 14px;
+    padding: 22px 26px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 18px;
+    box-shadow: 0 4px 14px rgba(5,103,106,0.18);
+  }
+  .hdr-l h1 {
+    margin: 0;
+    font-size: 22px;
+    letter-spacing: -0.3px;
+    font-weight: 800;
+  }
+  .hdr-l p {
+    margin: 6px 0 0 0;
+    font-size: 12px;
+    opacity: 0.88;
+  }
+  .hdr-stats { display: flex; gap: 12px; }
+  .stat {
+    background: rgba(255,255,255,0.10);
+    border: 1px solid rgba(255,255,255,0.18);
+    padding: 10px 14px;
+    border-radius: 9px;
+    text-align: center;
+    min-width: 88px;
+  }
+  .stat-n { font-size: 22px; font-weight: 800; line-height: 1.1; }
+  .stat-l { font-size: 10px; opacity: 0.85; text-transform: uppercase; letter-spacing: 0.6px; margin-top: 3px; }
+  .stat.edu .stat-n { color: #C7CCFF; }
+  .stat.of .stat-n  { color: #B0F4F1; }
+  .stat.corpo .stat-n { color: #D9C7FF; }
+  .stat.total .stat-n { color: #FFD79A; }
+
+  /* ───── INFO STRIP ───── */
+  .info {
+    background: #FFF7ED;
+    border: 1px solid #FDBA74;
+    border-radius: 9px;
+    padding: 11px 16px;
+    margin-bottom: 16px;
+    font-size: 12px;
+    color: #7C2D12;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 18px;
+    flex-wrap: wrap;
+  }
+  .info b { color: #431407; }
+  .info .pulse {
+    display: inline-flex; align-items: center; gap: 7px;
+    background: #fff;
+    border: 1px solid #FDBA74;
+    border-radius: 100px;
+    padding: 4px 11px;
+    font-size: 11px;
+    font-weight: 600;
+    color: #7C2D12;
+  }
+  .info .pulse::before {
+    content: '';
+    width: 7px; height: 7px;
+    background: #F59E0B;
+    border-radius: 50%;
+    animation: pulse 2s infinite;
+  }
+  @keyframes pulse { 0%,100% { opacity: 1 } 50% { opacity: 0.35 } }
+
+  /* ───── TABS ───── */
+  .tabs {
+    display: flex;
+    gap: 4px;
+    margin-bottom: 16px;
+    border-bottom: 2px solid var(--border);
+    overflow-x: auto;
+  }
+  .tab {
+    padding: 11px 18px;
+    background: transparent;
+    border: none;
+    border-bottom: 3px solid transparent;
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--text-soft);
+    cursor: pointer;
+    transition: all 0.18s;
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-family: inherit;
+  }
+  .tab:hover { color: var(--text); background: #F1F5F9; border-radius: 6px 6px 0 0; }
+  .tab.active { color: var(--text); border-bottom-color: currentColor; }
+  .tab[data-vert="all"].active   { color: var(--isograd); border-bottom-color: var(--isograd); }
+  .tab[data-vert="edu"].active   { color: var(--edu); border-bottom-color: var(--edu); }
+  .tab[data-vert="of"].active    { color: var(--of); border-bottom-color: var(--of); }
+  .tab[data-vert="corpo"].active { color: var(--corpo); border-bottom-color: var(--corpo); }
+  .tab .badge {
+    background: #E2E8EC;
+    color: var(--text-soft);
+    border-radius: 100px;
+    padding: 2px 8px;
+    font-size: 10px;
+    font-weight: 700;
+  }
+  .tab.active .badge { background: currentColor; color: #fff; }
+
+  /* ───── PANELS ───── */
+  .panel { display: none; }
+  .panel.active { display: block; animation: fade 0.25s; }
+  @keyframes fade { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+
+  /* ───── SIGNAL CARDS ───── */
+  .signals { display: grid; gap: 12px; }
+  .signal {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 14px 16px;
+    display: grid;
+    grid-template-columns: 56px 1fr auto;
+    gap: 14px;
+    align-items: start;
+    transition: all 0.15s;
+  }
+  .signal:hover { border-color: #94A3B8; box-shadow: 0 2px 8px rgba(0,0,0,0.05); }
+  .signal[data-vert="edu"]   { border-left: 4px solid var(--edu); }
+  .signal[data-vert="of"]    { border-left: 4px solid var(--of); }
+  .signal[data-vert="corpo"] { border-left: 4px solid var(--corpo); }
+
+  .score {
+    background: linear-gradient(135deg, #0F172A 0%, #1E293B 100%);
+    color: #fff;
+    border-radius: 8px;
+    padding: 9px 4px;
+    text-align: center;
+    min-width: 52px;
+  }
+  .score-n { font-size: 19px; font-weight: 800; line-height: 1; }
+  .score-l { font-size: 9px; opacity: 0.7; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 2px; }
+  .score.hot { background: linear-gradient(135deg, #DC2626 0%, #991B1B 100%); }
+  .score.warm { background: linear-gradient(135deg, #F59E0B 0%, #B45309 100%); }
+  .score.cold { background: linear-gradient(135deg, #475569 0%, #334155 100%); }
+
+  .sig-body h3 {
+    margin: 0 0 4px;
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--text);
+    line-height: 1.35;
+  }
+  .sig-body .meta {
+    font-size: 11px;
+    color: var(--text-soft);
+    margin-bottom: 6px;
+  }
+  .sig-body .meta .chip {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 100px;
+    background: #F1F5F9;
+    margin-right: 5px;
+    font-weight: 600;
+  }
+  .sig-body .meta .chip.edu   { background: var(--edu-soft); color: var(--edu); }
+  .sig-body .meta .chip.of    { background: var(--of-soft); color: #047070; }
+  .sig-body .meta .chip.corpo { background: var(--corpo-soft); color: var(--corpo); }
+  .sig-body .meta .chip.tier1 { background: #FEE2E2; color: #991B1B; }
+  .sig-body .meta .chip.tier2 { background: #FEF3C7; color: #92400E; }
+  .sig-body .desc { font-size: 12.5px; color: #334155; margin: 4px 0 6px; }
+  .sig-body .action {
+    background: #F8FAFC;
+    border-left: 3px solid var(--isograd);
+    padding: 7px 11px;
+    border-radius: 0 6px 6px 0;
+    font-size: 12px;
+    margin-top: 6px;
+  }
+  .sig-body .action b { color: var(--isograd); }
+
+  .sig-right { text-align: right; font-size: 11px; color: var(--text-soft); }
+  .sig-right .owner { font-weight: 700; color: var(--text); }
+  .sig-right .deadline { margin-top: 4px; }
+  .sig-right .deadline.urgent { color: var(--hot); font-weight: 700; }
+
+  /* ───── EMPTY STATE ───── */
+  .empty {
+    background: linear-gradient(135deg, var(--corpo-soft) 0%, #FAF5FF 100%);
+    border: 2px dashed var(--corpo);
+    border-radius: 12px;
+    padding: 28px 24px;
+    text-align: center;
+    color: #4C1D95;
+  }
+  .empty h3 { margin: 0 0 8px; font-size: 16px; color: var(--corpo); }
+  .empty p { margin: 6px 0; font-size: 12.5px; max-width: 540px; margin-left: auto; margin-right: auto; }
+  .empty .roadmap {
+    display: inline-block;
+    margin-top: 14px;
+    padding: 8px 16px;
+    background: var(--corpo);
+    color: #fff;
+    border-radius: 100px;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.4px;
+  }
+
+  /* ───── VERTICAL HEADER ───── */
+  .v-hdr {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 14px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid var(--border);
+  }
+  .v-hdr h2 {
+    margin: 0;
+    font-size: 18px;
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .v-hdr .icon {
+    width: 32px; height: 32px;
+    border-radius: 8px;
+    display: inline-flex; align-items: center; justify-content: center;
+    font-size: 16px;
+  }
+  .v-hdr[data-v="edu"] .icon   { background: var(--edu-soft); color: var(--edu); }
+  .v-hdr[data-v="of"] .icon    { background: var(--of-soft); color: #047070; }
+  .v-hdr[data-v="corpo"] .icon { background: var(--corpo-soft); color: var(--corpo); }
+  .v-hdr .v-meta {
+    font-size: 11.5px;
+    color: var(--text-soft);
+    text-align: right;
+  }
+  .v-hdr .v-meta b { color: var(--text); }
+
+  /* ───── SECTION HEADERS ───── */
+  .sect-head {
+    font-size: 12px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.7px;
+    color: var(--text-soft);
+    margin: 22px 0 10px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .sect-head::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: var(--border);
+  }
+
+  /* ───── FOOTER ───── */
+  .ft {
+    margin-top: 28px;
+    padding: 16px 20px;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    font-size: 12px;
+    color: var(--text-soft);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+  .ft b { color: var(--text); }
+  .ft .digest {
+    background: linear-gradient(135deg, var(--isograd) 0%, var(--isograd-dark) 100%);
+    color: #fff;
+    padding: 8px 14px;
+    border-radius: 100px;
+    font-weight: 700;
+    font-size: 11.5px;
+  }
+</style>
+</head>
+<body>
+
+<!-- ═══════════ HEADER ═══════════ -->
+<div class="hdr">
+  <div class="hdr-l">
+    <h1>Hub Veille Marché Isograd</h1>
+    <p>3 verticaux · daily signaux · digest hebdo lundi 8h · <b>v0.1 prototype — données mock</b></p>
+  </div>
+  <div class="hdr-stats">
+    <div class="stat total"><div class="stat-n" id="stat-total">12</div><div class="stat-l">Signaux 7j</div></div>
+    <div class="stat edu"><div class="stat-n" id="stat-edu">6</div><div class="stat-l">Education</div></div>
+    <div class="stat of"><div class="stat-n" id="stat-of">4</div><div class="stat-l">OF</div></div>
+    <div class="stat corpo"><div class="stat-n" id="stat-corpo">2</div><div class="stat-l">Corporate</div></div>
+  </div>
+</div>
+
+<!-- ═══════════ INFO STRIP ═══════════ -->
+<div class="info">
+  <div><b>Prototype v0.1.</b> Maquette de validation. Sources : Radar AO Isograd (live), Radar Hebdo Tosa (live), Corporate/DRH = placeholders (sources à brancher S3).</div>
+  <div class="pulse">Prochaine MAJ : demain 8h</div>
+</div>
+
+<!-- ═══════════ TABS ═══════════ -->
+<div class="tabs" role="tablist">
+  <button class="tab active" data-vert="all" role="tab">📡 Vue agrégée <span class="badge">12</span></button>
+  <button class="tab" data-vert="edu" role="tab">🎓 Education <span class="badge">6</span></button>
+  <button class="tab" data-vert="of" role="tab">🏫 Organismes de formation <span class="badge">4</span></button>
+  <button class="tab" data-vert="corpo" role="tab">🏢 Corporate / DRH <span class="badge">2</span></button>
+</div>
+
+<!-- ═══════════ PANEL : VUE AGRÉGÉE ═══════════ -->
+<div class="panel active" data-panel="all">
+  <div class="v-hdr">
+    <h2><span class="icon" style="background:#FFF7ED;color:#7C2D12;">📡</span> Top signaux 7 derniers jours</h2>
+    <div class="v-meta">Tri par <b>score décroissant</b> · scoring auto pondéré ICP fit × signal × source tier</div>
+  </div>
+
+  <div class="signals">
+
+    <div class="signal" data-vert="edu">
+      <div class="score hot"><div class="score-n">90</div><div class="score-l">HOT</div></div>
+      <div class="sig-body">
+        <h3>Polytechnique lance MSc&amp;T LLGA — programme dédié IA &amp; LLM rentrée sept 2026</h3>
+        <div class="meta">
+          <span class="chip edu">Education</span>
+          <span class="chip tier1">Tier 1</span>
+          <span>30 mars 2026 · Source : Polytechnique press release</span>
+        </div>
+        <div class="desc">Nouveau MSc&T "Large Language Models, Graphs &amp; Applications". Fenêtre maquette + référentiel skills ouverte. Candidate Cert IA.</div>
+        <div class="action"><b>Action reco :</b> LinkedIn DM responsable MSc&T LLGA + one-pager Cert IA. Mention Tosa Excel/Power BI pour socle data.</div>
+      </div>
+      <div class="sig-right">
+        <div>Owner</div>
+        <div class="owner">Charles</div>
+        <div class="deadline urgent">Action sous 7j</div>
+      </div>
+    </div>
+
+    <div class="signal" data-vert="edu">
+      <div class="score hot"><div class="score-n">88</div><div class="score-l">HOT</div></div>
+      <div class="sig-body">
+        <h3>Université PSL inaugure la Paris School of AI</h3>
+        <div class="meta">
+          <span class="chip edu">Education</span>
+          <span class="chip tier1">Tier 1</span>
+          <span>Q1 2026 · Source : AEF + site PSL officiel</span>
+        </div>
+        <div class="desc">Cinq formations IA regroupées + axe recherche. Ambition « référence internationale formation leaders hybrides ». Accréditation AACSB attendue fin 2025/début 2026 — fenêtre budget + refonte maquette.</div>
+        <div class="action"><b>Action reco :</b> Pack Education Tosa pour différencier maquettes dossier AACSB + ITS pour hébergement examens. Note connexion LinkedIn Direction Paris School of AI.</div>
+      </div>
+      <div class="sig-right">
+        <div>Owner</div>
+        <div class="owner">Charles</div>
+        <div class="deadline">Avant 30/05</div>
+      </div>
+    </div>
+
+    <div class="signal" data-vert="corpo">
+      <div class="score hot"><div class="score-n">85</div><div class="score-l">HOT</div></div>
+      <div class="sig-body">
+        <h3>[MOCK] Mistral AI lève 240 M€ Série C — plan d'embauche 400 postes tech d'ici 12 mois</h3>
+        <div class="meta">
+          <span class="chip corpo">Corporate</span>
+          <span class="chip tier1">Tier 1</span>
+          <span>Données mock · à valider source réelle</span>
+        </div>
+        <div class="desc">Volume embauche massif tech/data → besoin référentiel skills pour pré-qualif candidats. CHRO récemment recruté (ex-Doctolib). Profil idéal Tosa Pré-embauche + Cert IA pour clients enterprise.</div>
+        <div class="action"><b>Action reco :</b> LinkedIn DM CHRO + ouverture chez Head of Talent Acquisition. One-pager Tosa pour TA Tech.</div>
+      </div>
+      <div class="sig-right">
+        <div>Owner</div>
+        <div class="owner">à assigner</div>
+        <div class="deadline urgent">Action sous 14j</div>
+      </div>
+    </div>
+
+    <div class="signal" data-vert="of">
+      <div class="score warm"><div class="score-n">78</div><div class="score-l">WARM</div></div>
+      <div class="sig-body">
+        <h3>AO TED — Branche professionnelle X : référentiel formation continue avec certification</h3>
+        <div class="meta">
+          <span class="chip of">OF</span>
+          <span class="chip tier1">Tier 1</span>
+          <span>Mai 2026 · Source : TED via Radar AO</span>
+        </div>
+        <div class="desc">Garantir qualité dispenses sur tout le territoire, accompagner OF vers excellence pédagogique. Volet certification optionnel mais structurant — porte d'entrée Pack Education + ITS pour examens.</div>
+        <div class="action"><b>Action reco :</b> Bloc 1 du Radar AO. Préparer dossier candidature + RDV interlocuteur branche d'ici fin mai.</div>
+      </div>
+      <div class="sig-right">
+        <div>Owner</div>
+        <div class="owner">Charles</div>
+        <div class="deadline">Date limite 25/05</div>
+      </div>
+    </div>
+
+    <div class="signal" data-vert="edu">
+      <div class="score warm"><div class="score-n">80</div><div class="score-l">WARM</div></div>
+      <div class="sig-body">
+        <h3>IONIS Education Group — pitch multi-écoles Cert IA partenaire</h3>
+        <div class="meta">
+          <span class="chip edu">Education</span>
+          <span class="chip tier2">Tier 2</span>
+          <span>14 mai 2026 · Source : CRM · Suivi Yannick Lejeune (CDO)</span>
+        </div>
+        <div class="desc">Discussion en cours pour positionner Cert IA partenaire groupe sur l'ensemble du réseau IONIS (Epita, Epitech, ISG, etc.). Sponsor : Yannick Lejeune CDO + Stéphane Zibi IONISx.</div>
+        <div class="action"><b>Action reco :</b> LinkedIn DM Lejeune + fallback email Zibi. Cadrage commercial groupe : volume 5 écoles × certif IA.</div>
+      </div>
+      <div class="sig-right">
+        <div>Owner</div>
+        <div class="owner">Charles</div>
+        <div class="deadline">Cette semaine</div>
+      </div>
+    </div>
+
+    <div class="signal" data-vert="of">
+      <div class="score warm"><div class="score-n">72</div><div class="score-l">WARM</div></div>
+      <div class="sig-body">
+        <h3>[MOCK] France Compétences ouvre nouvelle fiche RNCP "Compétences IA générative pro"</h3>
+        <div class="meta">
+          <span class="chip of">OF</span>
+          <span class="chip tier2">Tier 2</span>
+          <span>Données mock · à valider</span>
+        </div>
+        <div class="desc">Nouveau référentiel ouvert au catalogue France Compétences. OF certificateurs vont chercher des certifs reconnues à intégrer. Fenêtre 60-90 jours pour se positionner avant que les leaders se positionnent.</div>
+        <div class="action"><b>Action reco :</b> Cartographier les 20 premiers OF qui vont déposer dossier RNCP IA. Outreach proactif avec Cert IA Tosa comme brique d'évaluation.</div>
+      </div>
+      <div class="sig-right">
+        <div>Owner</div>
+        <div class="owner">à assigner</div>
+        <div class="deadline">Avant fin juin</div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- ═══════════ PANEL : EDUCATION ═══════════ -->
+<div class="panel" data-panel="edu">
+  <div class="v-hdr" data-v="edu">
+    <h2><span class="icon">🎓</span> Education — Sup, grandes écoles, universités, CFA</h2>
+    <div class="v-meta">
+      Source primaire : <b>Radar Hebdo Tosa</b> + <b>Radar AO (volet edu)</b><br>
+      Dernière collecte : <b>14 mai 2026</b> · Prochaine : <b>21 mai 2026</b>
+    </div>
+  </div>
+
+  <div class="sect-head">🔥 Signaux Tier 1 — action sous 7 jours</div>
+  <div class="signals">
+    <div class="signal" data-vert="edu">
+      <div class="score hot"><div class="score-n">90</div><div class="score-l">HOT</div></div>
+      <div class="sig-body">
+        <h3>Polytechnique lance MSc&amp;T LLGA — IA &amp; LLM rentrée sept 2026</h3>
+        <div class="meta">
+          <span class="chip edu">Universite-Ingenieur</span>
+          <span class="chip tier1">Tier 1</span>
+          <span>30 mars 2026</span>
+        </div>
+        <div class="action"><b>Action :</b> LinkedIn DM responsable MSc&T LLGA + one-pager Cert IA</div>
+      </div>
+      <div class="sig-right"><div class="owner">Charles</div><div class="deadline urgent">Sous 7j</div></div>
+    </div>
+
+    <div class="signal" data-vert="edu">
+      <div class="score hot"><div class="score-n">88</div><div class="score-l">HOT</div></div>
+      <div class="sig-body">
+        <h3>PSL — Paris School of AI inaugurée (5 formations IA + recherche)</h3>
+        <div class="meta">
+          <span class="chip edu">Universite</span>
+          <span class="chip tier1">Tier 1</span>
+          <span>Q1 2026 · Accréditation AACSB attendue</span>
+        </div>
+        <div class="action"><b>Action :</b> Pack Education Tosa + ITS pour examens. Note connexion LinkedIn direction.</div>
+      </div>
+      <div class="sig-right"><div class="owner">Charles</div><div class="deadline">Avant 30/05</div></div>
+    </div>
+  </div>
+
+  <div class="sect-head">⚡ Signaux Tier 2 — campagnes &amp; relances</div>
+  <div class="signals">
+    <div class="signal" data-vert="edu">
+      <div class="score warm"><div class="score-n">82</div><div class="score-l">WARM</div></div>
+      <div class="sig-body">
+        <h3>Antoine Veniard nommé DG d'une école groupe Galileo</h3>
+        <div class="meta">
+          <span class="chip edu">Grande École</span>
+          <span class="chip tier2">Tier 2</span>
+          <span>Arrivée < 100j · ambition AACSB</span>
+        </div>
+        <div class="action"><b>Action :</b> Note connexion + angle « différenciation maquette accréditation »</div>
+      </div>
+      <div class="sig-right"><div class="owner">Charles</div><div class="deadline">2 semaines</div></div>
+    </div>
+
+    <div class="signal" data-vert="edu">
+      <div class="score warm"><div class="score-n">80</div><div class="score-l">WARM</div></div>
+      <div class="sig-body">
+        <h3>IONIS Education Group — pitch multi-écoles Cert IA (réseau 5 écoles)</h3>
+        <div class="meta">
+          <span class="chip edu">Groupe-écoles</span>
+          <span class="chip tier2">Tier 2</span>
+          <span>Sponsor : Yannick Lejeune (CDO)</span>
+        </div>
+        <div class="action"><b>Action :</b> LinkedIn DM Lejeune + fallback email Zibi</div>
+      </div>
+      <div class="sig-right"><div class="owner">Charles</div><div class="deadline">Cette semaine</div></div>
+    </div>
+
+    <div class="signal" data-vert="edu">
+      <div class="score cold"><div class="score-n">70</div><div class="score-l">COLD</div></div>
+      <div class="sig-body">
+        <h3>IAE Aix-Marseille — silence J+52 sur premier contact</h3>
+        <div class="meta">
+          <span class="chip edu">IAE-Université</span>
+          <span class="chip">Tier 3 — relance</span>
+          <span>Contact : Sebastien Dereeper</span>
+        </div>
+        <div class="action"><b>Action :</b> Email court relance angle Pix IA</div>
+      </div>
+      <div class="sig-right"><div class="owner">Charles</div><div class="deadline">Avant 30/05</div></div>
+    </div>
+
+    <div class="signal" data-vert="edu">
+      <div class="score cold"><div class="score-n">65</div><div class="score-l">COLD</div></div>
+      <div class="sig-body">
+        <h3>Paris 1 Panthéon-Sorbonne — upsell Power BI / Python + ITS</h3>
+        <div class="meta">
+          <span class="chip edu">Université</span>
+          <span class="chip">Compte CRM existant</span>
+          <span>14 mai 2026</span>
+        </div>
+        <div class="action"><b>Action :</b> Email 3 nouveautés catalogue</div>
+      </div>
+      <div class="sig-right"><div class="owner">Charles</div><div class="deadline">Cette semaine</div></div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════ PANEL : OF ═══════════ -->
+<div class="panel" data-panel="of">
+  <div class="v-hdr" data-v="of">
+    <h2><span class="icon">🏫</span> Organismes de formation — OF, CFA privés, EdTech</h2>
+    <div class="v-meta">
+      Source primaire actuelle : <b>Radar AO Isograd (volet OF)</b><br>
+      Sources à brancher S2 : <b>France Compétences · Qualiopi · Maddyness EdTech · concurrents</b>
+    </div>
+  </div>
+
+  <div class="sect-head">🔥 Marchés publics OF</div>
+  <div class="signals">
+    <div class="signal" data-vert="of">
+      <div class="score warm"><div class="score-n">78</div><div class="score-l">WARM</div></div>
+      <div class="sig-body">
+        <h3>AO TED — Branche professionnelle : référentiel formation continue avec certification</h3>
+        <div class="meta">
+          <span class="chip of">Marché public</span>
+          <span class="chip tier1">Tier 1</span>
+          <span>Date limite : 25 mai · Source : TED via Radar AO</span>
+        </div>
+        <div class="action"><b>Action :</b> Bloc 1 du Radar AO — préparer dossier + RDV interlocuteur</div>
+      </div>
+      <div class="sig-right"><div class="owner">Charles</div><div class="deadline urgent">Date limite 25/05</div></div>
+    </div>
+  </div>
+
+  <div class="sect-head">⚡ Signaux EdTech &amp; RNCP <span style="color:var(--corpo);font-weight:700;font-size:10px;">(MOCK — sources à brancher S2)</span></div>
+  <div class="signals">
+    <div class="signal" data-vert="of">
+      <div class="score warm"><div class="score-n">72</div><div class="score-l">WARM</div></div>
+      <div class="sig-body">
+        <h3>[MOCK] France Compétences ouvre nouvelle fiche RNCP "Compétences IA générative pro"</h3>
+        <div class="meta">
+          <span class="chip of">RNCP</span>
+          <span class="chip tier2">Tier 2</span>
+          <span>Fenêtre 60-90j avant que leaders se positionnent</span>
+        </div>
+        <div class="action"><b>Action :</b> Cartographier 20 premiers OF qui déposeront dossier + outreach proactif Cert IA</div>
+      </div>
+      <div class="sig-right"><div class="owner">à assigner</div><div class="deadline">Avant fin juin</div></div>
+    </div>
+
+    <div class="signal" data-vert="of">
+      <div class="score cold"><div class="score-n">65</div><div class="score-l">COLD</div></div>
+      <div class="sig-body">
+        <h3>[MOCK] OpenClassrooms B2B annonce partenariat grande entreprise (concurrence directe)</h3>
+        <div class="meta">
+          <span class="chip of">Veille concurrence</span>
+          <span class="chip tier2">Tier 2</span>
+          <span>À monitorer</span>
+        </div>
+        <div class="action"><b>Action :</b> Identifier le client cible + monter une contre-offre Tosa Corporate</div>
+      </div>
+      <div class="sig-right"><div class="owner">à assigner</div><div class="deadline">Veille</div></div>
+    </div>
+
+    <div class="signal" data-vert="of">
+      <div class="score cold"><div class="score-n">58</div><div class="score-l">COLD</div></div>
+      <div class="sig-body">
+        <h3>[MOCK] Cegos lance certification IA pour managers — concurrence sur le segment exec</h3>
+        <div class="meta">
+          <span class="chip of">Veille concurrence</span>
+          <span class="chip">Tier 3</span>
+          <span>À analyser positionnement</span>
+        </div>
+        <div class="action"><b>Action :</b> Analyse comparée Cegos vs Tosa Cert IA pour les managers — battle card</div>
+      </div>
+      <div class="sig-right"><div class="owner">Marketing</div><div class="deadline">Veille</div></div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════ PANEL : CORPORATE / DRH ═══════════ -->
+<div class="panel" data-panel="corpo">
+  <div class="v-hdr" data-v="corpo">
+    <h2><span class="icon">🏢</span> Corporate / DRH — Entreprises &amp; recrutement</h2>
+    <div class="v-meta">
+      Vertical <b>en construction</b> · ICP à finaliser ensemble<br>
+      Sources cible : LinkedIn nominations · AEF RH · ANDRH · Maddyness · Top Employer
+    </div>
+  </div>
+
+  <div class="empty">
+    <h3>🚧 Vertical en cours de construction (sprint S3 — 2-6 juin)</h3>
+    <p>Ce vertical part de zéro. Avant de brancher les sources, on cale l'ICP corporate ensemble (segment A grands comptes / B ETI tech / C ETI service) et les triggers à scanner.</p>
+    <p>Les 2 signaux ci-dessous sont des <b>mocks de validation maquette</b>, pas des données réelles.</p>
+    <div class="roadmap">▸ Cadrage ICP S1 (semaine du 19 mai) — branchement sources S3</div>
+  </div>
+
+  <div class="sect-head" style="margin-top:24px;">📊 Mocks pour validation maquette</div>
+  <div class="signals">
+    <div class="signal" data-vert="corpo">
+      <div class="score hot"><div class="score-n">85</div><div class="score-l">MOCK</div></div>
+      <div class="sig-body">
+        <h3>[MOCK] Mistral AI lève 240 M€ Série C — 400 postes tech à embaucher 12 mois</h3>
+        <div class="meta">
+          <span class="chip corpo">ETI tech / IA</span>
+          <span class="chip tier1">Tier 1 (mock)</span>
+          <span>Trigger : levée + embauche massive</span>
+        </div>
+        <div class="action"><b>Action :</b> LinkedIn DM CHRO + ouverture Head of TA Tech. One-pager Tosa pré-embauche.</div>
+      </div>
+      <div class="sig-right"><div class="owner">à assigner</div><div class="deadline urgent">Sous 14j</div></div>
+    </div>
+
+    <div class="signal" data-vert="corpo">
+      <div class="score warm"><div class="score-n">76</div><div class="score-l">MOCK</div></div>
+      <div class="sig-body">
+        <h3>[MOCK] L'Oréal annonce plan IA "Beauty Genius" — formation 30 000 collab d'ici 2027</h3>
+        <div class="meta">
+          <span class="chip corpo">CAC40</span>
+          <span class="chip tier1">Tier 1 (mock)</span>
+          <span>Trigger : plan IA + formation massive</span>
+        </div>
+        <div class="action"><b>Action :</b> Approche Head of L&amp;D Groupe + sponsor CDO. Pitch Cert IA Tosa pour socle compétences.</div>
+      </div>
+      <div class="sig-right"><div class="owner">à assigner</div><div class="deadline">Sous 30j</div></div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════ FOOTER ═══════════ -->
+<div class="ft">
+  <div>📅 Prochain digest hebdo : <b>lundi 25 mai 2026 · 8h</b> · cercle réduit (Charles + Juliette)</div>
+  <div class="digest">v0.1 — prototype maquette</div>
+</div>
+
+<script>
+  // Tabs
+  const tabs = document.querySelectorAll('.tab');
+  const panels = document.querySelectorAll('.panel');
+  tabs.forEach(t => {
+    t.addEventListener('click', () => {
+      const vert = t.dataset.vert;
+      tabs.forEach(x => x.classList.toggle('active', x === t));
+      panels.forEach(p => p.classList.toggle('active', p.dataset.panel === vert));
+    });
+  });
+</script>
+
+</body>
+</html>
