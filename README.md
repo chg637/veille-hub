@@ -2,102 +2,161 @@
 
 Hub central d'agrégation de la veille marché Isograd — 3 verticaux (Education, Organismes de formation, Corporate/DRH) + vue agrégée.
 
-**Live dashboard :** _à compléter après déploiement Vercel — ex. https://veille-hub-isograd.vercel.app_
+**Live dashboard :** https://veille-hub-isograd.vercel.app
 
 ---
 
-## État actuel — v0.1 prototype
+## État actuel — v0.2 (S2 en cours, 19 mai 2026)
 
-- ✅ Maquette HTML standalone validée (4 onglets, scoring, signaux mock + vrais)
-- ⏳ Sources Education : Radar Hebdo Tosa + Radar AO (à brancher en S2)
-- ⏳ Sources OF : à étoffer (France Compétences, Qualiopi, EdTech) — S2
-- ⏳ Sources Corporate/DRH : ICP à finaliser puis sources à brancher — S3
-- ⏳ Digest hebdo Outlook lundi 8h — S4
+- ✅ Maquette HTML standalone (4 onglets, scoring, signaux mock + réels)
+- ✅ Déploiement Vercel statique
+- ✅ Pipeline Python : schema commun + scoring + scraper Maddyness (1ʳᵉ source live)
+- ✅ Workflow GitHub Actions daily (cron 6h UTC)
+- ⏳ Autres scrapers Education / OF / Corporate : à brancher au fil de S2-S3
+- ⏳ Connexion frontend ↔ JSON : à brancher fin S2
 
-Voir le plan stratégique complet : `../plan-hub-veille-isograd.md`
-
----
-
-## Stack
-
-- **v0.1 (aujourd'hui)** : HTML/CSS/JS standalone, déployé en statique sur Vercel
-- **v0.2 (S2)** : migration Next.js + API routes + données JSON depuis le repo
-- **v0.3 (S3-S4)** : scrapers Python via GitHub Actions (daily 6h UTC) → JSON commit → Vercel rebuild
+Voir le plan stratégique complet : `../plan-hub-veille-isograd.md` (hors repo, dans outputs).
+Voir le cadrage ICP Corporate : `../cadrage-icp-corporate-segment-B.md`.
+Voir le référentiel sources : [`sources.md`](sources.md).
 
 ---
 
-## Déployer sur Vercel (premier push)
+## Structure du repo
 
-### 1. Initialiser le repo Git local
+```
+veille-hub/
+├── .github/
+│   └── workflows/
+│       └── scrape-daily.yml      # cron daily 6h UTC, lance les scrapers, commit JSON
+├── data/
+│   ├── education/
+│   │   ├── accounts.json         # comptes prioritaires Education + leur ICP fit
+│   │   ├── signals.json          # signaux capturés par les scrapers
+│   │   └── sources.yml           # config sources Education
+│   ├── of/
+│   │   └── ...
+│   └── corporate/
+│       └── ...
+├── scrapers/
+│   ├── lib/
+│   │   ├── schema.py             # dataclass Signal + fingerprint dédup
+│   │   └── scoring.py            # scoring base + boost ICP
+│   ├── education/
+│   │   └── (à venir : cge.py, france_universites.py, ted_edu.py, ...)
+│   ├── of/
+│   │   └── maddyness.py          # ✅ 1er scraper opérationnel
+│   └── corporate/
+│       └── (à venir : maddyness_levees.py, linkedin_nominations.py, aef_rh.py)
+├── index.html                    # le hub HTML statique servi par Vercel
+├── sources.md                    # référentiel exhaustif sources par vertical
+├── requirements.txt              # deps Python pour les scrapers
+├── vercel.json                   # config déploiement statique
+├── .gitignore
+└── README.md
+```
+
+---
+
+## Roadmap de branchement des sources
+
+### S2 (sprint actuel — 19-30 mai)
+- ✅ Maddyness RSS (Corporate + OF)
+- 🔄 France Compétences RNCP (Education + OF)
+- 🔄 Conférence Grandes Écoles RSS (Education)
+- 🔄 France Universités RSS (Education)
+- 🔄 Centre Inffo RSS (OF)
+- 🔄 Focus RH / MyRHline RSS (Transverse)
+- 🔄 Top 5 écoles (HEC, ESSEC, Polytechnique, Sciences Po, PSL) — HTML
+- 🔄 Concurrents OF (OpenClassrooms, Cegos) — HTML
+
+### S3 (2-6 juin)
+- LinkedIn nominations via Apify (Corporate)
+- Maddyness levées de fonds (Corporate, focus levée Série B+)
+- Les Échos Tech & Startup (Corporate)
+- AEF Info section RH (Corporate, si auth fournie)
+- Welcome to the Jungle magazine (Corporate)
+
+### S4 (9-13 juin)
+- Workflow GitHub Actions consolidé
+- Template digest HTML Outlook
+- Job d'envoi Outlook lundi 8h via outlook-campaign-runner
+- Premier digest envoyé cercle réduit (Charles + Juliette)
+
+---
+
+## Lancer les scrapers en local
 
 ```bash
-cd veille-hub
-git init
-git branch -M main
+# Installer les dépendances
+pip install -r requirements.txt
+
+# Lancer un scraper individuel
+python scrapers/of/maddyness.py
+
+# Vérifier les signaux capturés
+cat data/corporate/signals.json | python -m json.tool | head -50
+```
+
+---
+
+## Modèle de données — un signal
+
+```json
+{
+  "id": "sig-2026-05-19-a1b2c3d4e5f6",
+  "date_capture": "2026-05-19",
+  "vertical": "corporate",
+  "sous_segment": "ETI tech / IA",
+  "compte": "Mistral AI",
+  "titre": "Mistral AI boucle une nouvelle acquisition en Autriche",
+  "description": "Le champion français de l'IA générative...",
+  "source": "Maddyness",
+  "source_tier": 2,
+  "url": "https://www.maddyness.com/2026/05/19/...",
+  "signal_type": "plan_ia",
+  "tier": 1,
+  "score": 90,
+  "produit_match": [],
+  "owner": null,
+  "action_reco": null,
+  "deadline_action": null,
+  "status": "new"
+}
+```
+
+La taxonomie est unifiée à travers les 3 verticaux — un signal est toujours scoré, tagué par type, et fingerprinté pour la déduplication cross-source.
+
+---
+
+## Mises à jour manuelles
+
+Tu peux toujours pousser manuellement :
+
+```bash
+# Modifier index.html, ajouter un signal en dur, etc.
 git add .
-git commit -m "init: hub veille isograd v0.1 prototype"
-```
+git commit -m "feat: ajout signal Mistral"
+git push  # si remote configuré
 
-### 2. Créer le repo sur GitHub (via CLI ou interface)
-
-Via GitHub CLI (recommandé) :
-
-```bash
-gh repo create isograd/veille-hub --public --source=. --push --description "Hub veille marché Isograd"
-```
-
-Ou manuel : créer le repo sur github.com puis :
-
-```bash
-git remote add origin git@github.com:isograd/veille-hub.git
-git push -u origin main
-```
-
-### 3. Connecter Vercel
-
-1. Aller sur https://vercel.com/new
-2. Importer le repo `isograd/veille-hub`
-3. Framework preset : **Other** (static site)
-4. Build command : (laisser vide)
-5. Output directory : `.`
-6. Deploy
-
-Vercel détecte automatiquement `vercel.json` et déploie en statique. Premier déploiement en ~30 secondes. URL générée : `veille-hub-{hash}.vercel.app` — tu peux ajouter un domaine custom dans les settings (ex. `veille.isograd.com`).
-
----
-
-## Mises à jour futures
-
-Chaque `git push` sur `main` redéploie automatiquement Vercel. Pour modifier le hub :
-
-```bash
-# édite index.html
-git add index.html
-git commit -m "feat: nouveau signal Corporate Mistral"
-git push
+# Ou déployer direct sur Vercel sans Git remote
+npx vercel --prod
 ```
 
 ---
 
-## Ouverture en local (sans déploiement)
+## Premier déploiement Vercel (déjà fait)
 
-Tu peux aussi simplement ouvrir `index.html` dans Firefox ou Chrome — clic droit sur le fichier → "Ouvrir avec" → Firefox. Aucun serveur nécessaire, tout est inline.
+Le repo est déjà déployé sur Vercel (compte `charlegosset-7661's projects`, projet `veille-hub-isograd`).
 
----
+Pour redéployer après changement local :
 
-## Architecture cible (S2-S4)
-
-Voir le plan stratégique pour les détails (`../plan-hub-veille-isograd.md` section 3).
-
+```bash
+npx vercel --prod
 ```
-GitHub Actions (daily 6h UTC)
-  └─ scrapers Python (Education / OF / Corporate)
-      └─ commit JSON dans le repo
-          └─ Vercel rebuild auto
-              └─ Hub affiche données fraîches
-```
+
+À configurer plus tard (quand `gh auth` sera résolu) : connexion repo GitHub `isograd/veille-hub` ↔ Vercel pour redéploiement automatique sur push.
 
 ---
 
 **Charles GOSSET — Isograd / Tosa**
-v0.1 — 18 mai 2026
+v0.2 — 19 mai 2026

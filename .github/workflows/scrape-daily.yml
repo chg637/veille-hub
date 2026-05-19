@@ -1,0 +1,58 @@
+name: Scrape daily — Hub Veille Marché Isograd
+
+# Lance tous les scrapers chaque jour à 6h UTC (8h Paris en heure d'été, 7h en hiver).
+# Commit les JSON résultants si quelque chose a changé. Vercel détecte le push et redéploie.
+
+on:
+  schedule:
+    - cron: "0 6 * * *"  # 6:00 UTC daily
+  workflow_dispatch: {}  # permet de lancer manuellement depuis l'UI GitHub
+
+permissions:
+  contents: write  # nécessaire pour le commit auto des JSON
+
+concurrency:
+  group: scrape-daily
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run scrapers
+        env:
+          # Si on branche AEF Info plus tard, ajouter les secrets ici
+          AEF_USERNAME: ${{ secrets.AEF_USERNAME }}
+          AEF_PASSWORD: ${{ secrets.AEF_PASSWORD }}
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+        run: |
+          # Runner consolidé — lance tous les scrapers en séquence
+          python scrapers/run_all.py
+
+      - name: Commit & push changes
+        run: |
+          git config user.name "veille-bot"
+          git config user.email "veille-bot@isograd.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No new signals to commit."
+            exit 0
+          fi
+          git commit -m "chore(data): daily scrape $(date -u +%Y-%m-%d)"
+          git push
