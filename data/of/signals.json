@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "id": "sig-2026-05-19-dcb56f0e7744",
+    "date_capture": "2026-05-20",
+    "vertical": "of",
+    "sous_segment": "EdTech / formation",
+    "compte": "Lauxera",
+    "titre": "Lauxera sursouscrit un fonds de 520 millions pour accélérer les medtech européennes aux États-Unis",
+    "description": "L’article Lauxera sursouscrit un fonds de 520 millions pour accélérer les medtech européennes aux États-Unis est apparu en premier sur Maddyness - Le média pour comprendre l&#039;économie de demain .",
+    "source": "Maddyness",
+    "source_tier": 2,
+    "url": "https://www.maddyness.com/2026/05/19/lauxera-sursouscrit-un-fonds-de-520-millions-pour-accelerer-les-medtech-europeennes-aux-etats-unis/",
+    "signal_type": "autre",
+    "tier": 3,
+    "score": 55,
+    "produit_match": [
+      "Pack OF Tosa"
+    ],
+    "owner": null,
+    "action_reco": "Vérifier la pertinence du signal manuellement et qualifier le compte avant action.",
+    "deadline_action": "2026-08-18",
+    "status": "new",
+    "date_publication": "2026-05-19"
+  }
+]
