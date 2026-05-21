@@ -106,6 +106,7 @@ SCRAPERS = [
     ("scrapers.education.hec_paris", "education"),  # HEC Paris news room
     ("scrapers.education.escp", "education"),       # ESCP Business School
     ("scrapers.education.hceres", "education"),     # HCERES — évaluations et accréditations
+    ("scrapers.education.radar_hebdo_tosa", "education"),  # ★ Radar Hebdo Tosa (curated manuel hebdo)
     ("scrapers.corporate.myrhline", "corporate"),   # MyRHline (presse RH)
     ("scrapers.corporate.parlonsrh", "corporate"),  # Parlons RH (stratégie RH)
     ("scrapers.ao.seed_from_radar", "ao"),          # seed AO (placeholder en attendant scraper TED)
