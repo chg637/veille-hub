@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-05-19-4a20cae241b0",
-    "date_capture": "2026-05-20",
+    "date_capture": "2026-05-21",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Ministerie van Defensie",
@@ -73,7 +73,7 @@
   },
   {
     "id": "sig-2026-05-19-7e0e6c9b3145",
-    "date_capture": "2026-05-20",
+    "date_capture": "2026-05-21",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Koninklijke Bibliotheek",
@@ -91,7 +91,7 @@
     ],
     "owner": "Charles",
     "action_reco": "Récupérer DCE + analyser scoring CPV. Si match Tosa/ITS, monter dossier candidature avant deadline. Coordonner avec ITS pour hébergement examens si applicable.",
-    "deadline_action": "2026-05-27",
+    "deadline_action": "2026-05-28",
     "status": "new",
     "date_publication": "2026-05-19"
   },
@@ -166,6 +166,30 @@
     "deadline_action": "2026-05-28",
     "status": "new",
     "date_publication": "2026-05-19"
+  },
+  {
+    "id": "sig-2026-05-20-382b316aac6a",
+    "date_capture": "2026-05-21",
+    "vertical": "ao",
+    "sous_segment": "Marché public — secteur à qualifier",
+    "compte": "Land Saarland",
+    "titre": "Allemagne – Services de certification de signature électronique – Signaturkarten_Saarland_2026",
+    "description": "[CPV 79132100] Bei den saarländischen Gerichten und Staatsanwaltschaften ist der elektronische Rechtsverkehr nahezu flächendeckend eröffnet. In fast allen Arbeitseinheiten ist die elektronische Aktenführung ausgerollt. Darüber hinaus sind auch die weiteren Behörden des Geschäftsbereichs der saarländischen Justiz zur Teilnahme am Elektronischen Rechtsverkehr. befähigt. Im Rahmen dessen fallen – kraft bundesgesetz",
+    "source": "TED (via Radar AO)",
+    "source_tier": 1,
+    "url": "https://ted.europa.eu/fr/notice/-/detail/343216-2026",
+    "signal_type": "ao_publie",
+    "tier": 2,
+    "score": 60,
+    "produit_match": [
+      "Pack Education Tosa",
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "Récupérer DCE + analyser scoring CPV. Si match Tosa/ITS, monter dossier candidature avant deadline. Coordonner avec ITS pour hébergement examens si applicable.",
+    "deadline_action": "2026-05-28",
+    "status": "new",
+    "date_publication": "2026-05-20"
   },
   {
     "id": "sig-2026-05-12-923b03f0f5b3",
