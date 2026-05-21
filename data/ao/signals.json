@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "id": "sig-2026-05-19-4a20cae241b0",
+    "date_capture": "2026-05-21",
+    "vertical": "ao",
+    "sous_segment": "Marché public — secteur à qualifier",
+    "compte": "Ministerie van Defensie",
+    "titre": "Pays-Bas – Services de formation dans le domaine de la sécurité – Computer Assisted eXercise (CAX) Cybernet",
+    "description": "[CPV 80550000] De opdracht betreft het opzetten, begeleiden en evalueren van een CAX oefening in een virtuele omgeving, waarin door middel van scenario’s defensieve en offensieve cyber-skills worden getraind. Samenvattend: het verzorgen van de jaarlijkse Computer Assisted eXercise (CAX) Cybernet oefening. Deze aanbesteding is het gevolg van het aflopen van de huidige Raamovereenkomst. Deze Europese openbare aanb",
+    "source": "TED (via Radar AO)",
+    "source_tier": 1,
+    "url": "https://ted.europa.eu/fr/notice/-/detail/342824-2026",
+    "signal_type": "ao_publie",
+    "tier": 2,
+    "score": 74,
+    "produit_match": [
+      "Pack Education Tosa",
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "Récupérer DCE + analyser scoring CPV. Si match Tosa/ITS, monter dossier candidature avant deadline. Coordonner avec ITS pour hébergement examens si applicable.",
+    "deadline_action": "2026-07-06",
+    "status": "new",
+    "date_publication": "2026-05-19"
+  },
+  {
+    "id": "sig-2026-05-19-7e0e6c9b3145",
+    "date_capture": "2026-05-21",
+    "vertical": "ao",
+    "sous_segment": "Marché public — secteur à qualifier",
+    "compte": "Koninklijke Bibliotheek",
+    "titre": "Pays-Bas – Services d'audit informatique et services d'essai informatique – Digitale toegankelijkheid audits, consultancy & trainingen",
+    "description": "[CPV 72800000] De KB is binnen onderhavige Aanbesteding op zoek naar één Opdrachtnemer voor de uitvoering van Digitale toegankelijkheid audits, consultancy & trainingen. Opdrachtnemer dient de Opdracht uit te voeren in overeenstemming met het Programma van Eisen, zie Bijlage 1. Rekening houdend met indexeringen en een eventuele toename van de behoefte van de KB wordt de maximale omvang van de Raamovereenkomst (v",
+    "source": "TED (via Radar AO)",
+    "source_tier": 1,
+    "url": "https://ted.europa.eu/fr/notice/-/detail/340167-2026",
+    "signal_type": "ao_publie",
+    "tier": 2,
+    "score": 70,
+    "produit_match": [
+      "Pack Education Tosa",
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "Récupérer DCE + analyser scoring CPV. Si match Tosa/ITS, monter dossier candidature avant deadline. Coordonner avec ITS pour hébergement examens si applicable.",
+    "deadline_action": "2026-05-28",
+    "status": "new",
+    "date_publication": "2026-05-19"
+  },
+  {
+    "id": "sig-2026-05-20-382b316aac6a",
+    "date_capture": "2026-05-21",
+    "vertical": "ao",
+    "sous_segment": "Marché public — secteur à qualifier",
+    "compte": "Land Saarland",
+    "titre": "Allemagne – Services de certification de signature électronique – Signaturkarten_Saarland_2026",
+    "description": "[CPV 79132100] Bei den saarländischen Gerichten und Staatsanwaltschaften ist der elektronische Rechtsverkehr nahezu flächendeckend eröffnet. In fast allen Arbeitseinheiten ist die elektronische Aktenführung ausgerollt. Darüber hinaus sind auch die weiteren Behörden des Geschäftsbereichs der saarländischen Justiz zur Teilnahme am Elektronischen Rechtsverkehr. befähigt. Im Rahmen dessen fallen – kraft bundesgesetz",
+    "source": "TED (via Radar AO)",
+    "source_tier": 1,
+    "url": "https://ted.europa.eu/fr/notice/-/detail/343216-2026",
+    "signal_type": "ao_publie",
+    "tier": 2,
+    "score": 60,
+    "produit_match": [
+      "Pack Education Tosa",
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "Récupérer DCE + analyser scoring CPV. Si match Tosa/ITS, monter dossier candidature avant deadline. Coordonner avec ITS pour hébergement examens si applicable.",
+    "deadline_action": "2026-05-28",
+    "status": "new",
+    "date_publication": "2026-05-20"
+  }
+]
