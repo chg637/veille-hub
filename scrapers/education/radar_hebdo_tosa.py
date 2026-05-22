@@ -126,8 +126,12 @@ def _build_signal(row: dict, today_iso: str) -> Optional[Signal]:
 
     titre = f"{etab} — {signal_text[:120]}" if signal_text else etab
 
+    # Fingerprint stable : si pas de date_pub, on utilise "stable" (pas today)
+    # pour éviter qu'un signal soit ré-inséré chaque jour avec un id différent.
+    fp_date = date_pub or "stable"
+
     sig = Signal(
-        id=fingerprint(titre + " " + section, etab, date_pub or today_iso),
+        id=fingerprint(titre + " " + section, etab, fp_date),
         date_capture=today_iso,
         vertical=VERTICAL,
         sous_segment=sous_segment,
