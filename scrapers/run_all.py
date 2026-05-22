@@ -135,6 +135,14 @@ def main():
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
     repo_root = Path(__file__).resolve().parent.parent
 
+    # Reset les signals.json au début de chaque run : on ne veut garder QUE
+    # les signaux produits par les scrapers actifs du run actuel. Sinon, quand on
+    # désactive un scraper, ses anciens signaux restent à vie via merge_signals.
+    for v in ("education", "of", "corporate", "ao"):
+        path = repo_root / "data" / v / "signals.json"
+        path.write_text("[]\n", encoding="utf-8")
+        logger.info("Reset %s à []", path.relative_to(repo_root))
+
     grand_total = 0
     for module_path, vertical in SCRAPERS:
         logger.info("===== Running %s =====", module_path)
