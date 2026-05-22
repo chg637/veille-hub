@@ -1,29 +1,5 @@
 [
   {
-    "id": "sig-2026-05-21-b13d8874d753",
-    "date_capture": "2026-05-21",
-    "vertical": "education",
-    "sous_segment": "Grande École internationale",
-    "compte": "ESCP Business School",
-    "titre": "ESCP Business School ranks 6th worldwide in Financial Times Executive Education Custom programmes 2026 ranking",
-    "description": "FT Ranking · 13/05/2026",
-    "source": "ESCP",
-    "source_tier": 1,
-    "url": "https://escp.eu/news/escp-ranks-6th-worldwide-ft-exed-custom-2026",
-    "signal_type": "accreditation",
-    "tier": 1,
-    "score": 95,
-    "produit_match": [
-      "Pack Education Tosa",
-      "ITS"
-    ],
-    "owner": null,
-    "action_reco": "Email au responsable maquette + pitch « Pack Edu Tosa = preuve mesurable compétences digitales pour le dossier accréditation ». Joindre 2 cas pairs. RDV sous 14j.",
-    "deadline_action": "2026-05-28",
-    "status": "new",
-    "date_publication": null
-  },
-  {
     "id": "sig-2026-04-29-1798ff14f2d2",
     "date_capture": "2026-05-22",
     "vertical": "education",
@@ -46,78 +22,6 @@
     "deadline_action": "2026-05-29",
     "status": "new",
     "date_publication": "2026-04-29"
-  },
-  {
-    "id": "sig-2026-05-21-131a7a0f3f4b",
-    "date_capture": "2026-05-21",
-    "vertical": "education",
-    "sous_segment": "grande-ecole",
-    "compte": "HEC Paris",
-    "titre": "WE4G 2026 : Découvrez les 10 finalistes",
-    "description": "La 6e édition du programme WomenEntrepreneurs4Good (WE4G) a révélé ses 10 lauréates. Découvrez les femmes fondatrices sélectionnées cette année pour rejoindre l'Incubateur HEC Paris et pitcher au Women's...",
-    "source": "HEC Paris",
-    "source_tier": 1,
-    "url": "https://www.hec.edu/fr/institut-entrepreneuriat-innovation/actualites/we4g-2026-decouvrez-les-10-finalistes",
-    "signal_type": "nouvelle_formation",
-    "tier": 1,
-    "score": 85,
-    "produit_match": [
-      "Pack Education Tosa",
-      "Cert IA"
-    ],
-    "owner": null,
-    "action_reco": "Note de connexion LinkedIn au directeur de programme HEC Paris. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.",
-    "deadline_action": "2026-05-28",
-    "status": "new",
-    "date_publication": null
-  },
-  {
-    "id": "sig-2026-05-21-107061f73b6b",
-    "date_capture": "2026-05-21",
-    "vertical": "education",
-    "sous_segment": "grande-ecole",
-    "compte": "HEC Paris",
-    "titre": "Les étudiants d'HEC Paris ouvrent le débat sur les réalités du devoir de vigilance en matière de droits humains",
-    "description": "Cette semaine, des étudiants de différents programmes Grande École d'HEC ont eu l'opportunité d'échanger avec Kerstin Waltenberg , Chief Human Rights Officer (Responsable des Droits Humains) du groupe...",
-    "source": "HEC Paris",
-    "source_tier": 1,
-    "url": "https://www.hec.edu/fr/institut-society-organizations-so/actualites/les-etudiants-d-hec-paris-ouvrent-le-debat-sur-les-realites-du-devoir-de-vigilance-en-matiere-de-droits-humains",
-    "signal_type": "nouvelle_formation",
-    "tier": 1,
-    "score": 85,
-    "produit_match": [
-      "Pack Education Tosa",
-      "Cert IA"
-    ],
-    "owner": null,
-    "action_reco": "Note de connexion LinkedIn au directeur de programme HEC Paris. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.",
-    "deadline_action": "2026-05-28",
-    "status": "new",
-    "date_publication": null
-  },
-  {
-    "id": "sig-2026-05-21-cac4e6f3de09",
-    "date_capture": "2026-05-21",
-    "vertical": "education",
-    "sous_segment": "Grande École internationale",
-    "compte": "ESCP Business School",
-    "titre": "ESCP MSc in IFBM celebrates 10 years",
-    "description": "celebration highlights · 11/05/2026",
-    "source": "ESCP",
-    "source_tier": 1,
-    "url": "https://escp.eu/news/escp-msc-ifbm-celebrates-10-years",
-    "signal_type": "nouvelle_formation",
-    "tier": 1,
-    "score": 85,
-    "produit_match": [
-      "Pack Education Tosa",
-      "Cert IA"
-    ],
-    "owner": null,
-    "action_reco": "Note de connexion LinkedIn au directeur de programme ESCP Business School. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.",
-    "deadline_action": "2026-05-28",
-    "status": "new",
-    "date_publication": null
   },
   {
     "id": "sig-2026-01-19-4880fa2c26b5",
@@ -381,54 +285,6 @@
     "deadline_action": null,
     "status": "new",
     "date_publication": "2026-03-12"
-  },
-  {
-    "id": "sig-2026-05-21-c75bb40e32ba",
-    "date_capture": "2026-05-21",
-    "vertical": "education",
-    "sous_segment": "Cert IA — beta",
-    "compte": "Universite de Technologie de Troyes (UTT)",
-    "titre": "Universite de Technologie de Troyes (UTT) — Bachelor IA - cursus 3 ans",
-    "description": "Bachelor IA - cursus 3 ans",
-    "source": "Radar Hebdo Tosa (Section 1)",
-    "source_tier": 1,
-    "url": "https://www.letudiant.fr/etudes/lactu-des-formations-de-nouveaux-cursus-en-ia-dans-le-superieur.html",
-    "signal_type": "nouvelle_formation",
-    "tier": 2,
-    "score": 64,
-    "produit_match": [
-      "Pack Education Tosa",
-      "Cert IA"
-    ],
-    "owner": "Charles",
-    "action_reco": "A croiser site UTT + LinkedIn avant contact",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-05-21"
-  },
-  {
-    "id": "sig-2026-05-22-0f48a3396993",
-    "date_capture": "2026-05-22",
-    "vertical": "education",
-    "sous_segment": "Cert IA — beta",
-    "compte": "Universite de Technologie de Troyes (UTT)",
-    "titre": "Universite de Technologie de Troyes (UTT) — Bachelor IA - cursus 3 ans",
-    "description": "Bachelor IA - cursus 3 ans",
-    "source": "Radar Hebdo Tosa (Section 1)",
-    "source_tier": 1,
-    "url": "https://www.letudiant.fr/etudes/lactu-des-formations-de-nouveaux-cursus-en-ia-dans-le-superieur.html",
-    "signal_type": "nouvelle_formation",
-    "tier": 2,
-    "score": 64,
-    "produit_match": [
-      "Pack Education Tosa",
-      "Cert IA"
-    ],
-    "owner": "Charles",
-    "action_reco": "A croiser site UTT + LinkedIn avant contact",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-05-22"
   },
   {
     "id": "sig-stable-4cc03b95f797",

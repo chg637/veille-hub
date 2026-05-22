@@ -1,5 +1,29 @@
 [
   {
+    "id": "sig-2026-05-22-d8a948a1fd9a",
+    "date_capture": "2026-05-22",
+    "vertical": "ao",
+    "sous_segment": "Marché public — secteur à qualifier",
+    "compte": "Gemeente Zaanstad",
+    "titre": "Pays-Bas – Services d'éducation des adultes et autres services d'enseignement – Volwasseneneducatie WEB",
+    "description": "[CPV 80400000] De regio Zaanstreek-Waterland heeft, samen met partners, in december 2025 een ‘Regionale aanpak basisvaardigheden’ vastgesteld voor de periode 2026 tot en met 2029. We willen dat beperkte basisvaardigheden geen drempel zijn voor het meedoen in onze samenleving door te zorgen dat de inwoners van Zaanstreek-Waterland hun basisvaardigheden kunnen (blijven) ontwikkelen en door te zorgen dat de maatsch",
+    "source": "TED (via Radar AO)",
+    "source_tier": 1,
+    "url": "https://ted.europa.eu/fr/notice/-/detail/352505-2026",
+    "signal_type": "ao_publie",
+    "tier": 2,
+    "score": 74,
+    "produit_match": [
+      "Pack Education Tosa",
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "Récupérer DCE + analyser scoring CPV. Si match Tosa/ITS, monter dossier candidature avant deadline. Coordonner avec ITS pour hébergement examens si applicable.",
+    "deadline_action": "2026-08-21",
+    "status": "new",
+    "date_publication": "2026-05-22"
+  },
+  {
     "id": "sig-2026-05-19-4a20cae241b0",
     "date_capture": "2026-05-22",
     "vertical": "ao",
