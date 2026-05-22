@@ -55,4 +55,9 @@ jobs:
             exit 0
           fi
           git commit -m "chore(data): daily scrape $(date -u +%Y-%m-%d)"
-          git push
+          # Rebase avant push pour absorber d'éventuels commits humains arrivés entre-temps
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && break
+            echo "Push attempt $i failed, retrying in 5s..."
+            sleep 5
+          done
