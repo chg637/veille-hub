@@ -98,26 +98,37 @@ def run_scraper(module_path: str, vertical: str, repo_root: Path) -> int:
     return 0
 
 
-# Liste des scrapers à exécuter, dans l'ordre
+# Liste des scrapers à exécuter, dans l'ordre.
+#
+# Politique éditoriale (21 mai 2026) — simplification drastique :
+# on ne garde QUE les sources qui ramènent des signaux DIRECTEMENT ACTIONNABLES
+# par un commercial (compte identifié + trigger précis + action commerciale claire).
+#
+# ✅ ACTIFS — sources actionnables
 SCRAPERS = [
-    ("scrapers.of.maddyness", "of"),                # flux principal (capture OF + Corporate)
-    # ("scrapers.of.maddyness_edtech", "of"),       # DÉSACTIVÉ — flux abandonné par Maddyness (articles 2018)
-    ("scrapers.education.cge", "education"),        # Conférence Grandes Écoles
-    ("scrapers.education.hec_paris", "education"),  # HEC Paris news room
-    ("scrapers.education.escp", "education"),       # ESCP Business School
-    ("scrapers.education.hceres", "education"),     # HCERES — évaluations et accréditations
-    ("scrapers.education.radar_hebdo_tosa", "education"),  # ★ Radar Hebdo Tosa (curated manuel hebdo)
-    ("scrapers.corporate.myrhline", "corporate"),   # MyRHline (presse RH)
-    ("scrapers.corporate.parlonsrh", "corporate"),  # Parlons RH (stratégie RH)
-    ("scrapers.ao.seed_from_radar", "ao"),          # seed AO (placeholder en attendant scraper TED)
-    # à ajouter en S2/S3 :
-    # ("scrapers.education.essec", "education"),
-    # ("scrapers.education.polytechnique", "education"),
-    # ("scrapers.of.cegos", "of"),                  # nécessite Selenium (page JS)
-    # ("scrapers.of.openclassrooms", "of"),
-    # ("scrapers.corporate.linkedin_nominations", "corporate"),
-    # ("scrapers.corporate.aef_rh", "corporate"),
+    # Curated manuel — la pépite, signaux qualifiés à 100% (SKEMA, Polytechnique, etc.)
+    ("scrapers.education.radar_hebdo_tosa", "education"),
+    # Marchés publics formation/certif via Radar AO live (TED + BOAMP)
+    ("scrapers.ao.seed_from_radar", "ao"),
+    # Conférence des Grandes Écoles — uniquement les labellisations passent le filtre
+    ("scrapers.education.cge", "education"),
 ]
+
+# ❌ DÉSACTIVÉS — sources de contenu éditorial sans signal d'achat direct
+# (gardés en commentaire pour réactivation rapide si besoin)
+#
+# ("scrapers.of.maddyness", "of"),               # levées startup IA — pas un signal Tosa direct
+# ("scrapers.of.maddyness_edtech", "of"),        # flux abandonné par Maddyness (articles 2018)
+# ("scrapers.education.hec_paris", "education"), # séminaires, débats — faux positifs récurrents
+# ("scrapers.education.escp", "education"),      # classements/conférences académiques
+# ("scrapers.education.hceres", "education"),    # évalue la recherche, pas la formation pro
+# ("scrapers.corporate.myrhline", "corporate"),  # tribunes, analyses macro
+# ("scrapers.corporate.parlonsrh", "corporate"), # tribunes, articles de fond
+#
+# Sources futures à brancher en S3-S4 (vraiment actionnables) :
+# ("scrapers.corporate.linkedin_nominations", "corporate"),  # nominations CHRO via Apify
+# ("scrapers.corporate.aef_rh", "corporate"),                # AEF RH avec creds
+# ("scrapers.of.france_competences", "of"),                  # nouvelles fiches RNCP
 
 
 def main():
