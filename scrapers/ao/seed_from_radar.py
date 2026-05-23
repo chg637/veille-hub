@@ -29,6 +29,90 @@ from scrapers.lib.schema import Signal, fingerprint, save_signals  # noqa: E402
 from scrapers.lib.scoring import determine_tier, produit_match_for  # noqa: E402
 from scrapers.lib.actions import generate_action  # noqa: E402
 
+
+# Décideur cible par segment acheteur — guide commercial pour qui contacter
+DECIDEUR_PAR_SEGMENT = {
+    "ESR": "Direction des examens + VP Pédagogie + DSI (vérifier organigramme via site officiel + LinkedIn Sales Nav)",
+    "Collectivités": "DRH + Direction Numérique + RAQ Qualiopi (rechercher CNFPT territorial si volet formation)",
+    "Consulaire": "Direction de la formation + responsable certifications (réseau CCI / CMA national)",
+    "FPH": "Direction des soins + ANFH territorial + Resp. Qualité (DPC concerné)",
+    "État": "Direction du recrutement + RAQ + DSI + RGAA/RGPD officer",
+    "Formation pro": "Direction des certifications + responsable Qualiopi + responsable RNCP",
+    "OPCO": "Direction des certifications professionnelles + chargé(e) Qualiopi de la branche",
+    "UE": "Bureau coopération + responsable évaluation pédagogique + Erasmus+ unit",
+    "Autre": "À enrichir via LinkedIn Sales Nav + site officiel de l'acheteur",
+}
+
+# Valeur métier à pitcher selon le CPV — angle commercial différencié
+def _valeur_metier_par_cpv(cpv: str) -> str:
+    """Retourne l'angle commercial selon le CPV."""
+    cpv = (cpv or "").strip()
+    if cpv.startswith("79132"):
+        return "Certification : standardisation des compétences, opposable en audit / accréditation"
+    if cpv.startswith("72416"):
+        return "SaaS : déploiement rapide, scalabilité, zéro infra à maintenir côté client"
+    if cpv.startswith("48190"):
+        return "Logiciel éducatif : intégration LMS existant, examens sécurisés, banque de questions"
+    if cpv.startswith("72"):
+        return "Plateforme : sécurité examens, RGPD, accessibilité RGAA"
+    if cpv.startswith("805"):
+        return "ATTENTION CPV formation — vérifier que le volet évaluation/certification est central, sinon écarter"
+    if cpv.startswith("803"):
+        return "Enseignement sup : examens dématérialisés, certification post-cursus, accréditation internationale"
+    return "Standardisation + traçabilité + ROI mesurable + opposable audit"
+
+
+# Concurrents à anticiper selon segment (battle card mentale)
+def _concurrents_par_segment(segment: str) -> str:
+    if segment in ("ESR", "Formation pro"):
+        return "Concurrents probables : Pix (DigComp), Microsoft MOS, TOEIC/Cambridge, Adobe Certified, PCIE/ICDL"
+    if segment in ("Collectivités", "État"):
+        return "Concurrents : prestataires historiques territoriaux, CNFPT (offre interne), Adobe Connect"
+    if segment in ("Consulaire", "OPCO"):
+        return "Concurrents : Cegos, Demos, OpenClassrooms B2B, Adobe Certified Associate"
+    if segment == "FPH":
+        return "Concurrents : ANFH catalogue, INSEEC santé, plateformes hospitalières internes"
+    return "Mapper les solutions existantes via questions de cadrage (Central Test, ATS interne, etc.)"
+
+
+def _generate_ao_action(notice: dict, signal_type: str, segment: str) -> str:
+    """Génère une action commerciale poussée pour un AO."""
+    acheteur = (notice.get("acheteur") or "").strip()
+    montant = notice.get("montant") or 0
+    cpv = notice.get("cpv") or ""
+    deadline = notice.get("deadline") or ""
+    url = notice.get("url") or ""
+
+    decideur = DECIDEUR_PAR_SEGMENT.get(segment, DECIDEUR_PAR_SEGMENT["Autre"])
+    valeur = _valeur_metier_par_cpv(cpv)
+    concurrents = _concurrents_par_segment(segment)
+
+    # Volume estimé
+    if montant and montant > 0:
+        if montant >= 500:
+            taille = f"💰 Montant estimé : {montant} k€ → enjeu fort, mobiliser direction commerciale"
+        elif montant >= 100:
+            taille = f"💰 Montant estimé : {montant} k€ → opportunité moyenne, traitement standard"
+        else:
+            taille = f"💰 Montant estimé : {montant} k€ → petit ticket, automatiser la candidature"
+    else:
+        taille = "💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)"
+
+    # Urgence deadline
+    urgence = ""
+    if deadline:
+        urgence = f"⏰ Deadline : {deadline} → calculer J-jours et caler les ressources dès maintenant."
+
+    action = (
+        f"📋 **Récupérer le DCE complet** sur {url}\n"
+        f"🎯 **Décideur cible** : {decideur}\n"
+        f"💡 **Angle de valeur** : {valeur}\n"
+        f"{taille}\n"
+        f"🥊 {concurrents}\n"
+        f"{urgence}"
+    )
+    return action.strip()
+
 logger = logging.getLogger(__name__)
 
 # URL du JSON consolidé exposé par le dashboard Radar AO
@@ -134,7 +218,14 @@ def scrape() -> list[Signal]:
         sous_segment = _map_sous_segment(n)
         tier = determine_tier(score)
         source_tier = _source_tier_for(source)
-        action_info = generate_action(signal_type, VERTICAL, compte=acheteur)
+
+        # Action commerciale enrichie selon segment acheteur + CPV
+        segment_brut = n.get("segment") or "Autre"
+        enriched_action = _generate_ao_action(n, signal_type, segment_brut)
+        action_info = {
+            "action": enriched_action,
+            "deadline_action": deadline or generate_action(signal_type, VERTICAL, compte=acheteur)["deadline_action"],
+        }
 
         # Description tronquée
         desc_short = description[:400]
