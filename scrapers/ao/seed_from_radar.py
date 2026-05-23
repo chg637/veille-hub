@@ -124,6 +124,142 @@ VERTICAL = "ao"
 USER_AGENT = "IsogradVeilleHub/1.0 (+contact@isograd.com)"
 
 
+# ─────────────────────────────────────────────────────────────────────────────
+# FILTRE MÉTIER STRICT (côté hub, en complément du Radar AO)
+# Reframe : Isograd vend ÉVALUATION / CERTIFICATION de compétences,
+#           PAS de la prestation de formation pure.
+# ─────────────────────────────────────────────────────────────────────────────
+
+# Préfixes CPV à exclure systématiquement (formation pure, hors périmètre Isograd)
+# Match par préfixe pour couvrir tous les sous-codes (ex: 80511xxx, 80512xxx).
+CPV_FORMATION_PREFIXES = (
+    "803",   # Enseignement supérieur (formation initiale)
+    "804",   # Enseignement adultes (formation)
+    "805",   # 80500000 → 80599999 : tous services de formation
+    "806",   # 80600000 → 80699999 : sécurité / droit / défense
+    "79632", # Formation de personnel
+    "79633", # Développement professionnel — uniquement si VAE/bilan, sinon trop large
+)
+
+# CPV à exclure (faux positifs hors compétences) — signature électronique, gardiennage…
+CPV_HORS_PERIMETRE_PREFIXES = (
+    "79132100",  # Certification de signature électronique
+    "79710",     # Surveillance / gardiennage
+    "79711",     # Alarme / contrôle d'accès
+    "79713",     # Gardiennage
+    "79714",     # Surveillance
+    "79715",     # Patrouille
+)
+
+# Mots-clés OBLIGATOIRES : au moins un doit matcher (titre + description)
+# pour qu'un AO soit conservé. Sinon = écarté.
+# IMPORTANT : éviter les termes trop génériques ("habilitation" seul matche
+# "habilitations électriques", "habilitations d'accès IAM", etc.).
+MANDATORY_KEYWORDS = [
+    # FR — évaluation/certification de compétences (formes spécifiques)
+    "certification de compétences", "certification des compétences",
+    "certification professionnelle", "qualification professionnelle",
+    "évaluation des compétences", "évaluation de compétences",
+    "test de compétences", "tests de compétences",
+    "psychométrie",
+    "banque de questions",
+    "proctoring", "télésurveillance d'examens", "télésurveillance des épreuves",
+    "plateforme d'évaluation", "plateforme de certification",
+    "plateforme d'examen", "plateforme de tests",
+    "DigComp", "compétences numériques",
+    "QCM", "test adaptatif", "test de positionnement",
+    "VAE", "validation des acquis",
+    "bilan de compétences",
+    "audit de compétences", "audit des compétences",
+    "GPEC", "cartographie des compétences", "référentiel de compétences",
+    "habilitation à délivrer", "habilitation à certifier",
+    "habilitation France compétences", "habilitation Qualiopi",
+    "RNCP", "Répertoire spécifique",
+    "Qualiopi",
+    "accréditation des certifications", "ré-accréditation",
+    "renouvellement de certification", "renouvellement de la certification",
+    "ingénierie d'évaluation",
+    # EN
+    "competence assessment", "competency assessment", "skills assessment",
+    "skills certification", "examination platform",
+    "online assessment", "online examination", "online exam",
+    "computer-based testing", "test delivery",
+    "validation of prior learning",
+    "competency framework", "skills mapping", "skills audit",
+    "talent assessment platform",  # plus spécifique que "talent assessment"
+    "item banking", "psychometrics",
+    # Bureautique en contexte certif uniquement
+    "TOSA", "Tosa", "PCIE", "ICDL",
+    # Examens spécifiques (formes longues pour éviter "examen environnemental")
+    "passation d'épreuves", "session de certification", "session d'évaluation",
+    "examens en ligne", "examens à distance",
+    "épreuves dématérialisées", "dématérialisation des épreuves",
+]
+
+# Mots-clés négatifs : phrases qui invalident un match (formation pure, etc.)
+NEGATIVE_PHRASES = [
+    # Formation pure
+    "prestation de formation", "prestations de formation",
+    "actions de formation", "action de formation",
+    "animer des sessions", "animation de formation",
+    "former les agents", "former les personnels", "former les collaborateurs",
+    "former les salariés", "former les enseignants", "former les stagiaires",
+    "conception de modules", "conception pédagogique", "ingénierie pédagogique",
+    "accompagnement pédagogique",
+    "coaching individuel", "tutorat", "cours particuliers",
+    "stages pratiques", "alternance",
+    # Signature électronique (FR + DE + variantes)
+    "signature électronique", "signatures électroniques",
+    "signature numérique", "signatures numériques",
+    "signaturkarten", "elektronische signatur", "elektronischer signaturen",
+    "elektronische signaturen", "qualifizierte signaturen", "eidas",
+    # Surveillance / sécurité physique
+    "videosurveillance", "vidéosurveillance",
+    "agent de sécurité", "agent de surveillance",
+    "patrouille", "gardiennage",
+    # Habilitations sécurité (pas compétences)
+    "habilitations électriques", "habilitation électrique",
+    "habilitations IAM", "habilitations d'accès",
+    "identity governance", "identity & access management", "identity and access management",
+    # Interim management
+    "interim management", "interim manager", "temporary deployment",
+    "deployment of external professionals",
+]
+
+
+def _passes_metier_filter(notice: dict) -> tuple[bool, str]:
+    """
+    Retourne (True, "ok") si l'AO passe le filtre métier Isograd,
+    (False, "raison") sinon.
+    """
+    cpv = (notice.get("cpv") or "").strip()
+    titre = (notice.get("objet") or "").lower()
+    desc = (notice.get("description") or "").lower()
+    full_text = f"{titre} {desc}"
+
+    # 1. Exclure CPV formation pure (match par préfixe)
+    for prefix in CPV_FORMATION_PREFIXES:
+        if cpv.startswith(prefix):
+            return False, f"CPV {cpv} = formation (préfixe {prefix})"
+
+    # 2. Exclure CPV hors périmètre (signature électronique, gardiennage…)
+    for prefix in CPV_HORS_PERIMETRE_PREFIXES:
+        if cpv.startswith(prefix):
+            return False, f"CPV {cpv} hors périmètre (préfixe {prefix})"
+
+    # 3. Negative phrases : si une phrase négative match, on rejette
+    for phrase in NEGATIVE_PHRASES:
+        if phrase.lower() in full_text:
+            return False, f"phrase négative : '{phrase}'"
+
+    # 4. Mandatory keywords : au moins UN doit matcher
+    matched = [kw for kw in MANDATORY_KEYWORDS if kw.lower() in full_text]
+    if not matched:
+        return False, "aucun mandatory keyword (certif/éval/test/VAE/bilan/…) ne match"
+
+    return True, f"ok (matched: {matched[0]})"
+
+
 def _map_signal_type(notice: dict) -> str:
     """
     Map le type d'AO du Radar AO vers les signal_types du hub.
@@ -213,6 +349,17 @@ def scrape() -> list[Signal]:
 
         if not acheteur or not objet:
             continue  # entrée incomplète, skip
+
+        # FILTRE MÉTIER ISOGRAD : on ne garde que les AO évaluation/certification
+        passes, reason = _passes_metier_filter(n)
+        if not passes:
+            logger.info(
+                "[Radar AO] FILTRÉ (%s) : %s — %s",
+                reason,
+                acheteur[:35],
+                objet[:60],
+            )
+            continue
 
         signal_type = _map_signal_type(n)
         sous_segment = _map_sous_segment(n)
