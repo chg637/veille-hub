@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-04-29-1798ff14f2d2",
-    "date_capture": "2026-05-22",
+    "date_capture": "2026-05-23",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "CGE",
@@ -19,13 +19,13 @@
     ],
     "owner": null,
     "action_reco": "Email au responsable maquette + pitch « Pack Edu Tosa = preuve mesurable compétences digitales pour le dossier accréditation ». Joindre 2 cas pairs. RDV sous 14j.",
-    "deadline_action": "2026-05-29",
+    "deadline_action": "2026-05-30",
     "status": "new",
     "date_publication": "2026-04-29"
   },
   {
     "id": "sig-2026-01-19-4880fa2c26b5",
-    "date_capture": "2026-05-22",
+    "date_capture": "2026-05-23",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "SKEMA Business School",
@@ -49,7 +49,7 @@
   },
   {
     "id": "sig-2026-02-01-5c1d41c5837e",
-    "date_capture": "2026-05-22",
+    "date_capture": "2026-05-23",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "Ecole polytechnique",
@@ -73,7 +73,7 @@
   },
   {
     "id": "sig-2026-02-01-db338c98dff8",
-    "date_capture": "2026-05-22",
+    "date_capture": "2026-05-23",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "aivancity",
@@ -97,7 +97,7 @@
   },
   {
     "id": "sig-2026-05-01-beb7d25e358c",
-    "date_capture": "2026-05-22",
+    "date_capture": "2026-05-23",
     "vertical": "education",
     "sous_segment": "Prospect froid — supérieur",
     "compte": "Paris School of Business",
@@ -121,7 +121,7 @@
   },
   {
     "id": "sig-2026-02-01-adeae517fcb1",
-    "date_capture": "2026-05-22",
+    "date_capture": "2026-05-23",
     "vertical": "education",
     "sous_segment": "Cert IA — pilote",
     "compte": "emlyon business school",
@@ -145,7 +145,7 @@
   },
   {
     "id": "sig-2026-01-19-38e40e73ddda",
-    "date_capture": "2026-05-22",
+    "date_capture": "2026-05-23",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "SKEMA Business School",
@@ -169,7 +169,7 @@
   },
   {
     "id": "sig-2026-02-01-70225dc15056",
-    "date_capture": "2026-05-22",
+    "date_capture": "2026-05-23",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "PSL Universite",
@@ -193,7 +193,7 @@
   },
   {
     "id": "sig-2026-02-01-c11ce4f990fe",
-    "date_capture": "2026-05-22",
+    "date_capture": "2026-05-23",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "IONIS Education Group",
@@ -217,7 +217,7 @@
   },
   {
     "id": "sig-2026-05-01-93e815b0ca37",
-    "date_capture": "2026-05-22",
+    "date_capture": "2026-05-23",
     "vertical": "education",
     "sous_segment": "Relance compte tiède",
     "compte": "IAE Aix-Marseille",
@@ -240,7 +240,7 @@
   },
   {
     "id": "sig-2026-02-01-a0908b02289e",
-    "date_capture": "2026-05-22",
+    "date_capture": "2026-05-23",
     "vertical": "education",
     "sous_segment": "Cert IA — pilote",
     "compte": "emlyon business school",
@@ -264,7 +264,7 @@
   },
   {
     "id": "sig-2026-03-12-84376f5a3a00",
-    "date_capture": "2026-05-22",
+    "date_capture": "2026-05-23",
     "vertical": "education",
     "sous_segment": "Prospect froid — supérieur",
     "compte": "Universite Virtuelle de Cote d'Ivoire (UVCI)",
@@ -288,7 +288,7 @@
   },
   {
     "id": "sig-stable-4cc03b95f797",
-    "date_capture": "2026-05-22",
+    "date_capture": "2026-05-23",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "Universite de Technologie de Troyes (UTT)",
@@ -308,6 +308,6 @@
     "action_reco": "A croiser site UTT + LinkedIn avant contact",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-05-22"
+    "date_publication": "2026-05-23"
   }
 ]
