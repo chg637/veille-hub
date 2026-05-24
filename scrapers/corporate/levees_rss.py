@@ -29,6 +29,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 from scrapers.lib.schema import Signal, fingerprint  # noqa: E402
 from scrapers.lib.scoring import determine_tier, produit_match_for  # noqa: E402
 from scrapers.lib.rss_helpers import fetch_rss, extract_compte, is_editorial_noise  # noqa: E402
+from scrapers.lib.outreach import email_draft_levee, get_contacts_cibles  # noqa: E402
 
 logger = logging.getLogger(__name__)
 
@@ -323,6 +324,8 @@ def scrape() -> list[Signal]:
                 deadline_action=None,  # à enrichir manuellement si RDV calé
                 status="new",
                 date_publication=date_iso,
+                email_draft=email_draft_levee(compte, montant_raw, meur, link),
+                contacts_cibles=get_contacts_cibles("levee_fonds", compte),
             )
             signals.append(sig)
             logger.info(

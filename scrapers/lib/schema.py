@@ -179,6 +179,15 @@ class Signal:
     # Optionnelle : si None ou absente, le frontend utilise date_capture en fallback.
     date_publication: Optional[str] = None  # ISO date YYYY-MM-DD
 
+    # Email drafté pour outreach commercial (subject + body en plain text).
+    # Le commercial peut le copier dans Gmail/Outlook et l'envoyer après ajustement.
+    email_draft: Optional[dict] = None  # {"subject": "...", "body": "..."}
+
+    # Contacts cibles : liste de typologies de poste à contacter (avec URL Sales Nav préfilled
+    # quand on connaît le nom du compte). Sans nom de personne pour l'instant — futur sprint A3 LinkedIn.
+    # Format : [{"poste": "Head of TA", "priorite": 1, "sales_nav_url": "https://...", "raison": "..."}]
+    contacts_cibles: list = field(default_factory=list)
+
     def to_dict(self) -> dict:
         return asdict(self)
 

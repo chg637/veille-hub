@@ -28,6 +28,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 from scrapers.lib.schema import Signal, fingerprint, save_signals  # noqa: E402
 from scrapers.lib.scoring import determine_tier, produit_match_for  # noqa: E402
 from scrapers.lib.actions import generate_action  # noqa: E402
+from scrapers.lib.outreach import email_draft_ao, get_contacts_cibles  # noqa: E402
 
 
 # Décideur cible par segment acheteur — guide commercial pour qui contacter
@@ -614,6 +615,8 @@ def scrape() -> list[Signal]:
             deadline_action=deadline or action_info["deadline_action"],
             status="new",
             date_publication=publication,
+            email_draft=email_draft_ao(acheteur, objet, deadline or "à définir", url),
+            contacts_cibles=get_contacts_cibles(signal_type, acheteur),
         )
         signals.append(sig)
         logger.info(

@@ -30,6 +30,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 
 from scrapers.lib.schema import Signal, fingerprint  # noqa: E402
 from scrapers.lib.scoring import determine_tier, produit_match_for  # noqa: E402
+from scrapers.lib.outreach import email_draft_ao, get_contacts_cibles  # noqa: E402
 
 # Réutilise le filtre métier strict défini dans seed_from_radar.py
 from scrapers.ao.seed_from_radar import (  # noqa: E402
@@ -334,6 +335,8 @@ def scrape() -> list[Signal]:
             deadline_action=n.get("deadline"),
             status="new",
             date_publication=n.get("publication"),
+            email_draft=email_draft_ao(n["acheteur"], n["objet"], n.get("deadline") or "à définir", n["url"]),
+            contacts_cibles=get_contacts_cibles(signal_type, n["acheteur"]),
         )
         signals.append(sig)
         logger.info(

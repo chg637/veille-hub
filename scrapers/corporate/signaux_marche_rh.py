@@ -26,6 +26,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 from scrapers.lib.schema import Signal, fingerprint  # noqa: E402
 from scrapers.lib.scoring import determine_tier, produit_match_for  # noqa: E402
 from scrapers.lib.rss_helpers import fetch_rss, extract_compte, is_editorial_noise  # noqa: E402
+from scrapers.lib.outreach import email_draft_concurrent, email_draft_nomination, get_contacts_cibles  # noqa: E402
 
 logger = logging.getLogger(__name__)
 
@@ -216,6 +217,8 @@ def scrape() -> list[Signal]:
                     deadline_action=None,
                     status="new",
                     date_publication=date_iso,
+                    email_draft=email_draft_concurrent(concurrent, title, link),
+                    contacts_cibles=get_contacts_cibles("concurrent_news", concurrent),
                 )
                 signals.append(sig)
                 logger.info(
@@ -266,6 +269,8 @@ def scrape() -> list[Signal]:
                     deadline_action=None,
                     status="new",
                     date_publication=date_iso,
+                    email_draft=email_draft_nomination("(voir source pour nom complet)", poste_match, compte_brut, link),
+                    contacts_cibles=get_contacts_cibles("nomination_chro", compte_brut),
                 )
                 signals.append(sig)
                 logger.info(

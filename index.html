@@ -232,6 +232,110 @@
     display: block;
     margin-bottom: 4px;
   }
+
+  /* Bloc "À actionner" : contacts cibles + mail drafté */
+  .sig-body .outreach {
+    margin-top: 8px;
+    border: 1px solid #E5E7EB;
+    border-radius: 7px;
+    overflow: hidden;
+  }
+  .sig-body .outreach summary {
+    cursor: pointer;
+    padding: 8px 11px;
+    background: #F0F9FF;
+    color: #075985;
+    font-size: 12px;
+    font-weight: 600;
+    user-select: none;
+  }
+  .sig-body .outreach summary:hover { background: #E0F2FE; }
+  .sig-body .outreach[open] summary { border-bottom: 1px solid #E5E7EB; }
+  .sig-body .outreach-content { padding: 10px 11px; background: #FAFAFA; font-size: 12px; }
+
+  .contacts-list { list-style: none; padding: 0; margin: 0 0 12px 0; }
+  .contacts-list li {
+    padding: 6px 0;
+    border-bottom: 1px dashed #E5E7EB;
+  }
+  .contacts-list li:last-child { border-bottom: none; }
+  .contacts-list .contact-poste { font-weight: 600; color: #1F2937; }
+  .contacts-list .contact-prio {
+    display: inline-block;
+    width: 18px; height: 18px;
+    line-height: 18px;
+    text-align: center;
+    border-radius: 50%;
+    font-size: 10px; font-weight: 700;
+    margin-right: 6px;
+  }
+  .contacts-list .contact-prio.p1 { background: #DC2626; color: white; }
+  .contacts-list .contact-prio.p2 { background: #F59E0B; color: white; }
+  .contacts-list .contact-prio.p3 { background: #6B7280; color: white; }
+  .contacts-list .contact-reason { color: #6B7280; font-size: 11px; margin-left: 24px; }
+  .contacts-list .contact-actions { margin-left: 24px; margin-top: 3px; }
+  .contacts-list .contact-actions a {
+    display: inline-block;
+    padding: 3px 8px;
+    margin-right: 4px;
+    border-radius: 4px;
+    font-size: 10.5px;
+    text-decoration: none;
+    background: #0284C7;
+    color: white;
+  }
+  .contacts-list .contact-actions a.public { background: #6B7280; }
+  .contacts-list .contact-actions a:hover { opacity: 0.85; }
+
+  .mail-draft { background: white; border: 1px solid #E5E7EB; border-radius: 6px; padding: 10px; }
+  .mail-draft .mail-subject {
+    font-weight: 600;
+    color: #1F2937;
+    padding-bottom: 6px;
+    border-bottom: 1px dashed #E5E7EB;
+    margin-bottom: 8px;
+  }
+  .mail-draft .mail-body {
+    white-space: pre-wrap;
+    font-family: ui-monospace, Menlo, monospace;
+    font-size: 11.5px;
+    color: #374151;
+    line-height: 1.55;
+    max-height: 280px;
+    overflow-y: auto;
+  }
+  .mail-draft .mail-actions {
+    margin-top: 8px;
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+  }
+  .mail-draft .mail-btn {
+    padding: 5px 10px;
+    font-size: 11.5px;
+    border: 1px solid #D1D5DB;
+    background: white;
+    color: #374151;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 500;
+  }
+  .mail-draft .mail-btn:hover { background: #F9FAFB; }
+  .mail-draft .mail-btn.primary {
+    background: #0284C7;
+    color: white;
+    border-color: #0284C7;
+  }
+  .mail-draft .mail-btn.primary:hover { background: #0369A1; }
+  .mail-draft .copied { color: #15803D; font-size: 11px; font-weight: 600; align-self: center; }
+  .outreach-section-title {
+    font-size: 11px;
+    font-weight: 600;
+    color: #6B7280;
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+    margin-bottom: 6px;
+  }
   .sig-body .action-reco strong {
     color: #92400E;
     text-transform: uppercase;
@@ -479,6 +583,68 @@ function deadlineDaysLeft(signal) {
   return diffDays;
 }
 
+// ─────────────────────────────────────────────────────────────────────────
+// Outreach helpers : rendu contacts cibles + mail drafté, copy clipboard, Gmail
+// ─────────────────────────────────────────────────────────────────────────
+
+function renderContactsCibles(contacts) {
+  if (!contacts || !contacts.length) return "";
+  const items = contacts.map(c => {
+    const salesNav = c.sales_nav_url
+      ? `<a href="${c.sales_nav_url}" target="_blank" rel="noopener">🔍 Sales Nav</a>` : "";
+    const publicLk = c.linkedin_public_url
+      ? `<a href="${c.linkedin_public_url}" target="_blank" rel="noopener" class="public">LinkedIn public</a>` : "";
+    return `
+      <li>
+        <div><span class="contact-prio p${c.priorite || 3}">${c.priorite || 3}</span><span class="contact-poste">${escapeHtml(c.poste || '')}</span></div>
+        <div class="contact-reason">${escapeHtml(c.raison || '')}</div>
+        <div class="contact-actions">${salesNav}${publicLk}</div>
+      </li>`;
+  }).join("");
+  return `
+    <div class="outreach-section-title">👥 Contacts cibles (par ordre de priorité)</div>
+    <ul class="contacts-list">${items}</ul>`;
+}
+
+function renderMailDraft(draft) {
+  if (!draft || !draft.subject) return "";
+  const safeSubj = escapeHtml(draft.subject);
+  const safeBody = escapeHtml(draft.body || "");
+  // Pour les boutons, on encode en attributs data-*
+  const subjAttr = encodeURIComponent(draft.subject);
+  const bodyAttr = encodeURIComponent(draft.body || "");
+  return `
+    <div class="outreach-section-title">📧 Mail drafté (à ajuster avant envoi)</div>
+    <div class="mail-draft">
+      <div class="mail-subject">${safeSubj}</div>
+      <div class="mail-body">${safeBody}</div>
+      <div class="mail-actions">
+        <button class="mail-btn primary" onclick="copyMailToClipboard(this, '${subjAttr}', '${bodyAttr}')">📋 Copier le mail</button>
+        <a class="mail-btn" href="https://mail.google.com/mail/?view=cm&fs=1&su=${subjAttr}&body=${bodyAttr}" target="_blank" rel="noopener">📨 Ouvrir Gmail</a>
+        <a class="mail-btn" href="mailto:?subject=${subjAttr}&body=${bodyAttr}">✉️ Ouvrir mail par défaut</a>
+      </div>
+    </div>`;
+}
+
+function copyMailToClipboard(btn, encodedSubj, encodedBody) {
+  const subj = decodeURIComponent(encodedSubj);
+  const body = decodeURIComponent(encodedBody);
+  const fullText = `Sujet : ${subj}\n\n${body}`;
+  const copyAction = navigator.clipboard && navigator.clipboard.writeText
+    ? navigator.clipboard.writeText(fullText)
+    : Promise.reject();
+  copyAction.then(() => {
+    const span = document.createElement("span");
+    span.className = "copied";
+    span.textContent = "✓ Copié !";
+    btn.parentElement.appendChild(span);
+    setTimeout(() => span.remove(), 2000);
+  }).catch(() => {
+    // Fallback : prompt manuel
+    window.prompt("Copie manuelle (Ctrl+C / Cmd+C) :", fullText);
+  });
+}
+
 function tierLabel(tier) { return "T" + tier; }
 
 function productClass(name) {
@@ -562,6 +728,14 @@ function renderSignal(s) {
         </div>
         ${s.description ? `<div class="desc">${escapeHtml(s.description.substring(0, 220))}${s.description.length > 220 ? '…' : ''}</div>` : ''}
         ${s.action_reco ? `<div class="action-reco"><strong>▸ Action commerciale</strong>${escapeHtml(s.action_reco)}</div>` : ''}
+        ${(s.contacts_cibles && s.contacts_cibles.length) || (s.email_draft && s.email_draft.subject) ? `
+          <details class="outreach">
+            <summary>🎯 Actionner — contacts cibles + mail drafté</summary>
+            <div class="outreach-content">
+              ${renderContactsCibles(s.contacts_cibles)}
+              ${renderMailDraft(s.email_draft)}
+            </div>
+          </details>` : ''}
         ${(s.produit_match && s.produit_match.length) ? `<div class="products">${s.produit_match.map(p => `<span class="product ${productClass(p)}">${escapeHtml(p)}</span>`).join("")}</div>` : ''}
       </div>
       <div class="sig-right">

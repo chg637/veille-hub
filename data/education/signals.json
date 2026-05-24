@@ -21,7 +21,9 @@
     "action_reco": "Email au responsable maquette + pitch « Pack Edu Tosa = preuve mesurable compétences digitales pour le dossier accréditation ». Joindre 2 cas pairs. RDV sous 14j.",
     "deadline_action": "2026-05-31",
     "status": "new",
-    "date_publication": "2026-04-29"
+    "date_publication": "2026-04-29",
+    "email_draft": null,
+    "contacts_cibles": []
   },
   {
     "id": "sig-2026-01-19-4880fa2c26b5",
@@ -45,7 +47,9 @@
     "action_reco": "LinkedIn note connexion - partenaire de lancement Cert IA",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-01-19"
+    "date_publication": "2026-01-19",
+    "email_draft": null,
+    "contacts_cibles": []
   },
   {
     "id": "sig-2026-02-01-5c1d41c5837e",
@@ -69,7 +73,9 @@
     "action_reco": "Email FR/EN - validation Cert IA par programme rang mondial",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-02-01"
+    "date_publication": "2026-02-01",
+    "email_draft": null,
+    "contacts_cibles": []
   },
   {
     "id": "sig-2026-02-01-db338c98dff8",
@@ -93,7 +99,9 @@
     "action_reco": "LinkedIn DM + email - partenaire lancement strategique",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-02-01"
+    "date_publication": "2026-02-01",
+    "email_draft": null,
+    "contacts_cibles": []
   },
   {
     "id": "sig-2026-05-01-beb7d25e358c",
@@ -117,7 +125,9 @@
     "action_reco": "LinkedIn DM + one-pager Tosa & accreditations",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-05-01"
+    "date_publication": "2026-05-01",
+    "email_draft": null,
+    "contacts_cibles": []
   },
   {
     "id": "sig-2026-02-01-adeae517fcb1",
@@ -141,7 +151,9 @@
     "action_reco": "Contact : Compte actif (Contact Tosa + Directeur ProPulse) · Appel lundi 25 mai - pilote payant AI referent",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-02-01"
+    "date_publication": "2026-02-01",
+    "email_draft": null,
+    "contacts_cibles": []
   },
   {
     "id": "sig-2026-01-19-38e40e73ddda",
@@ -165,7 +177,9 @@
     "action_reco": "LinkedIn note connexion + repris Section 4",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-01-19"
+    "date_publication": "2026-01-19",
+    "email_draft": null,
+    "contacts_cibles": []
   },
   {
     "id": "sig-2026-02-01-70225dc15056",
@@ -189,7 +203,9 @@
     "action_reco": "Email court - angle litteratie IA et SHS",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-02-01"
+    "date_publication": "2026-02-01",
+    "email_draft": null,
+    "contacts_cibles": []
   },
   {
     "id": "sig-2026-02-01-c11ce4f990fe",
@@ -213,7 +229,9 @@
     "action_reco": "Contact : Yannick Lejeune (CDO) · Email Cert IA - co-construction EPITA IA Institut",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-02-01"
+    "date_publication": "2026-02-01",
+    "email_draft": null,
+    "contacts_cibles": []
   },
   {
     "id": "sig-2026-05-01-93e815b0ca37",
@@ -236,7 +254,9 @@
     "action_reco": "Contact : Sebastien Dereeper (Contact IAE) · Email avant vendredi 22 mai - point 30 min plan septembre",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-05-01"
+    "date_publication": "2026-05-01",
+    "email_draft": null,
+    "contacts_cibles": []
   },
   {
     "id": "sig-2026-02-01-a0908b02289e",
@@ -260,7 +280,9 @@
     "action_reco": "Contact : Compte actif (Contact Tosa) · Appel telephonique lundi 25 mai - 3 opportunites",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-02-01"
+    "date_publication": "2026-02-01",
+    "email_draft": null,
+    "contacts_cibles": []
   },
   {
     "id": "sig-2026-03-12-84376f5a3a00",
@@ -284,7 +306,9 @@
     "action_reco": "Demande connexion LinkedIn + email court FR",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-03-12"
+    "date_publication": "2026-03-12",
+    "email_draft": null,
+    "contacts_cibles": []
   },
   {
     "id": "sig-stable-4cc03b95f797",
@@ -308,6 +332,8 @@
     "action_reco": "A croiser site UTT + LinkedIn avant contact",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-05-24"
+    "date_publication": "2026-05-24",
+    "email_draft": null,
+    "contacts_cibles": []
   }
 ]
