@@ -121,8 +121,9 @@ SCRAPERS = [
     ("scrapers.corporate.signaux_marche_rh", "corporate"),
     # OF — Phase 1 — levées EdTech (Maddyness + Sifted filtrés EdTech)
     ("scrapers.of.levees_edtech", "of"),
-    # OF — Phase 2 — nouvelles fiches RNCP/RS via data.gouv.fr (France Compétences)
-    ("scrapers.of.france_competences", "of"),
+    # RNCP — nouvelles fiches RNCP/RS via data.gouv.fr (France Compétences)
+    # Vertical dédié distinct de OF : ici = certificateurs qui déposent.
+    ("scrapers.of.france_competences", "rncp"),
 ]
 
 # ❌ DÉSACTIVÉS — sources de contenu éditorial sans signal d'achat direct
@@ -149,8 +150,9 @@ def main():
     # Reset les signals.json au début de chaque run : on ne veut garder QUE
     # les signaux produits par les scrapers actifs du run actuel. Sinon, quand on
     # désactive un scraper, ses anciens signaux restent à vie via merge_signals.
-    for v in ("education", "of", "corporate", "ao"):
+    for v in ("education", "of", "rncp", "corporate", "ao"):
         path = repo_root / "data" / v / "signals.json"
+        path.parent.mkdir(parents=True, exist_ok=True)  # crée data/{v}/ si absent
         path.write_text("[]\n", encoding="utf-8")
         logger.info("Reset %s à []", path.relative_to(repo_root))
 

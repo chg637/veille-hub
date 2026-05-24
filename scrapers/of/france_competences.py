@@ -36,7 +36,7 @@ from scrapers.lib.outreach import email_draft_rncp_nouveau, get_contacts_cibles 
 
 logger = logging.getLogger(__name__)
 
-VERTICAL = "of"
+VERTICAL = "rncp"  # Vertical dédié : certificateurs qui déposent des fiches RNCP/RS
 SOURCE_NAME = "France Compétences"
 SOURCE_TIER = 1
 
@@ -314,7 +314,7 @@ def scrape() -> list[Signal]:
             contact_nom=None,
             contact_fonction=None,
         )
-        contacts = get_contacts_cibles("rncp_nouveau", compte)  # même persona qu'Education
+        contacts = get_contacts_cibles("rncp_open", compte)  # personas dédiés au certificateur
 
         action_reco = (
             f"📋 **Signal détecté**\n"

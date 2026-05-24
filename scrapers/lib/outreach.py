@@ -142,6 +142,28 @@ PERSONAS_BY_SIGNAL = {
         },
     ],
 
+    # ─── RNCP (certificateur qui dépose une nouvelle fiche France Compétences) ─
+    "rncp_open": [
+        {
+            "poste": "Responsable RNCP / Référent certifications",
+            "alternatives": ["Responsable RS", "Responsable habilitation", "Référent France Compétences"],
+            "priorite": 1,
+            "raison": "Pilote la déclaration et l'animation de la fiche déposée",
+        },
+        {
+            "poste": "Directeur(rice) qualité / Responsable Qualiopi",
+            "alternatives": ["RAQ", "Référent qualité"],
+            "priorite": 2,
+            "raison": "Garant de la traçabilité et de l'opposabilité en audit",
+        },
+        {
+            "poste": "Directeur(rice) pédagogique / Responsable ingénierie",
+            "alternatives": ["Directeur(rice) des programmes", "Responsable ingénierie certification"],
+            "priorite": 3,
+            "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
+        },
+    ],
+
     # ─── OF (Organismes de formation) ──────────────────────────────────────
     "levee_edtech": [
         {

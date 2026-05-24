@@ -101,6 +101,14 @@ def produit_match_for(signal_type: str, vertical: str) -> list:
             return ["Cert IA", "Pack OF Tosa"]
         return ["Pack OF Tosa"]
 
+    if vertical == "rncp":
+        # Certificateur qui vient de déposer une fiche : on pitche ITS pour héberger
+        # leurs sessions d'examens (banque de questions, proctoring, attestations)
+        # + Tosa si fiche orientée numérique/bureautique
+        if signal_type == "rncp_open":
+            return ["ITS", "Pack Education Tosa"]
+        return ["ITS"]
+
     if vertical == "ao":
         if signal_type in ("ao_publie", "ao_pre_info"):
             return ["Pack Education Tosa", "ITS"]

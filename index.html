@@ -25,6 +25,8 @@
     --edu-soft: #EEF0FF;
     --of: #0EA5A4;
     --of-soft: #E0F7F6;
+    --rncp: #C026D3;
+    --rncp-soft: #FAE8FF;
     --corpo: #7C3AED;
     --corpo-soft: #F1E9FE;
     --ao: #EA580C;
@@ -72,6 +74,7 @@
   .stat-l { font-size: 10px; opacity: 0.85; text-transform: uppercase; letter-spacing: 0.6px; margin-top: 3px; }
   .stat.edu .stat-n { color: #C7CCFF; }
   .stat.of .stat-n  { color: #B0F4F1; }
+  .stat.rncp .stat-n { color: #F0ABFC; }
   .stat.corpo .stat-n { color: #D9C7FF; }
   .stat.ao .stat-n  { color: #FFD3B0; }
   .stat.total .stat-n { color: #FFD79A; }
@@ -138,6 +141,7 @@
   .tab[data-vert="all"].active   { color: var(--isograd); border-bottom-color: var(--isograd); }
   .tab[data-vert="education"].active { color: var(--edu); border-bottom-color: var(--edu); }
   .tab[data-vert="of"].active    { color: var(--of); border-bottom-color: var(--of); }
+  .tab[data-vert="rncp"].active  { color: var(--rncp); border-bottom-color: var(--rncp); }
   .tab[data-vert="corporate"].active { color: var(--corpo); border-bottom-color: var(--corpo); }
   .tab[data-vert="ao"].active    { color: var(--ao); border-bottom-color: var(--ao); }
   .tab .badge {
@@ -169,6 +173,7 @@
   .signal:hover { border-color: #94A3B8; box-shadow: 0 2px 8px rgba(0,0,0,0.05); }
   .signal[data-vert="education"] { border-left: 4px solid var(--edu); }
   .signal[data-vert="of"]        { border-left: 4px solid var(--of); }
+  .signal[data-vert="rncp"]      { border-left: 4px solid var(--rncp); }
   .signal[data-vert="corporate"] { border-left: 4px solid var(--corpo); }
   .signal[data-vert="ao"]        { border-left: 4px solid var(--ao); }
 
@@ -210,6 +215,7 @@
   }
   .sig-body .meta .chip.education { background: var(--edu-soft); color: var(--edu); }
   .sig-body .meta .chip.of        { background: var(--of-soft); color: #047070; }
+  .sig-body .meta .chip.rncp      { background: var(--rncp-soft); color: var(--rncp); }
   .sig-body .meta .chip.corporate { background: var(--corpo-soft); color: var(--corpo); }
   .sig-body .meta .chip.ao        { background: var(--ao-soft); color: var(--ao); }
   .sig-body .meta .chip.tier1 { background: #FEE2E2; color: #991B1B; }
@@ -419,6 +425,7 @@
   }
   .v-hdr[data-v="education"] .icon { background: var(--edu-soft); color: var(--edu); }
   .v-hdr[data-v="of"] .icon        { background: var(--of-soft); color: #047070; }
+  .v-hdr[data-v="rncp"] .icon      { background: var(--rncp-soft); color: var(--rncp); }
   .v-hdr[data-v="corporate"] .icon { background: var(--corpo-soft); color: var(--corpo); }
   .v-hdr[data-v="ao"] .icon        { background: var(--ao-soft); color: var(--ao); }
   .v-hdr .v-meta {
@@ -459,12 +466,13 @@
 <div class="hdr">
   <div class="hdr-l">
     <h1>Hub Veille Marché Isograd</h1>
-    <p>4 volets · daily signaux · digest hebdo lundi 8h · <span id="data-status">chargement…</span></p>
+    <p>5 volets · daily signaux · digest hebdo lundi 8h · <span id="data-status">chargement…</span></p>
   </div>
   <div class="hdr-stats">
     <div class="stat total"><div class="stat-n" id="stat-total">—</div><div class="stat-l">Signaux 7j</div></div>
     <div class="stat edu"><div class="stat-n" id="stat-edu">—</div><div class="stat-l">Education</div></div>
     <div class="stat of"><div class="stat-n" id="stat-of">—</div><div class="stat-l">OF</div></div>
+    <div class="stat rncp"><div class="stat-n" id="stat-rncp">—</div><div class="stat-l">RNCP</div></div>
     <div class="stat corpo"><div class="stat-n" id="stat-corpo">—</div><div class="stat-l">Corporate</div></div>
     <div class="stat ao"><div class="stat-n" id="stat-ao">—</div><div class="stat-l">AO</div></div>
   </div>
@@ -472,7 +480,7 @@
 
 <div class="info">
   <div id="info-text">
-    <b>Hub live v0.4.</b> 4 volets · Sources actionnables : <b>Radar Hebdo Tosa</b> · <b>Radar AO Isograd</b> · <b>CGE labellisations</b>. Refresh quotidien 6h UTC via GitHub Actions.
+    <b>Hub live v0.5.</b> 5 volets · Sources actionnables : <b>Radar Hebdo Tosa</b> · <b>Radar AO Isograd</b> · <b>CGE labellisations</b> · <b>France Compétences</b>. Refresh quotidien 6h UTC via GitHub Actions.
   </div>
   <div class="pulse"><span id="last-update">MAJ : —</span></div>
 </div>
@@ -481,6 +489,7 @@
   <button class="tab active" data-vert="all" role="tab">📡 Vue agrégée <span class="badge" id="badge-all">0</span></button>
   <button class="tab" data-vert="education" role="tab">🎓 Education <span class="badge" id="badge-education">0</span></button>
   <button class="tab" data-vert="of" role="tab">🏫 OF <span class="badge" id="badge-of">0</span></button>
+  <button class="tab" data-vert="rncp" role="tab">📜 RNCP <span class="badge" id="badge-rncp">0</span></button>
   <button class="tab" data-vert="corporate" role="tab">🏢 Corporate / DRH <span class="badge" id="badge-corporate">0</span></button>
   <button class="tab" data-vert="ao" role="tab">📋 Appels d'offres <span class="badge" id="badge-ao">0</span></button>
 </div>
@@ -503,10 +512,18 @@
 
 <div class="panel" data-panel="of">
   <div class="v-hdr" data-v="of">
-    <h2><span class="icon">🏫</span> Organismes de formation — OF, CFA privés, EdTech</h2>
-    <div class="v-meta">Sources : <b>Maddyness EdTech</b> · <i>(France Compétences, concurrents à brancher S3)</i></div>
+    <h2><span class="icon">🏫</span> Organismes de formation — revendeurs Tosa</h2>
+    <div class="v-meta">Cible : OF adultes / CFA privés / EdTech qui revendent certifs Isograd. Sources : <b>Maddyness EdTech</b> · <i>(à enrichir avec sources OF revendeurs)</i></div>
   </div>
   <div class="signals" id="signals-of"></div>
+</div>
+
+<div class="panel" data-panel="rncp">
+  <div class="v-hdr" data-v="rncp">
+    <h2><span class="icon">📜</span> RNCP — Nouvelles fiches France Compétences</h2>
+    <div class="v-meta">Certificateurs qui viennent de déposer une fiche RNCP/RS. Sources : <b>data.gouv.fr</b> (mise à jour quotidienne). Cible : direction certifications / RNCP de chaque certificateur, fenêtre 30 jours post-décision.</div>
+  </div>
+  <div class="signals" id="signals-rncp"></div>
 </div>
 
 <div class="panel" data-panel="corporate">
@@ -531,8 +548,8 @@
 </div>
 
 <script>
-const VERTICALS = ["education", "of", "corporate", "ao"];
-const ICONS = { education: "🎓", of: "🏫", corporate: "🏢", ao: "📋" };
+const VERTICALS = ["education", "of", "rncp", "corporate", "ao"];
+const ICONS = { education: "🎓", of: "🏫", rncp: "📜", corporate: "🏢", ao: "📋" };
 
 async function loadSignals(vertical) {
   try {
@@ -762,7 +779,7 @@ async function initHub() {
   );
 
   const byVertical = Object.fromEntries(results);
-  const stats = { education: 0, of: 0, corporate: 0, ao: 0 };
+  const stats = { education: 0, of: 0, rncp: 0, corporate: 0, ao: 0 };
   const allSignals = [];
 
   for (const v of VERTICALS) {
@@ -810,6 +827,7 @@ async function initHub() {
 
   document.getElementById("stat-edu").textContent = stats.education;
   document.getElementById("stat-of").textContent = stats.of;
+  document.getElementById("stat-rncp").textContent = stats.rncp;
   document.getElementById("stat-corpo").textContent = stats.corporate;
   document.getElementById("stat-ao").textContent = stats.ao;
   document.getElementById("stat-total").textContent = allSignals.length;

@@ -18,7 +18,7 @@ from typing import Optional
 
 
 # Verticaux supportés
-VERTICAUX = ("education", "of", "corporate", "ao")
+VERTICAUX = ("education", "of", "rncp", "corporate", "ao")
 
 # Types de signaux normalisés (utilisé pour filtrage et scoring)
 SIGNAL_TYPES = (
