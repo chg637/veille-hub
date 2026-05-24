@@ -119,6 +119,8 @@ SCRAPERS = [
     ("scrapers.corporate.levees_rss", "corporate"),
     # Corporate — Sprint A2 — signaux marché RH (pivots concurrents + nominations) via myRHline + Parlons RH
     ("scrapers.corporate.signaux_marche_rh", "corporate"),
+    # OF — Phase 1 — levées EdTech (Maddyness + Sifted filtrés EdTech)
+    ("scrapers.of.levees_edtech", "of"),
 ]
 
 # ❌ DÉSACTIVÉS — sources de contenu éditorial sans signal d'achat direct

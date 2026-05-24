@@ -30,6 +30,7 @@ from scrapers.lib.schema import Signal, fingerprint  # noqa: E402
 from scrapers.lib.scoring import determine_tier, produit_match_for  # noqa: E402
 from scrapers.lib.rss_helpers import fetch_rss, extract_compte, is_editorial_noise  # noqa: E402
 from scrapers.lib.outreach import email_draft_levee, get_contacts_cibles  # noqa: E402
+from scrapers.lib.edtech_filter import is_edtech  # noqa: E402
 
 logger = logging.getLogger(__name__)
 
@@ -297,6 +298,12 @@ def scrape() -> list[Signal]:
             compte = _extract_compte_levee(title, src.get("lang", "fr"))
             if compte == "Inconnu" or len(compte) < 2:
                 logger.info("[Corp/%s] COMPTE NON IDENTIFIÉ (investor ou parsing) : %s", src["name"], title[:70])
+                continue
+
+            # 5b. Si EdTech → laisse à scrapers.of.levees_edtech pour éviter doublon
+            is_edt, edt_reason = is_edtech(title, description, compte)
+            if is_edt:
+                logger.info("[Corp/%s] EdTech routé vers OF (%s) : %s", src["name"], edt_reason, title[:60])
                 continue
 
             # 6. Build signal

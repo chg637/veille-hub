@@ -692,6 +692,64 @@ def format_action_education(signal_type: str, signal_text: str, action_custom: s
     )
 
 
+def email_draft_levee_edtech(compte: str, montant_raw: str, meur: float, url_source: str, signal_text: str = "") -> dict:
+    """Email post-levée EdTech — angle ITS white-label + certification opposable."""
+    sig_short = _shorten_signal(signal_text, 130)
+
+    if meur >= 30:
+        contexte_phrase = (
+            f"Une levée à {montant_raw} s'accompagne souvent d'un pivot "
+            f"vers une offre certifiante : c'est le moment où une plateforme "
+            f"EdTech devient vraiment un produit B2B."
+        )
+    else:
+        contexte_phrase = (
+            f"Avec {montant_raw}, vous êtes probablement en phase de "
+            f"renforcement produit et de premier go-to-market B2B."
+        )
+
+    subject = f"{compte} — votre levée + certification : partenariat ?"
+    body = (
+        f"Bonjour,\n"
+        f"\n"
+        f"Bravo pour votre levée — {montant_raw} c'est une belle étape.\n"
+        f"{f'Contexte que j ai vu passer : « {sig_short} ».' + chr(10) if sig_short else ''}"
+        f"\n"
+        f"Je vous écris parce que sur les plateformes EdTech à votre stade, "
+        f"un sujet revient souvent côté roadmap : **passer de la production "
+        f"de contenu à un produit certifiant**.\n"
+        f"\n"
+        f"{contexte_phrase}\n"
+        f"\n"
+        f"Chez Isograd, on opère ITS — une plateforme de back-end "
+        f"d'évaluation et de certification utilisée en white-label par des "
+        f"acteurs comme vous :\n"
+        f"\n"
+        f"1. **Délivrance de certifications opposables** (Qualiopi, France "
+        f"Compétences, dépôt RNCP) sans construire votre propre infra "
+        f"d'éval\n"
+        f"\n"
+        f"2. **Passation à scale** (proctoring, banque de questions, "
+        f"surveillance à distance) pour des volumes 100 à 100 000 "
+        f"candidats/an\n"
+        f"\n"
+        f"3. **Traçabilité complète** des sessions, exportable en cas "
+        f"d'audit France Compétences\n"
+        f"\n"
+        f"L'idée pour vous : votre offre EdTech reste votre marque, et "
+        f"vous gagnez la dimension certifiante en quelques semaines au "
+        f"lieu de 12-18 mois de R&D.\n"
+        f"\n"
+        f"15 minutes pour échanger sur votre roadmap certification ?\n"
+        f"\n"
+        f"Charles GOSSET\n"
+        f"Sales Manager — Isograd / ITS\n"
+        f"\n"
+        f"Source : {url_source}"
+    )
+    return {"subject": subject, "body": body}
+
+
 def email_draft_ao(compte: str, titre_ao: str, deadline: str, url_dce: str) -> dict:
     """Email préparation réponse AO — sourcing complémentaire avant DCE."""
     subject = f"AO {compte} — Isograd souhaite candidater"
