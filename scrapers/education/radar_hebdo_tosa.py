@@ -28,7 +28,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 
 from scrapers.lib.schema import Signal, fingerprint, merge_signals, save_signals, load_signals  # noqa: E402
 from scrapers.lib.scoring import determine_tier, produit_match_for  # noqa: E402
-from scrapers.lib.outreach import email_draft_for_education, get_contacts_cibles  # noqa: E402
+from scrapers.lib.outreach import email_draft_for_education, get_contacts_cibles, format_action_education  # noqa: E402
 
 logger = logging.getLogger(__name__)
 
@@ -114,7 +114,8 @@ def _build_signal(row: dict, today_iso: str) -> Optional[Signal]:
     contact_nom = (row.get("Contact_Nom") or "").strip()
     contact_fonction = (row.get("Contact_Fonction") or "").strip()
     action_brute = (row.get("Action") or "").strip()
-    action_reco = _format_action(action_brute, contact_nom, contact_fonction)
+    # Action commerciale structurée : signal / action / angle / timing
+    action_reco = format_action_education(signal_type, signal_text, action_custom=action_brute)
 
     description = signal_text[:400]
     url = (row.get("Source_URL") or "").strip()

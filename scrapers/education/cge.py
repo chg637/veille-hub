@@ -19,7 +19,7 @@ from scrapers.lib.schema import Signal, fingerprint, merge_signals, save_signals
 from scrapers.lib.scoring import base_score, determine_tier, produit_match_for  # noqa: E402
 from scrapers.lib.actions import generate_action  # noqa: E402
 from scrapers.lib.rss_helpers import fetch_rss, matches_any, extract_compte, is_editorial_noise  # noqa: E402
-from scrapers.lib.outreach import email_draft_for_education, get_contacts_cibles  # noqa: E402
+from scrapers.lib.outreach import email_draft_for_education, get_contacts_cibles, format_action_education  # noqa: E402
 
 logger = logging.getLogger(__name__)
 
@@ -86,6 +86,13 @@ def scrape(limit: int = 30) -> list[Signal]:
         )
         contacts = get_contacts_cibles(signal_type, compte)
 
+        # Action commerciale structurée Education
+        structured_action = format_action_education(
+            signal_type=signal_type,
+            signal_text=description,
+            action_custom=action_info["action"],
+        )
+
         sig = Signal(
             id=fingerprint(title, compte, item["date_iso"]),
             date_capture=today,
@@ -102,7 +109,7 @@ def scrape(limit: int = 30) -> list[Signal]:
             score=score,
             produit_match=produit_match_for(signal_type, VERTICAL),
             owner=None,
-            action_reco=action_info["action"],
+            action_reco=structured_action,
             deadline_action=action_info["deadline_action"],
             status="new",
             date_publication=item["date_iso"],

@@ -419,28 +419,60 @@ def _salutation(contact_nom: str | None) -> str:
     return "Bonjour,"
 
 
+def _shorten_signal(text: str, max_chars: int = 140) -> str:
+    """Raccourcit un signal_text pour intégration dans subject/body sans coupure brutale."""
+    text = (text or "").strip()
+    if not text:
+        return ""
+    if len(text) <= max_chars:
+        return text
+    cut = text[:max_chars]
+    # Couper sur le dernier espace pour ne pas casser un mot
+    space = cut.rfind(" ")
+    if space > max_chars * 0.6:
+        cut = cut[:space]
+    return cut.rstrip(",.;:") + "…"
+
+
+def _subject_keyword(text: str, max_words: int = 6) -> str:
+    """Extrait les premiers mots significatifs du signal pour le subject."""
+    text = (text or "").strip()
+    if not text:
+        return ""
+    words = text.split()
+    keep = words[:max_words]
+    return " ".join(keep).rstrip(",.;:")
+
+
 def email_draft_accreditation(compte: str, signal_text: str, url_source: str, contact_nom: str | None = None, contact_fonction: str | None = None) -> dict:
-    """Email post-accréditation/labellisation — angle valorisation + audit."""
-    subject = f"{compte} — votre labellisation, et après ?"
+    """Email post-accréditation/labellisation — intègre le signal spécifique."""
+    sig_short = _shorten_signal(signal_text, 120)
+    sig_key = _subject_keyword(signal_text, 5)
+    subject = f"{compte} — {sig_key}, capitaliser avec Tosa ?" if sig_key else f"{compte} — votre labellisation, et après ?"
+
     body = (
         f"{_salutation(contact_nom)}\n"
         f"\n"
-        f"Bravo pour cette labellisation. Côté Isograd, on accompagne "
-        f"beaucoup d'écoles et d'universités qui viennent d'obtenir ce type "
-        f"de label : la question qui revient toujours, c'est comment "
-        f"capitaliser sur cette reconnaissance sur les 2-3 prochaines années.\n"
+        f"J'ai noté votre actualité : « {sig_short} ».\n"
+        f"Bravo, c'est une étape importante.\n"
         f"\n"
-        f"Deux usages typiques chez nos clients labellisés :\n"
+        f"On accompagne pas mal d'écoles dans votre cas chez Isograd. Le "
+        f"point qui revient à 3 mois post-labellisation, c'est comment "
+        f"capitaliser concrètement sur cette reconnaissance — au-delà du "
+        f"communiqué.\n"
         f"\n"
-        f"1. **Renforcer la preuve d'évaluation des compétences** des "
-        f"étudiants avec Tosa (bureautique, digital, code). C'est "
-        f"directement opposable en audit Qualiopi et France Compétences.\n"
+        f"Deux leviers qu'on déploie chez nos clients labellisés :\n"
         f"\n"
-        f"2. **Doubler le signal extérieur** en intégrant Tosa dans la "
-        f"promotion du programme labellisé — argument concret pour les "
-        f"candidats, les entreprises partenaires et les classements.\n"
+        f"1. **Tosa comme preuve opposable** sur la qualité d'évaluation "
+        f"des compétences numériques de vos étudiants (bureautique, code, "
+        f"digital). Très bien vu en audit Qualiopi et dans les dossiers "
+        f"France Compétences.\n"
         f"\n"
-        f"15 minutes pour vous présenter ce que ça donnerait chez {compte} ?\n"
+        f"2. **Doublement du signal extérieur** : Tosa comme argument "
+        f"concret pour les candidats, les recruteurs et les classements "
+        f"qui pèsent sur le programme labellisé.\n"
+        f"\n"
+        f"15 minutes pour vous montrer ce que ça donnerait chez {compte} ?\n"
         f"\n"
         f"Charles GOSSET\n"
         f"Sales Manager — Isograd / Tosa\n"
@@ -451,30 +483,51 @@ def email_draft_accreditation(compte: str, signal_text: str, url_source: str, co
 
 
 def email_draft_nouvelle_formation(compte: str, signal_text: str, url_source: str, contact_nom: str | None = None, contact_fonction: str | None = None) -> dict:
-    """Email post-lancement nouvelle formation — angle évaluation candidats + Qualiopi."""
-    subject = f"{compte} — votre nouveau programme : quel dispositif d'évaluation ?"
+    """Email post-lancement nouvelle formation — intègre le nom/contenu spécifique du programme."""
+    sig_short = _shorten_signal(signal_text, 120)
+    sig_key = _subject_keyword(signal_text, 6)
+
+    # Détecter si le signal mentionne IA pour adapter l'angle Cert IA
+    is_ia = any(t in signal_text.lower() for t in ["ia ", "intelligence artificielle", "artificial intelligence"])
+
+    subject = f"{compte} — {sig_key} : quelle évaluation prévue ?" if sig_key else f"{compte} — votre nouveau programme : quel dispositif d'évaluation ?"
+
+    if is_ia:
+        bloc_cert = (
+            f"\n"
+            f"3. **Cert IA** — notre badge co-construit avec des écoles "
+            f"partenaires pour les programmes IA. Concrètement, vos "
+            f"étudiants ressortent du programme avec une certification "
+            f"externe sur les compétences IA appliquées. On a une program "
+            f"beta en cours, vous pourriez en faire partie.\n"
+        )
+    else:
+        bloc_cert = ""
+
     body = (
         f"{_salutation(contact_nom)}\n"
         f"\n"
-        f"J'ai vu passer le lancement de votre nouveau programme. Le "
-        f"timing peut être bon pour penser dès maintenant le dispositif "
-        f"d'évaluation des compétences associées.\n"
+        f"J'ai vu votre actualité : « {sig_short} ». Beau lancement.\n"
         f"\n"
-        f"Chez Isograd, on accompagne plus de 60 écoles supérieures sur 2 "
-        f"sujets liés :\n"
+        f"Sur ce type de nouveau programme, le timing pour penser le "
+        f"dispositif d'évaluation des compétences est en général la "
+        f"période juste avant la première cohorte — ça permet de cadrer "
+        f"proprement la maquette pédagogique et les outils.\n"
+        f"\n"
+        f"Chez Isograd, on opère 2 solutions complémentaires pour un "
+        f"programme comme le vôtre :\n"
         f"\n"
         f"1. **Tosa** pour certifier les compétences numériques de vos "
-        f"étudiants (bureautique, code, digital) — argument concret en "
-        f"diplômation et sur le CV.\n"
+        f"étudiants (bureautique, code, digital). Argument concret en "
+        f"diplômation, sur le CV et auprès des entreprises partenaires.\n"
         f"\n"
-        f"2. **ITS** pour héberger les sessions d'examens en ligne avec "
+        f"2. **ITS** pour héberger les sessions d'examen en ligne avec "
         f"banque de questions, surveillance à distance, traçabilité "
         f"Qualiopi.\n"
+        f"{bloc_cert}"
         f"\n"
-        f"Pour un nouveau programme, on peut déployer en 4-6 semaines avec "
-        f"un budget calibré sur le volume étudiants.\n"
-        f"\n"
-        f"15 minutes pour échanger sur votre dispositif cible ?\n"
+        f"Déploiement en 4-6 semaines, budget calibré sur le volume "
+        f"étudiants. 15 minutes pour échanger sur votre cible ?\n"
         f"\n"
         f"Charles GOSSET\n"
         f"Sales Manager — Isograd / Tosa\n"
@@ -485,33 +538,42 @@ def email_draft_nouvelle_formation(compte: str, signal_text: str, url_source: st
 
 
 def email_draft_nomination_dg(compte: str, signal_text: str, url_source: str, contact_nom: str | None = None, contact_fonction: str | None = None) -> dict:
-    """Email post-nomination DG/directeur école — angle ouverture nouveaux chantiers."""
-    poste_label = (contact_fonction or "votre poste").strip()
-    subject = f"{compte} — félicitations pour votre prise de poste"
+    """Email post-nomination — intègre le poste précis + le contexte de l'annonce."""
+    poste_label = (contact_fonction or "à la direction").strip()
+    sig_short = _shorten_signal(signal_text, 130)
+
+    if contact_nom and contact_nom.strip() and contact_nom.upper() != "A ENRICHIR":
+        subject = f"Félicitations pour votre prise de poste {poste_label} chez {compte}"
+    else:
+        subject = f"{compte} — nouvelle direction : quels chantiers évaluation prévus ?"
+
     body = (
         f"{_salutation(contact_nom)}\n"
         f"\n"
-        f"Félicitations pour votre prise de poste à la direction de "
-        f"{compte}. Belle étape.\n"
+        f"J'ai noté votre arrivée {poste_label} chez {compte}.\n"
+        f"Contexte que j'ai vu passer : « {sig_short} ».\n"
+        f"\n"
+        f"Félicitations pour cette prise de poste — belle étape.\n"
         f"\n"
         f"Je me permets de vous écrire car beaucoup de directeurs récemment "
-        f"nommés dans le supérieur partagent un même constat à 90 jours : "
-        f"besoin de structurer rapidement la stratégie d'évaluation des "
-        f"compétences pour répondre aux exigences Qualiopi, RNCP, et aux "
-        f"attentes des entreprises partenaires.\n"
+        f"nommés dans le supérieur partagent le même constat à 60-90 "
+        f"jours : besoin de poser rapidement une stratégie claire sur "
+        f"l'évaluation des compétences étudiants — pour répondre aux "
+        f"exigences Qualiopi/RNCP et aux attentes des entreprises "
+        f"partenaires.\n"
         f"\n"
-        f"Chez Isograd, on opère deux solutions complémentaires utilisées "
-        f"par des écoles comparables :\n"
+        f"Chez Isograd, deux solutions utilisées par des écoles "
+        f"comparables :\n"
         f"\n"
-        f"1. **Tosa** — certification des compétences numériques étudiants "
-        f"(bureautique, code, digital). Argument fort en diplômation, sur "
-        f"le CV, et sur le classement.\n"
+        f"1. **Tosa** — certification des compétences numériques "
+        f"étudiants (bureautique, code, digital). Argument fort en "
+        f"diplômation, CV, et classements.\n"
         f"\n"
         f"2. **ITS** — plateforme d'hébergement d'examens en ligne avec "
-        f"proctoring et banque de questions, opposable audit.\n"
+        f"proctoring et banque de questions, opposable en audit.\n"
         f"\n"
-        f"15 minutes pour vous présenter ce que d'autres écoles ont mis en "
-        f"place ? Je peux m'adapter à votre agenda.\n"
+        f"15 minutes pour vous montrer ce que d'autres directions ont mis "
+        f"en place dans leurs premiers mois ?\n"
         f"\n"
         f"Charles GOSSET\n"
         f"Sales Manager — Isograd / Tosa\n"
@@ -522,26 +584,34 @@ def email_draft_nomination_dg(compte: str, signal_text: str, url_source: str, co
 
 
 def email_draft_rncp_nouveau(compte: str, signal_text: str, url_source: str, contact_nom: str | None = None, contact_fonction: str | None = None) -> dict:
-    """Email post-nouvelle fiche RNCP — angle outillage examen + traçabilité."""
-    subject = f"{compte} — votre nouvelle fiche RNCP, comment vous outillez la passation ?"
+    """Email post-nouvelle fiche RNCP — intègre l'intitulé spécifique de la fiche."""
+    sig_short = _shorten_signal(signal_text, 120)
+    sig_key = _subject_keyword(signal_text, 6)
+    subject = f"{compte} — {sig_key} : comment vous outillez la passation ?" if sig_key else f"{compte} — votre nouvelle fiche RNCP : outillage examen ?"
+
     body = (
         f"{_salutation(contact_nom)}\n"
         f"\n"
-        f"J'ai noté votre nouvelle fiche RNCP. La passation d'épreuves et "
-        f"la traçabilité des résultats sont des sujets clés sur ce type de "
-        f"certification (audit Qualiopi, contrôle France Compétences).\n"
+        f"J'ai noté votre actualité : « {sig_short} ».\n"
         f"\n"
-        f"Isograd opère ITS, une plateforme d'hébergement d'examens "
-        f"utilisée par 60+ établissements pour gérer leurs sessions de "
-        f"certification RNCP :\n"
+        f"Sur une nouvelle fiche RNCP, deux sujets pèsent vite côté "
+        f"opérationnel : la passation d'épreuves à scale, et la "
+        f"traçabilité des résultats (audit Qualiopi, contrôle France "
+        f"Compétences).\n"
         f"\n"
-        f"- **Banque de questions** structurée par bloc de compétences\n"
-        f"- **Surveillance à distance** (proctoring) avec preuves opposables\n"
+        f"Isograd opère ITS, plateforme d'hébergement d'examens utilisée "
+        f"par 60+ établissements pour leurs sessions de certification "
+        f"RNCP. Ce qui résoud concrètement le sujet :\n"
+        f"\n"
+        f"- **Banque de questions** structurée par bloc de compétences "
+        f"(directement aligné sur votre fiche)\n"
+        f"- **Surveillance à distance** (proctoring) avec preuves "
+        f"opposables\n"
         f"- **Traçabilité complète** des sessions, exportable pour audit\n"
         f"- **Génération automatique** des attestations et duplicatas\n"
         f"\n"
-        f"Si vous voulez, je peux vous montrer comment ça tourne chez une "
-        f"école de taille comparable à {compte}, en 20 minutes.\n"
+        f"20 minutes pour vous montrer comment ça tourne chez une école "
+        f"de taille comparable à {compte} ?\n"
         f"\n"
         f"Charles GOSSET\n"
         f"Sales Manager — Isograd / ITS\n"
@@ -562,6 +632,64 @@ def email_draft_for_education(signal_type: str, compte: str, signal_text: str, u
     if signal_type == "rncp_nouveau":
         return email_draft_rncp_nouveau(compte, signal_text, url_source, contact_nom, contact_fonction)
     return None
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Résumé action commerciale Education — format structuré, 4 blocs
+# ─────────────────────────────────────────────────────────────────────────────
+
+ACTION_BLOCKS_EDUCATION = {
+    "accreditation": {
+        "angle": "Tosa = preuve opposable de la qualité d'évaluation des compétences (audit Qualiopi, France Compétences). Doublement du signal extérieur dans la promotion du programme labellisé.",
+        "timing": "3 mois post-annonce — fenêtre de capitalisation médiatique encore active.",
+    },
+    "nouvelle_formation": {
+        "angle": "Cadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.",
+        "timing": "Avant le lancement de la 1re promo (4-6 semaines de déploiement).",
+    },
+    "nomination_dg": {
+        "angle": "Fenêtre stratégique post-prise de poste : nouveau directeur cherche à poser sa marque. Apport rapide = Tosa pour signal externe + ITS pour structurer la passation.",
+        "timing": "30-90 jours après l'annonce. Au-delà, la roadmap est figée.",
+    },
+    "fusion_ecole": {
+        "angle": "Harmoniser les référentiels d'évaluation entre les entités fusionnées. ITS = plateforme unifiée pour tous les programmes du nouvel ensemble.",
+        "timing": "6-12 mois post-annonce — phase d'intégration opérationnelle.",
+    },
+    "rncp_nouveau": {
+        "angle": "Outillage de la passation à scale + traçabilité opposable en audit. Banque de questions par bloc, proctoring, attestations auto.",
+        "timing": "Période de mise en place de la 1re session de certification (3-6 mois).",
+    },
+}
+
+
+def format_action_education(signal_type: str, signal_text: str, action_custom: str | None = None) -> str:
+    """
+    Construit une action commerciale Education structurée en 4 blocs :
+    - Signal détecté
+    - Action concrète à mener
+    - Angle pitch ITS/Tosa
+    - Timing / fenêtre
+    """
+    sig_short = _shorten_signal(signal_text, 200) if signal_text else "(signal sans description)"
+    block = ACTION_BLOCKS_EDUCATION.get(signal_type, {})
+    angle = block.get("angle", "Tosa pour valoriser les compétences numériques, ITS pour standardiser l'évaluation à scale.")
+    timing = block.get("timing", "À traiter sous 30 jours pour rester dans la fenêtre d'opportunité.")
+
+    action_line = action_custom.strip() if action_custom and action_custom.strip() else "LinkedIn DM + email court FR avec one-pager Tosa adapté."
+
+    return (
+        f"📋 **Signal détecté**\n"
+        f"{sig_short}\n"
+        f"\n"
+        f"🎯 **Action à mener**\n"
+        f"{action_line}\n"
+        f"\n"
+        f"💡 **Angle pitch ITS/Tosa**\n"
+        f"{angle}\n"
+        f"\n"
+        f"📅 **Timing**\n"
+        f"{timing}"
+    )
 
 
 def email_draft_ao(compte: str, titre_ao: str, deadline: str, url_dce: str) -> dict:
