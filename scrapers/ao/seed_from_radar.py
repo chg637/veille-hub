@@ -277,22 +277,73 @@ def _map_signal_type(notice: dict) -> str:
     return "ao_publie"
 
 
+def _detect_segment_from_acheteur(acheteur: str) -> Optional[str]:
+    """
+    Détection segment à partir du nom de l'acheteur (fallback quand le Radar AO
+    n'a pas pu segmenter).
+    """
+    a = (acheteur or "").lower()
+    # FPH — Fonction publique hospitalière
+    fph_markers = ["ap-hp", "aphp", "ap hp", "chu ", "chu-", "centre hospitalier",
+                   "hôpital", "hopital", "ars ", "anfh", "ght ", "ehpad",
+                   "cfdc", "centre de formation des soins"]
+    if any(m in a for m in fph_markers):
+        return "FPH"
+    # ESR
+    esr_markers = ["université", "universite", "iut ", "école", "ecole sup",
+                   "polytech", "iae ", "comue", "epscp", "school", "college"]
+    if any(m in a for m in esr_markers):
+        return "ESR"
+    # Consulaire
+    if any(m in a for m in ["cci ", "cci-", "cma ", "chambre de métiers",
+                             "chambre des métiers", "chambre de commerce"]):
+        return "Consulaire"
+    # État
+    if any(m in a for m in ["ministère", "ministere", "préfecture", "prefecture",
+                             "dgfip", "douanes", "armée", "intérieur", "interior",
+                             "ena", "insp", "dinum"]):
+        return "État"
+    # Collectivités
+    if any(m in a for m in ["région ", "region ", "conseil régional", "département",
+                             "departement", "conseil départemental", "métropole",
+                             "metropole", "communauté", "communaute", "ville de",
+                             "mairie", "cnfpt"]):
+        return "Collectivités"
+    # OPCO
+    if "opco" in a or "afdas" in a or "akto" in a or "atlas" in a:
+        return "OPCO"
+    return None
+
+
 def _map_sous_segment(notice: dict) -> str:
     """
     Mapping du segment Radar AO vers un libellé lisible.
+    Fallback : détection à partir du nom de l'acheteur si Radar AO renvoie "Autre".
     """
     seg = notice.get("segment") or ""
+    acheteur = notice.get("acheteur") or ""
+
+    # Fallback intelligent si le Radar AO n'a pas su segmenter
+    if seg in ("", "Autre"):
+        detected = _detect_segment_from_acheteur(acheteur)
+        if detected:
+            seg = detected
+
     if seg == "Collectivités":
         return "Marché public Collectivité"
     if seg == "Consulaire":
         return "Marché public Consulaire (CCI/CMA)"
-    if seg == "Autre":
-        return "Marché public — secteur à qualifier"
-    if seg == "Universités":
-        return "Marché public Université"
+    if seg == "Universités" or seg == "ESR":
+        return "Marché public ESR (Enseignement Supérieur)"
     if seg == "OPCO":
         return "Marché public OPCO"
-    return seg or "Marché public formation"
+    if seg == "FPH":
+        return "Marché public FPH (Hôpitaux / CHU / AP-HP)"
+    if seg == "État":
+        return "Marché public État / Ministères"
+    if seg == "Autre" or not seg:
+        return "Marché public — secteur à qualifier"
+    return seg
 
 
 def _source_tier_for(source: str) -> int:
@@ -366,8 +417,14 @@ def scrape() -> list[Signal]:
         tier = determine_tier(score)
         source_tier = _source_tier_for(source)
 
-        # Action commerciale enrichie selon segment acheteur + CPV
+        # Segment : on prend ce que renvoie le Radar AO, sinon on déduit
         segment_brut = n.get("segment") or "Autre"
+        if segment_brut in ("", "Autre"):
+            detected = _detect_segment_from_acheteur(acheteur)
+            if detected:
+                segment_brut = detected
+
+        # Action commerciale enrichie selon segment acheteur + CPV
         enriched_action = _generate_ao_action(n, signal_type, segment_brut)
         action_info = {
             "action": enriched_action,

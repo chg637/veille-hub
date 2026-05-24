@@ -225,6 +225,12 @@
     border-radius: 0 7px 7px 0;
     font-size: 12px;
     color: #78350F;
+    white-space: pre-line;
+    line-height: 1.55;
+  }
+  .sig-body .action-reco strong:first-child {
+    display: block;
+    margin-bottom: 4px;
   }
   .sig-body .action-reco strong {
     color: #92400E;
@@ -433,16 +439,44 @@ async function loadSignals(vertical) {
   }
 }
 
-function scoreClass(score) {
+function scoreClass(signal) {
+  // Si deadline AO proche (< 30j), on force le badge en "warm" pour signaler l'urgence
+  const daysToDeadline = deadlineDaysLeft(signal);
+  if (daysToDeadline !== null && daysToDeadline <= 30 && daysToDeadline >= 0) {
+    return "warm";
+  }
+  const score = signal.score;
   if (score >= 80) return "hot";
   if (score >= 60) return "warm";
   return "cold";
 }
 
-function scoreLabel(score) {
+function scoreLabel(signal) {
+  // Si deadline AO proche, on prime l'urgence
+  const daysToDeadline = deadlineDaysLeft(signal);
+  if (daysToDeadline !== null && daysToDeadline >= 0 && daysToDeadline <= 14) {
+    return "J-" + daysToDeadline;
+  }
+  if (daysToDeadline !== null && daysToDeadline > 14 && daysToDeadline <= 30) {
+    return "URGENT";
+  }
+  const score = signal.score;
   if (score >= 80) return "HOT";
   if (score >= 60) return "WARM";
   return "COLD";
+}
+
+function deadlineDaysLeft(signal) {
+  const d = signal.deadline_action;
+  if (!d) return null;
+  // Format attendu : YYYY-MM-DD
+  const m = String(d).match(/(\d{4})-(\d{2})-(\d{2})/);
+  if (!m) return null;
+  const target = new Date(`${m[1]}-${m[2]}-${m[3]}T12:00:00Z`);
+  const now = new Date();
+  const diffMs = target - now;
+  const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
+  return diffDays;
 }
 
 function tierLabel(tier) { return "T" + tier; }
@@ -515,9 +549,9 @@ function renderSignal(s) {
 
   return `
     <div class="signal" data-vert="${s.vertical}">
-      <div class="score ${scoreClass(s.score)}">
+      <div class="score ${scoreClass(s)}">
         <div class="score-n">${s.score}</div>
-        <div class="score-l">${scoreLabel(s.score)}</div>
+        <div class="score-l">${scoreLabel(s)}</div>
       </div>
       <div class="sig-body">
         <h3>${titleHtml}</h3>
