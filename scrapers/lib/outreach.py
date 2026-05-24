@@ -52,6 +52,113 @@ def linkedin_search_url(company: str, title_keywords: list[str]) -> str:
 # ─────────────────────────────────────────────────────────────────────────────
 
 PERSONAS_BY_SIGNAL = {
+    # ─── Education ─────────────────────────────────────────────────────────
+    "accreditation": [
+        {
+            "poste": "Directeur(rice) des certifications",
+            "alternatives": ["Responsable Qualiopi", "Responsable des certifications"],
+            "priorite": 1,
+            "raison": "Pilote la conformité audit et la valorisation du label",
+        },
+        {
+            "poste": "Directeur(rice) des programmes / Académique",
+            "alternatives": ["Doyen", "Doyenne", "VP Pédagogie", "Directeur(rice) pédagogique"],
+            "priorite": 2,
+            "raison": "Sponsorise les outils d'évaluation des étudiants",
+        },
+        {
+            "poste": "Directeur(rice) Communication / Marketing",
+            "alternatives": ["Responsable Communication", "Responsable Marketing"],
+            "priorite": 3,
+            "raison": "Valorise le label dans la promotion (Tosa = preuve compétences)",
+        },
+    ],
+    "nouvelle_formation": [
+        {
+            "poste": "Responsable du programme / Directeur(rice) de la formation",
+            "alternatives": ["Coordinateur(rice) pédagogique", "Responsable de filière"],
+            "priorite": 1,
+            "raison": "Définit le dispositif d'évaluation du nouveau programme",
+        },
+        {
+            "poste": "Doyen / Directeur(rice) académique",
+            "alternatives": ["VP Pédagogie", "Directeur(rice) des études"],
+            "priorite": 2,
+            "raison": "Arbitrage sur l'outillage évaluation à l'échelle de l'établissement",
+        },
+        {
+            "poste": "Responsable RNCP / Certifications",
+            "alternatives": ["Référent qualité", "Responsable Qualiopi"],
+            "priorite": 3,
+            "raison": "Cadrage Qualiopi / preuve d'évaluation pour la certification",
+        },
+    ],
+    "nomination_dg": [
+        {
+            "poste": "Le(la) nouveau(elle) directeur(rice) directement",
+            "alternatives": ["Directeur(rice) général(e)", "Présidence"],
+            "priorite": 1,
+            "raison": "Fenêtre 30-90j post-prise de poste — ouvert aux nouveaux chantiers",
+        },
+        {
+            "poste": "Directeur(rice) de cabinet / Adjoint(e)",
+            "alternatives": ["Bras droit", "Chief of Staff"],
+            "priorite": 2,
+            "raison": "Pré-qualifie les dossiers stratégiques du nouveau directeur",
+        },
+        {
+            "poste": "Directeur(rice) des programmes / Académique",
+            "alternatives": ["Doyen", "VP Pédagogie"],
+            "priorite": 3,
+            "raison": "Souvent en pleine relecture de la roadmap pédagogique post-nomination",
+        },
+    ],
+    "fusion_ecole": [
+        {
+            "poste": "Direction de la transition / intégration",
+            "alternatives": ["Directeur(rice) général(e)", "Chief Transformation Officer"],
+            "priorite": 1,
+            "raison": "Coordonne l'harmonisation des process — incluant l'évaluation",
+        },
+        {
+            "poste": "Directeur(rice) des certifications",
+            "alternatives": ["Responsable Qualiopi", "Responsable RNCP"],
+            "priorite": 2,
+            "raison": "Doit unifier les référentiels certifs des entités fusionnées",
+        },
+    ],
+    "rncp_nouveau": [
+        {
+            "poste": "Responsable RNCP / France Compétences",
+            "alternatives": ["Responsable des certifications", "Référent qualité"],
+            "priorite": 1,
+            "raison": "Gère la passation et la traçabilité de la nouvelle certification",
+        },
+        {
+            "poste": "Directeur(rice) pédagogique",
+            "alternatives": ["Directeur(rice) des programmes", "Doyen(ne)"],
+            "priorite": 2,
+            "raison": "Conçoit le dispositif d'évaluation associé à la fiche RNCP",
+        },
+    ],
+
+    # ─── OF (Organismes de formation) ──────────────────────────────────────
+    "levee_edtech": [
+        {
+            "poste": "Chief Product Officer / Product Director",
+            "alternatives": ["VP Product", "Directeur produit"],
+            "priorite": 1,
+            "raison": "Decide les briques techniques après levée (white-label, infra évaluation)",
+        },
+        {
+            "poste": "Head of Content / Pédagogie",
+            "alternatives": ["Directeur pédagogique", "Head of Learning"],
+            "priorite": 2,
+            "raison": "Pilote la qualité pédagogique — banque de questions, certifs",
+        },
+    ],
+
+    # ─── Corporate ─────────────────────────────────────────────────────────
     "levee_fonds": [
         {
             "poste": "Chief People Officer",
@@ -125,14 +232,38 @@ PERSONAS_BY_SIGNAL = {
 }
 
 
-def get_contacts_cibles(signal_type: str, compte: str) -> list[dict]:
+def get_contacts_cibles(signal_type: str, compte: str, contact_known_nom: str | None = None, contact_known_fonction: str | None = None) -> list[dict]:
     """
     Retourne la liste de contacts cibles avec URL Sales Nav préfilled.
+
+    Si `contact_known_nom` est fourni (cas du CSV Radar Hebdo Tosa ou
+    enrichissement manuel), il est placé en priorité 0 (cible directe).
     """
-    personas = PERSONAS_BY_SIGNAL.get(signal_type, [])
     contacts = []
+
+    # P0 : contact réel connu (CSV curated, enrichissement manuel)
+    if contact_known_nom and contact_known_nom.strip() and contact_known_nom.upper() != "A ENRICHIR":
+        nom = contact_known_nom.strip()
+        fonction = (contact_known_fonction or "Contact identifié").strip()
+        # Construire URL LinkedIn search par nom + entreprise
+        keywords = f'"{nom}" {compte}'
+        public_url = f"https://www.linkedin.com/search/results/people/?keywords={urllib.parse.quote(keywords)}"
+        contacts.append({
+            "poste": f"{nom} — {fonction}",
+            "alternatives": [],
+            "priorite": 0,
+            "raison": "Contact identifié — cible directe",
+            "sales_nav_url": public_url,
+            "linkedin_public_url": public_url,
+        })
+
+    # P1, P2, P3 : typologie de postes selon signal_type
+    personas = PERSONAS_BY_SIGNAL.get(signal_type, [])
     for p in personas:
-        # Construire l'URL Sales Nav avec poste + alternatives
+        # Si on a déjà ce contact en P0, on ne re-propose pas la typologie qui matche
+        if contact_known_nom and contact_known_fonction:
+            if p["poste"].lower() in contact_known_fonction.lower() or contact_known_fonction.lower() in p["poste"].lower():
+                continue
         all_titles = [p["poste"]] + p.get("alternatives", [])
         contacts.append({
             "poste": p["poste"],
@@ -271,6 +402,166 @@ def email_draft_nomination(personne: str, poste: str, entreprise: str, url_sourc
         f"Source de l'annonce : {url_source}"
     )
     return {"subject": subject, "body": body}
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Templates EDUCATION
+# ─────────────────────────────────────────────────────────────────────────────
+
+def _salutation(contact_nom: str | None) -> str:
+    """Salutation personnalisée si on a un nom, sinon générique."""
+    if contact_nom and contact_nom.strip() and contact_nom.upper() != "A ENRICHIR":
+        # Extraire le prénom si format "Prénom NOM" ou "Prénom Nom"
+        parts = contact_nom.strip().split()
+        if parts:
+            prenom = parts[0]
+            return f"Bonjour {prenom},"
+    return "Bonjour,"
+
+
+def email_draft_accreditation(compte: str, signal_text: str, url_source: str, contact_nom: str | None = None, contact_fonction: str | None = None) -> dict:
+    """Email post-accréditation/labellisation — angle valorisation + audit."""
+    subject = f"{compte} — votre labellisation, et après ?"
+    body = (
+        f"{_salutation(contact_nom)}\n"
+        f"\n"
+        f"Bravo pour cette labellisation. Côté Isograd, on accompagne "
+        f"beaucoup d'écoles et d'universités qui viennent d'obtenir ce type "
+        f"de label : la question qui revient toujours, c'est comment "
+        f"capitaliser sur cette reconnaissance sur les 2-3 prochaines années.\n"
+        f"\n"
+        f"Deux usages typiques chez nos clients labellisés :\n"
+        f"\n"
+        f"1. **Renforcer la preuve d'évaluation des compétences** des "
+        f"étudiants avec Tosa (bureautique, digital, code). C'est "
+        f"directement opposable en audit Qualiopi et France Compétences.\n"
+        f"\n"
+        f"2. **Doubler le signal extérieur** en intégrant Tosa dans la "
+        f"promotion du programme labellisé — argument concret pour les "
+        f"candidats, les entreprises partenaires et les classements.\n"
+        f"\n"
+        f"15 minutes pour vous présenter ce que ça donnerait chez {compte} ?\n"
+        f"\n"
+        f"Charles GOSSET\n"
+        f"Sales Manager — Isograd / Tosa\n"
+        f"\n"
+        f"Source : {url_source}"
+    )
+    return {"subject": subject, "body": body}
+
+
+def email_draft_nouvelle_formation(compte: str, signal_text: str, url_source: str, contact_nom: str | None = None, contact_fonction: str | None = None) -> dict:
+    """Email post-lancement nouvelle formation — angle évaluation candidats + Qualiopi."""
+    subject = f"{compte} — votre nouveau programme : quel dispositif d'évaluation ?"
+    body = (
+        f"{_salutation(contact_nom)}\n"
+        f"\n"
+        f"J'ai vu passer le lancement de votre nouveau programme. Le "
+        f"timing peut être bon pour penser dès maintenant le dispositif "
+        f"d'évaluation des compétences associées.\n"
+        f"\n"
+        f"Chez Isograd, on accompagne plus de 60 écoles supérieures sur 2 "
+        f"sujets liés :\n"
+        f"\n"
+        f"1. **Tosa** pour certifier les compétences numériques de vos "
+        f"étudiants (bureautique, code, digital) — argument concret en "
+        f"diplômation et sur le CV.\n"
+        f"\n"
+        f"2. **ITS** pour héberger les sessions d'examens en ligne avec "
+        f"banque de questions, surveillance à distance, traçabilité "
+        f"Qualiopi.\n"
+        f"\n"
+        f"Pour un nouveau programme, on peut déployer en 4-6 semaines avec "
+        f"un budget calibré sur le volume étudiants.\n"
+        f"\n"
+        f"15 minutes pour échanger sur votre dispositif cible ?\n"
+        f"\n"
+        f"Charles GOSSET\n"
+        f"Sales Manager — Isograd / Tosa\n"
+        f"\n"
+        f"Source : {url_source}"
+    )
+    return {"subject": subject, "body": body}
+
+
+def email_draft_nomination_dg(compte: str, signal_text: str, url_source: str, contact_nom: str | None = None, contact_fonction: str | None = None) -> dict:
+    """Email post-nomination DG/directeur école — angle ouverture nouveaux chantiers."""
+    poste_label = (contact_fonction or "votre poste").strip()
+    subject = f"{compte} — félicitations pour votre prise de poste"
+    body = (
+        f"{_salutation(contact_nom)}\n"
+        f"\n"
+        f"Félicitations pour votre prise de poste à la direction de "
+        f"{compte}. Belle étape.\n"
+        f"\n"
+        f"Je me permets de vous écrire car beaucoup de directeurs récemment "
+        f"nommés dans le supérieur partagent un même constat à 90 jours : "
+        f"besoin de structurer rapidement la stratégie d'évaluation des "
+        f"compétences pour répondre aux exigences Qualiopi, RNCP, et aux "
+        f"attentes des entreprises partenaires.\n"
+        f"\n"
+        f"Chez Isograd, on opère deux solutions complémentaires utilisées "
+        f"par des écoles comparables :\n"
+        f"\n"
+        f"1. **Tosa** — certification des compétences numériques étudiants "
+        f"(bureautique, code, digital). Argument fort en diplômation, sur "
+        f"le CV, et sur le classement.\n"
+        f"\n"
+        f"2. **ITS** — plateforme d'hébergement d'examens en ligne avec "
+        f"proctoring et banque de questions, opposable audit.\n"
+        f"\n"
+        f"15 minutes pour vous présenter ce que d'autres écoles ont mis en "
+        f"place ? Je peux m'adapter à votre agenda.\n"
+        f"\n"
+        f"Charles GOSSET\n"
+        f"Sales Manager — Isograd / Tosa\n"
+        f"\n"
+        f"Source de l'info : {url_source}"
+    )
+    return {"subject": subject, "body": body}
+
+
+def email_draft_rncp_nouveau(compte: str, signal_text: str, url_source: str, contact_nom: str | None = None, contact_fonction: str | None = None) -> dict:
+    """Email post-nouvelle fiche RNCP — angle outillage examen + traçabilité."""
+    subject = f"{compte} — votre nouvelle fiche RNCP, comment vous outillez la passation ?"
+    body = (
+        f"{_salutation(contact_nom)}\n"
+        f"\n"
+        f"J'ai noté votre nouvelle fiche RNCP. La passation d'épreuves et "
+        f"la traçabilité des résultats sont des sujets clés sur ce type de "
+        f"certification (audit Qualiopi, contrôle France Compétences).\n"
+        f"\n"
+        f"Isograd opère ITS, une plateforme d'hébergement d'examens "
+        f"utilisée par 60+ établissements pour gérer leurs sessions de "
+        f"certification RNCP :\n"
+        f"\n"
+        f"- **Banque de questions** structurée par bloc de compétences\n"
+        f"- **Surveillance à distance** (proctoring) avec preuves opposables\n"
+        f"- **Traçabilité complète** des sessions, exportable pour audit\n"
+        f"- **Génération automatique** des attestations et duplicatas\n"
+        f"\n"
+        f"Si vous voulez, je peux vous montrer comment ça tourne chez une "
+        f"école de taille comparable à {compte}, en 20 minutes.\n"
+        f"\n"
+        f"Charles GOSSET\n"
+        f"Sales Manager — Isograd / ITS\n"
+        f"\n"
+        f"Source : {url_source}"
+    )
+    return {"subject": subject, "body": body}
+
+
+def email_draft_for_education(signal_type: str, compte: str, signal_text: str, url_source: str, contact_nom: str | None = None, contact_fonction: str | None = None) -> dict | None:
+    """Dispatcher : retourne le bon template selon signal_type, ou None si non supporté."""
+    if signal_type == "accreditation":
+        return email_draft_accreditation(compte, signal_text, url_source, contact_nom, contact_fonction)
+    if signal_type == "nouvelle_formation":
+        return email_draft_nouvelle_formation(compte, signal_text, url_source, contact_nom, contact_fonction)
+    if signal_type == "nomination_dg":
+        return email_draft_nomination_dg(compte, signal_text, url_source, contact_nom, contact_fonction)
+    if signal_type == "rncp_nouveau":
+        return email_draft_rncp_nouveau(compte, signal_text, url_source, contact_nom, contact_fonction)
+    return None
 
 
 def email_draft_ao(compte: str, titre_ao: str, deadline: str, url_dce: str) -> dict:

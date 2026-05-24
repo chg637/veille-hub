@@ -19,6 +19,7 @@ from scrapers.lib.schema import Signal, fingerprint, merge_signals, save_signals
 from scrapers.lib.scoring import base_score, determine_tier, produit_match_for  # noqa: E402
 from scrapers.lib.actions import generate_action  # noqa: E402
 from scrapers.lib.rss_helpers import fetch_rss, matches_any, extract_compte, is_editorial_noise  # noqa: E402
+from scrapers.lib.outreach import email_draft_for_education, get_contacts_cibles  # noqa: E402
 
 logger = logging.getLogger(__name__)
 
@@ -76,6 +77,15 @@ def scrape(limit: int = 30) -> list[Signal]:
         tier = determine_tier(score)
         action_info = generate_action(signal_type, VERTICAL, compte=compte)
 
+        # Enrichissement outreach : mail drafté + contacts cibles typologiques
+        email_dr = email_draft_for_education(
+            signal_type=signal_type,
+            compte=compte,
+            signal_text=description,
+            url_source=item["link"],
+        )
+        contacts = get_contacts_cibles(signal_type, compte)
+
         sig = Signal(
             id=fingerprint(title, compte, item["date_iso"]),
             date_capture=today,
@@ -96,6 +106,8 @@ def scrape(limit: int = 30) -> list[Signal]:
             deadline_action=action_info["deadline_action"],
             status="new",
             date_publication=item["date_iso"],
+            email_draft=email_dr,
+            contacts_cibles=contacts,
         )
         signals.append(sig)
         logger.info("[%s] [%s/%s] [pub=%s] %s", SOURCE_NAME, VERTICAL, signal_type, item["date_iso"], title[:70])

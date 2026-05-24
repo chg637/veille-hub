@@ -28,6 +28,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 
 from scrapers.lib.schema import Signal, fingerprint, merge_signals, save_signals, load_signals  # noqa: E402
 from scrapers.lib.scoring import determine_tier, produit_match_for  # noqa: E402
+from scrapers.lib.outreach import email_draft_for_education, get_contacts_cibles  # noqa: E402
 
 logger = logging.getLogger(__name__)
 
@@ -130,6 +131,22 @@ def _build_signal(row: dict, today_iso: str) -> Optional[Signal]:
     # pour éviter qu'un signal soit ré-inséré chaque jour avec un id différent.
     fp_date = date_pub or "stable"
 
+    # Enrichissement outreach : mail drafté + contacts (avec contact réel CSV en P0)
+    email_dr = email_draft_for_education(
+        signal_type=signal_type,
+        compte=etab,
+        signal_text=signal_text,
+        url_source=url,
+        contact_nom=contact_nom or None,
+        contact_fonction=contact_fonction or None,
+    )
+    contacts = get_contacts_cibles(
+        signal_type=signal_type,
+        compte=etab,
+        contact_known_nom=contact_nom or None,
+        contact_known_fonction=contact_fonction or None,
+    )
+
     sig = Signal(
         id=fingerprint(titre + " " + section, etab, fp_date),
         date_capture=today_iso,
@@ -150,6 +167,8 @@ def _build_signal(row: dict, today_iso: str) -> Optional[Signal]:
         deadline_action=None,
         status="new",
         date_publication=date_pub or today_iso,
+        email_draft=email_dr,
+        contacts_cibles=contacts,
     )
     return sig
 

@@ -22,8 +22,47 @@
     "deadline_action": "2026-05-31",
     "status": "new",
     "date_publication": "2026-04-29",
-    "email_draft": null,
-    "contacts_cibles": []
+    "email_draft": {
+      "subject": "CGE — votre labellisation, et après ?",
+      "body": "Bonjour,\n\nBravo pour cette labellisation. Côté Isograd, on accompagne beaucoup d'écoles et d'universités qui viennent d'obtenir ce type de label : la question qui revient toujours, c'est comment capitaliser sur cette reconnaissance sur les 2-3 prochaines années.\n\nDeux usages typiques chez nos clients labellisés :\n\n1. **Renforcer la preuve d'évaluation des compétences** des étudiants avec Tosa (bureautique, digital, code). C'est directement opposable en audit Qualiopi et France Compétences.\n\n2. **Doubler le signal extérieur** en intégrant Tosa dans la promotion du programme labellisé — argument concret pour les candidats, les entreprises partenaires et les classements.\n\n15 minutes pour vous présenter ce que ça donnerait chez CGE ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://www.cge.asso.fr/liste-actualites/labellisations-cge-avril-2026/"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Directeur(rice) des certifications",
+        "alternatives": [
+          "Responsable Qualiopi",
+          "Responsable des certifications"
+        ],
+        "priorite": 1,
+        "raison": "Pilote la conformité audit et la valorisation du label",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+des+certifications%22+OR+%22Responsable+Qualiopi%22+OR+%22Responsable+des+certifications%22&currentCompany=CGE",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22CGE%22%20Directeur%28rice%29%20des%20certifications%20Responsable%20Qualiopi%20Responsable%20des%20certifications"
+      },
+      {
+        "poste": "Directeur(rice) des programmes / Académique",
+        "alternatives": [
+          "Doyen",
+          "Doyenne",
+          "VP Pédagogie",
+          "Directeur(rice) pédagogique"
+        ],
+        "priorite": 2,
+        "raison": "Sponsorise les outils d'évaluation des étudiants",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+des+programmes+%2F+Acad%C3%A9mique%22+OR+%22Doyen%22+OR+%22Doyenne%22+OR+%22VP+P%C3%A9dagogie%22+OR+%22Directeur%28rice%29+p%C3%A9dagogique%22&currentCompany=CGE",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22CGE%22%20Directeur%28rice%29%20des%20programmes%20/%20Acad%C3%A9mique%20Doyen%20Doyenne%20VP%20P%C3%A9dagogie%20Directeur%28rice%29%20p%C3%A9dagogique"
+      },
+      {
+        "poste": "Directeur(rice) Communication / Marketing",
+        "alternatives": [
+          "Responsable Communication",
+          "Responsable Marketing"
+        ],
+        "priorite": 3,
+        "raison": "Valorise le label dans la promotion (Tosa = preuve compétences)",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+Communication+%2F+Marketing%22+OR+%22Responsable+Communication%22+OR+%22Responsable+Marketing%22&currentCompany=CGE",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22CGE%22%20Directeur%28rice%29%20Communication%20/%20Marketing%20Responsable%20Communication%20Responsable%20Marketing"
+      }
+    ]
   },
   {
     "id": "sig-2026-01-19-4880fa2c26b5",
@@ -48,8 +87,45 @@
     "deadline_action": null,
     "status": "new",
     "date_publication": "2026-01-19",
-    "email_draft": null,
-    "contacts_cibles": []
+    "email_draft": {
+      "subject": "SKEMA Business School — votre nouveau programme : quel dispositif d'évaluation ?",
+      "body": "Bonjour,\n\nJ'ai vu passer le lancement de votre nouveau programme. Le timing peut être bon pour penser dès maintenant le dispositif d'évaluation des compétences associées.\n\nChez Isograd, on accompagne plus de 60 écoles supérieures sur 2 sujets liés :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital) — argument concret en diplômation et sur le CV.\n\n2. **ITS** pour héberger les sessions d'examens en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\nPour un nouveau programme, on peut déployer en 4-6 semaines avec un budget calibré sur le volume étudiants.\n\n15 minutes pour échanger sur votre dispositif cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://www.skema.edu/fr/communique-de-presses/skema-business-school-lance-son-premier-bachelor-en-trois-ans"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Responsable du programme / Directeur(rice) de la formation",
+        "alternatives": [
+          "Coordinateur(rice) pédagogique",
+          "Responsable de filière"
+        ],
+        "priorite": 1,
+        "raison": "Définit le dispositif d'évaluation du nouveau programme",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+du+programme+%2F+Directeur%28rice%29+de+la+formation%22+OR+%22Coordinateur%28rice%29+p%C3%A9dagogique%22+OR+%22Responsable+de+fili%C3%A8re%22&currentCompany=SKEMA+Business+School",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22SKEMA%20Business%20School%22%20Responsable%20du%20programme%20/%20Directeur%28rice%29%20de%20la%20formation%20Coordinateur%28rice%29%20p%C3%A9dagogique%20Responsable%20de%20fili%C3%A8re"
+      },
+      {
+        "poste": "Doyen / Directeur(rice) académique",
+        "alternatives": [
+          "VP Pédagogie",
+          "Directeur(rice) des études"
+        ],
+        "priorite": 2,
+        "raison": "Arbitrage sur l'outillage évaluation à l'échelle de l'établissement",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Doyen+%2F+Directeur%28rice%29+acad%C3%A9mique%22+OR+%22VP+P%C3%A9dagogie%22+OR+%22Directeur%28rice%29+des+%C3%A9tudes%22&currentCompany=SKEMA+Business+School",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22SKEMA%20Business%20School%22%20Doyen%20/%20Directeur%28rice%29%20acad%C3%A9mique%20VP%20P%C3%A9dagogie%20Directeur%28rice%29%20des%20%C3%A9tudes"
+      },
+      {
+        "poste": "Responsable RNCP / Certifications",
+        "alternatives": [
+          "Référent qualité",
+          "Responsable Qualiopi"
+        ],
+        "priorite": 3,
+        "raison": "Cadrage Qualiopi / preuve d'évaluation pour la certification",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+Certifications%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22+OR+%22Responsable+Qualiopi%22&currentCompany=SKEMA+Business+School",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22SKEMA%20Business%20School%22%20Responsable%20RNCP%20/%20Certifications%20R%C3%A9f%C3%A9rent%20qualit%C3%A9%20Responsable%20Qualiopi"
+      }
+    ]
   },
   {
     "id": "sig-2026-02-01-5c1d41c5837e",
@@ -74,8 +150,45 @@
     "deadline_action": null,
     "status": "new",
     "date_publication": "2026-02-01",
-    "email_draft": null,
-    "contacts_cibles": []
+    "email_draft": {
+      "subject": "Ecole polytechnique — votre nouveau programme : quel dispositif d'évaluation ?",
+      "body": "Bonjour,\n\nJ'ai vu passer le lancement de votre nouveau programme. Le timing peut être bon pour penser dès maintenant le dispositif d'évaluation des compétences associées.\n\nChez Isograd, on accompagne plus de 60 écoles supérieures sur 2 sujets liés :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital) — argument concret en diplômation et sur le CV.\n\n2. **ITS** pour héberger les sessions d'examens en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\nPour un nouveau programme, on peut déployer en 4-6 semaines avec un budget calibré sur le volume étudiants.\n\n15 minutes pour échanger sur votre dispositif cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://www.polytechnique.edu/en/news/llga-new-msct-track-focused-creating-value-through-ai-businesses"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Responsable du programme / Directeur(rice) de la formation",
+        "alternatives": [
+          "Coordinateur(rice) pédagogique",
+          "Responsable de filière"
+        ],
+        "priorite": 1,
+        "raison": "Définit le dispositif d'évaluation du nouveau programme",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+du+programme+%2F+Directeur%28rice%29+de+la+formation%22+OR+%22Coordinateur%28rice%29+p%C3%A9dagogique%22+OR+%22Responsable+de+fili%C3%A8re%22&currentCompany=Ecole+polytechnique",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Ecole%20polytechnique%22%20Responsable%20du%20programme%20/%20Directeur%28rice%29%20de%20la%20formation%20Coordinateur%28rice%29%20p%C3%A9dagogique%20Responsable%20de%20fili%C3%A8re"
+      },
+      {
+        "poste": "Doyen / Directeur(rice) académique",
+        "alternatives": [
+          "VP Pédagogie",
+          "Directeur(rice) des études"
+        ],
+        "priorite": 2,
+        "raison": "Arbitrage sur l'outillage évaluation à l'échelle de l'établissement",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Doyen+%2F+Directeur%28rice%29+acad%C3%A9mique%22+OR+%22VP+P%C3%A9dagogie%22+OR+%22Directeur%28rice%29+des+%C3%A9tudes%22&currentCompany=Ecole+polytechnique",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Ecole%20polytechnique%22%20Doyen%20/%20Directeur%28rice%29%20acad%C3%A9mique%20VP%20P%C3%A9dagogie%20Directeur%28rice%29%20des%20%C3%A9tudes"
+      },
+      {
+        "poste": "Responsable RNCP / Certifications",
+        "alternatives": [
+          "Référent qualité",
+          "Responsable Qualiopi"
+        ],
+        "priorite": 3,
+        "raison": "Cadrage Qualiopi / preuve d'évaluation pour la certification",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+Certifications%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22+OR+%22Responsable+Qualiopi%22&currentCompany=Ecole+polytechnique",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Ecole%20polytechnique%22%20Responsable%20RNCP%20/%20Certifications%20R%C3%A9f%C3%A9rent%20qualit%C3%A9%20Responsable%20Qualiopi"
+      }
+    ]
   },
   {
     "id": "sig-2026-02-01-db338c98dff8",
@@ -100,8 +213,45 @@
     "deadline_action": null,
     "status": "new",
     "date_publication": "2026-02-01",
-    "email_draft": null,
-    "contacts_cibles": []
+    "email_draft": {
+      "subject": "aivancity — votre nouveau programme : quel dispositif d'évaluation ?",
+      "body": "Bonjour,\n\nJ'ai vu passer le lancement de votre nouveau programme. Le timing peut être bon pour penser dès maintenant le dispositif d'évaluation des compétences associées.\n\nChez Isograd, on accompagne plus de 60 écoles supérieures sur 2 sujets liés :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital) — argument concret en diplômation et sur le CV.\n\n2. **ITS** pour héberger les sessions d'examens en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\nPour un nouveau programme, on peut déployer en 4-6 semaines avec un budget calibré sur le volume étudiants.\n\n15 minutes pour échanger sur votre dispositif cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://www.aivancity.ai/etudiant-et-professionnel/programme/msc-intelligences-artificielles-generatives"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Responsable du programme / Directeur(rice) de la formation",
+        "alternatives": [
+          "Coordinateur(rice) pédagogique",
+          "Responsable de filière"
+        ],
+        "priorite": 1,
+        "raison": "Définit le dispositif d'évaluation du nouveau programme",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+du+programme+%2F+Directeur%28rice%29+de+la+formation%22+OR+%22Coordinateur%28rice%29+p%C3%A9dagogique%22+OR+%22Responsable+de+fili%C3%A8re%22&currentCompany=aivancity",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22aivancity%22%20Responsable%20du%20programme%20/%20Directeur%28rice%29%20de%20la%20formation%20Coordinateur%28rice%29%20p%C3%A9dagogique%20Responsable%20de%20fili%C3%A8re"
+      },
+      {
+        "poste": "Doyen / Directeur(rice) académique",
+        "alternatives": [
+          "VP Pédagogie",
+          "Directeur(rice) des études"
+        ],
+        "priorite": 2,
+        "raison": "Arbitrage sur l'outillage évaluation à l'échelle de l'établissement",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Doyen+%2F+Directeur%28rice%29+acad%C3%A9mique%22+OR+%22VP+P%C3%A9dagogie%22+OR+%22Directeur%28rice%29+des+%C3%A9tudes%22&currentCompany=aivancity",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22aivancity%22%20Doyen%20/%20Directeur%28rice%29%20acad%C3%A9mique%20VP%20P%C3%A9dagogie%20Directeur%28rice%29%20des%20%C3%A9tudes"
+      },
+      {
+        "poste": "Responsable RNCP / Certifications",
+        "alternatives": [
+          "Référent qualité",
+          "Responsable Qualiopi"
+        ],
+        "priorite": 3,
+        "raison": "Cadrage Qualiopi / preuve d'évaluation pour la certification",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+Certifications%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22+OR+%22Responsable+Qualiopi%22&currentCompany=aivancity",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22aivancity%22%20Responsable%20RNCP%20/%20Certifications%20R%C3%A9f%C3%A9rent%20qualit%C3%A9%20Responsable%20Qualiopi"
+      }
+    ]
   },
   {
     "id": "sig-2026-05-01-beb7d25e358c",
@@ -126,8 +276,45 @@
     "deadline_action": null,
     "status": "new",
     "date_publication": "2026-05-01",
-    "email_draft": null,
-    "contacts_cibles": []
+    "email_draft": {
+      "subject": "Paris School of Business — votre nouveau programme : quel dispositif d'évaluation ?",
+      "body": "Bonjour,\n\nJ'ai vu passer le lancement de votre nouveau programme. Le timing peut être bon pour penser dès maintenant le dispositif d'évaluation des compétences associées.\n\nChez Isograd, on accompagne plus de 60 écoles supérieures sur 2 sujets liés :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital) — argument concret en diplômation et sur le CV.\n\n2. **ITS** pour héberger les sessions d'examens en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\nPour un nouveau programme, on peut déployer en 4-6 semaines avec un budget calibré sur le volume étudiants.\n\n15 minutes pour échanger sur votre dispositif cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://www.planetegrandesecoles.com/paris-school-of-business-triple-couronne-equis-amba-aacsb"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Responsable du programme / Directeur(rice) de la formation",
+        "alternatives": [
+          "Coordinateur(rice) pédagogique",
+          "Responsable de filière"
+        ],
+        "priorite": 1,
+        "raison": "Définit le dispositif d'évaluation du nouveau programme",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+du+programme+%2F+Directeur%28rice%29+de+la+formation%22+OR+%22Coordinateur%28rice%29+p%C3%A9dagogique%22+OR+%22Responsable+de+fili%C3%A8re%22&currentCompany=Paris+School+of+Business",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Paris%20School%20of%20Business%22%20Responsable%20du%20programme%20/%20Directeur%28rice%29%20de%20la%20formation%20Coordinateur%28rice%29%20p%C3%A9dagogique%20Responsable%20de%20fili%C3%A8re"
+      },
+      {
+        "poste": "Doyen / Directeur(rice) académique",
+        "alternatives": [
+          "VP Pédagogie",
+          "Directeur(rice) des études"
+        ],
+        "priorite": 2,
+        "raison": "Arbitrage sur l'outillage évaluation à l'échelle de l'établissement",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Doyen+%2F+Directeur%28rice%29+acad%C3%A9mique%22+OR+%22VP+P%C3%A9dagogie%22+OR+%22Directeur%28rice%29+des+%C3%A9tudes%22&currentCompany=Paris+School+of+Business",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Paris%20School%20of%20Business%22%20Doyen%20/%20Directeur%28rice%29%20acad%C3%A9mique%20VP%20P%C3%A9dagogie%20Directeur%28rice%29%20des%20%C3%A9tudes"
+      },
+      {
+        "poste": "Responsable RNCP / Certifications",
+        "alternatives": [
+          "Référent qualité",
+          "Responsable Qualiopi"
+        ],
+        "priorite": 3,
+        "raison": "Cadrage Qualiopi / preuve d'évaluation pour la certification",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+Certifications%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22+OR+%22Responsable+Qualiopi%22&currentCompany=Paris+School+of+Business",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Paris%20School%20of%20Business%22%20Responsable%20RNCP%20/%20Certifications%20R%C3%A9f%C3%A9rent%20qualit%C3%A9%20Responsable%20Qualiopi"
+      }
+    ]
   },
   {
     "id": "sig-2026-02-01-adeae517fcb1",
@@ -152,8 +339,53 @@
     "deadline_action": null,
     "status": "new",
     "date_publication": "2026-02-01",
-    "email_draft": null,
-    "contacts_cibles": []
+    "email_draft": {
+      "subject": "emlyon business school — votre nouveau programme : quel dispositif d'évaluation ?",
+      "body": "Bonjour Compte,\n\nJ'ai vu passer le lancement de votre nouveau programme. Le timing peut être bon pour penser dès maintenant le dispositif d'évaluation des compétences associées.\n\nChez Isograd, on accompagne plus de 60 écoles supérieures sur 2 sujets liés :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital) — argument concret en diplômation et sur le CV.\n\n2. **ITS** pour héberger les sessions d'examens en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\nPour un nouveau programme, on peut déployer en 4-6 semaines avec un budget calibré sur le volume étudiants.\n\n15 minutes pour échanger sur votre dispositif cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://business-cool.com/actualites/actu-ecoles/diriger-un-monde-en-mutation-emlyon-ouvre-une-ecole-de-la-tech-deploie-une-expertise-en-risques-globaux-et-etend-son-influence-internationale/"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Compte actif — Contact Tosa + Directeur ProPulse",
+        "alternatives": [],
+        "priorite": 0,
+        "raison": "Contact identifié — cible directe",
+        "sales_nav_url": "https://www.linkedin.com/search/results/people/?keywords=%22Compte%20actif%22%20emlyon%20business%20school",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Compte%20actif%22%20emlyon%20business%20school"
+      },
+      {
+        "poste": "Responsable du programme / Directeur(rice) de la formation",
+        "alternatives": [
+          "Coordinateur(rice) pédagogique",
+          "Responsable de filière"
+        ],
+        "priorite": 1,
+        "raison": "Définit le dispositif d'évaluation du nouveau programme",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+du+programme+%2F+Directeur%28rice%29+de+la+formation%22+OR+%22Coordinateur%28rice%29+p%C3%A9dagogique%22+OR+%22Responsable+de+fili%C3%A8re%22&currentCompany=emlyon+business+school",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22emlyon%20business%20school%22%20Responsable%20du%20programme%20/%20Directeur%28rice%29%20de%20la%20formation%20Coordinateur%28rice%29%20p%C3%A9dagogique%20Responsable%20de%20fili%C3%A8re"
+      },
+      {
+        "poste": "Doyen / Directeur(rice) académique",
+        "alternatives": [
+          "VP Pédagogie",
+          "Directeur(rice) des études"
+        ],
+        "priorite": 2,
+        "raison": "Arbitrage sur l'outillage évaluation à l'échelle de l'établissement",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Doyen+%2F+Directeur%28rice%29+acad%C3%A9mique%22+OR+%22VP+P%C3%A9dagogie%22+OR+%22Directeur%28rice%29+des+%C3%A9tudes%22&currentCompany=emlyon+business+school",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22emlyon%20business%20school%22%20Doyen%20/%20Directeur%28rice%29%20acad%C3%A9mique%20VP%20P%C3%A9dagogie%20Directeur%28rice%29%20des%20%C3%A9tudes"
+      },
+      {
+        "poste": "Responsable RNCP / Certifications",
+        "alternatives": [
+          "Référent qualité",
+          "Responsable Qualiopi"
+        ],
+        "priorite": 3,
+        "raison": "Cadrage Qualiopi / preuve d'évaluation pour la certification",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+Certifications%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22+OR+%22Responsable+Qualiopi%22&currentCompany=emlyon+business+school",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22emlyon%20business%20school%22%20Responsable%20RNCP%20/%20Certifications%20R%C3%A9f%C3%A9rent%20qualit%C3%A9%20Responsable%20Qualiopi"
+      }
+    ]
   },
   {
     "id": "sig-2026-01-19-38e40e73ddda",
@@ -178,8 +410,45 @@
     "deadline_action": null,
     "status": "new",
     "date_publication": "2026-01-19",
-    "email_draft": null,
-    "contacts_cibles": []
+    "email_draft": {
+      "subject": "SKEMA Business School — votre nouveau programme : quel dispositif d'évaluation ?",
+      "body": "Bonjour,\n\nJ'ai vu passer le lancement de votre nouveau programme. Le timing peut être bon pour penser dès maintenant le dispositif d'évaluation des compétences associées.\n\nChez Isograd, on accompagne plus de 60 écoles supérieures sur 2 sujets liés :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital) — argument concret en diplômation et sur le CV.\n\n2. **ITS** pour héberger les sessions d'examens en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\nPour un nouveau programme, on peut déployer en 4-6 semaines avec un budget calibré sur le volume étudiants.\n\n15 minutes pour échanger sur votre dispositif cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://www.skema.edu/fr/communique-de-presses/skema-business-school-lance-son-premier-bachelor-en-trois-ans"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Responsable du programme / Directeur(rice) de la formation",
+        "alternatives": [
+          "Coordinateur(rice) pédagogique",
+          "Responsable de filière"
+        ],
+        "priorite": 1,
+        "raison": "Définit le dispositif d'évaluation du nouveau programme",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+du+programme+%2F+Directeur%28rice%29+de+la+formation%22+OR+%22Coordinateur%28rice%29+p%C3%A9dagogique%22+OR+%22Responsable+de+fili%C3%A8re%22&currentCompany=SKEMA+Business+School",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22SKEMA%20Business%20School%22%20Responsable%20du%20programme%20/%20Directeur%28rice%29%20de%20la%20formation%20Coordinateur%28rice%29%20p%C3%A9dagogique%20Responsable%20de%20fili%C3%A8re"
+      },
+      {
+        "poste": "Doyen / Directeur(rice) académique",
+        "alternatives": [
+          "VP Pédagogie",
+          "Directeur(rice) des études"
+        ],
+        "priorite": 2,
+        "raison": "Arbitrage sur l'outillage évaluation à l'échelle de l'établissement",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Doyen+%2F+Directeur%28rice%29+acad%C3%A9mique%22+OR+%22VP+P%C3%A9dagogie%22+OR+%22Directeur%28rice%29+des+%C3%A9tudes%22&currentCompany=SKEMA+Business+School",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22SKEMA%20Business%20School%22%20Doyen%20/%20Directeur%28rice%29%20acad%C3%A9mique%20VP%20P%C3%A9dagogie%20Directeur%28rice%29%20des%20%C3%A9tudes"
+      },
+      {
+        "poste": "Responsable RNCP / Certifications",
+        "alternatives": [
+          "Référent qualité",
+          "Responsable Qualiopi"
+        ],
+        "priorite": 3,
+        "raison": "Cadrage Qualiopi / preuve d'évaluation pour la certification",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+Certifications%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22+OR+%22Responsable+Qualiopi%22&currentCompany=SKEMA+Business+School",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22SKEMA%20Business%20School%22%20Responsable%20RNCP%20/%20Certifications%20R%C3%A9f%C3%A9rent%20qualit%C3%A9%20Responsable%20Qualiopi"
+      }
+    ]
   },
   {
     "id": "sig-2026-02-01-70225dc15056",
@@ -204,8 +473,45 @@
     "deadline_action": null,
     "status": "new",
     "date_publication": "2026-02-01",
-    "email_draft": null,
-    "contacts_cibles": []
+    "email_draft": {
+      "subject": "PSL Universite — votre nouveau programme : quel dispositif d'évaluation ?",
+      "body": "Bonjour,\n\nJ'ai vu passer le lancement de votre nouveau programme. Le timing peut être bon pour penser dès maintenant le dispositif d'évaluation des compétences associées.\n\nChez Isograd, on accompagne plus de 60 écoles supérieures sur 2 sujets liés :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital) — argument concret en diplômation et sur le CV.\n\n2. **ITS** pour héberger les sessions d'examens en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\nPour un nouveau programme, on peut déployer en 4-6 semaines avec un budget calibré sur le volume étudiants.\n\n15 minutes pour échanger sur votre dispositif cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://psl.eu/en/education/master-s-degree-artificial-intelligence-and-society"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Responsable du programme / Directeur(rice) de la formation",
+        "alternatives": [
+          "Coordinateur(rice) pédagogique",
+          "Responsable de filière"
+        ],
+        "priorite": 1,
+        "raison": "Définit le dispositif d'évaluation du nouveau programme",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+du+programme+%2F+Directeur%28rice%29+de+la+formation%22+OR+%22Coordinateur%28rice%29+p%C3%A9dagogique%22+OR+%22Responsable+de+fili%C3%A8re%22&currentCompany=PSL+Universite",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22PSL%20Universite%22%20Responsable%20du%20programme%20/%20Directeur%28rice%29%20de%20la%20formation%20Coordinateur%28rice%29%20p%C3%A9dagogique%20Responsable%20de%20fili%C3%A8re"
+      },
+      {
+        "poste": "Doyen / Directeur(rice) académique",
+        "alternatives": [
+          "VP Pédagogie",
+          "Directeur(rice) des études"
+        ],
+        "priorite": 2,
+        "raison": "Arbitrage sur l'outillage évaluation à l'échelle de l'établissement",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Doyen+%2F+Directeur%28rice%29+acad%C3%A9mique%22+OR+%22VP+P%C3%A9dagogie%22+OR+%22Directeur%28rice%29+des+%C3%A9tudes%22&currentCompany=PSL+Universite",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22PSL%20Universite%22%20Doyen%20/%20Directeur%28rice%29%20acad%C3%A9mique%20VP%20P%C3%A9dagogie%20Directeur%28rice%29%20des%20%C3%A9tudes"
+      },
+      {
+        "poste": "Responsable RNCP / Certifications",
+        "alternatives": [
+          "Référent qualité",
+          "Responsable Qualiopi"
+        ],
+        "priorite": 3,
+        "raison": "Cadrage Qualiopi / preuve d'évaluation pour la certification",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+Certifications%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22+OR+%22Responsable+Qualiopi%22&currentCompany=PSL+Universite",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22PSL%20Universite%22%20Responsable%20RNCP%20/%20Certifications%20R%C3%A9f%C3%A9rent%20qualit%C3%A9%20Responsable%20Qualiopi"
+      }
+    ]
   },
   {
     "id": "sig-2026-02-01-c11ce4f990fe",
@@ -230,8 +536,53 @@
     "deadline_action": null,
     "status": "new",
     "date_publication": "2026-02-01",
-    "email_draft": null,
-    "contacts_cibles": []
+    "email_draft": {
+      "subject": "IONIS Education Group — félicitations pour votre prise de poste",
+      "body": "Bonjour Yannick,\n\nFélicitations pour votre prise de poste à la direction de IONIS Education Group. Belle étape.\n\nJe me permets de vous écrire car beaucoup de directeurs récemment nommés dans le supérieur partagent un même constat à 90 jours : besoin de structurer rapidement la stratégie d'évaluation des compétences pour répondre aux exigences Qualiopi, RNCP, et aux attentes des entreprises partenaires.\n\nChez Isograd, on opère deux solutions complémentaires utilisées par des écoles comparables :\n\n1. **Tosa** — certification des compétences numériques étudiants (bureautique, code, digital). Argument fort en diplômation, sur le CV, et sur le classement.\n\n2. **ITS** — plateforme d'hébergement d'examens en ligne avec proctoring et banque de questions, opposable audit.\n\n15 minutes pour vous présenter ce que d'autres écoles ont mis en place ? Je peux m'adapter à votre agenda.\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource de l'info : https://www.letudiant.fr/etudes/ecoles-specialisees/l-epita-ia-institut-vient-repondre-aux-enjeux-de-l-intelligence-artificielle.html"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Yannick Lejeune — CDO",
+        "alternatives": [],
+        "priorite": 0,
+        "raison": "Contact identifié — cible directe",
+        "sales_nav_url": "https://www.linkedin.com/search/results/people/?keywords=%22Yannick%20Lejeune%22%20IONIS%20Education%20Group",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Yannick%20Lejeune%22%20IONIS%20Education%20Group"
+      },
+      {
+        "poste": "Le(la) nouveau(elle) directeur(rice) directement",
+        "alternatives": [
+          "Directeur(rice) général(e)",
+          "Présidence"
+        ],
+        "priorite": 1,
+        "raison": "Fenêtre 30-90j post-prise de poste — ouvert aux nouveaux chantiers",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Le%28la%29+nouveau%28elle%29+directeur%28rice%29+directement%22+OR+%22Directeur%28rice%29+g%C3%A9n%C3%A9ral%28e%29%22+OR+%22Pr%C3%A9sidence%22&currentCompany=IONIS+Education+Group",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22IONIS%20Education%20Group%22%20Le%28la%29%20nouveau%28elle%29%20directeur%28rice%29%20directement%20Directeur%28rice%29%20g%C3%A9n%C3%A9ral%28e%29%20Pr%C3%A9sidence"
+      },
+      {
+        "poste": "Directeur(rice) de cabinet / Adjoint(e)",
+        "alternatives": [
+          "Bras droit",
+          "Chief of Staff"
+        ],
+        "priorite": 2,
+        "raison": "Pré-qualifie les dossiers stratégiques du nouveau directeur",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+de+cabinet+%2F+Adjoint%28e%29%22+OR+%22Bras+droit%22+OR+%22Chief+of+Staff%22&currentCompany=IONIS+Education+Group",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22IONIS%20Education%20Group%22%20Directeur%28rice%29%20de%20cabinet%20/%20Adjoint%28e%29%20Bras%20droit%20Chief%20of%20Staff"
+      },
+      {
+        "poste": "Directeur(rice) des programmes / Académique",
+        "alternatives": [
+          "Doyen",
+          "VP Pédagogie"
+        ],
+        "priorite": 3,
+        "raison": "Souvent en pleine relecture de la roadmap pédagogique post-nomination",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+des+programmes+%2F+Acad%C3%A9mique%22+OR+%22Doyen%22+OR+%22VP+P%C3%A9dagogie%22&currentCompany=IONIS+Education+Group",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22IONIS%20Education%20Group%22%20Directeur%28rice%29%20des%20programmes%20/%20Acad%C3%A9mique%20Doyen%20VP%20P%C3%A9dagogie"
+      }
+    ]
   },
   {
     "id": "sig-2026-05-01-93e815b0ca37",
@@ -255,8 +606,53 @@
     "deadline_action": null,
     "status": "new",
     "date_publication": "2026-05-01",
-    "email_draft": null,
-    "contacts_cibles": []
+    "email_draft": {
+      "subject": "IAE Aix-Marseille — félicitations pour votre prise de poste",
+      "body": "Bonjour Sebastien,\n\nFélicitations pour votre prise de poste à la direction de IAE Aix-Marseille. Belle étape.\n\nJe me permets de vous écrire car beaucoup de directeurs récemment nommés dans le supérieur partagent un même constat à 90 jours : besoin de structurer rapidement la stratégie d'évaluation des compétences pour répondre aux exigences Qualiopi, RNCP, et aux attentes des entreprises partenaires.\n\nChez Isograd, on opère deux solutions complémentaires utilisées par des écoles comparables :\n\n1. **Tosa** — certification des compétences numériques étudiants (bureautique, code, digital). Argument fort en diplômation, sur le CV, et sur le classement.\n\n2. **ITS** — plateforme d'hébergement d'examens en ligne avec proctoring et banque de questions, opposable audit.\n\n15 minutes pour vous présenter ce que d'autres écoles ont mis en place ? Je peux m'adapter à votre agenda.\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource de l'info : https://www.letudiant.fr/educpros/entretiens/m-c-chalus-iae-france-je-veux-mettre-en-valeur-notre-place-differenciee-dans-lecosysteme.html"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Sebastien Dereeper — Contact IAE",
+        "alternatives": [],
+        "priorite": 0,
+        "raison": "Contact identifié — cible directe",
+        "sales_nav_url": "https://www.linkedin.com/search/results/people/?keywords=%22Sebastien%20Dereeper%22%20IAE%20Aix-Marseille",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Sebastien%20Dereeper%22%20IAE%20Aix-Marseille"
+      },
+      {
+        "poste": "Le(la) nouveau(elle) directeur(rice) directement",
+        "alternatives": [
+          "Directeur(rice) général(e)",
+          "Présidence"
+        ],
+        "priorite": 1,
+        "raison": "Fenêtre 30-90j post-prise de poste — ouvert aux nouveaux chantiers",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Le%28la%29+nouveau%28elle%29+directeur%28rice%29+directement%22+OR+%22Directeur%28rice%29+g%C3%A9n%C3%A9ral%28e%29%22+OR+%22Pr%C3%A9sidence%22&currentCompany=IAE+Aix-Marseille",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22IAE%20Aix-Marseille%22%20Le%28la%29%20nouveau%28elle%29%20directeur%28rice%29%20directement%20Directeur%28rice%29%20g%C3%A9n%C3%A9ral%28e%29%20Pr%C3%A9sidence"
+      },
+      {
+        "poste": "Directeur(rice) de cabinet / Adjoint(e)",
+        "alternatives": [
+          "Bras droit",
+          "Chief of Staff"
+        ],
+        "priorite": 2,
+        "raison": "Pré-qualifie les dossiers stratégiques du nouveau directeur",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+de+cabinet+%2F+Adjoint%28e%29%22+OR+%22Bras+droit%22+OR+%22Chief+of+Staff%22&currentCompany=IAE+Aix-Marseille",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22IAE%20Aix-Marseille%22%20Directeur%28rice%29%20de%20cabinet%20/%20Adjoint%28e%29%20Bras%20droit%20Chief%20of%20Staff"
+      },
+      {
+        "poste": "Directeur(rice) des programmes / Académique",
+        "alternatives": [
+          "Doyen",
+          "VP Pédagogie"
+        ],
+        "priorite": 3,
+        "raison": "Souvent en pleine relecture de la roadmap pédagogique post-nomination",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+des+programmes+%2F+Acad%C3%A9mique%22+OR+%22Doyen%22+OR+%22VP+P%C3%A9dagogie%22&currentCompany=IAE+Aix-Marseille",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22IAE%20Aix-Marseille%22%20Directeur%28rice%29%20des%20programmes%20/%20Acad%C3%A9mique%20Doyen%20VP%20P%C3%A9dagogie"
+      }
+    ]
   },
   {
     "id": "sig-2026-02-01-a0908b02289e",
@@ -281,8 +677,53 @@
     "deadline_action": null,
     "status": "new",
     "date_publication": "2026-02-01",
-    "email_draft": null,
-    "contacts_cibles": []
+    "email_draft": {
+      "subject": "emlyon business school — félicitations pour votre prise de poste",
+      "body": "Bonjour Compte,\n\nFélicitations pour votre prise de poste à la direction de emlyon business school. Belle étape.\n\nJe me permets de vous écrire car beaucoup de directeurs récemment nommés dans le supérieur partagent un même constat à 90 jours : besoin de structurer rapidement la stratégie d'évaluation des compétences pour répondre aux exigences Qualiopi, RNCP, et aux attentes des entreprises partenaires.\n\nChez Isograd, on opère deux solutions complémentaires utilisées par des écoles comparables :\n\n1. **Tosa** — certification des compétences numériques étudiants (bureautique, code, digital). Argument fort en diplômation, sur le CV, et sur le classement.\n\n2. **ITS** — plateforme d'hébergement d'examens en ligne avec proctoring et banque de questions, opposable audit.\n\n15 minutes pour vous présenter ce que d'autres écoles ont mis en place ? Je peux m'adapter à votre agenda.\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource de l'info : https://www.mondedesgrandesecoles.fr/les-nouveautes-demlyon-pour-2026/"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Compte actif — Contact Tosa",
+        "alternatives": [],
+        "priorite": 0,
+        "raison": "Contact identifié — cible directe",
+        "sales_nav_url": "https://www.linkedin.com/search/results/people/?keywords=%22Compte%20actif%22%20emlyon%20business%20school",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Compte%20actif%22%20emlyon%20business%20school"
+      },
+      {
+        "poste": "Le(la) nouveau(elle) directeur(rice) directement",
+        "alternatives": [
+          "Directeur(rice) général(e)",
+          "Présidence"
+        ],
+        "priorite": 1,
+        "raison": "Fenêtre 30-90j post-prise de poste — ouvert aux nouveaux chantiers",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Le%28la%29+nouveau%28elle%29+directeur%28rice%29+directement%22+OR+%22Directeur%28rice%29+g%C3%A9n%C3%A9ral%28e%29%22+OR+%22Pr%C3%A9sidence%22&currentCompany=emlyon+business+school",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22emlyon%20business%20school%22%20Le%28la%29%20nouveau%28elle%29%20directeur%28rice%29%20directement%20Directeur%28rice%29%20g%C3%A9n%C3%A9ral%28e%29%20Pr%C3%A9sidence"
+      },
+      {
+        "poste": "Directeur(rice) de cabinet / Adjoint(e)",
+        "alternatives": [
+          "Bras droit",
+          "Chief of Staff"
+        ],
+        "priorite": 2,
+        "raison": "Pré-qualifie les dossiers stratégiques du nouveau directeur",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+de+cabinet+%2F+Adjoint%28e%29%22+OR+%22Bras+droit%22+OR+%22Chief+of+Staff%22&currentCompany=emlyon+business+school",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22emlyon%20business%20school%22%20Directeur%28rice%29%20de%20cabinet%20/%20Adjoint%28e%29%20Bras%20droit%20Chief%20of%20Staff"
+      },
+      {
+        "poste": "Directeur(rice) des programmes / Académique",
+        "alternatives": [
+          "Doyen",
+          "VP Pédagogie"
+        ],
+        "priorite": 3,
+        "raison": "Souvent en pleine relecture de la roadmap pédagogique post-nomination",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+des+programmes+%2F+Acad%C3%A9mique%22+OR+%22Doyen%22+OR+%22VP+P%C3%A9dagogie%22&currentCompany=emlyon+business+school",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22emlyon%20business%20school%22%20Directeur%28rice%29%20des%20programmes%20/%20Acad%C3%A9mique%20Doyen%20VP%20P%C3%A9dagogie"
+      }
+    ]
   },
   {
     "id": "sig-2026-03-12-84376f5a3a00",
@@ -307,8 +748,45 @@
     "deadline_action": null,
     "status": "new",
     "date_publication": "2026-03-12",
-    "email_draft": null,
-    "contacts_cibles": []
+    "email_draft": {
+      "subject": "Universite Virtuelle de Cote d'Ivoire (UVCI) — votre nouveau programme : quel dispositif d'évaluation ?",
+      "body": "Bonjour,\n\nJ'ai vu passer le lancement de votre nouveau programme. Le timing peut être bon pour penser dès maintenant le dispositif d'évaluation des compétences associées.\n\nChez Isograd, on accompagne plus de 60 écoles supérieures sur 2 sujets liés :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital) — argument concret en diplômation et sur le CV.\n\n2. **ITS** pour héberger les sessions d'examens en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\nPour un nouveau programme, on peut déployer en 4-6 semaines avec un budget calibré sur le volume étudiants.\n\n15 minutes pour échanger sur votre dispositif cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://www.ird.fr/lancement-du-projet-africa-connect-digital-campus-acdc-en-cote-divoire"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Responsable du programme / Directeur(rice) de la formation",
+        "alternatives": [
+          "Coordinateur(rice) pédagogique",
+          "Responsable de filière"
+        ],
+        "priorite": 1,
+        "raison": "Définit le dispositif d'évaluation du nouveau programme",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+du+programme+%2F+Directeur%28rice%29+de+la+formation%22+OR+%22Coordinateur%28rice%29+p%C3%A9dagogique%22+OR+%22Responsable+de+fili%C3%A8re%22&currentCompany=Universite+Virtuelle+de+Cote+d%27Ivoire+%28UVCI%29",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Universite%20Virtuelle%20de%20Cote%20d%27Ivoire%20%28UVCI%29%22%20Responsable%20du%20programme%20/%20Directeur%28rice%29%20de%20la%20formation%20Coordinateur%28rice%29%20p%C3%A9dagogique%20Responsable%20de%20fili%C3%A8re"
+      },
+      {
+        "poste": "Doyen / Directeur(rice) académique",
+        "alternatives": [
+          "VP Pédagogie",
+          "Directeur(rice) des études"
+        ],
+        "priorite": 2,
+        "raison": "Arbitrage sur l'outillage évaluation à l'échelle de l'établissement",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Doyen+%2F+Directeur%28rice%29+acad%C3%A9mique%22+OR+%22VP+P%C3%A9dagogie%22+OR+%22Directeur%28rice%29+des+%C3%A9tudes%22&currentCompany=Universite+Virtuelle+de+Cote+d%27Ivoire+%28UVCI%29",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Universite%20Virtuelle%20de%20Cote%20d%27Ivoire%20%28UVCI%29%22%20Doyen%20/%20Directeur%28rice%29%20acad%C3%A9mique%20VP%20P%C3%A9dagogie%20Directeur%28rice%29%20des%20%C3%A9tudes"
+      },
+      {
+        "poste": "Responsable RNCP / Certifications",
+        "alternatives": [
+          "Référent qualité",
+          "Responsable Qualiopi"
+        ],
+        "priorite": 3,
+        "raison": "Cadrage Qualiopi / preuve d'évaluation pour la certification",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+Certifications%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22+OR+%22Responsable+Qualiopi%22&currentCompany=Universite+Virtuelle+de+Cote+d%27Ivoire+%28UVCI%29",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Universite%20Virtuelle%20de%20Cote%20d%27Ivoire%20%28UVCI%29%22%20Responsable%20RNCP%20/%20Certifications%20R%C3%A9f%C3%A9rent%20qualit%C3%A9%20Responsable%20Qualiopi"
+      }
+    ]
   },
   {
     "id": "sig-stable-4cc03b95f797",
@@ -333,7 +811,44 @@
     "deadline_action": null,
     "status": "new",
     "date_publication": "2026-05-24",
-    "email_draft": null,
-    "contacts_cibles": []
+    "email_draft": {
+      "subject": "Universite de Technologie de Troyes (UTT) — votre nouveau programme : quel dispositif d'évaluation ?",
+      "body": "Bonjour,\n\nJ'ai vu passer le lancement de votre nouveau programme. Le timing peut être bon pour penser dès maintenant le dispositif d'évaluation des compétences associées.\n\nChez Isograd, on accompagne plus de 60 écoles supérieures sur 2 sujets liés :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital) — argument concret en diplômation et sur le CV.\n\n2. **ITS** pour héberger les sessions d'examens en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\nPour un nouveau programme, on peut déployer en 4-6 semaines avec un budget calibré sur le volume étudiants.\n\n15 minutes pour échanger sur votre dispositif cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://www.letudiant.fr/etudes/lactu-des-formations-de-nouveaux-cursus-en-ia-dans-le-superieur.html"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Responsable du programme / Directeur(rice) de la formation",
+        "alternatives": [
+          "Coordinateur(rice) pédagogique",
+          "Responsable de filière"
+        ],
+        "priorite": 1,
+        "raison": "Définit le dispositif d'évaluation du nouveau programme",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+du+programme+%2F+Directeur%28rice%29+de+la+formation%22+OR+%22Coordinateur%28rice%29+p%C3%A9dagogique%22+OR+%22Responsable+de+fili%C3%A8re%22&currentCompany=Universite+de+Technologie+de+Troyes+%28UTT%29",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Universite%20de%20Technologie%20de%20Troyes%20%28UTT%29%22%20Responsable%20du%20programme%20/%20Directeur%28rice%29%20de%20la%20formation%20Coordinateur%28rice%29%20p%C3%A9dagogique%20Responsable%20de%20fili%C3%A8re"
+      },
+      {
+        "poste": "Doyen / Directeur(rice) académique",
+        "alternatives": [
+          "VP Pédagogie",
+          "Directeur(rice) des études"
+        ],
+        "priorite": 2,
+        "raison": "Arbitrage sur l'outillage évaluation à l'échelle de l'établissement",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Doyen+%2F+Directeur%28rice%29+acad%C3%A9mique%22+OR+%22VP+P%C3%A9dagogie%22+OR+%22Directeur%28rice%29+des+%C3%A9tudes%22&currentCompany=Universite+de+Technologie+de+Troyes+%28UTT%29",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Universite%20de%20Technologie%20de%20Troyes%20%28UTT%29%22%20Doyen%20/%20Directeur%28rice%29%20acad%C3%A9mique%20VP%20P%C3%A9dagogie%20Directeur%28rice%29%20des%20%C3%A9tudes"
+      },
+      {
+        "poste": "Responsable RNCP / Certifications",
+        "alternatives": [
+          "Référent qualité",
+          "Responsable Qualiopi"
+        ],
+        "priorite": 3,
+        "raison": "Cadrage Qualiopi / preuve d'évaluation pour la certification",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+Certifications%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22+OR+%22Responsable+Qualiopi%22&currentCompany=Universite+de+Technologie+de+Troyes+%28UTT%29",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Universite%20de%20Technologie%20de%20Troyes%20%28UTT%29%22%20Responsable%20RNCP%20/%20Certifications%20R%C3%A9f%C3%A9rent%20qualit%C3%A9%20Responsable%20Qualiopi"
+      }
+    ]
   }
 ]
