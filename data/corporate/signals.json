@@ -1,1 +1,48 @@
-[]
+[
+  {
+    "id": "sig-2026-05-20-adf7d3809b7c",
+    "date_capture": "2026-05-24",
+    "vertical": "corporate",
+    "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
+    "compte": "Primer",
+    "titre": "Balderton-backed payments startup Primer raises $100m Series C",
+    "description": "",
+    "source": "Sifted",
+    "source_tier": 1,
+    "url": "https://sifted.eu/articles/primer-raises-100m-series-c/",
+    "signal_type": "levee_fonds",
+    "tier": 1,
+    "score": 80,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Source** : https://sifted.eu/articles/primer-raises-100m-series-c/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 100.0M USD (~92.0M€) → scale-up confirmé, plan de recrutement massif sur 12 mois\n🔥 PRIORITÉ — fenêtre 30j (avant que les RH s'organisent)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-05-20",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-05-20"
+  },
+  {
+    "id": "sig-2026-05-21-9ddd4781fe58",
+    "date_capture": "2026-05-24",
+    "vertical": "corporate",
+    "sous_segment": "Scale-up / Levée Series B+ (Maddyness)",
+    "compte": "Pivot",
+    "titre": "Après avoir séduit Doctolib, Deezer et Pennylane, Pivot lève 40 millions de dollars",
+    "description": "L’article Après avoir séduit Doctolib, Deezer et Pennylane, Pivot lève 40 millions de dollars est apparu en premier sur Maddyness - Le média pour comprendre l&#039;économie de demain .",
+    "source": "Maddyness",
+    "source_tier": 1,
+    "url": "https://www.maddyness.com/2026/05/21/apres-avoir-seduit-doctolib-deezer-et-pennylane-pivot-leve-40-millions-de-dollars/",
+    "signal_type": "levee_fonds",
+    "tier": 2,
+    "score": 65,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Source** : https://www.maddyness.com/2026/05/21/apres-avoir-seduit-doctolib-deezer-et-pennylane-pivot-leve-40-millions-de-dollars/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 40.0M USD (~36.8M€) → Series B+, structuration des processus RH en cours\n🎯 Fenêtre 60j (timing optimal post-Series B)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-05-21",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-05-21"
+  }
+]

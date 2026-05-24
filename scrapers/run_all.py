@@ -115,6 +115,8 @@ SCRAPERS = [
     ("scrapers.ao.maximilien_idf", "ao"),
     # Conférence des Grandes Écoles — uniquement les labellisations passent le filtre
     ("scrapers.education.cge", "education"),
+    # Corporate — Sprint A1 — levées de fonds Series B+ (Maddyness FR + Sifted EU)
+    ("scrapers.corporate.levees_rss", "corporate"),
 ]
 
 # ❌ DÉSACTIVÉS — sources de contenu éditorial sans signal d'achat direct
