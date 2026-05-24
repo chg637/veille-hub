@@ -138,7 +138,6 @@ CPV_FORMATION_PREFIXES = (
     "805",   # 80500000 → 80599999 : tous services de formation
     "806",   # 80600000 → 80699999 : sécurité / droit / défense
     "79632", # Formation de personnel
-    "79633", # Développement professionnel — uniquement si VAE/bilan, sinon trop large
 )
 
 # CPV à exclure (faux positifs hors compétences) — signature électronique, gardiennage…
@@ -151,54 +150,135 @@ CPV_HORS_PERIMETRE_PREFIXES = (
     "79715",     # Patrouille
 )
 
-# Mots-clés OBLIGATOIRES : au moins un doit matcher (titre + description)
-# pour qu'un AO soit conservé. Sinon = écarté.
-# IMPORTANT : éviter les termes trop génériques ("habilitation" seul matche
-# "habilitations électriques", "habilitations d'accès IAM", etc.).
-MANDATORY_KEYWORDS = [
-    # FR — évaluation/certification de compétences (formes spécifiques)
-    "certification de compétences", "certification des compétences",
-    "certification professionnelle", "qualification professionnelle",
-    "évaluation des compétences", "évaluation de compétences",
-    "test de compétences", "tests de compétences",
-    "psychométrie",
-    "banque de questions",
-    "proctoring", "télésurveillance d'examens", "télésurveillance des épreuves",
+# ─────────────────────────────────────────────────────────────────────────────
+# SCORING PONDÉRÉ — Comité experts ITS/Tosa (24 mai 2026)
+# Recentrage strict : on cherche une PLATEFORME/OUTIL d'évaluation/certification,
+# pas une prestation de conseil RH (VAE, bilan, GPEC, audit Qualiopi).
+# Seuil : 8 pts cumulés (5 pts si acheteur whitelist).
+# ─────────────────────────────────────────────────────────────────────────────
+
+SCORE_THRESHOLD = 8
+SCORE_THRESHOLD_WHITELIST = 5
+
+# Tier S — Signal direct ITS/Tosa (10 pts chacun, cap 30 pts)
+KW_TIER_S = [
     "plateforme d'évaluation", "plateforme de certification",
-    "plateforme d'examen", "plateforme de tests",
-    "DigComp", "compétences numériques",
-    "QCM", "test adaptatif", "test de positionnement",
-    "VAE", "validation des acquis",
-    "bilan de compétences",
-    "audit de compétences", "audit des compétences",
-    "GPEC", "gestion prévisionnelle des emplois", "gestion prévisionnelle de l'emploi",
-    "cartographie des compétences", "référentiel de compétences",
-    "développement des compétences", "professionnalisation des compétences",
-    "habilitation à délivrer", "habilitation à certifier",
-    "habilitation France compétences", "habilitation Qualiopi",
-    "RNCP", "Répertoire spécifique",
-    "Qualiopi",
-    "accréditation des certifications", "ré-accréditation",
-    "renouvellement de certification", "renouvellement de la certification",
+    "plateforme d'examen", "plateforme de test", "plateforme de tests",
+    "plateforme de testing", "plateforme d'hébergement d'examens",
+    "solution de testing", "solution d'évaluation",
+    "proctoring", "remote proctoring",
+    "télésurveillance d'examens", "télésurveillance des épreuves",
+    "surveillance à distance d'examens",
+    "banque de questions", "item banking",
+    "computer-based testing", "test delivery", "exam delivery",
+    "online examination platform", "examination platform",
+    "digital assessment platform",
+    "dématérialisation des épreuves", "passation dématérialisée",
+    "épreuves dématérialisées",
+    "dispositif numérique de passation",
+    "session de certification", "session d'évaluation",
+    "test adaptatif", "QCM en ligne", "QCM dématérialisé",
+    "psychométrie", "psychometrics",
     "ingénierie d'évaluation",
-    # EN
-    "competence assessment", "competency assessment", "skills assessment",
-    "skills certification", "examination platform",
-    "online assessment", "online examination", "online exam",
-    "computer-based testing", "test delivery",
-    "validation of prior learning",
-    "competency framework", "skills mapping", "skills audit",
-    "talent assessment platform",  # plus spécifique que "talent assessment"
-    "item banking", "psychometrics",
-    # Bureautique en contexte certif uniquement
-    "TOSA", "Tosa", "PCIE", "ICDL",
-    # Examens spécifiques (formes longues pour éviter "examen environnemental")
-    "passation d'épreuves", "session de certification", "session d'évaluation",
+    "outil de positionnement", "outil d'évaluation continue",
+    "logiciel de QCM", "logiciel d'évaluation", "logiciel de test",
+]
+SCORE_TIER_S = 10
+CAP_TIER_S = 30
+
+# Tier A — Contexte fort (5 pts chacun, cap 15 pts)
+KW_TIER_A = [
     "examens en ligne", "examens à distance",
-    "épreuves dématérialisées", "dématérialisation des épreuves",
+    "online examination", "online exam",
+    "évaluation des compétences", "évaluation de compétences",
+    "évaluation des pratiques professionnelles",
+    "certification des compétences", "certification de compétences",
+    "test de positionnement", "tests de positionnement",
+    "compétences numériques", "DigComp",
+    "TOSA", "Tosa", "PCIE", "ICDL",
+    "MOS Microsoft Office Specialist",
+    "skills certification", "skills assessment",
+    "talent assessment platform",
+    "competency framework",
+]
+SCORE_TIER_A = 5
+CAP_TIER_A = 15
+
+# Tier B — Mots génériques (2 pts chacun, cap 6 pts — n'est utile que combiné)
+KW_TIER_B = [
+    "évaluation", "certification", "examen", "assessment",
+]
+SCORE_TIER_B = 2
+CAP_TIER_B = 6
+
+# Concurrents — signal de remplacement (10 pts chacun, cap 20 pts)
+KW_CONCURRENTS = [
+    "ProctorU", "Honorlock", "Examity",
+    "ExamSoft", "Caveon",
+    "Eval&Go", "Tests4U",
+    "Pearson Vue", "Prometric",
+    "OnlineExams", "Drimify", "Skill Mirror",
+    "PIX",
+]
+SCORE_CONCURRENT = 10
+CAP_CONCURRENT = 20
+
+# Whitelist acheteurs — seuil abaissé à 5 pts si match
+ACHETEURS_WHITELIST = [
+    # Universités RCE
+    "université paris-saclay", "paris-saclay",
+    "sorbonne université",
+    "aix-marseille université", "université aix-marseille",
+    "université de lyon", "lyon 1", "lyon 2", "lyon 3",
+    "université de bordeaux",
+    "université de lille",
+    "université de strasbourg",
+    "université toulouse", "toulouse 1 capitole", "toulouse 3",
+    "université de rennes", "rennes 1", "rennes 2",
+    "université de nantes",
+    "université grenoble alpes",
+    "université de montpellier",
+    "université de nice", "université côte d'azur",
+    "psl", "université paris sciences et lettres",
+    "université paris cité", "université paris-cité",
+    "université paris 1", "université paris i",
+    "université paris dauphine",
+    "comue",
+    # Grandes écoles
+    "école polytechnique", "polytechnique",
+    "centrale supélec", "centralesupélec",
+    "mines paris", "mines paristech",
+    "insa lyon", "insa toulouse",
+    "agroparistech",
+    "espci",
+    "hec paris",
+    "essec",
+    "escp", "escp business school",
+    "em lyon", "emlyon",
+    "edhec",
+    "sciences po",
+    "skema",
+    # Hôpitaux universitaires
+    "ap-hp", "aphp", "assistance publique - hôpitaux de paris",
+    "centre hospitalier universitaire", "chu de",
+    "hospices civils de lyon",
+    # Ministères / État
+    "ministère", "préfecture",
+    "dgfip", "intérieur", "défense",
+    "dinum",
+    # Régions / Métropoles top
+    "région île-de-france", "région ile-de-france",
+    "région auvergne-rhône-alpes",
+    "métropole du grand paris", "grand paris",
+    "ville de paris",
+    # France Compétences / Carif
+    "france compétences",
+    # OPCO whitelistés (volume potentiel)
+    "opco atlas", "opco akto", "opco mobilités",
 ]
 
-# Mots-clés négatifs : phrases qui invalident un match (formation pure, etc.)
+# Mots-clés négatifs : phrases qui invalident un match — KILL-SWITCH immédiat
+# Comité experts 24 mai : ajout consulting RH (VAE/bilan/GPEC) + audit qualité OF.
 NEGATIVE_PHRASES = [
     # Formation pure
     "prestation de formation", "prestations de formation",
@@ -210,56 +290,131 @@ NEGATIVE_PHRASES = [
     "accompagnement pédagogique",
     "coaching individuel", "tutorat", "cours particuliers",
     "stages pratiques", "alternance",
+
+    # Consulting RH — NE PAS marquer comme opportunité ITS/Tosa (comité 24 mai)
+    "bilan de compétences", "bilan professionnel",
+    "validation des acquis", "validation des acquis de l'expérience", "vae",
+    "audit de compétences", "audit des compétences",
+    "cartographie des compétences",
+    "gestion prévisionnelle des emplois", "gestion prévisionnelle de l'emploi",
+    "développement des compétences",
+
+    # Audit qualité d'organisme (renouvellement Qualiopi seul = pas ITS)
+    "renouvellement de certification qualiopi",
+    "renouvellement de la certification qualiopi",
+    "audit qualiopi", "audit de la certification qualiopi",
+    "accréditation qualiopi",
+    "audit iso 9001", "renouvellement iso 9001",
+    "renouvellement de la certification iso",
+    "renouvellement de certification iso",
+    "audit qualité organisme",
+    "habilitation à délivrer",
+    "habilitation france compétences",
+
+    # Référentiels (déposer ≠ acheter une plateforme)
+    "fiche rncp",
+    "répertoire spécifique",
+    "dépôt rncp",
+
     # Signature électronique (FR + DE + variantes)
     "signature électronique", "signatures électroniques",
     "signature numérique", "signatures numériques",
     "signaturkarten", "elektronische signatur", "elektronischer signaturen",
     "elektronische signaturen", "qualifizierte signaturen", "eidas",
+
     # Surveillance / sécurité physique
     "videosurveillance", "vidéosurveillance",
     "agent de sécurité", "agent de surveillance",
     "patrouille", "gardiennage",
+
     # Habilitations sécurité (pas compétences)
     "habilitations électriques", "habilitation électrique",
-    "habilitations IAM", "habilitations d'accès",
+    "habilitations iam", "habilitations d'accès",
     "identity governance", "identity & access management", "identity and access management",
+
     # Interim management
     "interim management", "interim manager", "temporary deployment",
     "deployment of external professionals",
+
+    # Certification financière (commissaires aux comptes, etc.)
+    "certification des comptes", "certification de comptes",
+    "commissaire aux comptes", "commissaires aux comptes",
 ]
 
 
 def _passes_metier_filter(notice: dict) -> tuple[bool, str]:
     """
-    Retourne (True, "ok") si l'AO passe le filtre métier Isograd,
-    (False, "raison") sinon.
+    Filtre métier ITS/Tosa — logique pondérée (comité experts 24 mai).
+
+    Algorithme :
+      1. Kill-switch : CPV formation pure → rejet
+      2. Kill-switch : CPV hors périmètre (signature élec, gardiennage) → rejet
+      3. Kill-switch : phrase négative (VAE, bilan, GPEC, Qualiopi seul, etc.) → rejet
+      4. Score pondéré :
+         - Tier S (plateforme/proctoring/item banking…) = 10 pts × matches, cap 30
+         - Tier A (examens à distance, TOSA, compétences numériques…) = 5 pts × matches, cap 15
+         - Tier B (évaluation, certification génériques) = 2 pts × matches, cap 6
+         - Concurrents (ProctorU, ExamSoft…) = 10 pts × matches, cap 20
+      5. Seuil : 8 pts (5 pts si acheteur whitelist)
+
+    Retourne (True, "ok détaillé") ou (False, "raison rejet").
     """
     cpv = (notice.get("cpv") or "").strip()
     titre = (notice.get("objet") or "").lower()
     desc = (notice.get("description") or "").lower()
+    acheteur = (notice.get("acheteur") or "").lower()
     full_text = f"{titre} {desc}"
 
-    # 1. Exclure CPV formation pure (match par préfixe)
+    # 1. Kill-switch CPV formation pure
     for prefix in CPV_FORMATION_PREFIXES:
         if cpv.startswith(prefix):
             return False, f"CPV {cpv} = formation (préfixe {prefix})"
 
-    # 2. Exclure CPV hors périmètre (signature électronique, gardiennage…)
+    # 2. Kill-switch CPV hors périmètre
     for prefix in CPV_HORS_PERIMETRE_PREFIXES:
         if cpv.startswith(prefix):
             return False, f"CPV {cpv} hors périmètre (préfixe {prefix})"
 
-    # 3. Negative phrases : si une phrase négative match, on rejette
+    # 3. Kill-switch phrases négatives (VAE / bilan / GPEC / Qualiopi seul / etc.)
     for phrase in NEGATIVE_PHRASES:
         if phrase.lower() in full_text:
             return False, f"phrase négative : '{phrase}'"
 
-    # 4. Mandatory keywords : au moins UN doit matcher
-    matched = [kw for kw in MANDATORY_KEYWORDS if kw.lower() in full_text]
-    if not matched:
-        return False, "aucun mandatory keyword (certif/éval/test/VAE/bilan/…) ne match"
+    # 4. Score pondéré
+    s_matches = [kw for kw in KW_TIER_S if kw.lower() in full_text]
+    a_matches = [kw for kw in KW_TIER_A if kw.lower() in full_text]
+    b_matches = [kw for kw in KW_TIER_B if kw.lower() in full_text]
+    c_matches = [kw for kw in KW_CONCURRENTS if kw.lower() in full_text]
 
-    return True, f"ok (matched: {matched[0]})"
+    s_score = min(len(s_matches) * SCORE_TIER_S, CAP_TIER_S)
+    a_score = min(len(a_matches) * SCORE_TIER_A, CAP_TIER_A)
+    b_score = min(len(b_matches) * SCORE_TIER_B, CAP_TIER_B)
+    c_score = min(len(c_matches) * SCORE_CONCURRENT, CAP_CONCURRENT)
+    total = s_score + a_score + b_score + c_score
+
+    # 5. Seuil : abaissé à 5 si acheteur whitelist
+    is_whitelist = any(w in acheteur for w in ACHETEURS_WHITELIST)
+    threshold = SCORE_THRESHOLD_WHITELIST if is_whitelist else SCORE_THRESHOLD
+
+    if total < threshold:
+        # Construire un résumé pour debug
+        parts = []
+        if s_matches: parts.append(f"S({s_score}):{s_matches[0]}")
+        if a_matches: parts.append(f"A({a_score}):{a_matches[0]}")
+        if b_matches: parts.append(f"B({b_score}):{b_matches[0]}")
+        if c_matches: parts.append(f"C({c_score}):{c_matches[0]}")
+        summary = ", ".join(parts) if parts else "aucun match"
+        wl_tag = " [acheteur whitelist]" if is_whitelist else ""
+        return False, f"score {total} < seuil {threshold}{wl_tag} [{summary}]"
+
+    # PASSE — construire le détail des matches
+    parts = []
+    if s_matches: parts.append(f"S:{s_matches[0]}")
+    if a_matches: parts.append(f"A:{a_matches[0]}")
+    if b_matches: parts.append(f"B:{b_matches[0]}")
+    if c_matches: parts.append(f"C:{c_matches[0]}")
+    wl_tag = " [WL]" if is_whitelist else ""
+    return True, f"score={total}{wl_tag} ({','.join(parts)})"
 
 
 def _map_signal_type(notice: dict) -> str:

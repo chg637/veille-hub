@@ -57,18 +57,28 @@ SEARCH_URL_TMPL = (
     "&AllCons&keyWord={keyword}"
 )
 
-# Mots-clés à requêter (matchent notre mandatory keyword set)
+# Mots-clés à requêter — comité experts 24 mai (recentrage ITS/Tosa).
+# Optimisé : on cherche des AO de PLATEFORME, pas de prestation de service.
+# Les keywords trop génériques (certification, compétences, évaluation) sont
+# retirés car ils ramènent surtout du consulting RH / audit Qualiopi qui sont
+# filtrés en aval — autant ne pas les requêter (économie crédit Apify).
 SEARCH_KEYWORDS = [
-    "certification",
-    "compétences",
-    "évaluation",
-    "VAE",
-    "bilan",
-    "Qualiopi",
-    "examens",
-    "RNCP",
-    "TOSA",
+    # Termes plateforme/outil (signaux directs ITS)
+    "proctoring",
+    "examens à distance",
+    "examens en ligne",
+    "télésurveillance",
+    "QCM",
     "psychométrie",
+    # Termes Tosa (signaux secondaires)
+    "TOSA",
+    "compétences numériques",
+    "DigComp",
+    # Concurrents (signal de remplacement)
+    "PIX",
+    # Termes mid (peuvent matcher si combinés)
+    "passation",
+    "test de positionnement",
 ]
 
 
