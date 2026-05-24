@@ -23,6 +23,52 @@
     "date_publication": "2026-05-20"
   },
   {
+    "id": "sig-2026-05-19-0bed7e990a96",
+    "date_capture": "2026-05-24",
+    "vertical": "corporate",
+    "sous_segment": "Signal concurrent — Central Test",
+    "compte": "Central Test",
+    "titre": "Central Test devient Key Predict : des tests aux décisions RH prédictives",
+    "description": "L’évolution rapide du monde du travail, portée par la technologie et la pression sur les compétences, rend les décisions RH plus stratégiques&#8230;",
+    "source": "myRHline",
+    "source_tier": 1,
+    "url": "https://myrhline.com/type-publireportage/central-test/",
+    "signal_type": "concurrent_news",
+    "tier": 2,
+    "score": 70,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Source** : https://myrhline.com/type-publireportage/central-test/\n📰 **Titre** : « Central Test devient Key Predict : des tests aux décisions RH prédictives »\n🎯 **Action immédiate** : sur LinkedIn Sales Navigator, filtrer les profils Head of TA / DRH / Chief People Officer dans des entreprises >500 salariés qui mentionnent **Central Test** dans leur expérience.\n💡 **Angle ITS** : « Vous utilisiez Central Test. Avec leur récent pivot, beaucoup de RH cherchent une alternative stable. Discussion 20min sur ITS ? »\n📅 **Fenêtre** : 60j post-annonce (pic d'incertitude clientèle)\n🥊 **Positionnement** : ITS = solution mature, stable, multi-tenant, déjà déployée chez Central Test comme partenaire ou concurrent.",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-05-19"
+  },
+  {
+    "id": "sig-2026-05-21-e5af361642d9",
+    "date_capture": "2026-05-24",
+    "vertical": "corporate",
+    "sous_segment": "Signal concurrent — 365Talents",
+    "compte": "365Talents",
+    "titre": "Avec MyCareerPath, 365Talents et Alstom repensent la gestion des compétences à l’ère de l’IA",
+    "description": "Une démarche récompensée par une victoire dans la catégorie “Projet industrialisé” des Trophées IA &#038; RH 2026 organisés par le Hub France IA.",
+    "source": "Parlons RH",
+    "source_tier": 1,
+    "url": "https://www.parlonsrh.com/avec-mycareerpath-365talents-et-alstom-repensent-la-gestion-des-competences-a-lere-de-lia/",
+    "signal_type": "concurrent_news",
+    "tier": 2,
+    "score": 70,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Source** : https://www.parlonsrh.com/avec-mycareerpath-365talents-et-alstom-repensent-la-gestion-des-competences-a-lere-de-lia/\n📰 **Titre** : « Avec MyCareerPath, 365Talents et Alstom repensent la gestion des compétences à l’ère de l’IA »\n🎯 **Action immédiate** : sur LinkedIn Sales Navigator, filtrer les profils Head of TA / DRH / Chief People Officer dans des entreprises >500 salariés qui mentionnent **365Talents** dans leur expérience.\n💡 **Angle ITS** : « Vous utilisiez 365Talents. Avec leur récent changement, beaucoup de RH cherchent une alternative stable. Discussion 20min sur ITS ? »\n📅 **Fenêtre** : 60j post-annonce (pic d'incertitude clientèle)\n🥊 **Positionnement** : ITS = solution mature, stable, multi-tenant, déjà déployée chez 365Talents comme partenaire ou concurrent.",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-05-21"
+  },
+  {
     "id": "sig-2026-05-21-9ddd4781fe58",
     "date_capture": "2026-05-24",
     "vertical": "corporate",

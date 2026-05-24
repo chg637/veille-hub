@@ -117,6 +117,8 @@ SCRAPERS = [
     ("scrapers.education.cge", "education"),
     # Corporate — Sprint A1 — levées de fonds Series B+ (Maddyness FR + Sifted EU)
     ("scrapers.corporate.levees_rss", "corporate"),
+    # Corporate — Sprint A2 — signaux marché RH (pivots concurrents + nominations) via myRHline + Parlons RH
+    ("scrapers.corporate.signaux_marche_rh", "corporate"),
 ]
 
 # ❌ DÉSACTIVÉS — sources de contenu éditorial sans signal d'achat direct
