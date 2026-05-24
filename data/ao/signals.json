@@ -1,5 +1,53 @@
 [
   {
+    "id": "sig-2026-05-12-d0ff5e17a2da",
+    "date_capture": "2026-05-24",
+    "vertical": "ao",
+    "sous_segment": "Marché public — secteur à qualifier",
+    "compte": "Maison de l'emploi et de la formation Grand Paris Sud",
+    "titre": "Mise en œuvre d’ateliers thématiques sectoriels auprès des Etablissements médico-sociaux du département de la Seine-et-Marne et de",
+    "description": "La mission définie par le présent appel d'offres a pour objet de fournir une prestation visant à animer des ateliers collectifs sur des thématiques traitant des évolutions réglementaires, de la Gestion Prévisionnelle des Emplois et des Compétences et de l’amélioration de la qualité des emplois. Ces prestations s’adresseront à l’ensemble des établissements du département Seine-et-Marnais et essonni",
+    "source": "Maximilien IDF",
+    "source_tier": 2,
+    "url": "https://marches.maximilien.fr/entreprise/consultation/936849?orgAcronyme=j9g",
+    "signal_type": "ao_publie",
+    "tier": 2,
+    "score": 60,
+    "produit_match": [
+      "Pack Education Tosa",
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Récupérer le DCE complet** sur https://marches.maximilien.fr/entreprise/consultation/936849?orgAcronyme=j9g\n🎯 **Décideur cible** : À enrichir via LinkedIn Sales Nav + site officiel de l'acheteur\n💡 **Angle de valeur** : Standardisation + traçabilité + ROI mesurable + opposable audit\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Mapper les solutions existantes via questions de cadrage (Central Test, ATS interne, etc.)\n⏰ Deadline : 2026-05-29 → calculer J-jours et caler les ressources dès maintenant.",
+    "deadline_action": "2026-05-29",
+    "status": "new",
+    "date_publication": "2026-05-12"
+  },
+  {
+    "id": "sig-2026-05-12-1d489e67242a",
+    "date_capture": "2026-05-24",
+    "vertical": "ao",
+    "sous_segment": "Marché public — secteur à qualifier",
+    "compte": "Maison de l'emploi et de la formation Grand Paris Sud",
+    "titre": "Mise en œuvre d’Ateliers Thématiques d’Accompagnement à la Réforme des SAD, auprès des Service Autonomie à Domicile du",
+    "description": "La mission a pour objet de fournir une prestation visant à animer des ateliers collectifs sur des thématiques traitant des évolutions réglementaires liées à la réforme des SAD, de la Gestion Prévisionnelle des Emplois et des Compétences, de l’amélioration de la qualité des emplois et du développement économique de la structure. Ces prestations s’adresseront à l’ensemble des SAD du département Sein",
+    "source": "Maximilien IDF",
+    "source_tier": 2,
+    "url": "https://marches.maximilien.fr/entreprise/consultation/938851?orgAcronyme=j9g",
+    "signal_type": "ao_publie",
+    "tier": 2,
+    "score": 60,
+    "produit_match": [
+      "Pack Education Tosa",
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Récupérer le DCE complet** sur https://marches.maximilien.fr/entreprise/consultation/938851?orgAcronyme=j9g\n🎯 **Décideur cible** : À enrichir via LinkedIn Sales Nav + site officiel de l'acheteur\n💡 **Angle de valeur** : Standardisation + traçabilité + ROI mesurable + opposable audit\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Mapper les solutions existantes via questions de cadrage (Central Test, ATS interne, etc.)\n⏰ Deadline : 2026-05-29 → calculer J-jours et caler les ressources dès maintenant.",
+    "deadline_action": "2026-05-29",
+    "status": "new",
+    "date_publication": "2026-05-12"
+  },
+  {
     "id": "sig-2026-05-18-f3c7f8c95ce3",
     "date_capture": "2026-05-24",
     "vertical": "ao",
