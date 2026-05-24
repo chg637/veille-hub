@@ -121,6 +121,8 @@ SCRAPERS = [
     ("scrapers.corporate.signaux_marche_rh", "corporate"),
     # OF — Phase 1 — levées EdTech (Maddyness + Sifted filtrés EdTech)
     ("scrapers.of.levees_edtech", "of"),
+    # OF — Phase 2 — nouvelles fiches RNCP/RS via data.gouv.fr (France Compétences)
+    ("scrapers.of.france_competences", "of"),
 ]
 
 # ❌ DÉSACTIVÉS — sources de contenu éditorial sans signal d'achat direct
