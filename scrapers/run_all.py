@@ -110,6 +110,9 @@ SCRAPERS = [
     ("scrapers.education.radar_hebdo_tosa", "education"),
     # Marchés publics formation/certif via Radar AO live (TED + BOAMP)
     ("scrapers.ao.seed_from_radar", "ao"),
+    # Maximilien IDF — profil acheteur Île-de-France (lycées, IUT, collectivités, hôpitaux)
+    # Skip propre si APIFY_TOKEN absent
+    ("scrapers.ao.maximilien_idf", "ao"),
     # Conférence des Grandes Écoles — uniquement les labellisations passent le filtre
     ("scrapers.education.cge", "education"),
 ]
