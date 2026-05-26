@@ -118,6 +118,8 @@ SCRAPERS = [
     # Maximilien IDF — profil acheteur Île-de-France (lycées, IUT, collectivités, hôpitaux)
     # Skip propre si APIFY_TOKEN absent
     ("scrapers.ao.maximilien_idf", "ao"),
+    # Profils acheteurs PLACE Tier-1 — Sprint 1 comité Sourcing AO 360°
+    ("scrapers.ao.profils_place.paris_saclay", "ao"),
     # Conférence des Grandes Écoles — uniquement les labellisations passent le filtre
     ("scrapers.education.cge", "education"),
     # Corporate — Sprint A1 — levées de fonds Series B+ (Maddyness FR + Sifted EU)

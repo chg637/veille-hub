@@ -1,5 +1,70 @@
 [
   {
+    "id": "sig-2026-05-26-24ed01993375",
+    "date_capture": "2026-05-26",
+    "vertical": "education",
+    "sous_segment": "grande-ecole",
+    "compte": "CGE",
+    "titre": "Les labellisations CGE de mai",
+    "description": "L’article Les labellisations CGE de mai est apparu en premier sur Conférence des grandes écoles .",
+    "source": "CGE",
+    "source_tier": 1,
+    "url": "https://www.cge.asso.fr/liste-actualites/labellisations-cge-mai-2026/",
+    "signal_type": "accreditation",
+    "tier": 1,
+    "score": 95,
+    "produit_match": [
+      "Pack Education Tosa",
+      "ITS"
+    ],
+    "owner": null,
+    "action_reco": "📋 **Signal détecté**\nL’article Les labellisations CGE de mai est apparu en premier sur Conférence des grandes écoles .\n\n🎯 **Action à mener**\nEmail au responsable maquette + pitch « Pack Edu Tosa = preuve mesurable compétences digitales pour le dossier accréditation ». Joindre 2 cas pairs. RDV sous 14j.\n\n💡 **Angle pitch ITS/Tosa**\nTosa = preuve opposable de la qualité d'évaluation des compétences (audit Qualiopi, France Compétences). Doublement du signal extérieur dans la promotion du programme labellisé.\n\n📅 **Timing**\n3 mois post-annonce — fenêtre de capitalisation médiatique encore active.",
+    "deadline_action": "2026-06-02",
+    "status": "new",
+    "date_publication": "2026-05-26",
+    "email_draft": {
+      "subject": "CGE — L’article Les labellisations CGE de, capitaliser avec Tosa ?",
+      "body": "Bonjour,\n\nJ'ai noté votre actualité : « L’article Les labellisations CGE de mai est apparu en premier sur Conférence des grandes écoles . ».\nBravo, c'est une étape importante.\n\nOn accompagne pas mal d'écoles dans votre cas chez Isograd. Le point qui revient à 3 mois post-labellisation, c'est comment capitaliser concrètement sur cette reconnaissance — au-delà du communiqué.\n\nDeux leviers qu'on déploie chez nos clients labellisés :\n\n1. **Tosa comme preuve opposable** sur la qualité d'évaluation des compétences numériques de vos étudiants (bureautique, code, digital). Très bien vu en audit Qualiopi et dans les dossiers France Compétences.\n\n2. **Doublement du signal extérieur** : Tosa comme argument concret pour les candidats, les recruteurs et les classements qui pèsent sur le programme labellisé.\n\n15 minutes pour vous montrer ce que ça donnerait chez CGE ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://www.cge.asso.fr/liste-actualites/labellisations-cge-mai-2026/"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Directeur(rice) des certifications",
+        "alternatives": [
+          "Responsable Qualiopi",
+          "Responsable des certifications"
+        ],
+        "priorite": 1,
+        "raison": "Pilote la conformité audit et la valorisation du label",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+des+certifications%22+OR+%22Responsable+Qualiopi%22+OR+%22Responsable+des+certifications%22&currentCompany=CGE",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22CGE%22%20Directeur%28rice%29%20des%20certifications%20Responsable%20Qualiopi%20Responsable%20des%20certifications"
+      },
+      {
+        "poste": "Directeur(rice) des programmes / Académique",
+        "alternatives": [
+          "Doyen",
+          "Doyenne",
+          "VP Pédagogie",
+          "Directeur(rice) pédagogique"
+        ],
+        "priorite": 2,
+        "raison": "Sponsorise les outils d'évaluation des étudiants",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+des+programmes+%2F+Acad%C3%A9mique%22+OR+%22Doyen%22+OR+%22Doyenne%22+OR+%22VP+P%C3%A9dagogie%22+OR+%22Directeur%28rice%29+p%C3%A9dagogique%22&currentCompany=CGE",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22CGE%22%20Directeur%28rice%29%20des%20programmes%20/%20Acad%C3%A9mique%20Doyen%20Doyenne%20VP%20P%C3%A9dagogie%20Directeur%28rice%29%20p%C3%A9dagogique"
+      },
+      {
+        "poste": "Directeur(rice) Communication / Marketing",
+        "alternatives": [
+          "Responsable Communication",
+          "Responsable Marketing"
+        ],
+        "priorite": 3,
+        "raison": "Valorise le label dans la promotion (Tosa = preuve compétences)",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+Communication+%2F+Marketing%22+OR+%22Responsable+Communication%22+OR+%22Responsable+Marketing%22&currentCompany=CGE",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22CGE%22%20Directeur%28rice%29%20Communication%20/%20Marketing%20Responsable%20Communication%20Responsable%20Marketing"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-04-29-1798ff14f2d2",
     "date_capture": "2026-05-26",
     "vertical": "education",

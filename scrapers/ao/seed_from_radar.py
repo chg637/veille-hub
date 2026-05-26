@@ -161,8 +161,39 @@ CPV_TARGET_PREFIXES = (
     "72416",     # Fournisseurs ASP / SaaS (souvent plateformes test SaaS)
     "72212190",  # Services de développement de logiciels PÉDAGOGIQUES (cas Paris-Saclay 2026-A009)
     "48311",     # Logiciels de gestion de documents (cibles formation continue)
+    "73111",     # Services de recherche (psychométrie/évaluation) — v5.2
+    "48160",     # Logiciels bibliothèque / catalogues — v5.2 (si combiné évaluation)
 )
 SCORE_CPV_TARGET = 10
+
+# v5.2 — Combos composites (Céline R. — Linguiste Sémantique)
+# Si plusieurs familles de mots se combinent dans le texte, on booste de +8 pts.
+# Chaque entrée = liste de groupes ; un combo est trouvé si on a 1 mot dans CHAQUE groupe.
+COMBOS_COMPOSITES = [
+    # outil/dispositif/plateforme + numérique/digital + positionnement/orientation/évaluation/diagnostic
+    [
+        ["outil", "dispositif", "plateforme", "environnement", "portail", "solution"],
+        ["numérique", "digital"],
+        ["positionnement", "orientation", "évaluation", "diagnostic", "test"],
+    ],
+    # logiciel + pédagogique/éducatif/évaluation/orientation
+    [
+        ["logiciel", "progiciel"],
+        ["pédagogique", "éducatif", "évaluation", "orientation", "examen"],
+    ],
+    # parcours + individualisé/sur mesure/personnalisé
+    [
+        ["parcours", "trajectoire"],
+        ["individualisé", "sur mesure", "personnalisé", "sur-mesure"],
+    ],
+    # auto + évaluation/positionnement/diagnostic
+    [
+        ["auto"],
+        ["évaluation", "positionnement", "diagnostic"],
+    ],
+]
+SCORE_COMBO = 8
+CAP_COMBO = 24  # max 3 combos cumulés
 
 # ─────────────────────────────────────────────────────────────────────────────
 # SCORING PONDÉRÉ — Comité experts ITS/Tosa (24 mai 2026)
@@ -172,7 +203,7 @@ SCORE_CPV_TARGET = 10
 # ─────────────────────────────────────────────────────────────────────────────
 
 SCORE_THRESHOLD = 8
-SCORE_THRESHOLD_WHITELIST = 5
+SCORE_THRESHOLD_WHITELIST = 3  # v5.2 — abaissé de 5 à 3 (compte ICP déjà, risque FP faible)
 
 # Tier S — Signal direct ITS/Tosa (10 pts chacun, cap 30 pts)
 KW_TIER_S = [
@@ -205,6 +236,37 @@ KW_TIER_S = [
     "automatiser l'analyse des résultats",
     "logiciel pédagogique", "logiciels pédagogiques",
     "logiciel d'assessment", "logiciels d'assessment",
+    # v5.2 — Apprentissage cas Paris-Saclay (sémantique positionnement/orientation)
+    "outil de positionnement", "outil de positionnement numérique",
+    "outil d'orientation", "outil d'auto-évaluation",
+    "outil d'auto-positionnement",
+    "outil numérique de positionnement",
+    "outil de diagnostic", "outil pédagogique",
+    "dispositif numérique de positionnement",
+    "dispositif numérique d'évaluation",
+    "dispositif numérique d'orientation",
+    "environnement numérique d'évaluation",
+    "portail d'évaluation",
+    "plateforme d'orientation pédagogique",
+    "plateforme d'orientation",
+    "plateforme de positionnement",
+    "plateforme de diagnostic",
+    "auto-évaluation", "auto-positionnement", "auto-diagnostic",
+    "grille d'auto-évaluation",
+    "moteur de recommandation",
+    "recommandation de parcours",
+    "parcours individualisé", "parcours sur mesure",
+    "parcours individualisé de formation",
+    "profilage des candidats", "profilage candidats",
+    "évaluation comportementale", "évaluation sommative",
+    "évaluation formative", "évaluation diagnostique",
+    "évaluation des aptitudes", "évaluation des pratiques professionnelles",
+    "test d'aptitudes", "test d'orientation",
+    "test de niveau", "tests de niveau",
+    "assessment center", "assessment center digital",
+    "bilan de positionnement",
+    "logiciel d'orientation", "progiciel pédagogique",
+    "solution de testing pédagogique",
 ]
 SCORE_TIER_S = 10
 CAP_TIER_S = 30
@@ -246,6 +308,11 @@ KW_CONCURRENTS = [
     "Explorance", "Bluepulse", "EvaluationKIT",
     "Aurion",  # ERP scolarité — souvent intégré avec plateforme évaluation
     "Course Evaluations",
+    # v5.2 — comité experts (Bertrand K. + Mathilde B.)
+    "Sphinx", "EvalandGo", "LimeSurvey",
+    "Klaxoon", "Wooclap", "Beekast", "Plickers",
+    "TalentSoft", "Talentia", "Cornerstone OnDemand",
+    "Mereo", "Lattice", "Culture Amp",
 ]
 SCORE_CONCURRENT = 10
 CAP_CONCURRENT = 20
@@ -440,31 +507,40 @@ def _passes_metier_filter(notice: dict) -> tuple[bool, str]:
             break
     cpv_boost = SCORE_CPV_TARGET if cpv_target_match else 0
 
-    total = s_score + a_score + b_score + c_score + cpv_boost
+    # v5.2 — Boost combos composites (+8 pts par combo trouvé, cap CAP_COMBO)
+    combos_matched = 0
+    for combo in COMBOS_COMPOSITES:
+        # Un combo matche si au moins un mot de CHAQUE groupe est dans full_text
+        if all(any(w in full_text for w in groupe) for groupe in combo):
+            combos_matched += 1
+    combo_score = min(combos_matched * SCORE_COMBO, CAP_COMBO)
+
+    total = s_score + a_score + b_score + c_score + cpv_boost + combo_score
 
     # 5. Seuil : abaissé à 5 si acheteur whitelist
     is_whitelist = any(w in acheteur for w in ACHETEURS_WHITELIST)
     threshold = SCORE_THRESHOLD_WHITELIST if is_whitelist else SCORE_THRESHOLD
 
     if total < threshold:
-        # Construire un résumé pour debug
         parts = []
         if s_matches: parts.append(f"S({s_score}):{s_matches[0]}")
         if a_matches: parts.append(f"A({a_score}):{a_matches[0]}")
         if b_matches: parts.append(f"B({b_score}):{b_matches[0]}")
         if c_matches: parts.append(f"C({c_score}):{c_matches[0]}")
         if cpv_target_match: parts.append(f"CPV+{cpv_boost}:{cpv_target_match}")
+        if combos_matched: parts.append(f"COMBO+{combo_score}({combos_matched})")
         summary = ", ".join(parts) if parts else "aucun match"
         wl_tag = " [acheteur whitelist]" if is_whitelist else ""
         return False, f"score {total} < seuil {threshold}{wl_tag} [{summary}]"
 
-    # PASSE — construire le détail des matches
+    # PASSE — détail des matches
     parts = []
     if s_matches: parts.append(f"S:{s_matches[0]}")
     if a_matches: parts.append(f"A:{a_matches[0]}")
     if b_matches: parts.append(f"B:{b_matches[0]}")
     if c_matches: parts.append(f"C:{c_matches[0]}")
     if cpv_target_match: parts.append(f"CPV+:{cpv_target_match}")
+    if combos_matched: parts.append(f"COMBO+:{combos_matched}")
     wl_tag = " [WL]" if is_whitelist else ""
     return True, f"score={total}{wl_tag} ({','.join(parts)})"
 
