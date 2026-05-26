@@ -1,9 +1,19 @@
 """
-Scraper PLACE — profil acheteur Université Paris-Saclay (orgAcronyme = f2h).
+Scraper PLACE — catégorie EOESRI (orgAcronyme = f2h).
 
-Profil pilote Sprint 1 du comité Sourcing AO 360°.
-Cas perdu déclencheur : AO 2026-A009 « Outil de positionnement CAP PAC 2030 »
-publié sur ce profil et raté par notre Radar AO actuel.
+EOESRI = Établissements et Organismes de l'Enseignement Supérieur, de la
+Recherche et de l'Innovation. L'acronyme f2h regroupe TOUTES les universités
+publiques + grandes écoles publiques + organismes de recherche français.
+
+Couverture : Paris-Saclay, Sorbonne, Paris Cité, Aix-Marseille, Polytechnique,
+HEC, ESSEC, ESCP, Sciences Po, CNRS, INSERM, INRAE, etc. — tous via un
+seul scraper.
+
+Le filtrage métier (v5.2) + whitelist acheteurs ESR fait le tri ITS-pertinent
+en aval. Avantage : 1 scraper au lieu de ~30 profils individuels.
+
+Cas perdu déclencheur : AO Paris-Saclay 2026-A009 « Outil de positionnement
+CAP PAC 2030 » publié sur ce profil et raté par notre Radar AO d'origine.
 
 Cadence : appel quotidien via le runner. Skip propre si APIFY_TOKEN absent.
 """
@@ -32,8 +42,8 @@ from scrapers.ao.seed_from_radar import (  # noqa: E402
 logger = logging.getLogger(__name__)
 
 VERTICAL = "ao"
-ORG_ACRONYME = "f2h"
-NOM_PROFIL = "Université Paris-Saclay"
+ORG_ACRONYME = "f2h"  # EOESRI — tous ESR/recherche/innovation publics français
+NOM_PROFIL = "ESR & Recherche (PLACE EOESRI)"
 
 
 def scrape() -> list[Signal]:
