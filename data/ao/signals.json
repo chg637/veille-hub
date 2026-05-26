@@ -50,5 +50,57 @@
         "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Universit%C3%A9%20Paris-Saclay%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
       }
     ]
+  },
+  {
+    "id": "sig-2026-04-29-c2ddda750bae",
+    "date_capture": "2026-05-26",
+    "vertical": "ao",
+    "sous_segment": "Marché public Collectivité",
+    "compte": "Ville de Paris",
+    "titre": "Manuels scolaires, autres supports et ressources numériques à usage pédagogique",
+    "description": "• des manuels scolaires et ouvrages en langues étrangères (4 lots) ; • des tests et ouvrages pour psychologues scolaires 1 lot) ; • des DVD et CD ROM à vocation pédagogiques (1 lot) ; • des ressources numériques pédagogiques via la mise à disposition de plateformes (nouveau besoin - 1 lot).",
+    "source": "Maximilien IDF",
+    "source_tier": 2,
+    "url": "https://marches.maximilien.fr/entreprise/consultation/937539?orgAcronyme=r8t",
+    "signal_type": "ao_publie",
+    "tier": 2,
+    "score": 60,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Récupérer le DCE complet** sur https://marches.maximilien.fr/entreprise/consultation/937539?orgAcronyme=r8t\n🎯 **Décideur cible** : DRH + Direction Numérique + RAQ Qualiopi (rechercher CNFPT territorial si volet formation)\n💡 **Angle de valeur** : ITS : plateforme d'hébergement d'examens (tests recrutement, contrôles, certifications internes) avec correction auto et reporting\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS : prestataires SIRH territoriaux, plateformes internes maison, Sphinx, EvalandGo\n⏰ Deadline : 2026-06-09 → calculer J-jours et caler les ressources dès maintenant.",
+    "deadline_action": "2026-06-09",
+    "status": "new",
+    "date_publication": "2026-04-29",
+    "email_draft": {
+      "subject": "AO Ville de Paris — ISOGRAD souhaite candidater",
+      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"Manuels scolaires, autres supports et ressources numériques à usage pédagogique\"\nDeadline : 2026-06-09\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://marches.maximilien.fr/entreprise/consultation/937539?orgAcronyme=r8t"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Acheteur public référencé sur l'AO",
+        "alternatives": [
+          "RAQ",
+          "Responsable des achats"
+        ],
+        "priorite": 1,
+        "raison": "Référent direct de la consultation",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=Ville+de+Paris",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Ville%20de%20Paris%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
+      },
+      {
+        "poste": "Décideur métier (variable selon segment)",
+        "alternatives": [
+          "Direction des examens (ESR)",
+          "Direction des soins (FPH)",
+          "DRH (Collectivité)"
+        ],
+        "priorite": 2,
+        "raison": "Sponsorise le besoin métier en amont",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=Ville+de+Paris",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Ville%20de%20Paris%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
+      }
+    ]
   }
 ]
