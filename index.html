@@ -544,7 +544,7 @@
 
 <div class="ft">
   <div>📅 Prochain digest hebdo : <b id="next-digest">lundi 8h</b> · cercle réduit (Charles + Juliette)</div>
-  <div class="digest">v0.4 — sources actionnables</div>
+  <div class="digest">v0.5 — sources 360° (PLACE EOESRI + FPH + curated)</div>
 </div>
 
 <script>
@@ -837,16 +837,36 @@ async function initHub() {
     ? "données live"
     : "mode local (fetch désactivé)";
 
-  const lastDate = allSignals
-    .map(s => s.date_publication || s.date_capture)
-    .filter(Boolean)
-    .sort()
-    .pop();
-  if (lastDate) {
-    document.getElementById("last-update").textContent = "MAJ : " + fmtDate(lastDate);
-  } else {
-    document.getElementById("last-update").textContent = "MAJ : —";
-  }
+  // Récupère le timestamp exact du dernier scrape depuis data/_meta.json
+  // (généré par run_all.py à chaque run). Affiche heure locale Paris.
+  const updateLastRun = (text) => {
+    document.getElementById("last-update").textContent = text;
+  };
+  fetch("data/_meta.json", { cache: "no-store" })
+    .then(r => r.ok ? r.json() : Promise.reject())
+    .then(meta => {
+      const iso = meta.last_run_utc || meta.last_run_iso;
+      if (!iso) throw new Error("no timestamp");
+      const d = new Date(iso);
+      const dateStr = d.toLocaleDateString("fr-FR", {
+        weekday: "short", day: "2-digit", month: "short", year: "numeric",
+        timeZone: "Europe/Paris",
+      });
+      const timeStr = d.toLocaleTimeString("fr-FR", {
+        hour: "2-digit", minute: "2-digit",
+        timeZone: "Europe/Paris",
+      });
+      updateLastRun(`Dernière MAJ : ${dateStr} à ${timeStr}`);
+    })
+    .catch(() => {
+      // Fallback : date du signal le plus récent
+      const lastDate = allSignals
+        .map(s => s.date_publication || s.date_capture)
+        .filter(Boolean)
+        .sort()
+        .pop();
+      updateLastRun(lastDate ? "Dernière MAJ : " + fmtDate(lastDate) : "Dernière MAJ : —");
+    });
 
   const next = new Date();
   next.setDate(next.getDate() + ((1 + 7 - next.getDay()) % 7 || 7));
