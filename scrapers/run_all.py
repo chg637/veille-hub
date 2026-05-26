@@ -6,8 +6,10 @@ Appelé par GitHub Actions chaque jour à 6h UTC, et utilisable manuellement.
 
 from __future__ import annotations
 
+import json
 import logging
 import sys
+from datetime import datetime, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
@@ -108,6 +110,9 @@ def run_scraper(module_path: str, vertical: str, repo_root: Path) -> int:
 SCRAPERS = [
     # Curated manuel — la pépite, signaux qualifiés à 100% (SKEMA, Polytechnique, etc.)
     ("scrapers.education.radar_hebdo_tosa", "education"),
+    # AO curated manuel — Charles ajoute lui-même les AO identifiés ailleurs
+    # (centraledesmarches, LinkedIn, collègues...). data/curated/ao_curated.csv
+    ("scrapers.ao.ao_curated", "ao"),
     # Marchés publics formation/certif via Radar AO live (TED + BOAMP)
     ("scrapers.ao.seed_from_radar", "ao"),
     # Maximilien IDF — profil acheteur Île-de-France (lycées, IUT, collectivités, hôpitaux)
@@ -166,6 +171,17 @@ def main():
             logger.error("Scraper %s failed: %s", module_path, e, exc_info=True)
 
     logger.info("==== DONE — %d new signals captured across all scrapers ====", grand_total)
+
+    # Écrire le metadata du run (timestamp UTC) pour affichage côté hub
+    meta_path = repo_root / "data" / "_meta.json"
+    now_utc = datetime.now(timezone.utc).replace(microsecond=0)
+    meta = {
+        "last_run_utc": now_utc.isoformat(),
+        "last_run_iso": now_utc.strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "total_signals": grand_total,
+    }
+    meta_path.write_text(json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8")
+    logger.info("Wrote meta to %s : %s", meta_path.relative_to(repo_root), meta["last_run_iso"])
 
 
 if __name__ == "__main__":

@@ -156,9 +156,11 @@ CPV_HORS_PERIMETRE_PREFIXES = (
 # Cas typique : un AO académique "Évaluation des enseignements" (CPV 48190)
 # avec peu de mots-clés explicites doit quand même passer le seuil.
 CPV_TARGET_PREFIXES = (
-    "48190",  # Logiciels éducatifs (cas Neoma BS — plateforme évaluation enseignements)
-    "79132",  # Services de certification (sauf 79132100 déjà exclu plus haut)
-    "72416",  # Fournisseurs ASP / SaaS (souvent plateformes test SaaS)
+    "48190",     # Logiciels éducatifs (cas Neoma BS — plateforme évaluation enseignements)
+    "79132",     # Services de certification (sauf 79132100 déjà exclu plus haut)
+    "72416",     # Fournisseurs ASP / SaaS (souvent plateformes test SaaS)
+    "72212190",  # Services de développement de logiciels PÉDAGOGIQUES (cas Paris-Saclay 2026-A009)
+    "48311",     # Logiciels de gestion de documents (cibles formation continue)
 )
 SCORE_CPV_TARGET = 10
 
