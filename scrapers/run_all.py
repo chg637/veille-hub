@@ -121,6 +121,9 @@ SCRAPERS = [
     # Profils acheteurs PLACE — catégorie EOESRI (tous ESR/recherche/innovation)
     # 1 seul scraper capte Sorbonne, Paris-Saclay, Polytechnique, HEC, ESSEC, etc.
     ("scrapers.ao.profils_place.esr_global", "ao"),
+    # Profils acheteurs PLACE — catégorie ESMS (FPH : AP-HP, CHU, EHPAD publics)
+    # 1 seul scraper capte tous les établissements de santé publique
+    ("scrapers.ao.profils_place.fph_sante", "ao"),
     # Conférence des Grandes Écoles — uniquement les labellisations passent le filtre
     ("scrapers.education.cge", "education"),
     # Corporate — Sprint A1 — levées de fonds Series B+ (Maddyness FR + Sifted EU)
