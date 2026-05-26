@@ -95,24 +95,24 @@ def produit_match_for(signal_type: str, vertical: str) -> list:
         return ["Pack Education Tosa"]
 
     if vertical == "of":
+        # OF revendeur Tosa → ce vertical est dédié à la revente du catalogue Tosa
         if signal_type in ("levee_edtech", "concurrent_news"):
-            return ["Pack OF Tosa"]
+            return ["ITS"]  # éditeur EdTech = white-label ITS, pas catalogue
         if signal_type == "rncp_open":
-            return ["Cert IA", "Pack OF Tosa"]
-        return ["Pack OF Tosa"]
+            return ["ITS"]
+        return ["ITS"]
 
     if vertical == "rncp":
-        # Certificateur qui vient de déposer une fiche : on pitche ITS pour héberger
-        # leurs sessions d'examens (banque de questions, proctoring, attestations)
-        # + Tosa si fiche orientée numérique/bureautique
-        if signal_type == "rncp_open":
-            return ["ITS", "Pack Education Tosa"]
+        # Certificateur qui dépose une fiche RNCP/RS = besoin d'une PLATEFORME
+        # pour héberger les sessions d'examens (banque de questions, proctoring,
+        # attestations). C'est ITS pur, jamais Tosa (Tosa = catalogue fermé).
         return ["ITS"]
 
     if vertical == "ao":
-        if signal_type in ("ao_publie", "ao_pre_info"):
-            return ["Pack Education Tosa", "ITS"]
-        return ["Pack Education Tosa"]
+        # AO public = besoin d'une plateforme d'hébergement d'examens sur laquelle
+        # l'acheteur met SES contenus (tests recrutement, examens académiques,
+        # contrôles internes). C'est ITS, pas Tosa.
+        return ["ITS"]
 
     return []
 

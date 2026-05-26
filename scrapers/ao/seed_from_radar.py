@@ -44,36 +44,46 @@ DECIDEUR_PAR_SEGMENT = {
     "Autre": "À enrichir via LinkedIn Sales Nav + site officiel de l'acheteur",
 }
 
-# Valeur métier à pitcher selon le CPV — angle commercial différencié
+# Valeur métier à pitcher selon le CPV — angle 100% ITS (plateforme SaaS d'hébergement d'examens)
 def _valeur_metier_par_cpv(cpv: str) -> str:
-    """Retourne l'angle commercial selon le CPV."""
+    """Retourne l'angle pitch ITS selon le CPV."""
     cpv = (cpv or "").strip()
     if cpv.startswith("79132"):
-        return "Certification : standardisation des compétences, opposable en audit / accréditation"
+        return "ITS comme plateforme de passation de la certification : banque de questions, proctoring, attestations opposables en audit"
     if cpv.startswith("72416"):
-        return "SaaS : déploiement rapide, scalabilité, zéro infra à maintenir côté client"
-    if cpv.startswith("48190"):
-        return "Logiciel éducatif : intégration LMS existant, examens sécurisés, banque de questions"
+        return "ITS en SaaS multi-tenant : déploiement 4-6 semaines, scalable, zéro infra à maintenir côté acheteur"
+    if cpv.startswith("48190") or cpv.startswith("72212190"):
+        return "ITS comme back-end éval intégrable à votre SI : banque de questions paramétrable, exports complets, multi-rôles candidat/admin/OF"
+    if cpv.startswith("73111"):
+        return "ITS pour la passation des batteries psychométriques : tests adaptatifs, banque de questions calibrées, rapports automatiques"
     if cpv.startswith("72"):
-        return "Plateforme : sécurité examens, RGPD, accessibilité RGAA"
+        return "ITS comme plateforme d'évaluation : sécurité examens, RGPD UE, accessibilité RGAA, intégration LMS/ERP"
     if cpv.startswith("805"):
-        return "ATTENTION CPV formation — vérifier que le volet évaluation/certification est central, sinon écarter"
+        return "ATTENTION CPV formation — vérifier que le volet plateforme d'évaluation/passation est central, sinon écarter"
     if cpv.startswith("803"):
-        return "Enseignement sup : examens dématérialisés, certification post-cursus, accréditation internationale"
-    return "Standardisation + traçabilité + ROI mesurable + opposable audit"
+        return "ITS pour l'enseignement sup : examens dématérialisés à scale, proctoring, traçabilité Qualiopi/France Compétences"
+    return "ITS : plateforme d'hébergement d'examens (tests recrutement, contrôles, certifications internes) avec correction auto et reporting"
 
 
-# Concurrents à anticiper selon segment (battle card mentale)
+# Concurrents ITS par segment acheteur — battle card pour le commercial
 def _concurrents_par_segment(segment: str) -> str:
-    if segment in ("ESR", "Formation pro"):
-        return "Concurrents probables : Pix (DigComp), Microsoft MOS, TOEIC/Cambridge, Adobe Certified, PCIE/ICDL"
-    if segment in ("Collectivités", "État"):
-        return "Concurrents : prestataires historiques territoriaux, CNFPT (offre interne), Adobe Connect"
-    if segment in ("Consulaire", "OPCO"):
-        return "Concurrents : Cegos, Demos, OpenClassrooms B2B, Adobe Certified Associate"
+    if segment == "ESR":
+        return "Concurrents ITS probables : Explorance (cas Neoma), EvaluationKIT, Bluepulse, Aurion (ERP scolarité), ExamSoft, Pearson VUE, Caveon"
+    if segment == "Formation pro":
+        return "Concurrents ITS : Eval&Go, Sphinx, plateformes LMS internes, Cornerstone, TalentSoft, Skillup"
+    if segment == "Collectivités":
+        return "Concurrents ITS : prestataires SIRH territoriaux, plateformes internes maison, Sphinx, EvalandGo"
+    if segment == "État":
+        return "Concurrents ITS : Pix (compétences numériques agents), plateformes internes ministérielles, Sphinx"
+    if segment == "Consulaire":
+        return "Concurrents ITS : CCI/CMA plateformes internes, EvalandGo, Sphinx, Inwicast"
+    if segment == "OPCO":
+        return "Concurrents ITS : plateformes internes OPCO, Sphinx, EvalandGo (rare en AO direct OPCO)"
     if segment == "FPH":
-        return "Concurrents : ANFH catalogue, INSEEC santé, plateformes hospitalières internes"
-    return "Mapper les solutions existantes via questions de cadrage (Central Test, ATS interne, etc.)"
+        return "Concurrents ITS : ANFH plateforme interne, plateformes hospitalières maison, Sphinx, EvalandGo"
+    if segment == "UE":
+        return "Concurrents ITS : ProctorU, Honorlock, ExamSoft, Caveon, Pearson VUE, Prometric"
+    return "Concurrents ITS à mapper via questions de cadrage : Explorance, EvaluationKIT, Sphinx, EvalandGo, ExamSoft, plateformes internes"
 
 
 def _generate_ao_action(notice: dict, signal_type: str, segment: str) -> str:
