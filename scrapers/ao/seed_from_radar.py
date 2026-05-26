@@ -151,6 +151,17 @@ CPV_HORS_PERIMETRE_PREFIXES = (
     "79715",     # Patrouille
 )
 
+# v5.1 — CPV cibles ITS/Tosa. Si le CPV match un de ces préfixes,
+# on booste le score de +10 pts (équivalent à un keyword Tier S).
+# Cas typique : un AO académique "Évaluation des enseignements" (CPV 48190)
+# avec peu de mots-clés explicites doit quand même passer le seuil.
+CPV_TARGET_PREFIXES = (
+    "48190",  # Logiciels éducatifs (cas Neoma BS — plateforme évaluation enseignements)
+    "79132",  # Services de certification (sauf 79132100 déjà exclu plus haut)
+    "72416",  # Fournisseurs ASP / SaaS (souvent plateformes test SaaS)
+)
+SCORE_CPV_TARGET = 10
+
 # ─────────────────────────────────────────────────────────────────────────────
 # SCORING PONDÉRÉ — Comité experts ITS/Tosa (24 mai 2026)
 # Recentrage strict : on cherche une PLATEFORME/OUTIL d'évaluation/certification,
@@ -183,6 +194,15 @@ KW_TIER_S = [
     "ingénierie d'évaluation",
     "outil de positionnement", "outil d'évaluation continue",
     "logiciel de QCM", "logiciel d'évaluation", "logiciel de test",
+    # v5.1 — vocabulaire académique (cas Neoma BS / business schools / universités)
+    "évaluation des enseignements", "evaluation des enseignements",
+    "système d'évaluation des enseignements",
+    "système d'évaluation", "système de testing",
+    "modernisation du système d'évaluation",
+    "automatiser l'évaluation", "automatiser les évaluations",
+    "automatiser l'analyse des résultats",
+    "logiciel pédagogique", "logiciels pédagogiques",
+    "logiciel d'assessment", "logiciels d'assessment",
 ]
 SCORE_TIER_S = 10
 CAP_TIER_S = 30
@@ -220,6 +240,10 @@ KW_CONCURRENTS = [
     "Pearson Vue", "Prometric",
     "OnlineExams", "Drimify", "Skill Mirror",
     "PIX",
+    # v5.1 — concurrents identifiés via attribution AO académiques
+    "Explorance", "Bluepulse", "EvaluationKIT",
+    "Aurion",  # ERP scolarité — souvent intégré avec plateforme évaluation
+    "Course Evaluations",
 ]
 SCORE_CONCURRENT = 10
 CAP_CONCURRENT = 20
@@ -259,6 +283,20 @@ ACHETEURS_WHITELIST = [
     "edhec",
     "sciences po",
     "skema",
+    "neoma", "neoma bs", "neoma business school",
+    "kedge", "kedge business school",
+    "audencia",
+    "grenoble ecole de management", "grenoble em", "gem",
+    "tbs education", "toulouse business school",
+    "iéseg", "ieseg",
+    "rennes school of business", "rsb",
+    "burgundy school of business",
+    "ipag", "ipag business school",
+    "icn business school",
+    "excelia",
+    "epita", "epitech", "supinfo",
+    "efrei", "esiea", "esme",
+    "iéna", "iena",
     # Hôpitaux universitaires
     "ap-hp", "aphp", "assistance publique - hôpitaux de paris",
     "centre hospitalier universitaire", "chu de",
@@ -391,7 +429,16 @@ def _passes_metier_filter(notice: dict) -> tuple[bool, str]:
     a_score = min(len(a_matches) * SCORE_TIER_A, CAP_TIER_A)
     b_score = min(len(b_matches) * SCORE_TIER_B, CAP_TIER_B)
     c_score = min(len(c_matches) * SCORE_CONCURRENT, CAP_CONCURRENT)
-    total = s_score + a_score + b_score + c_score
+
+    # v5.1 — Boost CPV cible (+10 pts si CPV ITS-cible)
+    cpv_target_match = None
+    for prefix in CPV_TARGET_PREFIXES:
+        if cpv.startswith(prefix):
+            cpv_target_match = prefix
+            break
+    cpv_boost = SCORE_CPV_TARGET if cpv_target_match else 0
+
+    total = s_score + a_score + b_score + c_score + cpv_boost
 
     # 5. Seuil : abaissé à 5 si acheteur whitelist
     is_whitelist = any(w in acheteur for w in ACHETEURS_WHITELIST)
@@ -404,6 +451,7 @@ def _passes_metier_filter(notice: dict) -> tuple[bool, str]:
         if a_matches: parts.append(f"A({a_score}):{a_matches[0]}")
         if b_matches: parts.append(f"B({b_score}):{b_matches[0]}")
         if c_matches: parts.append(f"C({c_score}):{c_matches[0]}")
+        if cpv_target_match: parts.append(f"CPV+{cpv_boost}:{cpv_target_match}")
         summary = ", ".join(parts) if parts else "aucun match"
         wl_tag = " [acheteur whitelist]" if is_whitelist else ""
         return False, f"score {total} < seuil {threshold}{wl_tag} [{summary}]"
@@ -414,6 +462,7 @@ def _passes_metier_filter(notice: dict) -> tuple[bool, str]:
     if a_matches: parts.append(f"A:{a_matches[0]}")
     if b_matches: parts.append(f"B:{b_matches[0]}")
     if c_matches: parts.append(f"C:{c_matches[0]}")
+    if cpv_target_match: parts.append(f"CPV+:{cpv_target_match}")
     wl_tag = " [WL]" if is_whitelist else ""
     return True, f"score={total}{wl_tag} ({','.join(parts)})"
 
