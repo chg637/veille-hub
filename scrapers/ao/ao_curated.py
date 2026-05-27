@@ -118,6 +118,54 @@ def _build_signal(row: dict, today_iso: str) -> Optional[Signal]:
     return sig
 
 
+def _norm(s: str) -> str:
+    """Normalise pour comparaison dédup : lowercase, sans accents/ponctuation."""
+    import unicodedata
+    import re as _re
+    s = unicodedata.normalize("NFKD", (s or "")).encode("ascii", "ignore").decode("ascii")
+    return _re.sub(r"[^a-z0-9 ]", "", s.lower()).strip()
+
+
+def curated_keys() -> set:
+    """
+    Retourne un set d'objets normalisés des AO déjà en curated.
+    Permet aux autres scrapers (boamp_direct, PLACE...) de skipper les doublons :
+    le curated a priorité car il porte les notes enrichies de Charles.
+
+    On dédup principalement sur l'OBJET (souvent identique entre sources) car les
+    noms d'acheteur varient ("NEOMA Business School (Reims)" vs "Neoma Reims").
+    """
+    repo_root = Path(__file__).resolve().parents[2]
+    csv_path = repo_root / "data" / "curated" / "ao_curated.csv"
+    keys = set()
+    if not csv_path.exists():
+        return keys
+    import csv as _csv
+    with csv_path.open("r", encoding="utf-8") as f:
+        for row in _csv.DictReader(f):
+            obj = _norm(row.get("Titre", ""))
+            if obj and len(obj) >= 15:
+                keys.add(obj)
+    return keys
+
+
+def is_curated(acheteur: str, objet: str, keys: set | None = None) -> bool:
+    """
+    Vrai si un AO est déjà géré en curated, par chevauchement fort de l'objet
+    (30 premiers caractères normalisés inclus dans l'un ou l'autre).
+    """
+    if keys is None:
+        keys = curated_keys()
+    o = _norm(objet)
+    if len(o) < 15:
+        return False
+    for ko in keys:
+        # chevauchement fort : l'un des 2 objets contient les 30 premiers chars de l'autre
+        if ko[:30] in o or o[:30] in ko:
+            return True
+    return False
+
+
 def scrape() -> list[Signal]:
     repo_root = Path(__file__).resolve().parents[2]
     csv_path = repo_root / "data" / "curated" / "ao_curated.csv"
