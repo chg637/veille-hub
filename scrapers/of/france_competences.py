@@ -49,28 +49,141 @@ DATAGOUV_DATASET_API = (
 WINDOW_DAYS = 30
 MAX_SIGNALS_PER_RUN = 50  # Garde-fou pour ne pas noyer le hub
 
-# NSF (Nomenclature des Spécialités de Formation) cibles ITS/Tosa.
-# On garde les domaines numériques + tertiaire commercial où Tosa est très pertinent.
-NSF_CIBLES_PREFIXES = (
-    "326",  # Informatique, traitement de l'information
-    "320",  # Communication & information (large)
-    "324",  # Secrétariat, bureautique
-    "323",  # Techniques image et son
-    "310",  # Spécialités plurivalentes de l'échange et de la gestion
-    "311",  # Transport, manutention, magasinage
-    "313",  # Finances, banque, assurance
-    "314",  # Comptabilité, gestion
-    "315",  # Ressources humaines, gestion du personnel
-    "121",  # Géographie, sciences sociales
-    "412",  # Développement des capacités d'orientation
-    "415",  # Développement des capacités comportementales
-    "999",  # Domaine disciplinaire (programmes sup)
+# ─────────────────────────────────────────────────────────────────────────────
+# Calibrage RNCP (27 mai 2026) — classer chaque fiche par pertinence ITS.
+#
+# ITS = plateforme d'hébergement d'examens / tests de compétences (QCM, mises en
+# situation numériques, corrections auto, rapports). Le signal d'achat fort, c'est
+# un certificateur qui doit organiser des SESSIONS D'EXAMEN sur des savoirs
+# évaluables par écrit/QCM : tech, numérique, gestion, business, RH, bureautique.
+#
+# A contrario, une fiche "Assistant réalisateur" ou "Coordinateur humanitaire"
+# s'évalue surtout en mise en situation pratique/terrain → hors-cible ITS.
+#
+# Classement par mots-clés sur l'INTITULÉ (le code NSF est trop souvent absent
+# dans l'export France Compétences pour servir de filtre fiable).
+#   - HOT  : cœur de cible → score 88 (T1)
+#   - WARM : tertiaire compatible mais moins évident → score 72 (T2)
+#   - COLD : clairement hors-cible → écarté avant le hub
+# ─────────────────────────────────────────────────────────────────────────────
+
+# HOT — tech/numérique + business/gestion + bureautique (vérifié EN PREMIER :
+# un mot-clé chaud l'emporte même si l'intitulé contient un terme "froid",
+# ex. "digitalisation des bâtiments" → HOT car "digitalisation").
+KW_RNCP_HOT = (
+    # numérique / tech
+    "informatique", "numerique", "digital", "data", "donnees", "intelligence artificielle",
+    " ia ", "machine learning", "developpeur", "developpement logiciel", "logiciel",
+    " web ", "devops", "cloud", "cybersecurite", "cyber", "reseau", "systeme d'information",
+    "systemes d'information", "architecte si", "no code", "nocode", "product builder",
+    "product owner", "product manager", " ux", " ui", "blockchain", "big data",
+    "business intelligence", "analytics", "data engineer", "data scientist", "data analyst",
+    "integrateur", "administrateur systeme", "technicien informatique", "green it",
+    "digitalisation", "transformation numerique", "robotique", "iot", "automatisation",
+    # business / gestion / RH / finance
+    "gestion", "management", "manager", "commerce", "commercial", " vente", "marketing",
+    "finance", "financier", "comptabilite", "comptable", "controle de gestion", " audit",
+    "ressources humaines", " rh ", " paie", "banque", "assurance", "business",
+    "entrepreneur", "dirigeant", "administration des entreprises", " achat", "supply chain",
+    "chef de projet digital", "responsable administratif",
+    # bureautique / admin
+    "bureautique", "secretariat", "assistant de direction", "office manager",
+    "assistant administratif", "assistant manager",
+)
+
+# WARM — tertiaire où ITS peut convenir, mais signal moins évident.
+KW_RNCP_WARM = (
+    "communication", "juridique", " droit", "qualite", "qhse", " rse", "environnement",
+    "logistique", "transport", "immobilier", "tourisme", "hotellerie", "evenementiel",
+    "chef de projet", "coordination", "coordinateur de projet", "ingenierie pedagogique",
+    "formateur", "responsable de formation", "supply", "energie", "urbanisme",
+)
+
+# COLD — clairement hors-cible ITS (évaluation surtout pratique/terrain/artistique).
+KW_RNCP_COLD = (
+    # arts / audiovisuel / spectacle / design
+    "realisateur", "audiovisuel", "cinema", "jeu video", "jeux video", "game designer",
+    "game", "comedien", "acteur", " danse", "danseur", "musique", "musicien", " chant",
+    "photographe", "photographie", "monteur", "scenariste", "stylisme", " mode ",
+    "decorateur", "illustrateur", "motion design", "graphiste", "arts plastiques",
+    "spectacle", "regisseur", "maquillage artistique", "tatoueur",
+    # santé / soin
+    "infirmier", "aide-soignant", "aide soignant", "soignant", "kinesitherapeute",
+    "osteopathe", "medecin", "dentaire", "pharmacie", "sage-femme", "podologue",
+    "dietetique", "opticien", "ambulancier", "psychomotricien", "orthophoniste",
+    "veterinaire", " soins", "naturopathe", "auxiliaire de puericulture",
+    # social / humanitaire
+    "humanitaire", "travailleur social", "educateur specialise", "moniteur educateur",
+    "aide a domicile", "auxiliaire de vie", "petite enfance", "assistant familial",
+    "mediateur social", "accompagnant educatif",
+    # métiers manuels / BTP / artisanat
+    "macon", "plombier", "charpentier", "menuisier", "couvreur", "carreleur", "soudeur",
+    "chaudronnier", "usinage", "carrossier", "batiment", "travaux publics", "genie civil",
+    "conducteur de travaux", "paysagiste", "jardinier", "fleuriste", "ebeniste",
+    "plaquiste", "frigoriste", "tailleur de pierre", "electricien", "garagiste",
+    # alimentation / cuisine
+    "cuisinier", " cuisine", "patissier", "boulanger", "sommelier", "barman", "traiteur",
+    "boucher", "charcutier", "fromager", "viticulture", "oenologie", "brasseur",
+    # beauté
+    "coiffure", "coiffeur", "esthetique", "estheticienne", "spa praticien",
+    "prothesiste ongulaire", "barbier",
+    # sport
+    "educateur sportif", "coach sportif", " fitness", "equitation", "natation",
+    "moniteur de ski", "plongee", "preparateur physique", "preparation physique",
+    # agriculture / nature
+    "agricole", "agriculture", "agronomie", "elevage", "horticulture", "foret",
+    " peche", "aquaculture", "soigneur animalier", "animalier",
+    # sécurité / défense / conduite
+    "agent de securite", "agent de prevention et de securite", "agent de surete",
+    "surete", "cynophile", "pompier", "militaire", "gendarme", "maitre-chien",
+    "pilote de ligne", "navigant", " marin", "maritime", "chauffeur",
+    "conducteur routier", "conducteur de train", "conducteur de metro",
+    "conducteur de bus", "cariste", "grutier", " taxi", " vtc",
+    # métiers manuels / services complémentaires révélés par les données réelles
+    "serrurier", "peintre", "anticorrosion", "pizzaiolo", "pizzaolo", "pressing",
+    "proprete", "agent d'entretien", "forestier", "thermal", "ramoneur",
+    "orthopediste", "orthesiste", "orthoprothesiste", "prothesiste",
+    # santé / soin (compléments)
+    "patient", "palliatif", "addiction", "medico-technique", "socio-esthetique",
+    # arts / spectacle (compléments)
+    " dj ", "prestation dj", "scenographe", "perruquier", "maquillage", "arts du",
+    "enregistrement de la voi", "grand volume",
+    # conduite / manuel (compléments révélés par les fiches RS)
+    "serrurerie", "deux roues", "deux-roues", "agroecolog",
 )
 
 # Types d'enregistrement les plus actionnables (OF commerciaux qui ont fait la démarche)
 TYPES_PRIORITAIRES = (
     "Enregistrement sur demande",
 )
+
+
+def _norm_txt(s: str) -> str:
+    """Normalise pour matching mots-clés : minuscule, sans accents, espacé."""
+    import unicodedata
+    s = unicodedata.normalize("NFKD", (s or "")).encode("ascii", "ignore").decode("ascii")
+    return " " + s.lower().strip() + " "
+
+
+def _classify_domaine(intitule: str) -> tuple[str, str]:
+    """
+    Classe une fiche RNCP par pertinence ITS d'après son intitulé.
+    Retourne (niveau, mot_clé_déclencheur) où niveau ∈ {"hot","warm","cold"}.
+
+    Ordre : HOT d'abord (intention positive l'emporte), puis COLD, sinon WARM
+    par défaut (on garde, sans masquer une cible ambiguë).
+    """
+    t = _norm_txt(intitule)
+    for kw in KW_RNCP_HOT:
+        if kw in t:
+            return "hot", kw.strip()
+    for kw in KW_RNCP_COLD:
+        if kw in t:
+            return "cold", kw.strip()
+    for kw in KW_RNCP_WARM:
+        if kw in t:
+            return "warm", kw.strip()
+    return "warm", "(défaut)"
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -267,15 +380,11 @@ def scrape() -> list[Signal]:
 
     # 5. Construire les signaux
     signals = []
+    n_cold = 0  # compteur de fiches écartées (hors-cible ITS) pour transparence
     for num, row in fiches.items():
         # Type d'enregistrement prioritaire
         type_enreg = (row.get("Type_Enregistrement") or "").strip()
         if TYPES_PRIORITAIRES and type_enreg not in TYPES_PRIORITAIRES:
-            continue
-
-        # NSF dans domaines cibles ?
-        nsf_codes = nsf_map.get(num, [])
-        if not _is_nsf_cible(nsf_codes):
             continue
 
         # Compte = 1er certificateur (souvent il y en a plusieurs, on prend le 1er)
@@ -289,13 +398,22 @@ def scrape() -> list[Signal]:
         niveau = (row.get("Nomenclature_Europe_Intitule") or "").strip()
         date_dec = _parse_date_fr(row.get("Date_Decision", ""))
 
+        # Calibrage ITS — classer la fiche par pertinence pour une plateforme d'examen.
+        domaine, trigger = _classify_domaine(intitule)
+        if domaine == "cold":
+            n_cold += 1
+            logger.info("[France Compétences] ÉCARTÉ (hors-cible ITS : '%s') : %s — %s",
+                        trigger, num, intitule[:55])
+            continue
+
         titre = f"Nouvelle fiche {num} — {intitule[:120]}"
         url_fiche = f"https://www.francecompetences.fr/recherche/{'rs' if num.startswith('RS') else 'rncp'}/{num.replace('RNCP', '').replace('RS', '')}/"
 
-        # Score : on prend les fiches sup (niveau 6/7) plus haut
-        score = 75
-        if "6" in niveau or "7" in niveau:
-            score = 82
+        # Score par pertinence ITS : HOT (cœur de cible) > WARM (compatible).
+        # Léger malus si la fiche n'est pas de niveau supérieur (6/7).
+        score = 88 if domaine == "hot" else 72
+        if not ("6" in niveau or "7" in niveau):
+            score -= 5
         tier = determine_tier(score)
 
         # Description riche pour le mail
@@ -316,15 +434,34 @@ def scrape() -> list[Signal]:
         )
         contacts = get_contacts_cibles("rncp_open", compte)  # personas dédiés au certificateur
 
+        if domaine == "hot":
+            prio_line = (
+                "🔥 **Cible prioritaire ITS** — domaine cœur de cible "
+                "(tech/numérique/gestion), savoirs évaluables en QCM/épreuve écrite."
+            )
+            action_line = (
+                "Email à la direction certifications/RNCP sous 30j. Proposer une démo "
+                "ITS avant que la 1re session d'examen soit calée avec un concurrent."
+            )
+        else:
+            prio_line = (
+                "🟡 **Cible à qualifier** — domaine tertiaire compatible ITS, mais "
+                "vérifier que l'évaluation passe bien par des épreuves écrites/QCM."
+            )
+            action_line = (
+                "Qualifier le besoin avant d'investir : la fiche prévoit-elle une "
+                "épreuve écrite/QCM ? Si oui, email à la direction certifications."
+            )
+
         action_reco = (
             f"📋 **Signal détecté**\n"
             f"Nouvelle fiche {num} déposée le "
             f"{date_dec.strftime('%d/%m/%Y') if date_dec else '?'} — {intitule}\n"
             f"\n"
+            f"{prio_line}\n"
+            f"\n"
             f"🎯 **Action à mener**\n"
-            f"Email à la direction certifications/RNCP du certificateur. "
-            f"Proposer démo ITS sous 30j (avant que leur 1re session "
-            f"d'examen soit organisée avec un outil concurrent).\n"
+            f"{action_line}\n"
             f"\n"
             f"💡 **Angle pitch ITS**\n"
             f"Pour passer la 1re session de cette nouvelle fiche : "
@@ -337,11 +474,12 @@ def scrape() -> list[Signal]:
             f"session. C'est le moment d'arriver."
         )
 
+        sous_seg_prefix = "🔥 Cible prioritaire" if domaine == "hot" else "🟡 À qualifier"
         sig = Signal(
             id=fingerprint(titre, compte, date_dec.isoformat() if date_dec else today_iso),
             date_capture=today_iso,
             vertical=VERTICAL,
-            sous_segment=f"Nouvelle fiche {abrege} {niveau}".strip(),
+            sous_segment=f"{sous_seg_prefix} · {abrege or 'Fiche'} {niveau}".strip(),
             compte=compte[:200],
             titre=titre[:200],
             description=description[:400],
@@ -362,12 +500,15 @@ def scrape() -> list[Signal]:
         )
         signals.append(sig)
         logger.info(
-            "[France Compétences] [rncp_open/%d] %s — %s (%s)",
-            score, compte[:30], num, intitule[:50],
+            "[France Compétences] [%s/%d/T%d] %s — %s (%s)",
+            domaine.upper(), score, tier, compte[:30], num, intitule[:50],
         )
 
-    # 6. Tri par date desc + cap MAX_SIGNALS_PER_RUN
-    signals.sort(key=lambda s: s.date_publication or "", reverse=True)
+    logger.info("[France Compétences] %d fiches retenues, %d écartées (hors-cible ITS)",
+                len(signals), n_cold)
+
+    # 6. Tri par score desc puis date desc + cap MAX_SIGNALS_PER_RUN
+    signals.sort(key=lambda s: (s.score, s.date_publication or ""), reverse=True)
     if len(signals) > MAX_SIGNALS_PER_RUN:
         logger.info("[France Compétences] cap : %d → %d signaux", len(signals), MAX_SIGNALS_PER_RUN)
         signals = signals[:MAX_SIGNALS_PER_RUN]
