@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-05-19-c8342a26e939",
-    "date_capture": "2026-05-29",
+    "date_capture": "2026-05-30",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "Université Paris-Saclay",
@@ -53,7 +53,7 @@
   },
   {
     "id": "sig-2026-05-11-64ab3dd75a34",
-    "date_capture": "2026-05-29",
+    "date_capture": "2026-05-30",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "NEOMA Business School (Reims)",
@@ -105,7 +105,7 @@
   },
   {
     "id": "sig-2026-04-30-d7b4d5c0e88a",
-    "date_capture": "2026-05-29",
+    "date_capture": "2026-05-30",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "UNIVERSITE DE MONTPELLIER",
@@ -156,8 +156,60 @@
     ]
   },
   {
+    "id": "sig-2026-05-29-c3df58aca57f",
+    "date_capture": "2026-05-30",
+    "vertical": "ao",
+    "sous_segment": "Marché public Collectivité",
+    "compte": "ville de Pérols",
+    "titre": "FOURNITURE ET MAINTENANCE DE PROGICIELS DE GESTION FINANCIÈRE ET DE RESSOURCES HUMAINES ET D’ÉVALUATION PROFESSIONNELLE",
+    "description": "FOURNITURE ET MAINTENANCE DE PROGICIELS DE GESTION FINANCIÈRE ET DE RESSOURCES HUMAINES ET D’ÉVALUATION PROFESSIONNELLE. Descripteurs : Formation, Logiciel.",
+    "source": "BOAMP (API directe)",
+    "source_tier": 1,
+    "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-53131",
+    "signal_type": "ao_publie",
+    "tier": 1,
+    "score": 80,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Récupérer le DCE complet** sur https://www.boamp.fr/pages/avis/?q=idweb:26-53131\n🎯 **Décideur cible** : DRH + Direction Numérique + RAQ Qualiopi (rechercher CNFPT territorial si volet formation)\n💡 **Angle de valeur** : ITS : plateforme d'hébergement d'examens (tests recrutement, contrôles, certifications internes) avec correction auto et reporting\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS : prestataires SIRH territoriaux, plateformes internes maison, Sphinx, EvalandGo\n⏰ Deadline : 2026-06-19 → calculer J-jours et caler les ressources dès maintenant.",
+    "deadline_action": "2026-06-19",
+    "status": "new",
+    "date_publication": "2026-05-29",
+    "email_draft": {
+      "subject": "AO ville de Pérols — ISOGRAD souhaite candidater",
+      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"FOURNITURE ET MAINTENANCE DE PROGICIELS DE GESTION FINANCIÈRE ET DE RESSOURCES HUMAINES ET D’ÉVALUATION PROFESSIONNELLE\"\nDeadline : 2026-06-19\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://www.boamp.fr/pages/avis/?q=idweb:26-53131"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Acheteur public référencé sur l'AO",
+        "alternatives": [
+          "RAQ",
+          "Responsable des achats"
+        ],
+        "priorite": 1,
+        "raison": "Référent direct de la consultation",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=ville+de+P%C3%A9rols",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ville%20de%20P%C3%A9rols%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
+      },
+      {
+        "poste": "Décideur métier (variable selon segment)",
+        "alternatives": [
+          "Direction des examens (ESR)",
+          "Direction des soins (FPH)",
+          "DRH (Collectivité)"
+        ],
+        "priorite": 2,
+        "raison": "Sponsorise le besoin métier en amont",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=ville+de+P%C3%A9rols",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ville%20de%20P%C3%A9rols%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-05-06-e109c9cd98e5",
-    "date_capture": "2026-05-29",
+    "date_capture": "2026-05-30",
     "vertical": "ao",
     "sous_segment": "Marché public Collectivité",
     "compte": "Ville de Mamoudzou (976)",
@@ -208,8 +260,60 @@
     ]
   },
   {
+    "id": "sig-2026-05-07-b89bcafd5149",
+    "date_capture": "2026-05-30",
+    "vertical": "ao",
+    "sous_segment": "Marché public — secteur à qualifier",
+    "compte": "CAISSE CENTRALE MSA",
+    "titre": "France – Services de santé – Programme ambulatoire d'éducation thérapeutique de la MSA ciblant les maladies cardio neurovasculaires et leurs facteurs de risque associés",
+    "description": "[CPV 85100000] La prestation du Lot 1, réalisée par le titulaire, devra s’articuler avec le prestataire du Lot 2 pour les outils pédagogiques et respecter la méthodologie d’élaboration du programme décrite ci-dessous. À ce titre, le candidat devra apporter dans son offre des éléments méthodologiques et descriptifs pour chacune des étapes détaillées ci-dessous. Ces éléments devront démontrer la qualité, la pertin",
+    "source": "TED (via Radar AO)",
+    "source_tier": 1,
+    "url": "https://ted.europa.eu/fr/notice/-/detail/312507-2026",
+    "signal_type": "ao_publie",
+    "tier": 2,
+    "score": 60,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Récupérer le DCE complet** sur https://ted.europa.eu/fr/notice/-/detail/312507-2026\n🎯 **Décideur cible** : À enrichir via LinkedIn Sales Nav + site officiel de l'acheteur\n💡 **Angle de valeur** : ITS : plateforme d'hébergement d'examens (tests recrutement, contrôles, certifications internes) avec correction auto et reporting\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS à mapper via questions de cadrage : Explorance, EvaluationKIT, Sphinx, EvalandGo, ExamSoft, plateformes internes",
+    "deadline_action": "2026-06-06",
+    "status": "new",
+    "date_publication": "2026-05-07",
+    "email_draft": {
+      "subject": "AO CAISSE CENTRALE MSA — ISOGRAD souhaite candidater",
+      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"France – Services de santé – Programme ambulatoire d'éducation thérapeutique de la MSA ciblant les maladies cardio neurovasculaires et leurs facteurs de risque associés\"\nDeadline : à définir\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://ted.europa.eu/fr/notice/-/detail/312507-2026"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Acheteur public référencé sur l'AO",
+        "alternatives": [
+          "RAQ",
+          "Responsable des achats"
+        ],
+        "priorite": 1,
+        "raison": "Référent direct de la consultation",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=CAISSE+CENTRALE+MSA",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22CAISSE%20CENTRALE%20MSA%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
+      },
+      {
+        "poste": "Décideur métier (variable selon segment)",
+        "alternatives": [
+          "Direction des examens (ESR)",
+          "Direction des soins (FPH)",
+          "DRH (Collectivité)"
+        ],
+        "priorite": 2,
+        "raison": "Sponsorise le besoin métier en amont",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=CAISSE+CENTRALE+MSA",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22CAISSE%20CENTRALE%20MSA%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-04-29-c2ddda750bae",
-    "date_capture": "2026-05-29",
+    "date_capture": "2026-05-30",
     "vertical": "ao",
     "sous_segment": "Marché public Collectivité",
     "compte": "Ville de Paris",
