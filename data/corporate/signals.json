@@ -1,7 +1,70 @@
 [
   {
+    "id": "sig-2026-06-01-cf9aa556e1f2",
+    "date_capture": "2026-06-01",
+    "vertical": "corporate",
+    "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
+    "compte": "Anthropics",
+    "titre": "Anthropic’s $65bn round begs the question: ‘Is Europe cooked?’",
+    "description": "",
+    "source": "Sifted",
+    "source_tier": 1,
+    "url": "https://sifted.eu/articles/is-europe-cooked-anthropic-balderton-eu-inc/",
+    "signal_type": "levee_fonds",
+    "tier": 1,
+    "score": 80,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Source** : https://sifted.eu/articles/is-europe-cooked-anthropic-balderton-eu-inc/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 65.0M USD (~59.8M€) → scale-up confirmé, plan de recrutement massif sur 12 mois\n🔥 PRIORITÉ — fenêtre 30j (avant que les RH s'organisent)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-06-01",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-06-01",
+    "email_draft": {
+      "subject": "Anthropics — votre Series — sur l'évaluation candidats à scale",
+      "body": "Bonjour,\n\nJe viens de voir que Anthropics a bouclé une levée de 65.0M USD (~59.8M€). Bravo pour cette étape.\n\nSur les 12 prochains mois, vous allez probablement recruter 100+ profils. C'est exactement le moment où la qualité du process d'évaluation devient un goulot d'étranglement.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/is-europe-cooked-anthropic-balderton-eu-inc/"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Chief People Officer",
+        "alternatives": [
+          "Head of People",
+          "VP People",
+          "DRH"
+        ],
+        "priorite": 1,
+        "raison": "Décide outils RH stratégiques post-levée",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Anthropics",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Anthropics%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
+      },
+      {
+        "poste": "Head of Talent Acquisition",
+        "alternatives": [
+          "Talent Acquisition Director",
+          "Head of Recruiting"
+        ],
+        "priorite": 2,
+        "raison": "Opérationnel — gère le plan de recrutement massif",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Anthropics",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Anthropics%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
+      },
+      {
+        "poste": "Head of Hiring",
+        "alternatives": [
+          "Hiring Manager",
+          "Recruitment Director"
+        ],
+        "priorite": 3,
+        "raison": "Sous-décideur — peut tester l'outil rapidement",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Anthropics",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Anthropics%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-05-19-0bed7e990a96",
-    "date_capture": "2026-05-31",
+    "date_capture": "2026-06-01",
     "vertical": "corporate",
     "sous_segment": "Signal concurrent — Central Test",
     "compte": "Central Test",
@@ -63,7 +126,7 @@
   },
   {
     "id": "sig-2026-05-21-e5af361642d9",
-    "date_capture": "2026-05-31",
+    "date_capture": "2026-06-01",
     "vertical": "corporate",
     "sous_segment": "Signal concurrent — 365Talents",
     "compte": "365Talents",
@@ -124,30 +187,30 @@
     ]
   },
   {
-    "id": "sig-2026-05-26-08a1bd38e9ac",
-    "date_capture": "2026-05-31",
+    "id": "sig-2026-06-01-6900174b5b6a",
+    "date_capture": "2026-06-01",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
-    "compte": "Exclusive",
-    "titre": "Exclusive: General Catalyst backs YC alum Lucis in $20m Series A",
+    "compte": "Invisix",
+    "titre": "Exclusive: ASML spinout Invisix raises €20m seed round",
     "description": "",
     "source": "Sifted",
     "source_tier": 1,
-    "url": "https://sifted.eu/articles/lucis-preventative-health-series-a/",
+    "url": "https://sifted.eu/articles/invisix-seed-round-20m/",
     "signal_type": "levee_fonds",
-    "tier": 3,
-    "score": 50,
+    "tier": 2,
+    "score": 65,
     "produit_match": [
       "ITS"
     ],
     "owner": "Charles",
-    "action_reco": "📋 **Source** : https://sifted.eu/articles/lucis-preventative-health-series-a/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 20.0M USD (~18.4M€) → Series A late, signal mais startup encore early\n📌 À surveiller — relancer dans 3-6 mois quand ils auront recruté 30+\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-05-26",
+    "action_reco": "📋 **Source** : https://sifted.eu/articles/invisix-seed-round-20m/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 20.0M EUR (~20.0M€) → Series B+, structuration des processus RH en cours\n🎯 Fenêtre 60j (timing optimal post-Series B)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-06-01",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-05-26",
+    "date_publication": "2026-06-01",
     "email_draft": {
-      "subject": "Exclusive — votre Series — sur l'évaluation candidats à scale",
-      "body": "Bonjour,\n\nJe viens de voir que Exclusive a bouclé une levée de 20.0M USD (~18.4M€). Bravo pour cette étape.\n\nUne levée à cette taille s'accompagne souvent d'un plan de recrutement ambitieux. Anticiper l'outillage évite la dette technique RH.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/lucis-preventative-health-series-a/"
+      "subject": "Invisix — votre Series — sur l'évaluation candidats à scale",
+      "body": "Bonjour,\n\nJe viens de voir que Invisix a bouclé une levée de 20.0M EUR (~20.0M€). Bravo pour cette étape.\n\nPost-Series B, c'est le moment où la plupart des scale-ups structurent leur process d'éval candidats. Avant que le volume devienne incontrôlable.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/invisix-seed-round-20m/"
     },
     "contacts_cibles": [
       {
@@ -159,8 +222,8 @@
         ],
         "priorite": 1,
         "raison": "Décide outils RH stratégiques post-levée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Exclusive",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Exclusive%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Invisix",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Invisix%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
       },
       {
         "poste": "Head of Talent Acquisition",
@@ -170,8 +233,8 @@
         ],
         "priorite": 2,
         "raison": "Opérationnel — gère le plan de recrutement massif",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Exclusive",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Exclusive%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Invisix",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Invisix%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
       },
       {
         "poste": "Head of Hiring",
@@ -181,8 +244,8 @@
         ],
         "priorite": 3,
         "raison": "Sous-décideur — peut tester l'outil rapidement",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Exclusive",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Exclusive%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Invisix",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Invisix%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
       }
     ]
   }
