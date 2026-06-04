@@ -1,7 +1,70 @@
 [
   {
+    "id": "sig-2026-06-03-cbfa550a0a4c",
+    "date_capture": "2026-06-04",
+    "vertical": "corporate",
+    "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
+    "compte": "Wordsmith",
+    "titre": "Wordsmith lands $70m Series B to turbocharge legal work with AI",
+    "description": "",
+    "source": "Sifted",
+    "source_tier": 1,
+    "url": "https://sifted.eu/articles/wordsmith-ai-legal-tech-raise-index-ventures-highland/",
+    "signal_type": "levee_fonds",
+    "tier": 1,
+    "score": 80,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Source** : https://sifted.eu/articles/wordsmith-ai-legal-tech-raise-index-ventures-highland/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 70.0M USD (~64.4M€) → scale-up confirmé, plan de recrutement massif sur 12 mois\n🔥 PRIORITÉ — fenêtre 30j (avant que les RH s'organisent)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-06-03",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-06-03",
+    "email_draft": {
+      "subject": "Wordsmith — votre Series — sur l'évaluation candidats à scale",
+      "body": "Bonjour,\n\nJe viens de voir que Wordsmith a bouclé une levée de 70.0M USD (~64.4M€). Bravo pour cette étape.\n\nSur les 12 prochains mois, vous allez probablement recruter 100+ profils. C'est exactement le moment où la qualité du process d'évaluation devient un goulot d'étranglement.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/wordsmith-ai-legal-tech-raise-index-ventures-highland/"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Chief People Officer",
+        "alternatives": [
+          "Head of People",
+          "VP People",
+          "DRH"
+        ],
+        "priorite": 1,
+        "raison": "Décide outils RH stratégiques post-levée",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Wordsmith",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Wordsmith%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
+      },
+      {
+        "poste": "Head of Talent Acquisition",
+        "alternatives": [
+          "Talent Acquisition Director",
+          "Head of Recruiting"
+        ],
+        "priorite": 2,
+        "raison": "Opérationnel — gère le plan de recrutement massif",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Wordsmith",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Wordsmith%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
+      },
+      {
+        "poste": "Head of Hiring",
+        "alternatives": [
+          "Hiring Manager",
+          "Recruitment Director"
+        ],
+        "priorite": 3,
+        "raison": "Sous-décideur — peut tester l'outil rapidement",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Wordsmith",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Wordsmith%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-06-03-c1ab51b149e3",
-    "date_capture": "2026-06-03",
+    "date_capture": "2026-06-04",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Factorial",
@@ -64,7 +127,7 @@
   },
   {
     "id": "sig-2026-06-02-b383e4db82d0",
-    "date_capture": "2026-06-03",
+    "date_capture": "2026-06-04",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "SoftBank",
@@ -127,7 +190,7 @@
   },
   {
     "id": "sig-2026-06-02-f4bc71e42c83",
-    "date_capture": "2026-06-03",
+    "date_capture": "2026-06-04",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Spacetech",
@@ -190,7 +253,7 @@
   },
   {
     "id": "sig-2026-06-01-cf9aa556e1f2",
-    "date_capture": "2026-06-03",
+    "date_capture": "2026-06-04",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Anthropics",
@@ -252,132 +315,8 @@
     ]
   },
   {
-    "id": "sig-2026-05-19-0bed7e990a96",
-    "date_capture": "2026-06-03",
-    "vertical": "corporate",
-    "sous_segment": "Signal concurrent — Central Test",
-    "compte": "Central Test",
-    "titre": "Central Test devient Key Predict : des tests aux décisions RH prédictives",
-    "description": "L’évolution rapide du monde du travail, portée par la technologie et la pression sur les compétences, rend les décisions RH plus stratégiques&#8230;",
-    "source": "myRHline",
-    "source_tier": 1,
-    "url": "https://myrhline.com/type-publireportage/central-test/",
-    "signal_type": "concurrent_news",
-    "tier": 2,
-    "score": 70,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Source** : https://myrhline.com/type-publireportage/central-test/\n📰 **Titre** : « Central Test devient Key Predict : des tests aux décisions RH prédictives »\n🎯 **Action immédiate** : sur LinkedIn Sales Navigator, filtrer les profils Head of TA / DRH / Chief People Officer dans des entreprises >500 salariés qui mentionnent **Central Test** dans leur expérience.\n💡 **Angle ITS** : « Vous utilisiez Central Test. Avec leur récent pivot, beaucoup de RH cherchent une alternative stable. Discussion 20min sur ITS ? »\n📅 **Fenêtre** : 60j post-annonce (pic d'incertitude clientèle)\n🥊 **Positionnement** : ITS = solution mature, stable, multi-tenant, déjà déployée chez Central Test comme partenaire ou concurrent.",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-05-19",
-    "email_draft": {
-      "subject": "Suite à l'annonce Central Test → nouveau nom — alternative ITS",
-      "body": "Bonjour,\n\nJ'ai vu passer cette annonce concernant Central Test :\n\"Central Test devient Key Predict : des tests aux décisions RH prédictives\"\n(https://myrhline.com/type-publireportage/central-test/)\n\nSi vous utilisez aujourd'hui leur plateforme, ce type d'évolution (changement de marque + repositionnement) soulève souvent des questions côté équipe RH : continuité du support, roadmap, migration éventuelle, impact tarifaire.\n\nJe suis Charles, je vends ITS chez Isograd — une plateforme d'évaluation des compétences (techniques et bureautiques) positionnée comme alternative stable et opérationnelle depuis plus de 10 ans. Plus de 50 000 candidats évalués par mois en France et à l'international.\n\nCe qui peut vous intéresser :\n- Import facile depuis votre plateforme actuelle (tests, candidats, résultats historiques)\n- Stack stable, équipe française, support en direct\n- Démarche de transition fluide : on commence par un test sur un cas d'usage, puis on étend si ça vous convient\n\n15 minutes pour échanger ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Head of Talent Acquisition",
-        "alternatives": [
-          "Talent Acquisition Director",
-          "Head of Recruiting"
-        ],
-        "priorite": 1,
-        "raison": "Premier impact du pivot concurrent",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Central+Test",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Central%20Test%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
-      },
-      {
-        "poste": "DRH",
-        "alternatives": [
-          "Chief People Officer",
-          "Directrice des Ressources Humaines"
-        ],
-        "priorite": 2,
-        "raison": "Arbitre stratégique sur le choix de plateforme",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22DRH%22+OR+%22Chief+People+Officer%22+OR+%22Directrice+des+Ressources+Humaines%22&currentCompany=Central+Test",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Central%20Test%22%20DRH%20Chief%20People%20Officer%20Directrice%20des%20Ressources%20Humaines"
-      },
-      {
-        "poste": "HRIS Director",
-        "alternatives": [
-          "Head of HR Tech",
-          "SIRH Manager"
-        ],
-        "priorite": 3,
-        "raison": "Décideur technique sur l'intégration",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22HRIS+Director%22+OR+%22Head+of+HR+Tech%22+OR+%22SIRH+Manager%22&currentCompany=Central+Test",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Central%20Test%22%20HRIS%20Director%20Head%20of%20HR%20Tech%20SIRH%20Manager"
-      }
-    ]
-  },
-  {
-    "id": "sig-2026-05-21-e5af361642d9",
-    "date_capture": "2026-06-03",
-    "vertical": "corporate",
-    "sous_segment": "Signal concurrent — 365Talents",
-    "compte": "365Talents",
-    "titre": "Avec MyCareerPath, 365Talents et Alstom repensent la gestion des compétences à l’ère de l’IA",
-    "description": "Une démarche récompensée par une victoire dans la catégorie “Projet industrialisé” des Trophées IA &#038; RH 2026 organisés par le Hub France IA.",
-    "source": "Parlons RH",
-    "source_tier": 1,
-    "url": "https://www.parlonsrh.com/avec-mycareerpath-365talents-et-alstom-repensent-la-gestion-des-competences-a-lere-de-lia/",
-    "signal_type": "concurrent_news",
-    "tier": 2,
-    "score": 70,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Source** : https://www.parlonsrh.com/avec-mycareerpath-365talents-et-alstom-repensent-la-gestion-des-competences-a-lere-de-lia/\n📰 **Titre** : « Avec MyCareerPath, 365Talents et Alstom repensent la gestion des compétences à l’ère de l’IA »\n🎯 **Action immédiate** : sur LinkedIn Sales Navigator, filtrer les profils Head of TA / DRH / Chief People Officer dans des entreprises >500 salariés qui mentionnent **365Talents** dans leur expérience.\n💡 **Angle ITS** : « Vous utilisiez 365Talents. Avec leur récent changement, beaucoup de RH cherchent une alternative stable. Discussion 20min sur ITS ? »\n📅 **Fenêtre** : 60j post-annonce (pic d'incertitude clientèle)\n🥊 **Positionnement** : ITS = solution mature, stable, multi-tenant, déjà déployée chez 365Talents comme partenaire ou concurrent.",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-05-21",
-    "email_draft": {
-      "subject": "Suite à l'annonce 365Talents — alternative ITS",
-      "body": "Bonjour,\n\nJ'ai vu passer cette annonce concernant 365Talents :\n\"Avec MyCareerPath, 365Talents et Alstom repensent la gestion des compétences à l’ère de l’IA\"\n(https://www.parlonsrh.com/avec-mycareerpath-365talents-et-alstom-repensent-la-gestion-des-competences-a-lere-de-lia/)\n\nSi vous utilisez aujourd'hui leur plateforme, ce type d'évolution (évolution stratégique) soulève souvent des questions côté équipe RH : continuité du support, roadmap, migration éventuelle, impact tarifaire.\n\nJe suis Charles, je vends ITS chez Isograd — une plateforme d'évaluation des compétences (techniques et bureautiques) positionnée comme alternative stable et opérationnelle depuis plus de 10 ans. Plus de 50 000 candidats évalués par mois en France et à l'international.\n\nCe qui peut vous intéresser :\n- Import facile depuis votre plateforme actuelle (tests, candidats, résultats historiques)\n- Stack stable, équipe française, support en direct\n- Démarche de transition fluide : on commence par un test sur un cas d'usage, puis on étend si ça vous convient\n\n15 minutes pour échanger ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Head of Talent Acquisition",
-        "alternatives": [
-          "Talent Acquisition Director",
-          "Head of Recruiting"
-        ],
-        "priorite": 1,
-        "raison": "Premier impact du pivot concurrent",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=365Talents",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22365Talents%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
-      },
-      {
-        "poste": "DRH",
-        "alternatives": [
-          "Chief People Officer",
-          "Directrice des Ressources Humaines"
-        ],
-        "priorite": 2,
-        "raison": "Arbitre stratégique sur le choix de plateforme",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22DRH%22+OR+%22Chief+People+Officer%22+OR+%22Directrice+des+Ressources+Humaines%22&currentCompany=365Talents",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22365Talents%22%20DRH%20Chief%20People%20Officer%20Directrice%20des%20Ressources%20Humaines"
-      },
-      {
-        "poste": "HRIS Director",
-        "alternatives": [
-          "Head of HR Tech",
-          "SIRH Manager"
-        ],
-        "priorite": 3,
-        "raison": "Décideur technique sur l'intégration",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22HRIS+Director%22+OR+%22Head+of+HR+Tech%22+OR+%22SIRH+Manager%22&currentCompany=365Talents",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22365Talents%22%20HRIS%20Director%20Head%20of%20HR%20Tech%20SIRH%20Manager"
-      }
-    ]
-  },
-  {
     "id": "sig-2026-06-03-eb9bf6ce29c5",
-    "date_capture": "2026-06-03",
+    "date_capture": "2026-06-04",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Exclusive",
@@ -440,7 +379,7 @@
   },
   {
     "id": "sig-2026-06-01-2a28d511eafb",
-    "date_capture": "2026-06-03",
+    "date_capture": "2026-06-04",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "AI-powered",
@@ -503,7 +442,7 @@
   },
   {
     "id": "sig-2026-06-01-6900174b5b6a",
-    "date_capture": "2026-06-03",
+    "date_capture": "2026-06-04",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Invisix",
