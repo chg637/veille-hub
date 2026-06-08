@@ -114,7 +114,23 @@ def _generate_ao_action(notice: dict, signal_type: str, segment: str) -> str:
     if deadline:
         urgence = f"⏰ Deadline : {deadline} → calculer J-jours et caler les ressources dès maintenant."
 
+    # Drapeau rouge peer-to-peer assessment (leçon Neoma juin 2026)
+    peer_flag = ""
+    if notice.get("_peer_flag"):
+        kw = notice.get("_peer_keyword") or "peer assessment"
+        peer_flag = (
+            f"🚩 **ATTENTION — PEER ASSESSMENT DÉTECTÉ** "
+            f"(mot-clé : « {kw} »)\n"
+            f"Cet AO sent l'évaluation collaborative / par les pairs. "
+            f"Leçon AO Neoma 2026-TIC-NBS-0008 (retrait Isograd, juin 2026) : "
+            f"ce type d'AO demande du dev spécifique pour tordre ITS (rôle hybride "
+            f"candidat+correcteur, algo d'affectation, note composite), et un "
+            f"concurrent spécialisé est structurellement mieux placé. "
+            f"**QUALIFIER en amont avant d'investir le temps de réponse.**\n\n"
+        )
+
     action = (
+        f"{peer_flag}"
         f"📋 **Récupérer le DCE complet** sur {url}\n"
         f"🎯 **Décideur cible** : {decideur}\n"
         f"💡 **Angle de valeur** : {valeur}\n"
@@ -460,6 +476,32 @@ NEGATIVE_PHRASES = [
 ]
 
 
+# ─────────────────────────────────────────────────────────────────────────────
+# Peer-to-peer assessment — LEÇON NEOMA 2026-TIC-NBS-0008 (retrait Isograd, 8 juin 2026)
+#
+# Les AO type « évaluation collaborative / par les pairs / peer assessment » sont
+# HORS-CIBLE ITS : la plateforme demande du dev spécifique pour tordre son moteur
+# (rôle hybride candidat + correcteur, algo d'affectation de copies, calcul note
+# composite multi-évaluateurs). Des concurrents spécialisés (acteur montpelliérain
+# notamment) sont structurellement mieux placés.
+#
+# On NE rejette PAS d'office — on FLAGGE pour que Charles puisse qualifier en amont
+# au lieu d'investir le temps de réponse. Pénalité de score -8 pts pour faire
+# descendre l'AO dans le hub, mais il reste visible avec un drapeau rouge.
+# ─────────────────────────────────────────────────────────────────────────────
+KW_PEER_ASSESSMENT = [
+    "évaluation collaborative", "evaluation collaborative",
+    "évaluation par les pairs", "evaluation par les pairs",
+    "évaluation entre pairs", "evaluation entre pairs",
+    "co-évaluation", "co evaluation", "coévaluation",
+    "peer assessment", "peer-to-peer assessment", "peer to peer assessment",
+    "peer review", "peer feedback",
+    "évaluation croisée", "evaluation croisee",
+    "auto-évaluation entre pairs", "auto evaluation entre pairs",
+]
+SCORE_PENALITE_PEER = -8  # retrancher du score total si peer assessment détecté
+
+
 def _passes_metier_filter(notice: dict) -> tuple[bool, str]:
     """
     Filtre métier ITS/Tosa — logique pondérée (comité experts 24 mai).
@@ -525,7 +567,18 @@ def _passes_metier_filter(notice: dict) -> tuple[bool, str]:
             combos_matched += 1
     combo_score = min(combos_matched * SCORE_COMBO, CAP_COMBO)
 
-    total = s_score + a_score + b_score + c_score + cpv_boost + combo_score
+    # v5.3 — Pénalité peer-to-peer assessment (leçon Neoma juin 2026).
+    # Si l'AO sent le peer assessment, on retranche -8 pts pour faire descendre
+    # son rang et on flagge la notice pour que l'action commerciale porte un
+    # drapeau rouge "à qualifier en amont".
+    peer_matches = [kw for kw in KW_PEER_ASSESSMENT if kw.lower() in full_text]
+    peer_penalty = SCORE_PENALITE_PEER if peer_matches else 0
+    if peer_matches:
+        # Mutation contrôlée — le drapeau est lu par _generate_ao_action en aval
+        notice["_peer_flag"] = True
+        notice["_peer_keyword"] = peer_matches[0]
+
+    total = s_score + a_score + b_score + c_score + cpv_boost + combo_score + peer_penalty
 
     # 5. Seuil : abaissé à 5 si acheteur whitelist
     is_whitelist = any(w in acheteur for w in ACHETEURS_WHITELIST)
@@ -551,6 +604,7 @@ def _passes_metier_filter(notice: dict) -> tuple[bool, str]:
     if c_matches: parts.append(f"C:{c_matches[0]}")
     if cpv_target_match: parts.append(f"CPV+:{cpv_target_match}")
     if combos_matched: parts.append(f"COMBO+:{combos_matched}")
+    if peer_matches: parts.append(f"🚩PEER({peer_penalty}):{peer_matches[0]}")
     wl_tag = " [WL]" if is_whitelist else ""
     return True, f"score={total}{wl_tag} ({','.join(parts)})"
 

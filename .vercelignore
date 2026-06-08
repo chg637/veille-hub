@@ -1,0 +1,27 @@
+# Fichiers nécessaires aux scrapers (CI GitHub Actions) — pas au site Vercel.
+# On les ignore côté Vercel pour qu'il ne tente plus de détecter une app Python.
+
+requirements.txt
+pyproject.toml
+setup.py
+.python-version
+
+# Tout le code Python des scrapers — tourne uniquement en CI, pas sur Vercel
+scrapers/
+
+# Workflows GitHub Actions — n'ont rien à faire dans le déploiement web
+.github/
+
+# Caches locaux de scrape (volumineux et générés en CI)
+data/cache/
+__pycache__/
+*.pyc
+*.pyo
+
+# Docs internes
+*.md
+!README.md
+
+# Artefacts de build / debug locaux
+build_*.js
+.node_modules/
