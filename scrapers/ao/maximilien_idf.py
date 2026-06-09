@@ -58,28 +58,38 @@ SEARCH_URL_TMPL = (
     "&AllCons&keyWord={keyword}"
 )
 
-# Mots-clés à requêter — comité experts 24 mai (recentrage ITS/Tosa).
-# Optimisé : on cherche des AO de PLATEFORME, pas de prestation de service.
-# Les keywords trop génériques (certification, compétences, évaluation) sont
-# retirés car ils ramènent surtout du consulting RH / audit Qualiopi qui sont
-# filtrés en aval — autant ne pas les requêter (économie crédit Apify).
+# Mots-clés à requêter — v2 (9 juin 2026, post-leçon Maximilien IDF).
+#
+# Leçon du run #43 : sur 20 notices captées par Apify, 0 passe le filtre v5.3
+# parce que les mots-clés "QCM", "passation", "test de positionnement",
+# "compétences numériques" et "télésurveillance" (seul) matchent par hasard
+# des AO BTP/fournitures qui contiennent ces mots dans leur description.
+#
+# Stratégie v2 : préférer des PHRASES PRODUIT plutôt que des termes génériques.
+# Moins de notices captées en amont, mais celles qui passent ont un signal plus
+# net pour le filtre v5.3. Économise aussi le crédit Apify.
 SEARCH_KEYWORDS = [
-    # Termes plateforme/outil (signaux directs ITS)
+    # Signaux directs plateforme/outil ITS — termes produit explicites
     "proctoring",
+    "télésurveillance examens",     # remplace "télésurveillance" seul (= vidéo sécurité)
     "examens à distance",
     "examens en ligne",
-    "télésurveillance",
-    "QCM",
+    "plateforme d'évaluation",      # nouveau
+    "logiciel d'évaluation",        # nouveau
+    "moteur d'examen",              # nouveau
+    "banque de questions",          # nouveau
+    "outil de positionnement",      # remplace "test de positionnement" (plus produit)
     "psychométrie",
-    # Termes Tosa (signaux secondaires)
+    # Signaux client précis (cas typique Neoma) — captent les vrais besoins éval
+    "évaluation des enseignements",
+    "évaluation collaborative",     # flaggé en aval (peer assessment) mais on garde pour visibilité
+    # Signaux concurrents (remplacement / mise en concurrence)
+    "Explorance",                   # cas Neoma précédent
+    # Signaux brand Isograd
     "TOSA",
-    "compétences numériques",
     "DigComp",
-    # Concurrents (signal de remplacement)
+    "certification compétences numériques",  # remplace "compétences numériques" seul
     "PIX",
-    # Termes mid (peuvent matcher si combinés)
-    "passation",
-    "test de positionnement",
 ]
 
 

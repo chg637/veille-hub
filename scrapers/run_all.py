@@ -115,6 +115,9 @@ SCRAPERS = [
     ("scrapers.ao.ao_curated", "ao"),
     # BOAMP direct — API officielle DILA, capte large + filtre v5.2 (résout le cas Neoma)
     ("scrapers.ao.boamp_direct", "ao"),
+    # TED — Tenders Electronic Daily UE, capte les gros tickets > seuils communautaires
+    # (215 k€ services pour acheteurs publics FR), donc ESR + santé publique + État central.
+    ("scrapers.ao.ted_europe", "ao"),
     # Marchés publics formation/certif via Radar AO live (TED + BOAMP)
     ("scrapers.ao.seed_from_radar", "ao"),
     # Maximilien IDF — profil acheteur Île-de-France (lycées, IUT, collectivités, hôpitaux)
