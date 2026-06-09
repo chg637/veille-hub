@@ -43,7 +43,7 @@ logger = logging.getLogger(__name__)
 VERTICAL = "ao"
 SOURCE_NAME = "BOAMP (API directe)"
 API_URL = "https://boamp-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/boamp/records"
-WINDOW_DAYS = 30
+WINDOW_DAYS = 60  # élargi 30→60j (9 juin 2026) pour gonfler le volume de candidats AO. Filtre v5.3 en aval reste serré.
 
 # Termes de recherche full-text ITS — larges mais ciblés.
 # Le filtre v5.2 (negative phrases + scoring) fait le tri fin en aval.
