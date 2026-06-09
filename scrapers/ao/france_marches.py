@@ -186,18 +186,24 @@ def scrape() -> list[Signal]:
 
     # 1. Une recherche Apify par mot-clé, dédupliquer par URL
     all_notices: dict[str, dict] = {}
-    for kw in SEARCH_KEYWORDS:
+    for kw_idx, kw in enumerate(SEARCH_KEYWORDS):
         url = SEARCH_URL + quote_plus(kw)
         logger.info("[France Marchés] Apify fetch : %s", kw)
         markdown = _apify_call(url)
         if not markdown:
+            logger.info("[France Marchés] '%s' → Apify markdown vide ou None", kw)
             continue
+        # DEBUG : sur le 1er mot-clé seulement, logger les 800 premiers chars du markdown
+        # pour pouvoir diagnostiquer la structure rendue par Apify (à retirer après calibrage).
+        if kw_idx == 0:
+            preview = markdown[:800].replace("\n", " ⏎ ")
+            logger.info("[France Marchés] DEBUG markdown[0:800] = %s", preview)
         notices = _extract_notices_from_markdown(markdown, kw)
         for n in notices:
             if n["url"] not in all_notices:
                 all_notices[n["url"]] = n
-        logger.info("[France Marchés] '%s' → %d notices (cumul unique : %d)",
-                    kw, len(notices), len(all_notices))
+        logger.info("[France Marchés] '%s' → %d notices (markdown %d chars, cumul unique : %d)",
+                    kw, len(notices), len(markdown), len(all_notices))
 
     if not all_notices:
         logger.info("[France Marchés] 0 notices captées — soit pas d'AO pertinent en cours, "
