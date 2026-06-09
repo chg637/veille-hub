@@ -118,6 +118,9 @@ SCRAPERS = [
     # TED — Tenders Electronic Daily UE, capte les gros tickets > seuils communautaires
     # (215 k€ services pour acheteurs publics FR), donc ESR + santé publique + État central.
     ("scrapers.ao.ted_europe", "ao"),
+    # France Marchés — agrégateur public français (BOAMP + JOUE + profils acheteurs).
+    # Site protégé anti-bot, scrape via Apify rag-web-browser. Skip propre si APIFY_TOKEN absent.
+    ("scrapers.ao.france_marches", "ao"),
     # Marchés publics formation/certif via Radar AO live (TED + BOAMP)
     ("scrapers.ao.seed_from_radar", "ao"),
     # Maximilien IDF — profil acheteur Île-de-France (lycées, IUT, collectivités, hôpitaux)
