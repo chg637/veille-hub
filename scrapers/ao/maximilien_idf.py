@@ -29,7 +29,7 @@ import requests
 sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 
 from scrapers.lib.schema import Signal, fingerprint  # noqa: E402
-from scrapers.lib.scoring import determine_tier, produit_match_for  # noqa: E402
+from scrapers.lib.scoring import determine_tier, produit_match_for, score_ao# noqa: E402
 from scrapers.lib.outreach import email_draft_ao, get_contacts_cibles  # noqa: E402
 
 # Réutilise le filtre métier strict défini dans seed_from_radar.py
@@ -311,7 +311,11 @@ def scrape() -> list[Signal]:
             )
             continue
 
-        score = int(n.get("score", 60))
+        mx_deadline = str(n.get("deadline") or "")[:10] or None
+        if mx_deadline and mx_deadline < today:
+            logger.info("[Maximilien IDF] ÉCHU (%s), skip : %s", mx_deadline, n["acheteur"][:40])
+            continue
+        score = score_ao("ao_publie", n.get("_metier_score"), mx_deadline, n.get("_whitelist", False))
         tier = determine_tier(score)
         signal_type = "ao_publie"
         sous_segment = _map_sous_segment(n)

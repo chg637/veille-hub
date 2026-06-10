@@ -30,7 +30,7 @@ import requests
 sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 
 from scrapers.lib.schema import Signal, fingerprint  # noqa: E402
-from scrapers.lib.scoring import determine_tier, produit_match_for  # noqa: E402
+from scrapers.lib.scoring import determine_tier, produit_match_for, score_ao# noqa: E402
 from scrapers.lib.outreach import email_draft_ao, get_contacts_cibles  # noqa: E402
 
 from scrapers.ao.seed_from_radar import (  # noqa: E402
@@ -149,7 +149,12 @@ def scrape() -> list[Signal]:
         notice_id = rec.get("notice-identifier") or ""
         pub_number = rec.get("publication-number") or ""
         publication = (rec.get("publication-date") or today_iso)[:10]
-        deadline = (rec.get("deadline-date-lot") or "")[:10] or None
+        # deadline-date-lot peut être une LISTE (avis multi-lots) → on prend la
+        # plus proche échéance, et on tronque le fuseau ("2026-06-27+02:00" → date)
+        raw_deadline = rec.get("deadline-date-lot") or ""
+        if isinstance(raw_deadline, list):
+            raw_deadline = min((str(x) for x in raw_deadline if x), default="")
+        deadline = str(raw_deadline)[:10] or None
 
         objet = _extract_text(rec.get("title-proc"))
         desc = _extract_text(rec.get("description-proc"))
@@ -190,11 +195,16 @@ def scrape() -> list[Signal]:
             logger.info("[TED] FILTRÉ (%s) : %s — %s", reason, acheteur[:30], objet[:55])
             continue
 
+        # Skip les AO dont la date limite de réponse est déjà passée
+        if deadline and deadline < today_iso:
+            logger.info("[TED] ÉCHU (%s), skip : %s — %s", deadline, acheteur[:30], objet[:50])
+            continue
+
         segment = _detect_segment_from_acheteur(acheteur) or "Autre"
         notice["segment"] = segment
         signal_type = "ao_publie"
         sous_segment = _map_sous_segment(notice)
-        score = 80
+        score = score_ao(signal_type, notice.get("_metier_score"), deadline, notice.get("_whitelist", False))
         tier = determine_tier(score)
 
         action = _generate_ao_action(notice, signal_type, segment)

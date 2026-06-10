@@ -27,7 +27,7 @@ import requests
 sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 
 from scrapers.lib.schema import Signal, fingerprint  # noqa: E402
-from scrapers.lib.scoring import determine_tier, produit_match_for  # noqa: E402
+from scrapers.lib.scoring import determine_tier, produit_match_for, score_ao# noqa: E402
 from scrapers.lib.outreach import email_draft_ao, get_contacts_cibles  # noqa: E402
 
 from scrapers.ao.seed_from_radar import (  # noqa: E402
@@ -155,11 +155,15 @@ def scrape() -> list[Signal]:
             logger.info("[BOAMP direct] FILTRÉ (%s) : %s — %s", reason, acheteur[:30], objet[:55])
             continue
 
+        if deadline and deadline < today_iso:
+            logger.info("[BOAMP direct] ÉCHU (%s), skip : %s — %s", deadline, acheteur[:30], objet[:50])
+            continue
+
         segment = _detect_segment_from_acheteur(acheteur) or "Autre"
         notice["segment"] = segment
         signal_type = "ao_publie"
         sous_segment = _map_sous_segment(notice)
-        score = 80
+        score = score_ao(signal_type, notice.get("_metier_score"), deadline, notice.get("_whitelist", False))
         tier = determine_tier(score)
 
         action = _generate_ao_action(notice, signal_type, segment)

@@ -29,7 +29,7 @@ import requests
 sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 
 from scrapers.lib.schema import Signal, fingerprint  # noqa: E402
-from scrapers.lib.scoring import determine_tier, produit_match_for  # noqa: E402
+from scrapers.lib.scoring import determine_tier, produit_match_for, score_ao# noqa: E402
 from scrapers.lib.outreach import email_draft_ao, get_contacts_cibles  # noqa: E402
 
 from scrapers.ao.seed_from_radar import (  # noqa: E402
@@ -248,11 +248,16 @@ def scrape() -> list[Signal]:
                         reason, acheteur[:30], titre[:55])
             continue
 
+        fm_deadline = str(notice["deadline"] or "")[:10] or None
+        if fm_deadline and fm_deadline < today_iso:
+            logger.info("[France Marchés] ÉCHU (%s), skip : %s — %s", fm_deadline, acheteur[:30], titre[:50])
+            continue
+
         segment = _detect_segment_from_acheteur(acheteur) or "Autre"
         notice["segment"] = segment
         signal_type = "ao_publie"
         sous_segment = _map_sous_segment(notice)
-        score = 80
+        score = score_ao(signal_type, notice.get("_metier_score"), fm_deadline, notice.get("_whitelist", False))
         tier = determine_tier(score)
 
         action = _generate_ao_action(notice, signal_type, segment)

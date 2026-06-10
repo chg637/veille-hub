@@ -26,7 +26,7 @@ import requests
 sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 
 from scrapers.lib.schema import Signal, fingerprint, save_signals  # noqa: E402
-from scrapers.lib.scoring import determine_tier, produit_match_for  # noqa: E402
+from scrapers.lib.scoring import determine_tier, produit_match_for, score_ao  # noqa: E402
 from scrapers.lib.actions import generate_action  # noqa: E402
 from scrapers.lib.outreach import email_draft_ao, get_contacts_cibles  # noqa: E402
 
@@ -582,6 +582,10 @@ def _passes_metier_filter(notice: dict) -> tuple[bool, str]:
 
     # 5. Seuil : abaissé à 5 si acheteur whitelist
     is_whitelist = any(w in acheteur for w in ACHETEURS_WHITELIST)
+
+    # v5.4 — on stocke le détail pour le scoring aval (score_ao) au lieu de le jeter
+    notice["_metier_score"] = total
+    notice["_whitelist"] = is_whitelist
     threshold = SCORE_THRESHOLD_WHITELIST if is_whitelist else SCORE_THRESHOLD
 
     if total < threshold:
@@ -763,6 +767,9 @@ def scrape() -> list[Signal]:
 
         signal_type = _map_signal_type(n)
         sous_segment = _map_sous_segment(n)
+        # v5.4 — scoring discriminant (le score du radar amont reste un plancher)
+        score = max(score if n.get("score") else 0,
+                    score_ao(signal_type, n.get("_metier_score"), deadline, n.get("_whitelist", False)))
         tier = determine_tier(score)
         source_tier = _source_tier_for(source)
 

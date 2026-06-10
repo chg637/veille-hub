@@ -54,6 +54,57 @@ def base_score(signal_type: str, source_tier: int) -> int:
     return min(100, type_score + tier_bonus)
 
 
+AO_BASE_SCORES = {
+    "ao_publie": 55,
+    "ao_pre_info": 45,
+    "ao_modificatif": 40,
+    "ao_attribue": 25,
+}
+
+
+def score_ao(
+    signal_type: str,
+    metier_score: Optional[int] = None,
+    deadline_iso: Optional[str] = None,
+    whitelist: bool = False,
+) -> int:
+    """
+    Score AO discriminant (v5.4) — remplace le 80 fixe qui rendait le tiering plat.
+
+    Composantes :
+    - base par type d'avis (publié 55 > pré-info 45 > modificatif 40 > attribué 25)
+    - fit métier : le score pondéré de _passes_metier_filter (tiers S/A/B + CPV +
+      combos - pénalité peer), cappé à 30. Seuil de passage = 8, donc un AO
+      tout juste passé apporte ~8 pts, un AO plateforme/proctoring 25-30 pts.
+    - acheteur whitelist ICP : +8
+    - fenêtre de réponse : J-7..J-45 = +5 (idéale) ; < J-7 = -10 (dossier
+      difficile à monter) ; échue = -25 (ne devrait plus arriver, les scrapers
+      skippent en amont).
+
+    Étendue résultante ≈ 45-98 → tiers 1/2/3 redeviennent discriminants.
+    """
+    from datetime import date
+
+    base = AO_BASE_SCORES.get(signal_type, 50)
+    fit = max(0, min(int(metier_score or 0), 30))
+    score = base + fit
+    if whitelist:
+        score += 8
+    if deadline_iso:
+        try:
+            d = date.fromisoformat(str(deadline_iso)[:10])
+            days = (d - date.today()).days
+            if days < 0:
+                score -= 25
+            elif days < 7:
+                score -= 10
+            elif days <= 45:
+                score += 5
+        except ValueError:
+            pass
+    return max(0, min(98, score))
+
+
 def determine_tier(score: int) -> int:
     """Détermine le tier d'action (1/2/3) à partir du score final."""
     if score >= 80:

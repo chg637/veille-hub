@@ -28,7 +28,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[3]))
 
 from scrapers.lib.schema import Signal, fingerprint  # noqa: E402
-from scrapers.lib.scoring import determine_tier, produit_match_for  # noqa: E402
+from scrapers.lib.scoring import determine_tier, produit_match_for, score_ao# noqa: E402
 from scrapers.lib.place_helpers import scrape_place_profil  # noqa: E402
 from scrapers.lib.outreach import email_draft_ao, get_contacts_cibles  # noqa: E402
 
@@ -60,9 +60,13 @@ def scrape() -> list[Signal]:
                         NOM_PROFIL[:20], reason, n["acheteur"][:35], n["objet"][:60])
             continue
 
-        score = int(n.get("score", 80))
-        tier = determine_tier(score)
+        pl_deadline = str(n.get("deadline") or "")[:10] or None
+        if pl_deadline and pl_deadline < today_iso:
+            logger.info("[PLACE] ÉCHU (%s), skip : %s", pl_deadline, n["acheteur"][:40])
+            continue
         signal_type = "ao_publie"
+        score = score_ao(signal_type, n.get("_metier_score"), pl_deadline, n.get("_whitelist", False))
+        tier = determine_tier(score)
         sous_segment = _map_sous_segment(n)
 
         segment_brut = n.get("segment") or "Autre"
