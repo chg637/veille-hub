@@ -104,30 +104,30 @@
     ]
   },
   {
-    "id": "sig-2026-04-17-57408fa7ffb2",
+    "id": "sig-2026-06-04-4e2b2aabed28",
     "date_capture": "2026-06-10",
     "vertical": "ao",
-    "sous_segment": "Marché public — secteur à qualifier",
-    "compte": "Rectorat de Corse",
-    "titre": "Fournitures, livraisons de matériels pédagogiques adaptés, réalisation de prestations associées et garanties, à destination des élèves en situation de handicap de l’académie de Corse.",
-    "description": "Fournitures, livraisons de matériels pédagogiques adaptés, réalisation de prestations associées et garanties, à destination des élèves en situation de handicap de l’académie de Corse.. Descripteurs : Informatique (prestations de services), Informatique (matériel), Logiciel.",
-    "source": "BOAMP (API directe)",
+    "sous_segment": "Marché public ESR (Enseignement Supérieur)",
+    "compte": "NANTES UNIVERSITE",
+    "titre": "Fourniture et correction des tests de certifications en langue anglais et délivrance des résultats",
+    "description": "Fourniture et correction des tests de certifications en langue anglais et délivrance des résultats",
+    "source": "TED (Tenders Electronic Daily UE)",
     "source_tier": 1,
-    "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-38431",
+    "url": "https://ted.europa.eu/fr/notice/-/detail/385163-2026",
     "signal_type": "ao_publie",
-    "tier": 1,
-    "score": 80,
+    "tier": 2,
+    "score": 72,
     "produit_match": [
       "ITS"
     ],
     "owner": "Charles",
-    "action_reco": "📋 **Récupérer le DCE complet** sur https://www.boamp.fr/pages/avis/?q=idweb:26-38431\n🎯 **Décideur cible** : À enrichir via LinkedIn Sales Nav + site officiel de l'acheteur\n💡 **Angle de valeur** : ITS : plateforme d'hébergement d'examens (tests recrutement, contrôles, certifications internes) avec correction auto et reporting\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS à mapper via questions de cadrage : Explorance, EvaluationKIT, Sphinx, EvalandGo, ExamSoft, plateformes internes\n⏰ Deadline : 2026-06-17 → calculer J-jours et caler les ressources dès maintenant.",
-    "deadline_action": "2026-06-17",
+    "action_reco": "📋 **Récupérer le DCE complet** sur https://ted.europa.eu/fr/notice/-/detail/385163-2026\n🎯 **Décideur cible** : Direction des examens + VP Pédagogie + DSI (vérifier organigramme via site officiel + LinkedIn Sales Nav)\n💡 **Angle de valeur** : ITS comme plateforme de passation de la certification : banque de questions, proctoring, attestations opposables en audit\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS probables : Explorance (cas Neoma), EvaluationKIT, Bluepulse, Aurion (ERP scolarité), ExamSoft, Pearson VUE, Caveon\n⏰ Deadline : 2026-06-27 → calculer J-jours et caler les ressources dès maintenant.",
+    "deadline_action": "2026-06-27",
     "status": "new",
-    "date_publication": "2026-04-17",
+    "date_publication": "2026-06-04",
     "email_draft": {
-      "subject": "AO Rectorat de Corse — ISOGRAD souhaite candidater",
-      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"Fournitures, livraisons de matériels pédagogiques adaptés, réalisation de prestations associées et garanties, à destination des élèves en situation de handicap de l’académie de Corse.\"\nDeadline : 2026-06-17\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://www.boamp.fr/pages/avis/?q=idweb:26-38431"
+      "subject": "AO NANTES UNIVERSITE — ISOGRAD souhaite candidater",
+      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"Fourniture et correction des tests de certifications en langue anglais et délivrance des résultats\"\nDeadline : 2026-06-27\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://ted.europa.eu/fr/notice/-/detail/385163-2026"
     },
     "contacts_cibles": [
       {
@@ -138,8 +138,8 @@
         ],
         "priorite": 1,
         "raison": "Référent direct de la consultation",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=Rectorat+de+Corse",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Rectorat%20de%20Corse%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=NANTES+UNIVERSITE",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22NANTES%20UNIVERSITE%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
       },
       {
         "poste": "Décideur métier (variable selon segment)",
@@ -150,60 +150,8 @@
         ],
         "priorite": 2,
         "raison": "Sponsorise le besoin métier en amont",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=Rectorat+de+Corse",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Rectorat%20de%20Corse%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
-      }
-    ]
-  },
-  {
-    "id": "sig-2026-04-13-f86a51903025",
-    "date_capture": "2026-06-10",
-    "vertical": "ao",
-    "sous_segment": "Marché public Collectivité",
-    "compte": "Région académique PACA",
-    "titre": "MODULES_DECOUVERTE_METIERS",
-    "description": "MODULES_DECOUVERTE_METIERS. Descripteurs : Logiciel, Informatique (prestations de services).",
-    "source": "BOAMP (API directe)",
-    "source_tier": 1,
-    "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-37165",
-    "signal_type": "ao_publie",
-    "tier": 1,
-    "score": 80,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Récupérer le DCE complet** sur https://www.boamp.fr/pages/avis/?q=idweb:26-37165\n🎯 **Décideur cible** : DRH + Direction Numérique + RAQ Qualiopi (rechercher CNFPT territorial si volet formation)\n💡 **Angle de valeur** : ITS comme back-end éval intégrable à votre SI : banque de questions paramétrable, exports complets, multi-rôles candidat/admin/OF\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS : prestataires SIRH territoriaux, plateformes internes maison, Sphinx, EvalandGo\n⏰ Deadline : 2026-05-18 → calculer J-jours et caler les ressources dès maintenant.",
-    "deadline_action": "2026-05-18",
-    "status": "new",
-    "date_publication": "2026-04-13",
-    "email_draft": {
-      "subject": "AO Région académique PACA — ISOGRAD souhaite candidater",
-      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"MODULES_DECOUVERTE_METIERS\"\nDeadline : 2026-05-18\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://www.boamp.fr/pages/avis/?q=idweb:26-37165"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Acheteur public référencé sur l'AO",
-        "alternatives": [
-          "RAQ",
-          "Responsable des achats"
-        ],
-        "priorite": 1,
-        "raison": "Référent direct de la consultation",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=R%C3%A9gion+acad%C3%A9mique+PACA",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22R%C3%A9gion%20acad%C3%A9mique%20PACA%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
-      },
-      {
-        "poste": "Décideur métier (variable selon segment)",
-        "alternatives": [
-          "Direction des examens (ESR)",
-          "Direction des soins (FPH)",
-          "DRH (Collectivité)"
-        ],
-        "priorite": 2,
-        "raison": "Sponsorise le besoin métier en amont",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=R%C3%A9gion+acad%C3%A9mique+PACA",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22R%C3%A9gion%20acad%C3%A9mique%20PACA%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=NANTES+UNIVERSITE",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22NANTES%20UNIVERSITE%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
       }
     ]
   },
@@ -219,8 +167,8 @@
     "source_tier": 1,
     "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-53131",
     "signal_type": "ao_publie",
-    "tier": 1,
-    "score": 80,
+    "tier": 2,
+    "score": 70,
     "produit_match": [
       "ITS"
     ],
@@ -260,30 +208,30 @@
     ]
   },
   {
-    "id": "sig-2026-05-06-e109c9cd98e5",
+    "id": "sig-2026-04-17-57408fa7ffb2",
     "date_capture": "2026-06-10",
     "vertical": "ao",
-    "sous_segment": "Marché public Collectivité",
-    "compte": "Ville de Mamoudzou (976)",
-    "titre": "Mission AMO pour la structuration, l’intégration technique, la conformité FEDER-EUI, la sécurité numérique, la protection des données, le pilotage opérationnel, l’évaluation",
-    "description": "Mission AMO pour la structuration, l’intégration technique, la conformité FEDER-EUI, la sécurité numérique, la protection des données, le pilotage opérationnel, l’évaluation. Descripteurs : Logiciel, Surveillance, Télésurveillance, Assistance à maîtrise d'ouvrage, Ingénierie.",
+    "sous_segment": "Marché public — secteur à qualifier",
+    "compte": "Rectorat de Corse",
+    "titre": "Fournitures, livraisons de matériels pédagogiques adaptés, réalisation de prestations associées et garanties, à destination des élèves en situation de handicap de l’académie de Corse.",
+    "description": "Fournitures, livraisons de matériels pédagogiques adaptés, réalisation de prestations associées et garanties, à destination des élèves en situation de handicap de l’académie de Corse.. Descripteurs : Informatique (prestations de services), Informatique (matériel), Logiciel.",
     "source": "BOAMP (API directe)",
     "source_tier": 1,
-    "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-45082",
+    "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-38431",
     "signal_type": "ao_publie",
-    "tier": 1,
-    "score": 80,
+    "tier": 2,
+    "score": 68,
     "produit_match": [
       "ITS"
     ],
     "owner": "Charles",
-    "action_reco": "📋 **Récupérer le DCE complet** sur https://www.boamp.fr/pages/avis/?q=idweb:26-45082\n🎯 **Décideur cible** : DRH + Direction Numérique + RAQ Qualiopi (rechercher CNFPT territorial si volet formation)\n💡 **Angle de valeur** : ITS : plateforme d'hébergement d'examens (tests recrutement, contrôles, certifications internes) avec correction auto et reporting\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS : prestataires SIRH territoriaux, plateformes internes maison, Sphinx, EvalandGo\n⏰ Deadline : 2026-06-05 → calculer J-jours et caler les ressources dès maintenant.",
-    "deadline_action": "2026-06-05",
+    "action_reco": "📋 **Récupérer le DCE complet** sur https://www.boamp.fr/pages/avis/?q=idweb:26-38431\n🎯 **Décideur cible** : À enrichir via LinkedIn Sales Nav + site officiel de l'acheteur\n💡 **Angle de valeur** : ITS : plateforme d'hébergement d'examens (tests recrutement, contrôles, certifications internes) avec correction auto et reporting\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS à mapper via questions de cadrage : Explorance, EvaluationKIT, Sphinx, EvalandGo, ExamSoft, plateformes internes\n⏰ Deadline : 2026-06-17 → calculer J-jours et caler les ressources dès maintenant.",
+    "deadline_action": "2026-06-17",
     "status": "new",
-    "date_publication": "2026-05-06",
+    "date_publication": "2026-04-17",
     "email_draft": {
-      "subject": "AO Ville de Mamoudzou (976) — ISOGRAD souhaite candidater",
-      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"Mission AMO pour la structuration, l’intégration technique, la conformité FEDER-EUI, la sécurité numérique, la protection des données, le pilotage opérationnel, l’évaluation\"\nDeadline : 2026-06-05\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://www.boamp.fr/pages/avis/?q=idweb:26-45082"
+      "subject": "AO Rectorat de Corse — ISOGRAD souhaite candidater",
+      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"Fournitures, livraisons de matériels pédagogiques adaptés, réalisation de prestations associées et garanties, à destination des élèves en situation de handicap de l’académie de Corse.\"\nDeadline : 2026-06-17\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://www.boamp.fr/pages/avis/?q=idweb:26-38431"
     },
     "contacts_cibles": [
       {
@@ -294,8 +242,8 @@
         ],
         "priorite": 1,
         "raison": "Référent direct de la consultation",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=Ville+de+Mamoudzou+%28976%29",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Ville%20de%20Mamoudzou%20%28976%29%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=Rectorat+de+Corse",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Rectorat%20de%20Corse%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
       },
       {
         "poste": "Décideur métier (variable selon segment)",
@@ -306,8 +254,8 @@
         ],
         "priorite": 2,
         "raison": "Sponsorise le besoin métier en amont",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=Ville+de+Mamoudzou+%28976%29",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Ville%20de%20Mamoudzou%20%28976%29%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=Rectorat+de+Corse",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Rectorat%20de%20Corse%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
       }
     ]
   },
@@ -323,8 +271,8 @@
     "source_tier": 1,
     "url": "https://ted.europa.eu/fr/notice/-/detail/250818-2026",
     "signal_type": "ao_publie",
-    "tier": 1,
-    "score": 80,
+    "tier": 2,
+    "score": 67,
     "produit_match": [
       "ITS"
     ],
@@ -364,112 +312,6 @@
     ]
   },
   {
-    "id": "sig-2026-04-14-0f1961e41d8b",
-    "date_capture": "2026-06-10",
-    "vertical": "ao",
-    "sous_segment": "Marché public — secteur à qualifier",
-    "compte": "_EP - AEFE",
-    "titre": "Le présent marché a pour objet la fourniture d’une solution logicielle complète de gestion de la dématérialisation des corrections des copies d’examen du diplôme national du brevet (DNB) dans les étab",
-    "description": "La présente consultation a pour objet la mise en œuvre d’une solution logicielle complète de gestion de la dématérialisation des corrections des copies d’examen du diplôme national du brevet (DNB) dans les établissements d’enseignement français du réseau homologué à l’étranger.",
-    "source": "TED (Tenders Electronic Daily UE)",
-    "source_tier": 1,
-    "url": "https://ted.europa.eu/fr/notice/-/detail/251410-2026",
-    "signal_type": "ao_publie",
-    "tier": 1,
-    "score": 80,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Récupérer le DCE complet** sur https://ted.europa.eu/fr/notice/-/detail/251410-2026\n🎯 **Décideur cible** : À enrichir via LinkedIn Sales Nav + site officiel de l'acheteur\n💡 **Angle de valeur** : ITS comme back-end éval intégrable à votre SI : banque de questions paramétrable, exports complets, multi-rôles candidat/admin/OF\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS à mapper via questions de cadrage : Explorance, EvaluationKIT, Sphinx, EvalandGo, ExamSoft, plateformes internes\n⏰ Deadline : ['2026-04-30Z'] → calculer J-jours et caler les ressources dès maintenant.",
-    "deadline_action": [
-      "2026-04-30Z"
-    ],
-    "status": "new",
-    "date_publication": "2026-04-14",
-    "email_draft": {
-      "subject": "AO _EP - AEFE — ISOGRAD souhaite candidater",
-      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"Le présent marché a pour objet la fourniture d’une solution logicielle complète de gestion de la dématérialisation des corrections des copies d’examen du diplôme national du brevet (DNB) dans les établissements d’enseignement français du réseau homologué à l’étranger.\"\nDeadline : ['2026-04-30Z']\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://ted.europa.eu/fr/notice/-/detail/251410-2026"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Acheteur public référencé sur l'AO",
-        "alternatives": [
-          "RAQ",
-          "Responsable des achats"
-        ],
-        "priorite": 1,
-        "raison": "Référent direct de la consultation",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=_EP+-+AEFE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22_EP%20-%20AEFE%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
-      },
-      {
-        "poste": "Décideur métier (variable selon segment)",
-        "alternatives": [
-          "Direction des examens (ESR)",
-          "Direction des soins (FPH)",
-          "DRH (Collectivité)"
-        ],
-        "priorite": 2,
-        "raison": "Sponsorise le besoin métier en amont",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=_EP+-+AEFE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22_EP%20-%20AEFE%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
-      }
-    ]
-  },
-  {
-    "id": "sig-2026-04-15-a94c08f57424",
-    "date_capture": "2026-06-10",
-    "vertical": "ao",
-    "sous_segment": "Marché public — secteur à qualifier",
-    "compte": "PFC Brest",
-    "titre": "Mise à niveau et fourniture du simulateur de navigation de l'Ecole navale et son maintien en condition opérationnelle",
-    "description": "Mise à niveau et fourniture du simulateur de navigation de l'Ecole navale et son maintien en condition opérationnelle",
-    "source": "TED (Tenders Electronic Daily UE)",
-    "source_tier": 1,
-    "url": "https://ted.europa.eu/fr/notice/-/detail/255661-2026",
-    "signal_type": "ao_publie",
-    "tier": 1,
-    "score": 80,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Récupérer le DCE complet** sur https://ted.europa.eu/fr/notice/-/detail/255661-2026\n🎯 **Décideur cible** : À enrichir via LinkedIn Sales Nav + site officiel de l'acheteur\n💡 **Angle de valeur** : ITS comme back-end éval intégrable à votre SI : banque de questions paramétrable, exports complets, multi-rôles candidat/admin/OF\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS à mapper via questions de cadrage : Explorance, EvaluationKIT, Sphinx, EvalandGo, ExamSoft, plateformes internes",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-04-15",
-    "email_draft": {
-      "subject": "AO PFC Brest — ISOGRAD souhaite candidater",
-      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"Mise à niveau et fourniture du simulateur de navigation de l'Ecole navale et son maintien en condition opérationnelle\"\nDeadline : à définir\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://ted.europa.eu/fr/notice/-/detail/255661-2026"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Acheteur public référencé sur l'AO",
-        "alternatives": [
-          "RAQ",
-          "Responsable des achats"
-        ],
-        "priorite": 1,
-        "raison": "Référent direct de la consultation",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=PFC+Brest",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22PFC%20Brest%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
-      },
-      {
-        "poste": "Décideur métier (variable selon segment)",
-        "alternatives": [
-          "Direction des examens (ESR)",
-          "Direction des soins (FPH)",
-          "DRH (Collectivité)"
-        ],
-        "priorite": 2,
-        "raison": "Sponsorise le besoin métier en amont",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=PFC+Brest",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22PFC%20Brest%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
-      }
-    ]
-  },
-  {
     "id": "sig-2026-04-15-cbdb4ba82e4a",
     "date_capture": "2026-06-10",
     "vertical": "ao",
@@ -481,8 +323,8 @@
     "source_tier": 1,
     "url": "https://ted.europa.eu/fr/notice/-/detail/256608-2026",
     "signal_type": "ao_publie",
-    "tier": 1,
-    "score": 80,
+    "tier": 2,
+    "score": 67,
     "produit_match": [
       "ITS"
     ],
@@ -522,32 +364,30 @@
     ]
   },
   {
-    "id": "sig-2026-04-27-ddb50e9b5e2b",
+    "id": "sig-2026-06-05-b64e450d489b",
     "date_capture": "2026-06-10",
     "vertical": "ao",
-    "sous_segment": "Marché public — secteur à qualifier",
-    "compte": "SNCF Voyageurs",
-    "titre": "Certification Missions NoBo / DeBo / AsBo Bi-Standard ERTMS/TVM en v9.4.2B",
-    "description": "Les rames TGV font l’objet d’une modification (réaménagement) afin d’intégrer une nouvelle version du Bi-standard ERTMS/TVM, la v9.4.2B, qui a pour objectif principal d’ajouter la fonction « Cold Movement Detector » (CMD).",
+    "sous_segment": "Marché public ESR (Enseignement Supérieur)",
+    "compte": "Université d'Angers",
+    "titre": "Achat de prestations de certification en langue anglaise",
+    "description": "Le présent marché concerne la fourniture et la correction de certification en langue anglaise. Les lots sont les suivants : LOT 1 : Certification en anglais général LOT 2 : Certification en anglais professionnel de type TOEIC Le présent marché est un accord-cadre à bons de commande avec un montant maximum sur la durée de l'accord-cadre : LOT 1 : 100 000 euro(s) HT LOT 2 : 200 000 euro(s) HT",
     "source": "TED (Tenders Electronic Daily UE)",
     "source_tier": 1,
-    "url": "https://ted.europa.eu/fr/notice/-/detail/286384-2026",
+    "url": "https://ted.europa.eu/fr/notice/-/detail/386139-2026",
     "signal_type": "ao_publie",
-    "tier": 1,
-    "score": 80,
+    "tier": 2,
+    "score": 67,
     "produit_match": [
       "ITS"
     ],
     "owner": "Charles",
-    "action_reco": "📋 **Récupérer le DCE complet** sur https://ted.europa.eu/fr/notice/-/detail/286384-2026\n🎯 **Décideur cible** : À enrichir via LinkedIn Sales Nav + site officiel de l'acheteur\n💡 **Angle de valeur** : ITS comme plateforme de passation de la certification : banque de questions, proctoring, attestations opposables en audit\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS à mapper via questions de cadrage : Explorance, EvaluationKIT, Sphinx, EvalandGo, ExamSoft, plateformes internes\n⏰ Deadline : ['2026-05-11+02:00'] → calculer J-jours et caler les ressources dès maintenant.",
-    "deadline_action": [
-      "2026-05-11+02:00"
-    ],
+    "action_reco": "📋 **Récupérer le DCE complet** sur https://ted.europa.eu/fr/notice/-/detail/386139-2026\n🎯 **Décideur cible** : Direction des examens + VP Pédagogie + DSI (vérifier organigramme via site officiel + LinkedIn Sales Nav)\n💡 **Angle de valeur** : ITS comme plateforme de passation de la certification : banque de questions, proctoring, attestations opposables en audit\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS probables : Explorance (cas Neoma), EvaluationKIT, Bluepulse, Aurion (ERP scolarité), ExamSoft, Pearson VUE, Caveon",
+    "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-04-27",
+    "date_publication": "2026-06-05",
     "email_draft": {
-      "subject": "AO SNCF Voyageurs — ISOGRAD souhaite candidater",
-      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"Certification Missions NoBo / DeBo / AsBo Bi-Standard ERTMS/TVM en v9.4.2B\"\nDeadline : ['2026-05-11+02:00']\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://ted.europa.eu/fr/notice/-/detail/286384-2026"
+      "subject": "AO Université d'Angers — ISOGRAD souhaite candidater",
+      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"Achat de prestations de certification en langue anglaise\"\nDeadline : à définir\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://ted.europa.eu/fr/notice/-/detail/386139-2026"
     },
     "contacts_cibles": [
       {
@@ -558,8 +398,8 @@
         ],
         "priorite": 1,
         "raison": "Référent direct de la consultation",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=SNCF+Voyageurs",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22SNCF%20Voyageurs%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=Universit%C3%A9+d%27Angers",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Universit%C3%A9%20d%27Angers%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
       },
       {
         "poste": "Décideur métier (variable selon segment)",
@@ -570,8 +410,60 @@
         ],
         "priorite": 2,
         "raison": "Sponsorise le besoin métier en amont",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=SNCF+Voyageurs",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22SNCF%20Voyageurs%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=Universit%C3%A9+d%27Angers",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Universit%C3%A9%20d%27Angers%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
+      }
+    ]
+  },
+  {
+    "id": "sig-2026-04-15-a94c08f57424",
+    "date_capture": "2026-06-10",
+    "vertical": "ao",
+    "sous_segment": "Marché public — secteur à qualifier",
+    "compte": "PFC Brest",
+    "titre": "Mise à niveau et fourniture du simulateur de navigation de l'Ecole navale et son maintien en condition opérationnelle",
+    "description": "Mise à niveau et fourniture du simulateur de navigation de l'Ecole navale et son maintien en condition opérationnelle",
+    "source": "TED (Tenders Electronic Daily UE)",
+    "source_tier": 1,
+    "url": "https://ted.europa.eu/fr/notice/-/detail/255661-2026",
+    "signal_type": "ao_publie",
+    "tier": 2,
+    "score": 65,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Récupérer le DCE complet** sur https://ted.europa.eu/fr/notice/-/detail/255661-2026\n🎯 **Décideur cible** : À enrichir via LinkedIn Sales Nav + site officiel de l'acheteur\n💡 **Angle de valeur** : ITS comme back-end éval intégrable à votre SI : banque de questions paramétrable, exports complets, multi-rôles candidat/admin/OF\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS à mapper via questions de cadrage : Explorance, EvaluationKIT, Sphinx, EvalandGo, ExamSoft, plateformes internes",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-04-15",
+    "email_draft": {
+      "subject": "AO PFC Brest — ISOGRAD souhaite candidater",
+      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"Mise à niveau et fourniture du simulateur de navigation de l'Ecole navale et son maintien en condition opérationnelle\"\nDeadline : à définir\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://ted.europa.eu/fr/notice/-/detail/255661-2026"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Acheteur public référencé sur l'AO",
+        "alternatives": [
+          "RAQ",
+          "Responsable des achats"
+        ],
+        "priorite": 1,
+        "raison": "Référent direct de la consultation",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=PFC+Brest",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22PFC%20Brest%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
+      },
+      {
+        "poste": "Décideur métier (variable selon segment)",
+        "alternatives": [
+          "Direction des examens (ESR)",
+          "Direction des soins (FPH)",
+          "DRH (Collectivité)"
+        ],
+        "priorite": 2,
+        "raison": "Sponsorise le besoin métier en amont",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=PFC+Brest",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22PFC%20Brest%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
       }
     ]
   },
@@ -587,8 +479,8 @@
     "source_tier": 1,
     "url": "https://ted.europa.eu/fr/notice/-/detail/297074-2026",
     "signal_type": "ao_publie",
-    "tier": 1,
-    "score": 80,
+    "tier": 2,
+    "score": 65,
     "produit_match": [
       "ITS"
     ],
@@ -639,8 +531,8 @@
     "source_tier": 1,
     "url": "https://ted.europa.eu/fr/notice/-/detail/311768-2026",
     "signal_type": "ao_publie",
-    "tier": 1,
-    "score": 80,
+    "tier": 2,
+    "score": 65,
     "produit_match": [
       "ITS"
     ],
@@ -691,8 +583,8 @@
     "source_tier": 1,
     "url": "https://ted.europa.eu/fr/notice/-/detail/321476-2026",
     "signal_type": "ao_publie",
-    "tier": 1,
-    "score": 80,
+    "tier": 2,
+    "score": 65,
     "produit_match": [
       "ITS"
     ],
@@ -743,8 +635,8 @@
     "source_tier": 1,
     "url": "https://ted.europa.eu/fr/notice/-/detail/345468-2026",
     "signal_type": "ao_publie",
-    "tier": 1,
-    "score": 80,
+    "tier": 2,
+    "score": 65,
     "produit_match": [
       "ITS"
     ],
@@ -795,8 +687,8 @@
     "source_tier": 1,
     "url": "https://ted.europa.eu/fr/notice/-/detail/346120-2026",
     "signal_type": "ao_publie",
-    "tier": 1,
-    "score": 80,
+    "tier": 2,
+    "score": 65,
     "produit_match": [
       "ITS"
     ],
@@ -847,8 +739,8 @@
     "source_tier": 1,
     "url": "https://ted.europa.eu/fr/notice/-/detail/362256-2026",
     "signal_type": "ao_publie",
-    "tier": 1,
-    "score": 80,
+    "tier": 2,
+    "score": 65,
     "produit_match": [
       "ITS"
     ],
@@ -899,8 +791,8 @@
     "source_tier": 1,
     "url": "https://ted.europa.eu/fr/notice/-/detail/383430-2026",
     "signal_type": "ao_publie",
-    "tier": 1,
-    "score": 80,
+    "tier": 2,
+    "score": 65,
     "produit_match": [
       "ITS"
     ],
@@ -940,112 +832,6 @@
     ]
   },
   {
-    "id": "sig-2026-06-04-4e2b2aabed28",
-    "date_capture": "2026-06-10",
-    "vertical": "ao",
-    "sous_segment": "Marché public ESR (Enseignement Supérieur)",
-    "compte": "NANTES UNIVERSITE",
-    "titre": "Fourniture et correction des tests de certifications en langue anglais et délivrance des résultats",
-    "description": "Fourniture et correction des tests de certifications en langue anglais et délivrance des résultats",
-    "source": "TED (Tenders Electronic Daily UE)",
-    "source_tier": 1,
-    "url": "https://ted.europa.eu/fr/notice/-/detail/385163-2026",
-    "signal_type": "ao_publie",
-    "tier": 1,
-    "score": 80,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Récupérer le DCE complet** sur https://ted.europa.eu/fr/notice/-/detail/385163-2026\n🎯 **Décideur cible** : Direction des examens + VP Pédagogie + DSI (vérifier organigramme via site officiel + LinkedIn Sales Nav)\n💡 **Angle de valeur** : ITS comme plateforme de passation de la certification : banque de questions, proctoring, attestations opposables en audit\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS probables : Explorance (cas Neoma), EvaluationKIT, Bluepulse, Aurion (ERP scolarité), ExamSoft, Pearson VUE, Caveon\n⏰ Deadline : ['2026-06-27+02:00'] → calculer J-jours et caler les ressources dès maintenant.",
-    "deadline_action": [
-      "2026-06-27+02:00"
-    ],
-    "status": "new",
-    "date_publication": "2026-06-04",
-    "email_draft": {
-      "subject": "AO NANTES UNIVERSITE — ISOGRAD souhaite candidater",
-      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"Fourniture et correction des tests de certifications en langue anglais et délivrance des résultats\"\nDeadline : ['2026-06-27+02:00']\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://ted.europa.eu/fr/notice/-/detail/385163-2026"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Acheteur public référencé sur l'AO",
-        "alternatives": [
-          "RAQ",
-          "Responsable des achats"
-        ],
-        "priorite": 1,
-        "raison": "Référent direct de la consultation",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=NANTES+UNIVERSITE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22NANTES%20UNIVERSITE%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
-      },
-      {
-        "poste": "Décideur métier (variable selon segment)",
-        "alternatives": [
-          "Direction des examens (ESR)",
-          "Direction des soins (FPH)",
-          "DRH (Collectivité)"
-        ],
-        "priorite": 2,
-        "raison": "Sponsorise le besoin métier en amont",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=NANTES+UNIVERSITE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22NANTES%20UNIVERSITE%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
-      }
-    ]
-  },
-  {
-    "id": "sig-2026-06-05-b64e450d489b",
-    "date_capture": "2026-06-10",
-    "vertical": "ao",
-    "sous_segment": "Marché public ESR (Enseignement Supérieur)",
-    "compte": "Université d'Angers",
-    "titre": "Achat de prestations de certification en langue anglaise",
-    "description": "Le présent marché concerne la fourniture et la correction de certification en langue anglaise. Les lots sont les suivants : LOT 1 : Certification en anglais général LOT 2 : Certification en anglais professionnel de type TOEIC Le présent marché est un accord-cadre à bons de commande avec un montant maximum sur la durée de l'accord-cadre : LOT 1 : 100 000 euro(s) HT LOT 2 : 200 000 euro(s) HT",
-    "source": "TED (Tenders Electronic Daily UE)",
-    "source_tier": 1,
-    "url": "https://ted.europa.eu/fr/notice/-/detail/386139-2026",
-    "signal_type": "ao_publie",
-    "tier": 1,
-    "score": 80,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Récupérer le DCE complet** sur https://ted.europa.eu/fr/notice/-/detail/386139-2026\n🎯 **Décideur cible** : Direction des examens + VP Pédagogie + DSI (vérifier organigramme via site officiel + LinkedIn Sales Nav)\n💡 **Angle de valeur** : ITS comme plateforme de passation de la certification : banque de questions, proctoring, attestations opposables en audit\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS probables : Explorance (cas Neoma), EvaluationKIT, Bluepulse, Aurion (ERP scolarité), ExamSoft, Pearson VUE, Caveon",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-06-05",
-    "email_draft": {
-      "subject": "AO Université d'Angers — ISOGRAD souhaite candidater",
-      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"Achat de prestations de certification en langue anglaise\"\nDeadline : à définir\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://ted.europa.eu/fr/notice/-/detail/386139-2026"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Acheteur public référencé sur l'AO",
-        "alternatives": [
-          "RAQ",
-          "Responsable des achats"
-        ],
-        "priorite": 1,
-        "raison": "Référent direct de la consultation",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=Universit%C3%A9+d%27Angers",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Universit%C3%A9%20d%27Angers%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
-      },
-      {
-        "poste": "Décideur métier (variable selon segment)",
-        "alternatives": [
-          "Direction des examens (ESR)",
-          "Direction des soins (FPH)",
-          "DRH (Collectivité)"
-        ],
-        "priorite": 2,
-        "raison": "Sponsorise le besoin métier en amont",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=Universit%C3%A9+d%27Angers",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Universit%C3%A9%20d%27Angers%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
-      }
-    ]
-  },
-  {
     "id": "sig-2026-06-05-04befdd44df4",
     "date_capture": "2026-06-10",
     "vertical": "ao",
@@ -1057,8 +843,8 @@
     "source_tier": 1,
     "url": "https://ted.europa.eu/fr/notice/-/detail/386463-2026",
     "signal_type": "ao_publie",
-    "tier": 1,
-    "score": 80,
+    "tier": 2,
+    "score": 65,
     "produit_match": [
       "ITS"
     ],
