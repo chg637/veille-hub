@@ -459,6 +459,35 @@
     font-weight: 700;
     font-size: 11.5px;
   }
+
+  /* ───── TRIAGE ───── */
+  .tri-actions { margin-top: 8px; display: flex; gap: 6px; justify-content: flex-end; flex-wrap: wrap; }
+  .tri-btn {
+    border: 1px solid var(--border); background: #fff; color: var(--text-soft);
+    border-radius: 100px; padding: 3px 10px; font-size: 11px; font-weight: 600;
+    cursor: pointer; font-family: inherit; transition: all 0.15s;
+  }
+  .tri-btn:hover { border-color: #94A3B8; color: var(--text); }
+  .tri-btn.done:hover { border-color: var(--good); color: var(--good); }
+  .tri-btn.skip:hover { border-color: var(--hot); color: var(--hot); }
+  .signal.triaged { opacity: 0.55; }
+  .signal.triaged .score { filter: grayscale(0.8); }
+  .tri-state { font-size: 11px; font-weight: 700; margin-top: 8px; }
+  .tri-state.traite { color: var(--good); }
+  .tri-state.ignore { color: var(--hot); }
+  .tri-bar { display: flex; justify-content: flex-end; margin: 0 0 10px; }
+  .tri-toggle {
+    background: none; border: none; color: var(--isograd); font-size: 11.5px;
+    font-weight: 600; cursor: pointer; padding: 0; font-family: inherit; text-decoration: underline;
+  }
+  #triage-sync { font-size: 11px; color: var(--text-soft); display: flex; align-items: center; gap: 6px; }
+  #triage-sync .dot { width: 8px; height: 8px; border-radius: 50%; background: #94A3B8; display: inline-block; }
+  #triage-sync.ok .dot { background: var(--good); }
+  #triage-sync.err .dot { background: var(--hot); }
+  #triage-sync button {
+    background: none; border: none; cursor: pointer; color: var(--isograd);
+    font-size: 11px; text-decoration: underline; font-family: inherit; padding: 0;
+  }
 </style>
 </head>
 <body>
@@ -544,12 +573,154 @@
 
 <div class="ft">
   <div>📅 Prochain digest hebdo : <b id="next-digest">lundi 8h</b> · cercle réduit (Charles + Juliette)</div>
+  <div id="triage-sync"><span class="dot"></span><span id="triage-sync-label">triage local</span><button onclick="configureSync()">&#9881; sync GitHub</button></div>
   <div class="digest">v0.5 — sources 360° (PLACE EOESRI + FPH + curated)</div>
 </div>
 
 <script>
 const VERTICALS = ["education", "of", "rncp", "corporate", "ao"];
 const ICONS = { education: "🎓", of: "🏫", rncp: "📜", corporate: "🏢", ao: "📋" };
+
+// ─────────────────────────────────────────────────────────────────────────
+// Triage persistant — Traité / Ignoré, localStorage + sync data/triage.json
+// via l'API GitHub (token fine-grained stocké en localStorage, jamais commité)
+// ─────────────────────────────────────────────────────────────────────────
+const TRIAGE_LS_KEY = "veilleTriage";
+const TOKEN_LS_KEY = "veilleGhToken";
+const GH_REPO = "chg637/veille-hub";
+const TRIAGE_PATH = "data/triage.json";
+let TRIAGE = {};
+let pushTimer = null;
+
+function loadLocalTriage() {
+  try { return JSON.parse(localStorage.getItem(TRIAGE_LS_KEY) || "{}"); }
+  catch (e) { return {}; }
+}
+
+// Fusion latest-wins sur `at` ; last_seen (pose par le bot) garde au plus recent
+function mergeTriage(base, extra) {
+  for (const [id, e] of Object.entries(extra || {})) {
+    if (!e || typeof e !== "object") continue;
+    if (!base[id] || (e.at || "") > (base[id].at || "")) {
+      base[id] = Object.assign({}, base[id], e);
+    } else if (e.last_seen && (!base[id].last_seen || e.last_seen > base[id].last_seen)) {
+      base[id].last_seen = e.last_seen;
+    }
+  }
+  return base;
+}
+
+async function loadTriage() {
+  let remote = {};
+  try {
+    const r = await fetch("./data/triage.json", { cache: "no-store" });
+    if (r.ok) remote = await r.json();
+  } catch (e) {}
+  TRIAGE = mergeTriage(mergeTriage({}, remote), loadLocalTriage());
+  updateSyncBadge(localStorage.getItem(TOKEN_LS_KEY) ? "idle" : "local");
+}
+
+// status: "traite" | "ignore" | null. Retablir => tombstone "actif" (sinon le
+// merge avec la copie distante ressusciterait l'entree supprimee).
+function setTriage(id, status) {
+  if (!id) return;
+  TRIAGE[id] = Object.assign({}, TRIAGE[id], { status: status === null ? "actif" : status, at: new Date().toISOString() });
+  localStorage.setItem(TRIAGE_LS_KEY, JSON.stringify(TRIAGE));
+  schedulePush();
+  renderAll();
+}
+
+function triStatus(id) {
+  const t = TRIAGE[id];
+  return t && t.status && t.status !== "actif" ? t.status : null;
+}
+
+function toggleTriaged() { SHOW_TRIAGED = !SHOW_TRIAGED; renderAll(); }
+
+function renderTriageControls(s) {
+  const id = s.id || "";
+  if (!id) return "";
+  const esc = escapeHtml(id).replace(/'/g, "\\'");
+  const st = triStatus(id);
+  if (st) {
+    return `<div class="tri-state ${st}">${st === "traite" ? "✓ Traité" : "✕ Ignoré"}</div>
+      <div class="tri-actions"><button class="tri-btn" onclick="setTriage('${esc}', null)">↩ Rétablir</button></div>`;
+  }
+  return `<div class="tri-actions">
+      <button class="tri-btn done" onclick="setTriage('${esc}', 'traite')">✓ Traité</button>
+      <button class="tri-btn skip" onclick="setTriage('${esc}', 'ignore')">✕ Ignoré</button>
+    </div>`;
+}
+
+function configureSync() {
+  const cur = localStorage.getItem(TOKEN_LS_KEY) || "";
+  const tok = window.prompt(
+    "Token GitHub fine-grained — repo " + GH_REPO + ", permission Contents: Read & Write.\n" +
+    "Stocke uniquement dans ce navigateur (localStorage). Laisser vide pour desactiver la sync.",
+    cur
+  );
+  if (tok === null) return;
+  if (tok.trim()) {
+    localStorage.setItem(TOKEN_LS_KEY, tok.trim());
+    updateSyncBadge("idle");
+    schedulePush(0);
+  } else {
+    localStorage.removeItem(TOKEN_LS_KEY);
+    updateSyncBadge("local");
+  }
+}
+
+function updateSyncBadge(state) {
+  const el = document.getElementById("triage-sync");
+  if (!el) return;
+  el.className = state === "ok" ? "ok" : state === "err" ? "err" : "";
+  const labels = {
+    local: "triage local (non synchronisé)",
+    idle: "sync GitHub configurée",
+    saving: "sync en cours…",
+    ok: "triage synchronisé",
+    err: "échec sync — vérifier le token",
+  };
+  const lbl = document.getElementById("triage-sync-label");
+  if (lbl) lbl.textContent = labels[state] || state;
+}
+
+function schedulePush(delay = 2500) {
+  if (!localStorage.getItem(TOKEN_LS_KEY)) return;
+  clearTimeout(pushTimer);
+  pushTimer = setTimeout(pushTriage, delay);
+}
+
+async function pushTriage() {
+  const token = localStorage.getItem(TOKEN_LS_KEY);
+  if (!token) return;
+  updateSyncBadge("saving");
+  const api = `https://api.github.com/repos/${GH_REPO}/contents/${TRIAGE_PATH}`;
+  const headers = { Authorization: `Bearer ${token}`, Accept: "application/vnd.github+json" };
+  try {
+    let sha;
+    const get = await fetch(`${api}?ref=main&t=${Date.now()}`, { headers });
+    if (get.ok) {
+      const j = await get.json();
+      sha = j.sha;
+      try {
+        const remote = JSON.parse(decodeURIComponent(escape(atob((j.content || "").replace(/\n/g, "")))));
+        mergeTriage(TRIAGE, remote); // autres devices + last_seen du bot
+      } catch (e) {}
+    }
+    const content = btoa(unescape(encodeURIComponent(JSON.stringify(TRIAGE, null, 2) + "\n")));
+    const put = await fetch(api, {
+      method: "PUT",
+      headers,
+      body: JSON.stringify(Object.assign({ message: "triage: maj depuis le hub", content, branch: "main" }, sha ? { sha } : {})),
+    });
+    if (!put.ok) throw new Error("PUT " + put.status);
+    localStorage.setItem(TRIAGE_LS_KEY, JSON.stringify(TRIAGE));
+    updateSyncBadge("ok");
+  } catch (e) {
+    updateSyncBadge("err");
+  }
+}
 
 async function loadSignals(vertical) {
   try {
@@ -732,7 +903,7 @@ function renderSignal(s) {
   const ageClass = ageAbs !== null && ageAbs > 7 ? "stale" : "";
 
   return `
-    <div class="signal" data-vert="${s.vertical}">
+    <div class="signal ${triStatus(s.id) ? 'triaged' : ''}" data-vert="${s.vertical}" data-id="${escapeHtml(s.id || '')}">
       <div class="score ${scoreClass(s)}">
         <div class="score-n">${s.score}</div>
         <div class="score-l">${scoreLabel(s)}</div>
@@ -761,6 +932,7 @@ function renderSignal(s) {
         <div class="date ${ageClass}" title="Publié ${fmtDate(datePub)}">${dateLabel}</div>
         ${s.owner ? `<div style="margin-top:4px">${escapeHtml(s.owner)}</div>` : ''}
         ${deadlineHtml}
+        ${renderTriageControls(s)}
       </div>
     </div>`;
 }
@@ -773,19 +945,34 @@ function renderEmpty(vertical, msg) {
   </div>`;
 }
 
-async function initHub() {
-  const results = await Promise.all(
-    VERTICALS.map(async v => [v, await loadSignals(v)])
-  );
+let BY_VERTICAL = null;
+let SHOW_TRIAGED = false;
 
-  const byVertical = Object.fromEntries(results);
+function bySortKey(a, b) {
+  if (b.score !== a.score) return b.score - a.score;
+  const dA = a.date_publication || a.date_capture || '';
+  const dB = b.date_publication || b.date_capture || '';
+  return dB.localeCompare(dA);
+}
+
+function triBar(hidden) {
+  if (hidden <= 0) return "";
+  const verb = SHOW_TRIAGED ? "Masquer" : "Afficher";
+  const noun = hidden > 1 ? `les ${hidden} signaux traités/ignorés` : "le signal traité/ignoré";
+  return `<div class="tri-bar"><button class="tri-toggle" onclick="toggleTriaged()">${verb} ${noun}</button></div>`;
+}
+
+// Rendu complet (appelé au chargement et après chaque action de triage)
+function renderAll() {
+  const byVertical = BY_VERTICAL || {};
   const stats = { education: 0, of: 0, rncp: 0, corporate: 0, ao: 0 };
-  const allSignals = [];
+  const allActive = [];
+  let hiddenTotal = 0;
 
   for (const v of VERTICALS) {
     const signals = byVertical[v];
     const container = document.getElementById(`signals-${v}`);
-    if (signals === null) {
+    if (signals === null || signals === undefined) {
       container.innerHTML = renderEmpty(v, "Pas d'accès aux données (mode local file:// ?). Déployer sur Vercel ou servir via http(s) pour voir les signaux live.");
       document.getElementById(`badge-${v}`).textContent = "—";
       stats[v] = "—";
@@ -801,36 +988,43 @@ async function initHub() {
       continue;
     }
     // Tri par score desc, puis date_publication desc (ou date_capture fallback)
-    signals.sort((a, b) => {
-      if (b.score !== a.score) return b.score - a.score;
-      const dA = a.date_publication || a.date_capture || '';
-      const dB = b.date_publication || b.date_capture || '';
-      return dB.localeCompare(dA);
-    });
-    container.innerHTML = signals.map(renderSignal).join("");
-    document.getElementById(`badge-${v}`).textContent = signals.length;
-    stats[v] = signals.length;
-    allSignals.push(...signals);
+    signals.sort(bySortKey);
+    const active = signals.filter(s => !triStatus(s.id));
+    const hidden = signals.length - active.length;
+    hiddenTotal += hidden;
+    const shown = SHOW_TRIAGED ? signals : active;
+    container.innerHTML = triBar(hidden) + (shown.length > 0
+      ? shown.map(renderSignal).join("")
+      : renderEmpty(v, "Tous les signaux de ce volet ont été traités. \ud83d\udc4c"));
+    document.getElementById(`badge-${v}`).textContent = active.length;
+    stats[v] = active.length;
+    allActive.push(...active);
   }
 
-  allSignals.sort((a, b) => {
-    if (b.score !== a.score) return b.score - a.score;
-    const dA = a.date_publication || a.date_capture || '';
-    const dB = b.date_publication || b.date_capture || '';
-    return dB.localeCompare(dA);
-  });
-  const topAll = allSignals.slice(0, 20);
-  document.getElementById("signals-all").innerHTML = topAll.length > 0
+  allActive.sort(bySortKey);
+  const topAll = allActive.slice(0, 20);
+  document.getElementById("signals-all").innerHTML = triBar(hiddenTotal) + (topAll.length > 0
     ? topAll.map(renderSignal).join("")
-    : renderEmpty("all", "Aucun signal capturé pour l'instant. Lancer les scrapers ou attendre le cron daily 6h UTC.");
-  document.getElementById("badge-all").textContent = allSignals.length || 0;
+    : renderEmpty("all", "Aucun signal actif. Lancer les scrapers ou attendre le cron daily 6h UTC."));
+  document.getElementById("badge-all").textContent = allActive.length || 0;
 
   document.getElementById("stat-edu").textContent = stats.education;
   document.getElementById("stat-of").textContent = stats.of;
   document.getElementById("stat-rncp").textContent = stats.rncp;
   document.getElementById("stat-corpo").textContent = stats.corporate;
   document.getElementById("stat-ao").textContent = stats.ao;
-  document.getElementById("stat-total").textContent = allSignals.length;
+  document.getElementById("stat-total").textContent = allActive.length;
+  return allActive;
+}
+
+async function initHub() {
+  const [results] = await Promise.all([
+    Promise.all(VERTICALS.map(async v => [v, await loadSignals(v)])),
+    loadTriage(),
+  ]);
+  BY_VERTICAL = Object.fromEntries(results);
+  const byVertical = BY_VERTICAL;
+  const allSignals = renderAll();
 
   const fetchedSome = VERTICALS.some(v => byVertical[v] !== null);
   document.getElementById("data-status").textContent = fetchedSome

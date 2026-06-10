@@ -15,6 +15,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from scrapers.lib.schema import load_signals, merge_signals, save_signals, is_purchase_signal  # noqa: E402
+from scrapers.lib.triage import update_triage  # noqa: E402
 
 logger = logging.getLogger(__name__)
 
@@ -185,6 +186,10 @@ def main():
             logger.error("Scraper %s failed: %s", module_path, e, exc_info=True)
 
     logger.info("==== DONE — %d new signals captured across all scrapers ====", grand_total)
+
+    # Maintenance du triage (Traité/Ignoré posés depuis le hub) : last_seen + purge.
+    # data/triage.json n'est volontairement PAS reset en début de run.
+    update_triage(repo_root)
 
     # Écrire le metadata du run (timestamp UTC) pour affichage côté hub
     meta_path = repo_root / "data" / "_meta.json"

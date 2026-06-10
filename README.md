@@ -19,6 +19,23 @@ Voir le plan stratégique complet : `../plan-hub-veille-isograd.md` (hors repo, 
 Voir le cadrage ICP Corporate : `../cadrage-icp-corporate-segment-B.md`.
 Voir le référentiel sources : [`sources.md`](sources.md).
 
+## Triage des signaux (Traité / Ignoré)
+
+Chaque carte du hub a des boutons **✓ Traité** / **✕ Ignoré** (et **↩ Rétablir**).
+Les statuts sont stockés dans `data/triage.json`, committé dans le repo :
+
+- **Lecture** : le front merge `data/triage.json` (repo) + `localStorage` (latest-wins sur `at`).
+- **Écriture** : localStorage immédiat + push debounce 2,5 s vers le repo via l'API GitHub
+  (token fine-grained à coller via « ⚙ sync GitHub » dans le footer — permission
+  *Contents: Read & Write* sur ce repo uniquement, stocké en localStorage, jamais commité).
+- **Maintenance** : `run_all.py` ne reset jamais ce fichier ; il pose `last_seen` sur les
+  entrées dont le signal existe encore et purge celles disparues depuis plus de 14 jours.
+- « Rétablir » écrit un tombstone `status: "actif"` (un simple delete serait ressuscité
+  au merge multi-device).
+
+Les signaux triés sont masqués par défaut (compteurs = signaux actifs) ; un lien
+« Afficher les n signaux traités/ignorés » permet de les revoir.
+
 ---
 
 ## Structure du repo
