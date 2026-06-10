@@ -141,6 +141,9 @@ SCRAPERS = [
     ("scrapers.corporate.levees_rss", "corporate"),
     # Corporate — Sprint A2 — signaux marché RH (pivots concurrents + nominations) via myRHline + Parlons RH
     ("scrapers.corporate.signaux_marche_rh", "corporate"),
+    # Google News RSS — nominations DRH/CHRO + plans de recrutement (≥50 postes)
+    # + plans de formation IA. Les 3 signaux d'achat ITS les mieux scorés. v0.7
+    ("scrapers.corporate.google_news_rh", "corporate"),
     # OF — Phase 1 — levées EdTech (Maddyness + Sifted filtrés EdTech)
     ("scrapers.of.levees_edtech", "of"),
     # RNCP — nouvelles fiches RNCP/RS via data.gouv.fr (France Compétences)
