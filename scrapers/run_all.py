@@ -111,6 +111,8 @@ def run_scraper(module_path: str, vertical: str, repo_root: Path) -> int:
 SCRAPERS = [
     # Curated manuel — la pépite, signaux qualifiés à 100% (SKEMA, Polytechnique, etc.)
     ("scrapers.education.radar_hebdo_tosa", "education"),
+    # Presse sup multi-feeds RSS (Educpros, MGE, PGE, Business Cool) — v0.7
+    ("scrapers.education.presse_sup", "education"),
     # AO curated manuel — Charles ajoute lui-même les AO identifiés ailleurs
     # (centraledesmarches, LinkedIn, collègues...). data/curated/ao_curated.csv
     ("scrapers.ao.ao_curated", "ao"),
