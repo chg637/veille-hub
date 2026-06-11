@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-05-26-24ed01993375",
-    "date_capture": "2026-06-10",
+    "date_capture": "2026-06-11",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "CGE",
@@ -19,7 +19,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nL’article Les labellisations CGE de mai est apparu en premier sur Conférence des grandes écoles .\n\n🎯 **Action à mener**\nEmail au responsable maquette + pitch « Pack Edu Tosa = preuve mesurable compétences digitales pour le dossier accréditation ». Joindre 2 cas pairs. RDV sous 14j.\n\n💡 **Angle pitch ITS/Tosa**\nTosa = preuve opposable de la qualité d'évaluation des compétences (audit Qualiopi, France Compétences). Doublement du signal extérieur dans la promotion du programme labellisé.\n\n📅 **Timing**\n3 mois post-annonce — fenêtre de capitalisation médiatique encore active.",
-    "deadline_action": "2026-06-17",
+    "deadline_action": "2026-06-18",
     "status": "new",
     "date_publication": "2026-05-26",
     "email_draft": {
@@ -66,7 +66,7 @@
   },
   {
     "id": "sig-2026-05-22-b37046f5ab82",
-    "date_capture": "2026-06-10",
+    "date_capture": "2026-06-11",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "Séminaire",
@@ -84,7 +84,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nL’article Séminaire annuel de la commission Accréditation, Conformité et Labellisation est apparu en premier sur Conférence des grandes écoles .\n\n🎯 **Action à mener**\nEmail au responsable maquette + pitch « Pack Edu Tosa = preuve mesurable compétences digitales pour le dossier accréditation ». Joindre 2 cas pairs. RDV sous 14j.\n\n💡 **Angle pitch ITS/Tosa**\nTosa = preuve opposable de la qualité d'évaluation des compétences (audit Qualiopi, France Compétences). Doublement du signal extérieur dans la promotion du programme labellisé.\n\n📅 **Timing**\n3 mois post-annonce — fenêtre de capitalisation médiatique encore active.",
-    "deadline_action": "2026-06-17",
+    "deadline_action": "2026-06-18",
     "status": "new",
     "date_publication": "2026-05-22",
     "email_draft": {
@@ -131,7 +131,7 @@
   },
   {
     "id": "sig-2026-05-20-e5a7afa6d241",
-    "date_capture": "2026-06-10",
+    "date_capture": "2026-06-11",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "Lancement",
@@ -149,7 +149,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nL’article Lancement de la 5e édition du Prix Jean-François Fiorina est apparu en premier sur Conférence des grandes écoles .\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme Lancement. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-06-17",
+    "deadline_action": "2026-06-18",
     "status": "new",
     "date_publication": "2026-05-20",
     "email_draft": {
@@ -194,7 +194,7 @@
   },
   {
     "id": "sig-2026-01-19-4880fa2c26b5",
-    "date_capture": "2026-06-10",
+    "date_capture": "2026-06-11",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "SKEMA Business School",
@@ -257,7 +257,7 @@
   },
   {
     "id": "sig-2026-02-01-5c1d41c5837e",
-    "date_capture": "2026-06-10",
+    "date_capture": "2026-06-11",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "Ecole polytechnique",
@@ -320,7 +320,7 @@
   },
   {
     "id": "sig-2026-02-01-db338c98dff8",
-    "date_capture": "2026-06-10",
+    "date_capture": "2026-06-11",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "aivancity",
@@ -382,71 +382,8 @@
     ]
   },
   {
-    "id": "sig-2026-06-09-022c82654b15",
-    "date_capture": "2026-06-10",
-    "vertical": "education",
-    "sous_segment": "grande-ecole",
-    "compte": "Rennes School of Business",
-    "titre": "Rennes School of Business lance « The Gen E », son nouvel incubateur dédié à l’entrepreneuriat",
-    "description": "Rennes School of Business lance The Gen E, son nouvel incubateur dédié à l’entrepreneuriat, pour accompagner les porteurs de projets. L’article Rennes School of Business lance « The Gen E », son nouvel incubateur dédié à l’entrepreneuriat est apparu en premier sur Planète Grandes Écoles .",
-    "source": "Planète Grandes Écoles",
-    "source_tier": 2,
-    "url": "https://www.planetegrandesecoles.com/rennes-school-of-business-lancement-the-gen-e-incubateur-entrepreneuriat",
-    "signal_type": "nouvelle_formation",
-    "tier": 1,
-    "score": 80,
-    "produit_match": [
-      "Pack Education Tosa",
-      "Cert IA"
-    ],
-    "owner": null,
-    "action_reco": "📋 **Signal détecté**\nRennes School of Business lance The Gen E, son nouvel incubateur dédié à l’entrepreneuriat, pour accompagner les porteurs de projets. L’article Rennes School of Business lance « The Gen E », son…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme Rennes School of Business. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-06-17",
-    "status": "new",
-    "date_publication": "2026-06-09",
-    "email_draft": {
-      "subject": "Rennes School of Business — Rennes School of Business lance The : quelle évaluation prévue ?",
-      "body": "Bonjour,\n\nJ'ai vu votre actualité : « Rennes School of Business lance The Gen E, son nouvel incubateur dédié à l’entrepreneuriat, pour accompagner les… ». Beau lancement.\n\nSur ce type de nouveau programme, le timing pour penser le dispositif d'évaluation des compétences est en général la période juste avant la première cohorte — ça permet de cadrer proprement la maquette pédagogique et les outils.\n\nChez Isograd, on opère 2 solutions complémentaires pour un programme comme le vôtre :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital). Argument concret en diplômation, sur le CV et auprès des entreprises partenaires.\n\n2. **ITS** pour héberger les sessions d'examen en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\nDéploiement en 4-6 semaines, budget calibré sur le volume étudiants. 15 minutes pour échanger sur votre cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://www.planetegrandesecoles.com/rennes-school-of-business-lancement-the-gen-e-incubateur-entrepreneuriat"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Responsable du programme / Directeur(rice) de la formation",
-        "alternatives": [
-          "Coordinateur(rice) pédagogique",
-          "Responsable de filière"
-        ],
-        "priorite": 1,
-        "raison": "Définit le dispositif d'évaluation du nouveau programme",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+du+programme+%2F+Directeur%28rice%29+de+la+formation%22+OR+%22Coordinateur%28rice%29+p%C3%A9dagogique%22+OR+%22Responsable+de+fili%C3%A8re%22&currentCompany=Rennes+School+of+Business",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Rennes%20School%20of%20Business%22%20Responsable%20du%20programme%20/%20Directeur%28rice%29%20de%20la%20formation%20Coordinateur%28rice%29%20p%C3%A9dagogique%20Responsable%20de%20fili%C3%A8re"
-      },
-      {
-        "poste": "Doyen / Directeur(rice) académique",
-        "alternatives": [
-          "VP Pédagogie",
-          "Directeur(rice) des études"
-        ],
-        "priorite": 2,
-        "raison": "Arbitrage sur l'outillage évaluation à l'échelle de l'établissement",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Doyen+%2F+Directeur%28rice%29+acad%C3%A9mique%22+OR+%22VP+P%C3%A9dagogie%22+OR+%22Directeur%28rice%29+des+%C3%A9tudes%22&currentCompany=Rennes+School+of+Business",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Rennes%20School%20of%20Business%22%20Doyen%20/%20Directeur%28rice%29%20acad%C3%A9mique%20VP%20P%C3%A9dagogie%20Directeur%28rice%29%20des%20%C3%A9tudes"
-      },
-      {
-        "poste": "Responsable RNCP / Certifications",
-        "alternatives": [
-          "Référent qualité",
-          "Responsable Qualiopi"
-        ],
-        "priorite": 3,
-        "raison": "Cadrage Qualiopi / preuve d'évaluation pour la certification",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+Certifications%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22+OR+%22Responsable+Qualiopi%22&currentCompany=Rennes+School+of+Business",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Rennes%20School%20of%20Business%22%20Responsable%20RNCP%20/%20Certifications%20R%C3%A9f%C3%A9rent%20qualit%C3%A9%20Responsable%20Qualiopi"
-      }
-    ]
-  },
-  {
     "id": "sig-2026-06-05-558feb2f0ad5",
-    "date_capture": "2026-06-10",
+    "date_capture": "2026-06-11",
     "vertical": "education",
     "sous_segment": "programme-ia",
     "compte": "Audencia",
@@ -464,7 +401,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nCe 4 juin, Audencia a développé, depuis son nouveau campus de Saint-Ouen, une série d’annonces sur le futur de l&#8217;école et, en particulier, de son Programme Grande École. Dans le cadre de son…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme Audencia. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-06-17",
+    "deadline_action": "2026-06-18",
     "status": "new",
     "date_publication": "2026-06-05",
     "email_draft": {
@@ -509,7 +446,7 @@
   },
   {
     "id": "sig-2026-05-01-beb7d25e358c",
-    "date_capture": "2026-06-10",
+    "date_capture": "2026-06-11",
     "vertical": "education",
     "sous_segment": "Prospect froid — supérieur",
     "compte": "Paris School of Business",
@@ -572,7 +509,7 @@
   },
   {
     "id": "sig-2026-02-01-adeae517fcb1",
-    "date_capture": "2026-06-10",
+    "date_capture": "2026-06-11",
     "vertical": "education",
     "sous_segment": "Cert IA — pilote",
     "compte": "emlyon business school",
@@ -643,7 +580,7 @@
   },
   {
     "id": "sig-2026-01-19-38e40e73ddda",
-    "date_capture": "2026-06-10",
+    "date_capture": "2026-06-11",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "SKEMA Business School",
@@ -706,7 +643,7 @@
   },
   {
     "id": "sig-2026-02-01-70225dc15056",
-    "date_capture": "2026-06-10",
+    "date_capture": "2026-06-11",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "PSL Universite",
@@ -769,7 +706,7 @@
   },
   {
     "id": "sig-2026-02-01-c11ce4f990fe",
-    "date_capture": "2026-06-10",
+    "date_capture": "2026-06-11",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "IONIS Education Group",
@@ -840,7 +777,7 @@
   },
   {
     "id": "sig-2026-05-01-93e815b0ca37",
-    "date_capture": "2026-06-10",
+    "date_capture": "2026-06-11",
     "vertical": "education",
     "sous_segment": "Relance compte tiède",
     "compte": "IAE Aix-Marseille",
@@ -910,7 +847,7 @@
   },
   {
     "id": "sig-2026-02-01-a0908b02289e",
-    "date_capture": "2026-06-10",
+    "date_capture": "2026-06-11",
     "vertical": "education",
     "sous_segment": "Cert IA — pilote",
     "compte": "emlyon business school",
@@ -981,7 +918,7 @@
   },
   {
     "id": "sig-2026-03-12-84376f5a3a00",
-    "date_capture": "2026-06-10",
+    "date_capture": "2026-06-11",
     "vertical": "education",
     "sous_segment": "Prospect froid — supérieur",
     "compte": "Universite Virtuelle de Cote d'Ivoire (UVCI)",
@@ -1044,7 +981,7 @@
   },
   {
     "id": "sig-stable-4cc03b95f797",
-    "date_capture": "2026-06-10",
+    "date_capture": "2026-06-11",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "Universite de Technologie de Troyes (UTT)",
@@ -1064,7 +1001,7 @@
     "action_reco": "📋 **Signal détecté**\nBachelor IA - cursus 3 ans\n\n🎯 **Action à mener**\nA croiser site UTT + LinkedIn avant contact\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-06-10",
+    "date_publication": "2026-06-11",
     "email_draft": {
       "subject": "Universite de Technologie de Troyes (UTT) — Bachelor IA - cursus 3 ans : quelle évaluation prévue ?",
       "body": "Bonjour,\n\nJ'ai vu votre actualité : « Bachelor IA - cursus 3 ans ». Beau lancement.\n\nSur ce type de nouveau programme, le timing pour penser le dispositif d'évaluation des compétences est en général la période juste avant la première cohorte — ça permet de cadrer proprement la maquette pédagogique et les outils.\n\nChez Isograd, on opère 2 solutions complémentaires pour un programme comme le vôtre :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital). Argument concret en diplômation, sur le CV et auprès des entreprises partenaires.\n\n2. **ITS** pour héberger les sessions d'examen en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\n3. **Cert IA** — notre badge co-construit avec des écoles partenaires pour les programmes IA. Concrètement, vos étudiants ressortent du programme avec une certification externe sur les compétences IA appliquées. On a une program beta en cours, vous pourriez en faire partie.\n\nDéploiement en 4-6 semaines, budget calibré sur le volume étudiants. 15 minutes pour échanger sur votre cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://www.letudiant.fr/etudes/lactu-des-formations-de-nouveaux-cursus-en-ia-dans-le-superieur.html"
