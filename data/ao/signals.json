@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-05-19-c8342a26e939",
-    "date_capture": "2026-06-12",
+    "date_capture": "2026-06-13",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "Université Paris-Saclay",
@@ -53,7 +53,7 @@
   },
   {
     "id": "sig-2026-05-11-64ab3dd75a34",
-    "date_capture": "2026-06-12",
+    "date_capture": "2026-06-13",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "NEOMA Business School (Reims)",
@@ -105,7 +105,7 @@
   },
   {
     "id": "sig-2026-06-04-4e2b2aabed28",
-    "date_capture": "2026-06-12",
+    "date_capture": "2026-06-13",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "NANTES UNIVERSITE",
@@ -156,112 +156,8 @@
     ]
   },
   {
-    "id": "sig-2026-05-29-c3df58aca57f",
-    "date_capture": "2026-06-12",
-    "vertical": "ao",
-    "sous_segment": "Marché public Collectivité",
-    "compte": "ville de Pérols",
-    "titre": "FOURNITURE ET MAINTENANCE DE PROGICIELS DE GESTION FINANCIÈRE ET DE RESSOURCES HUMAINES ET D’ÉVALUATION PROFESSIONNELLE",
-    "description": "FOURNITURE ET MAINTENANCE DE PROGICIELS DE GESTION FINANCIÈRE ET DE RESSOURCES HUMAINES ET D’ÉVALUATION PROFESSIONNELLE. Descripteurs : Formation, Logiciel.",
-    "source": "BOAMP (API directe)",
-    "source_tier": 1,
-    "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-53131",
-    "signal_type": "ao_publie",
-    "tier": 2,
-    "score": 70,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Récupérer le DCE complet** sur https://www.boamp.fr/pages/avis/?q=idweb:26-53131\n🎯 **Décideur cible** : DRH + Direction Numérique + RAQ Qualiopi (rechercher CNFPT territorial si volet formation)\n💡 **Angle de valeur** : ITS : plateforme d'hébergement d'examens (tests recrutement, contrôles, certifications internes) avec correction auto et reporting\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS : prestataires SIRH territoriaux, plateformes internes maison, Sphinx, EvalandGo\n⏰ Deadline : 2026-06-19 → calculer J-jours et caler les ressources dès maintenant.",
-    "deadline_action": "2026-06-19",
-    "status": "new",
-    "date_publication": "2026-05-29",
-    "email_draft": {
-      "subject": "AO ville de Pérols — ISOGRAD souhaite candidater",
-      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"FOURNITURE ET MAINTENANCE DE PROGICIELS DE GESTION FINANCIÈRE ET DE RESSOURCES HUMAINES ET D’ÉVALUATION PROFESSIONNELLE\"\nDeadline : 2026-06-19\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://www.boamp.fr/pages/avis/?q=idweb:26-53131"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Acheteur public référencé sur l'AO",
-        "alternatives": [
-          "RAQ",
-          "Responsable des achats"
-        ],
-        "priorite": 1,
-        "raison": "Référent direct de la consultation",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=ville+de+P%C3%A9rols",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ville%20de%20P%C3%A9rols%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
-      },
-      {
-        "poste": "Décideur métier (variable selon segment)",
-        "alternatives": [
-          "Direction des examens (ESR)",
-          "Direction des soins (FPH)",
-          "DRH (Collectivité)"
-        ],
-        "priorite": 2,
-        "raison": "Sponsorise le besoin métier en amont",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=ville+de+P%C3%A9rols",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ville%20de%20P%C3%A9rols%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
-      }
-    ]
-  },
-  {
-    "id": "sig-2026-04-13-4d088b8ab475",
-    "date_capture": "2026-06-12",
-    "vertical": "ao",
-    "sous_segment": "Marché public FPH (Hôpitaux / CHU / AP-HP)",
-    "compte": "CHU ROUEN NORMANDIE",
-    "titre": "Référencement d’un organisme certificateur agréé COFRAC en vue d’une prestation d’audits de certification sur les référentiels ISO 9001 v2015 et ISO 50001 v2018 pour le CHU de Rouen et le CH du Rouvra",
-    "description": "Référencement d’un organisme certificateur agréé COFRAC en vue d’une prestation d’audits de certification sur les référentiels ISO 9001 v2015 et ISO 50001 v2018 pour le CHU de Rouen et le CH du Rouvray",
-    "source": "TED (Tenders Electronic Daily UE)",
-    "source_tier": 1,
-    "url": "https://ted.europa.eu/fr/notice/-/detail/250818-2026",
-    "signal_type": "ao_publie",
-    "tier": 2,
-    "score": 67,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Récupérer le DCE complet** sur https://ted.europa.eu/fr/notice/-/detail/250818-2026\n🎯 **Décideur cible** : Direction des soins + ANFH territorial + Resp. Qualité (DPC concerné)\n💡 **Angle de valeur** : ITS comme plateforme de passation de la certification : banque de questions, proctoring, attestations opposables en audit\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS : ANFH plateforme interne, plateformes hospitalières maison, Sphinx, EvalandGo",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-04-13",
-    "email_draft": {
-      "subject": "AO CHU ROUEN NORMANDIE — ISOGRAD souhaite candidater",
-      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"Référencement d’un organisme certificateur agréé COFRAC en vue d’une prestation d’audits de certification sur les référentiels ISO 9001 v2015 et ISO 50001 v2018 pour le CHU de Rouen et le CH du Rouvray\"\nDeadline : à définir\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://ted.europa.eu/fr/notice/-/detail/250818-2026"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Acheteur public référencé sur l'AO",
-        "alternatives": [
-          "RAQ",
-          "Responsable des achats"
-        ],
-        "priorite": 1,
-        "raison": "Référent direct de la consultation",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=CHU+ROUEN+NORMANDIE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22CHU%20ROUEN%20NORMANDIE%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
-      },
-      {
-        "poste": "Décideur métier (variable selon segment)",
-        "alternatives": [
-          "Direction des examens (ESR)",
-          "Direction des soins (FPH)",
-          "DRH (Collectivité)"
-        ],
-        "priorite": 2,
-        "raison": "Sponsorise le besoin métier en amont",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=CHU+ROUEN+NORMANDIE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22CHU%20ROUEN%20NORMANDIE%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
-      }
-    ]
-  },
-  {
     "id": "sig-2026-04-15-cbdb4ba82e4a",
-    "date_capture": "2026-06-12",
+    "date_capture": "2026-06-13",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "RATP",
@@ -313,7 +209,7 @@
   },
   {
     "id": "sig-2026-06-05-b64e450d489b",
-    "date_capture": "2026-06-12",
+    "date_capture": "2026-06-13",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "Université d'Angers",
@@ -365,7 +261,7 @@
   },
   {
     "id": "sig-2026-04-15-a94c08f57424",
-    "date_capture": "2026-06-12",
+    "date_capture": "2026-06-13",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "PFC Brest",
@@ -417,7 +313,7 @@
   },
   {
     "id": "sig-2026-04-30-d7b4d5c0e88a",
-    "date_capture": "2026-06-12",
+    "date_capture": "2026-06-13",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "UNIVERSITE DE MONTPELLIER",
@@ -469,7 +365,7 @@
   },
   {
     "id": "sig-2026-05-06-505abc61cd51",
-    "date_capture": "2026-06-12",
+    "date_capture": "2026-06-13",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "RATP",
@@ -521,7 +417,7 @@
   },
   {
     "id": "sig-2026-05-11-23180b720f56",
-    "date_capture": "2026-06-12",
+    "date_capture": "2026-06-13",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "CNRS Délégation Provence et Corse",
@@ -573,7 +469,7 @@
   },
   {
     "id": "sig-2026-05-20-55af9a3fdc51",
-    "date_capture": "2026-06-12",
+    "date_capture": "2026-06-13",
     "vertical": "ao",
     "sous_segment": "Marché public Collectivité",
     "compte": "Département de la Dordogne",
@@ -625,7 +521,7 @@
   },
   {
     "id": "sig-2026-05-20-010029546232",
-    "date_capture": "2026-06-12",
+    "date_capture": "2026-06-13",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "ES Energies Strasbourg",
@@ -677,7 +573,7 @@
   },
   {
     "id": "sig-2026-05-27-18d8d9557828",
-    "date_capture": "2026-06-12",
+    "date_capture": "2026-06-13",
     "vertical": "ao",
     "sous_segment": "Marché public Collectivité",
     "compte": "Tours métropole Val de Loire",
@@ -729,7 +625,7 @@
   },
   {
     "id": "sig-2026-06-04-64779269005b",
-    "date_capture": "2026-06-12",
+    "date_capture": "2026-06-13",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "CDC Informatique",
@@ -781,7 +677,7 @@
   },
   {
     "id": "sig-2026-06-05-04befdd44df4",
-    "date_capture": "2026-06-12",
+    "date_capture": "2026-06-13",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "ENSAM",
@@ -833,7 +729,7 @@
   },
   {
     "id": "sig-2026-06-11-c20a36583e84",
-    "date_capture": "2026-06-12",
+    "date_capture": "2026-06-13",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Rectorat d'Aix Marseille",
@@ -884,8 +780,60 @@
     ]
   },
   {
+    "id": "sig-2026-05-29-c3df58aca57f",
+    "date_capture": "2026-06-13",
+    "vertical": "ao",
+    "sous_segment": "Marché public Collectivité",
+    "compte": "ville de Pérols",
+    "titre": "FOURNITURE ET MAINTENANCE DE PROGICIELS DE GESTION FINANCIÈRE ET DE RESSOURCES HUMAINES ET D’ÉVALUATION PROFESSIONNELLE",
+    "description": "FOURNITURE ET MAINTENANCE DE PROGICIELS DE GESTION FINANCIÈRE ET DE RESSOURCES HUMAINES ET D’ÉVALUATION PROFESSIONNELLE. Descripteurs : Formation, Logiciel.",
+    "source": "BOAMP (API directe)",
+    "source_tier": 1,
+    "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-53131",
+    "signal_type": "ao_publie",
+    "tier": 3,
+    "score": 55,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Récupérer le DCE complet** sur https://www.boamp.fr/pages/avis/?q=idweb:26-53131\n🎯 **Décideur cible** : DRH + Direction Numérique + RAQ Qualiopi (rechercher CNFPT territorial si volet formation)\n💡 **Angle de valeur** : ITS : plateforme d'hébergement d'examens (tests recrutement, contrôles, certifications internes) avec correction auto et reporting\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS : prestataires SIRH territoriaux, plateformes internes maison, Sphinx, EvalandGo\n⏰ Deadline : 2026-06-19 → calculer J-jours et caler les ressources dès maintenant.",
+    "deadline_action": "2026-06-19",
+    "status": "new",
+    "date_publication": "2026-05-29",
+    "email_draft": {
+      "subject": "AO ville de Pérols — ISOGRAD souhaite candidater",
+      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"FOURNITURE ET MAINTENANCE DE PROGICIELS DE GESTION FINANCIÈRE ET DE RESSOURCES HUMAINES ET D’ÉVALUATION PROFESSIONNELLE\"\nDeadline : 2026-06-19\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://www.boamp.fr/pages/avis/?q=idweb:26-53131"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Acheteur public référencé sur l'AO",
+        "alternatives": [
+          "RAQ",
+          "Responsable des achats"
+        ],
+        "priorite": 1,
+        "raison": "Référent direct de la consultation",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=ville+de+P%C3%A9rols",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ville%20de%20P%C3%A9rols%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
+      },
+      {
+        "poste": "Décideur métier (variable selon segment)",
+        "alternatives": [
+          "Direction des examens (ESR)",
+          "Direction des soins (FPH)",
+          "DRH (Collectivité)"
+        ],
+        "priorite": 2,
+        "raison": "Sponsorise le besoin métier en amont",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=ville+de+P%C3%A9rols",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ville%20de%20P%C3%A9rols%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-04-17-57408fa7ffb2",
-    "date_capture": "2026-06-12",
+    "date_capture": "2026-06-13",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Rectorat de Corse",
