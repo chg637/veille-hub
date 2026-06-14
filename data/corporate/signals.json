@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-06-03-654dd923bdbd",
-    "date_capture": "2026-06-13",
+    "date_capture": "2026-06-14",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Akkodis",
@@ -29,8 +29,37 @@
     "contacts_cibles": []
   },
   {
+    "id": "sig-2026-06-13-2828934fc2ce",
+    "date_capture": "2026-06-14",
+    "vertical": "corporate",
+    "sous_segment": "entreprise",
+    "compte": "province de Quang Ngai",
+    "titre": "La province de Quang Ngai prévoit de recruter 1 092 étudiants pour une formation d'enseignants en 2027.",
+    "description": "La province de Quang Ngai prévoit de recruter 1 092 étudiants pour une formation d'enseignants en 2027. Vietnam.vn",
+    "source": "Vietnam.vn (via Google News)",
+    "source_tier": 2,
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMVpXUk9Ob3JMOXY4bXNaeHZRd3l0aWFJWEpLTWI5dEtpNmhMOFRnQ1RoN0p5N0hmOHJJQVd6X29mSl95OWVPRmxlbk5BWWZaM2hwYmtBbTVwZ2lrV3NmcXVmTm1GbXl0NjdXbk9kaGUxb3kxSU9fOW9UVnNEY2NfcjNlbEx5NmJVX2FpQ2ZjVTBXYk12NElTd3VHMkV6dw?oc=5",
+    "signal_type": "plan_recrutement",
+    "tier": 1,
+    "score": 93,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": null,
+    "action_reco": "province de Quang Ngai : ~1092 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-06-13",
+    "email_draft": {
+      "subject": "province de Quang Ngai — fiabiliser la pré-qualification de vos recrutements",
+      "body": "Bonjour,\n\nJ'ai lu que province de Quang Ngai prépare une campagne de recrutement importante (La province de Quang Ngai prévoit de recruter 1 092 étudiants pour une formation d'enseign…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
+      "url_source": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMVpXUk9Ob3JMOXY4bXNaeHZRd3l0aWFJWEpLTWI5dEtpNmhMOFRnQ1RoN0p5N0hmOHJJQVd6X29mSl95OWVPRmxlbk5BWWZaM2hwYmtBbTVwZ2lrV3NmcXVmTm1GbXl0NjdXbk9kaGUxb3kxSU9fOW9UVnNEY2NfcjNlbEx5NmJVX2FpQ2ZjVTBXYk12NElTd3VHMkV6dw?oc=5"
+    },
+    "contacts_cibles": []
+  },
+  {
     "id": "sig-2026-06-09-7c18bec04a62",
-    "date_capture": "2026-06-13",
+    "date_capture": "2026-06-14",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Mango",
@@ -59,7 +88,7 @@
   },
   {
     "id": "sig-2026-06-09-9f67e2bf534f",
-    "date_capture": "2026-06-13",
+    "date_capture": "2026-06-14",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Kerria AM",
@@ -97,7 +126,7 @@
   },
   {
     "id": "sig-2026-06-04-2c1bc59be3ed",
-    "date_capture": "2026-06-13",
+    "date_capture": "2026-06-14",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Edenred",
@@ -127,7 +156,7 @@
   },
   {
     "id": "sig-2026-06-11-a07afca3cf81",
-    "date_capture": "2026-06-13",
+    "date_capture": "2026-06-14",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Samsung",
