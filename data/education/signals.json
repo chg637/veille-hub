@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-05-26-24ed01993375",
-    "date_capture": "2026-06-15",
+    "date_capture": "2026-06-16",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "CGE",
@@ -19,7 +19,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nL’article Les labellisations CGE de mai est apparu en premier sur Conférence des grandes écoles .\n\n🎯 **Action à mener**\nEmail au responsable maquette + pitch « Pack Edu Tosa = preuve mesurable compétences digitales pour le dossier accréditation ». Joindre 2 cas pairs. RDV sous 14j.\n\n💡 **Angle pitch ITS/Tosa**\nTosa = preuve opposable de la qualité d'évaluation des compétences (audit Qualiopi, France Compétences). Doublement du signal extérieur dans la promotion du programme labellisé.\n\n📅 **Timing**\n3 mois post-annonce — fenêtre de capitalisation médiatique encore active.",
-    "deadline_action": "2026-06-22",
+    "deadline_action": "2026-06-23",
     "status": "new",
     "date_publication": "2026-05-26",
     "email_draft": {
@@ -65,136 +65,132 @@
     ]
   },
   {
-    "id": "sig-2026-05-22-b37046f5ab82",
-    "date_capture": "2026-06-15",
+    "id": "sig-2026-06-15-33cff839e248",
+    "date_capture": "2026-06-16",
     "vertical": "education",
     "sous_segment": "grande-ecole",
-    "compte": "Séminaire",
-    "titre": "Séminaire annuel de la commission Accréditation, Conformité et Labellisation",
-    "description": "L’article Séminaire annuel de la commission Accréditation, Conformité et Labellisation est apparu en premier sur Conférence des grandes écoles .",
-    "source": "CGE",
+    "compte": "Darbon",
+    "titre": "D. Darbon (Sciences po Bordeaux) : \"Parcoursup nous a permis d’élargir notre recrutement en maintenant notre excellence\"",
+    "description": "Alors que son mandat à la tête de Sciences po Bordeaux touche à sa fin, Dominique Darbon dresse un bilan de ses cinq années. Il revient notamment sur l’intégration de l’IEP sur Parcoursup et le dispositif d’égalité des chances de l’institut et les différentes évolutions apportées aux formations de l’IEP ces dernières années.",
+    "source": "Educpros (L'Étudiant)",
     "source_tier": 1,
-    "url": "https://www.cge.asso.fr/liste-actualites/commission-accreditation-conformite-labellisation-seminaire-annuel/",
-    "signal_type": "accreditation",
+    "url": "https://www.letudiant.fr/educpros/entretiens/d-dardon-iep-bordeaux-parcoursup-nous-a-permis-d-elargir-notre-recrutement-en-maintenant-notre-excellence.html",
+    "signal_type": "nomination_dg",
     "tier": 1,
-    "score": 95,
+    "score": 90,
     "produit_match": [
-      "Pack Education Tosa",
-      "ITS"
+      "Pack Education Tosa"
     ],
     "owner": null,
-    "action_reco": "📋 **Signal détecté**\nL’article Séminaire annuel de la commission Accréditation, Conformité et Labellisation est apparu en premier sur Conférence des grandes écoles .\n\n🎯 **Action à mener**\nEmail au responsable maquette + pitch « Pack Edu Tosa = preuve mesurable compétences digitales pour le dossier accréditation ». Joindre 2 cas pairs. RDV sous 14j.\n\n💡 **Angle pitch ITS/Tosa**\nTosa = preuve opposable de la qualité d'évaluation des compétences (audit Qualiopi, France Compétences). Doublement du signal extérieur dans la promotion du programme labellisé.\n\n📅 **Timing**\n3 mois post-annonce — fenêtre de capitalisation médiatique encore active.",
-    "deadline_action": "2026-06-22",
+    "action_reco": "📋 **Signal détecté**\nAlors que son mandat à la tête de Sciences po Bordeaux touche à sa fin, Dominique Darbon dresse un bilan de ses cinq années. Il revient notamment sur l’intégration de l’IEP sur Parcoursup et le…\n\n🎯 **Action à mener**\nNote LinkedIn 100 premiers jours du nouveau DG. Angle « bilan rapide du dispositif certification ». Brief équipe sur les comptes Tosa déjà présents chez Darbon.\n\n💡 **Angle pitch ITS/Tosa**\nFenêtre stratégique post-prise de poste : nouveau directeur cherche à poser sa marque. Apport rapide = Tosa pour signal externe + ITS pour structurer la passation.\n\n📅 **Timing**\n30-90 jours après l'annonce. Au-delà, la roadmap est figée.",
+    "deadline_action": "2026-06-23",
     "status": "new",
-    "date_publication": "2026-05-22",
+    "date_publication": "2026-06-15",
     "email_draft": {
-      "subject": "Séminaire — L’article Séminaire annuel de la, capitaliser avec Tosa ?",
-      "body": "Bonjour,\n\nJ'ai noté votre actualité : « L’article Séminaire annuel de la commission Accréditation, Conformité et Labellisation est apparu en premier sur… ».\nBravo, c'est une étape importante.\n\nOn accompagne pas mal d'écoles dans votre cas chez Isograd. Le point qui revient à 3 mois post-labellisation, c'est comment capitaliser concrètement sur cette reconnaissance — au-delà du communiqué.\n\nDeux leviers qu'on déploie chez nos clients labellisés :\n\n1. **Tosa comme preuve opposable** sur la qualité d'évaluation des compétences numériques de vos étudiants (bureautique, code, digital). Très bien vu en audit Qualiopi et dans les dossiers France Compétences.\n\n2. **Doublement du signal extérieur** : Tosa comme argument concret pour les candidats, les recruteurs et les classements qui pèsent sur le programme labellisé.\n\n15 minutes pour vous montrer ce que ça donnerait chez Séminaire ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://www.cge.asso.fr/liste-actualites/commission-accreditation-conformite-labellisation-seminaire-annuel/"
+      "subject": "Darbon — nouvelle direction : quels chantiers évaluation prévus ?",
+      "body": "Bonjour,\n\nJ'ai noté votre arrivée à la direction chez Darbon.\nContexte que j'ai vu passer : « Alors que son mandat à la tête de Sciences po Bordeaux touche à sa fin, Dominique Darbon dresse un bilan de ses cinq années. Il… ».\n\nFélicitations pour cette prise de poste — belle étape.\n\nJe me permets de vous écrire car beaucoup de directeurs récemment nommés dans le supérieur partagent le même constat à 60-90 jours : besoin de poser rapidement une stratégie claire sur l'évaluation des compétences étudiants — pour répondre aux exigences Qualiopi/RNCP et aux attentes des entreprises partenaires.\n\nChez Isograd, deux solutions utilisées par des écoles comparables :\n\n1. **Tosa** — certification des compétences numériques étudiants (bureautique, code, digital). Argument fort en diplômation, CV, et classements.\n\n2. **ITS** — plateforme d'hébergement d'examens en ligne avec proctoring et banque de questions, opposable en audit.\n\n15 minutes pour vous montrer ce que d'autres directions ont mis en place dans leurs premiers mois ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource de l'info : https://www.letudiant.fr/educpros/entretiens/d-dardon-iep-bordeaux-parcoursup-nous-a-permis-d-elargir-notre-recrutement-en-maintenant-notre-excellence.html"
     },
     "contacts_cibles": [
       {
-        "poste": "Directeur(rice) des certifications",
+        "poste": "Le(la) nouveau(elle) directeur(rice) directement",
         "alternatives": [
-          "Responsable Qualiopi",
-          "Responsable des certifications"
+          "Directeur(rice) général(e)",
+          "Présidence"
         ],
         "priorite": 1,
-        "raison": "Pilote la conformité audit et la valorisation du label",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+des+certifications%22+OR+%22Responsable+Qualiopi%22+OR+%22Responsable+des+certifications%22&currentCompany=S%C3%A9minaire",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22S%C3%A9minaire%22%20Directeur%28rice%29%20des%20certifications%20Responsable%20Qualiopi%20Responsable%20des%20certifications"
+        "raison": "Fenêtre 30-90j post-prise de poste — ouvert aux nouveaux chantiers",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Le%28la%29+nouveau%28elle%29+directeur%28rice%29+directement%22+OR+%22Directeur%28rice%29+g%C3%A9n%C3%A9ral%28e%29%22+OR+%22Pr%C3%A9sidence%22&currentCompany=Darbon",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Darbon%22%20Le%28la%29%20nouveau%28elle%29%20directeur%28rice%29%20directement%20Directeur%28rice%29%20g%C3%A9n%C3%A9ral%28e%29%20Pr%C3%A9sidence"
+      },
+      {
+        "poste": "Directeur(rice) de cabinet / Adjoint(e)",
+        "alternatives": [
+          "Bras droit",
+          "Chief of Staff"
+        ],
+        "priorite": 2,
+        "raison": "Pré-qualifie les dossiers stratégiques du nouveau directeur",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+de+cabinet+%2F+Adjoint%28e%29%22+OR+%22Bras+droit%22+OR+%22Chief+of+Staff%22&currentCompany=Darbon",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Darbon%22%20Directeur%28rice%29%20de%20cabinet%20/%20Adjoint%28e%29%20Bras%20droit%20Chief%20of%20Staff"
       },
       {
         "poste": "Directeur(rice) des programmes / Académique",
         "alternatives": [
           "Doyen",
-          "Doyenne",
-          "VP Pédagogie",
-          "Directeur(rice) pédagogique"
-        ],
-        "priorite": 2,
-        "raison": "Sponsorise les outils d'évaluation des étudiants",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+des+programmes+%2F+Acad%C3%A9mique%22+OR+%22Doyen%22+OR+%22Doyenne%22+OR+%22VP+P%C3%A9dagogie%22+OR+%22Directeur%28rice%29+p%C3%A9dagogique%22&currentCompany=S%C3%A9minaire",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22S%C3%A9minaire%22%20Directeur%28rice%29%20des%20programmes%20/%20Acad%C3%A9mique%20Doyen%20Doyenne%20VP%20P%C3%A9dagogie%20Directeur%28rice%29%20p%C3%A9dagogique"
-      },
-      {
-        "poste": "Directeur(rice) Communication / Marketing",
-        "alternatives": [
-          "Responsable Communication",
-          "Responsable Marketing"
+          "VP Pédagogie"
         ],
         "priorite": 3,
-        "raison": "Valorise le label dans la promotion (Tosa = preuve compétences)",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+Communication+%2F+Marketing%22+OR+%22Responsable+Communication%22+OR+%22Responsable+Marketing%22&currentCompany=S%C3%A9minaire",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22S%C3%A9minaire%22%20Directeur%28rice%29%20Communication%20/%20Marketing%20Responsable%20Communication%20Responsable%20Marketing"
+        "raison": "Souvent en pleine relecture de la roadmap pédagogique post-nomination",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+des+programmes+%2F+Acad%C3%A9mique%22+OR+%22Doyen%22+OR+%22VP+P%C3%A9dagogie%22&currentCompany=Darbon",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Darbon%22%20Directeur%28rice%29%20des%20programmes%20/%20Acad%C3%A9mique%20Doyen%20VP%20P%C3%A9dagogie"
       }
     ]
   },
   {
-    "id": "sig-2026-05-20-e5a7afa6d241",
-    "date_capture": "2026-06-15",
+    "id": "sig-2026-06-16-da39c9b0dad3",
+    "date_capture": "2026-06-16",
     "vertical": "education",
     "sous_segment": "grande-ecole",
-    "compte": "Lancement",
-    "titre": "Lancement de la 5e édition du Prix Jean-François Fiorina",
-    "description": "L’article Lancement de la 5e édition du Prix Jean-François Fiorina est apparu en premier sur Conférence des grandes écoles .",
-    "source": "CGE",
-    "source_tier": 1,
-    "url": "https://www.cge.asso.fr/lancement-5e-edition-prix-jean-francois-fiorina/",
-    "signal_type": "nouvelle_formation",
+    "compte": "Thibault Cheviron",
+    "titre": "Nuclétudes : l’exigence au service de la souveraineté – L’interview de Thibault Cheviron",
+    "description": "À la tête de Nuclétudes, Thibault Cheviron travaille sur la robustesse des systèmes critiques face aux environnements extrêmes. L’article Nuclétudes : l’exigence au service de la souveraineté – L’interview de Thibault Cheviron est apparu en premier sur Monde des grandes écoles et universités .",
+    "source": "Monde des Grandes Écoles",
+    "source_tier": 2,
+    "url": "https://www.mondedesgrandesecoles.fr/nucletudes-lexigence-au-service-de-la-souverainete-linterview-de-thibault-cheviron/",
+    "signal_type": "nomination_dg",
     "tier": 1,
     "score": 85,
     "produit_match": [
-      "Pack Education Tosa",
-      "Cert IA"
+      "Pack Education Tosa"
     ],
     "owner": null,
-    "action_reco": "📋 **Signal détecté**\nL’article Lancement de la 5e édition du Prix Jean-François Fiorina est apparu en premier sur Conférence des grandes écoles .\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme Lancement. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-06-22",
+    "action_reco": "📋 **Signal détecté**\nÀ la tête de Nuclétudes, Thibault Cheviron travaille sur la robustesse des systèmes critiques face aux environnements extrêmes. L’article Nuclétudes : l’exigence au service de la souveraineté –…\n\n🎯 **Action à mener**\nNote LinkedIn 100 premiers jours du nouveau DG. Angle « bilan rapide du dispositif certification ». Brief équipe sur les comptes Tosa déjà présents chez Thibault Cheviron.\n\n💡 **Angle pitch ITS/Tosa**\nFenêtre stratégique post-prise de poste : nouveau directeur cherche à poser sa marque. Apport rapide = Tosa pour signal externe + ITS pour structurer la passation.\n\n📅 **Timing**\n30-90 jours après l'annonce. Au-delà, la roadmap est figée.",
+    "deadline_action": "2026-06-23",
     "status": "new",
-    "date_publication": "2026-05-20",
+    "date_publication": "2026-06-16",
     "email_draft": {
-      "subject": "Lancement — L’article Lancement de la 5e édition : quelle évaluation prévue ?",
-      "body": "Bonjour,\n\nJ'ai vu votre actualité : « L’article Lancement de la 5e édition du Prix Jean-François Fiorina est apparu en premier sur Conférence des grandes… ». Beau lancement.\n\nSur ce type de nouveau programme, le timing pour penser le dispositif d'évaluation des compétences est en général la période juste avant la première cohorte — ça permet de cadrer proprement la maquette pédagogique et les outils.\n\nChez Isograd, on opère 2 solutions complémentaires pour un programme comme le vôtre :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital). Argument concret en diplômation, sur le CV et auprès des entreprises partenaires.\n\n2. **ITS** pour héberger les sessions d'examen en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\nDéploiement en 4-6 semaines, budget calibré sur le volume étudiants. 15 minutes pour échanger sur votre cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://www.cge.asso.fr/lancement-5e-edition-prix-jean-francois-fiorina/"
+      "subject": "Thibault Cheviron — nouvelle direction : quels chantiers évaluation prévus ?",
+      "body": "Bonjour,\n\nJ'ai noté votre arrivée à la direction chez Thibault Cheviron.\nContexte que j'ai vu passer : « À la tête de Nuclétudes, Thibault Cheviron travaille sur la robustesse des systèmes critiques face aux environnements extrêmes… ».\n\nFélicitations pour cette prise de poste — belle étape.\n\nJe me permets de vous écrire car beaucoup de directeurs récemment nommés dans le supérieur partagent le même constat à 60-90 jours : besoin de poser rapidement une stratégie claire sur l'évaluation des compétences étudiants — pour répondre aux exigences Qualiopi/RNCP et aux attentes des entreprises partenaires.\n\nChez Isograd, deux solutions utilisées par des écoles comparables :\n\n1. **Tosa** — certification des compétences numériques étudiants (bureautique, code, digital). Argument fort en diplômation, CV, et classements.\n\n2. **ITS** — plateforme d'hébergement d'examens en ligne avec proctoring et banque de questions, opposable en audit.\n\n15 minutes pour vous montrer ce que d'autres directions ont mis en place dans leurs premiers mois ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource de l'info : https://www.mondedesgrandesecoles.fr/nucletudes-lexigence-au-service-de-la-souverainete-linterview-de-thibault-cheviron/"
     },
     "contacts_cibles": [
       {
-        "poste": "Responsable du programme / Directeur(rice) de la formation",
+        "poste": "Le(la) nouveau(elle) directeur(rice) directement",
         "alternatives": [
-          "Coordinateur(rice) pédagogique",
-          "Responsable de filière"
+          "Directeur(rice) général(e)",
+          "Présidence"
         ],
         "priorite": 1,
-        "raison": "Définit le dispositif d'évaluation du nouveau programme",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+du+programme+%2F+Directeur%28rice%29+de+la+formation%22+OR+%22Coordinateur%28rice%29+p%C3%A9dagogique%22+OR+%22Responsable+de+fili%C3%A8re%22&currentCompany=Lancement",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Lancement%22%20Responsable%20du%20programme%20/%20Directeur%28rice%29%20de%20la%20formation%20Coordinateur%28rice%29%20p%C3%A9dagogique%20Responsable%20de%20fili%C3%A8re"
+        "raison": "Fenêtre 30-90j post-prise de poste — ouvert aux nouveaux chantiers",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Le%28la%29+nouveau%28elle%29+directeur%28rice%29+directement%22+OR+%22Directeur%28rice%29+g%C3%A9n%C3%A9ral%28e%29%22+OR+%22Pr%C3%A9sidence%22&currentCompany=Thibault+Cheviron",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Thibault%20Cheviron%22%20Le%28la%29%20nouveau%28elle%29%20directeur%28rice%29%20directement%20Directeur%28rice%29%20g%C3%A9n%C3%A9ral%28e%29%20Pr%C3%A9sidence"
       },
       {
-        "poste": "Doyen / Directeur(rice) académique",
+        "poste": "Directeur(rice) de cabinet / Adjoint(e)",
         "alternatives": [
-          "VP Pédagogie",
-          "Directeur(rice) des études"
+          "Bras droit",
+          "Chief of Staff"
         ],
         "priorite": 2,
-        "raison": "Arbitrage sur l'outillage évaluation à l'échelle de l'établissement",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Doyen+%2F+Directeur%28rice%29+acad%C3%A9mique%22+OR+%22VP+P%C3%A9dagogie%22+OR+%22Directeur%28rice%29+des+%C3%A9tudes%22&currentCompany=Lancement",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Lancement%22%20Doyen%20/%20Directeur%28rice%29%20acad%C3%A9mique%20VP%20P%C3%A9dagogie%20Directeur%28rice%29%20des%20%C3%A9tudes"
+        "raison": "Pré-qualifie les dossiers stratégiques du nouveau directeur",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+de+cabinet+%2F+Adjoint%28e%29%22+OR+%22Bras+droit%22+OR+%22Chief+of+Staff%22&currentCompany=Thibault+Cheviron",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Thibault%20Cheviron%22%20Directeur%28rice%29%20de%20cabinet%20/%20Adjoint%28e%29%20Bras%20droit%20Chief%20of%20Staff"
       },
       {
-        "poste": "Responsable RNCP / Certifications",
+        "poste": "Directeur(rice) des programmes / Académique",
         "alternatives": [
-          "Référent qualité",
-          "Responsable Qualiopi"
+          "Doyen",
+          "VP Pédagogie"
         ],
         "priorite": 3,
-        "raison": "Cadrage Qualiopi / preuve d'évaluation pour la certification",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+Certifications%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22+OR+%22Responsable+Qualiopi%22&currentCompany=Lancement",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Lancement%22%20Responsable%20RNCP%20/%20Certifications%20R%C3%A9f%C3%A9rent%20qualit%C3%A9%20Responsable%20Qualiopi"
+        "raison": "Souvent en pleine relecture de la roadmap pédagogique post-nomination",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+des+programmes+%2F+Acad%C3%A9mique%22+OR+%22Doyen%22+OR+%22VP+P%C3%A9dagogie%22&currentCompany=Thibault+Cheviron",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Thibault%20Cheviron%22%20Directeur%28rice%29%20des%20programmes%20/%20Acad%C3%A9mique%20Doyen%20VP%20P%C3%A9dagogie"
       }
     ]
   },
   {
     "id": "sig-2026-01-19-4880fa2c26b5",
-    "date_capture": "2026-06-15",
+    "date_capture": "2026-06-16",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "SKEMA Business School",
@@ -257,7 +253,7 @@
   },
   {
     "id": "sig-2026-02-01-5c1d41c5837e",
-    "date_capture": "2026-06-15",
+    "date_capture": "2026-06-16",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "Ecole polytechnique",
@@ -320,7 +316,7 @@
   },
   {
     "id": "sig-2026-02-01-db338c98dff8",
-    "date_capture": "2026-06-15",
+    "date_capture": "2026-06-16",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "aivancity",
@@ -382,71 +378,8 @@
     ]
   },
   {
-    "id": "sig-2026-06-15-f0a278886dd5",
-    "date_capture": "2026-06-15",
-    "vertical": "education",
-    "sous_segment": "grande-ecole",
-    "compte": "Rennes School of Business",
-    "titre": "Rennes School of Business ouvre une résidence étudiante face à la crise du logement à Rennes",
-    "description": "Rennes School of Business annonce l'ouverture d'une résidence étudiante à Rennes afin de répondre à la crise du logement. L’article Rennes School of Business ouvre une résidence étudiante face à la crise du logement à Rennes est apparu en premier sur Planète Grandes Écoles .",
-    "source": "Planète Grandes Écoles",
-    "source_tier": 2,
-    "url": "https://www.planetegrandesecoles.com/rennes-school-of-business-ouverture-residence-etudiante-rennes",
-    "signal_type": "nouvelle_formation",
-    "tier": 1,
-    "score": 80,
-    "produit_match": [
-      "Pack Education Tosa",
-      "Cert IA"
-    ],
-    "owner": null,
-    "action_reco": "📋 **Signal détecté**\nRennes School of Business annonce l'ouverture d'une résidence étudiante à Rennes afin de répondre à la crise du logement. L’article Rennes School of Business ouvre une résidence étudiante face à la…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme Rennes School of Business. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-06-22",
-    "status": "new",
-    "date_publication": "2026-06-15",
-    "email_draft": {
-      "subject": "Rennes School of Business — Rennes School of Business annonce l'ouverture : quelle évaluation prévue ?",
-      "body": "Bonjour,\n\nJ'ai vu votre actualité : « Rennes School of Business annonce l'ouverture d'une résidence étudiante à Rennes afin de répondre à la crise du… ». Beau lancement.\n\nSur ce type de nouveau programme, le timing pour penser le dispositif d'évaluation des compétences est en général la période juste avant la première cohorte — ça permet de cadrer proprement la maquette pédagogique et les outils.\n\nChez Isograd, on opère 2 solutions complémentaires pour un programme comme le vôtre :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital). Argument concret en diplômation, sur le CV et auprès des entreprises partenaires.\n\n2. **ITS** pour héberger les sessions d'examen en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\nDéploiement en 4-6 semaines, budget calibré sur le volume étudiants. 15 minutes pour échanger sur votre cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://www.planetegrandesecoles.com/rennes-school-of-business-ouverture-residence-etudiante-rennes"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Responsable du programme / Directeur(rice) de la formation",
-        "alternatives": [
-          "Coordinateur(rice) pédagogique",
-          "Responsable de filière"
-        ],
-        "priorite": 1,
-        "raison": "Définit le dispositif d'évaluation du nouveau programme",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+du+programme+%2F+Directeur%28rice%29+de+la+formation%22+OR+%22Coordinateur%28rice%29+p%C3%A9dagogique%22+OR+%22Responsable+de+fili%C3%A8re%22&currentCompany=Rennes+School+of+Business",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Rennes%20School%20of%20Business%22%20Responsable%20du%20programme%20/%20Directeur%28rice%29%20de%20la%20formation%20Coordinateur%28rice%29%20p%C3%A9dagogique%20Responsable%20de%20fili%C3%A8re"
-      },
-      {
-        "poste": "Doyen / Directeur(rice) académique",
-        "alternatives": [
-          "VP Pédagogie",
-          "Directeur(rice) des études"
-        ],
-        "priorite": 2,
-        "raison": "Arbitrage sur l'outillage évaluation à l'échelle de l'établissement",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Doyen+%2F+Directeur%28rice%29+acad%C3%A9mique%22+OR+%22VP+P%C3%A9dagogie%22+OR+%22Directeur%28rice%29+des+%C3%A9tudes%22&currentCompany=Rennes+School+of+Business",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Rennes%20School%20of%20Business%22%20Doyen%20/%20Directeur%28rice%29%20acad%C3%A9mique%20VP%20P%C3%A9dagogie%20Directeur%28rice%29%20des%20%C3%A9tudes"
-      },
-      {
-        "poste": "Responsable RNCP / Certifications",
-        "alternatives": [
-          "Référent qualité",
-          "Responsable Qualiopi"
-        ],
-        "priorite": 3,
-        "raison": "Cadrage Qualiopi / preuve d'évaluation pour la certification",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+Certifications%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22+OR+%22Responsable+Qualiopi%22&currentCompany=Rennes+School+of+Business",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Rennes%20School%20of%20Business%22%20Responsable%20RNCP%20/%20Certifications%20R%C3%A9f%C3%A9rent%20qualit%C3%A9%20Responsable%20Qualiopi"
-      }
-    ]
-  },
-  {
     "id": "sig-2026-06-12-e33edd24599c",
-    "date_capture": "2026-06-15",
+    "date_capture": "2026-06-16",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "NEOMA",
@@ -464,7 +397,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nLe 13 octobre 2023, un petit séisme a secoué le monde académique québécois. Le gouvernement nationaliste de François Legault entérine une mesure lourde de conséquences pour les universités de sa…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme NEOMA. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-06-22",
+    "deadline_action": "2026-06-23",
     "status": "new",
     "date_publication": "2026-06-12",
     "email_draft": {
@@ -509,7 +442,7 @@
   },
   {
     "id": "sig-2026-06-05-558feb2f0ad5",
-    "date_capture": "2026-06-15",
+    "date_capture": "2026-06-16",
     "vertical": "education",
     "sous_segment": "programme-ia",
     "compte": "Audencia",
@@ -527,7 +460,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nCe 4 juin, Audencia a développé, depuis son nouveau campus de Saint-Ouen, une série d’annonces sur le futur de l&#8217;école et, en particulier, de son Programme Grande École. Dans le cadre de son…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme Audencia. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-06-22",
+    "deadline_action": "2026-06-23",
     "status": "new",
     "date_publication": "2026-06-05",
     "email_draft": {
@@ -572,7 +505,7 @@
   },
   {
     "id": "sig-2026-05-01-beb7d25e358c",
-    "date_capture": "2026-06-15",
+    "date_capture": "2026-06-16",
     "vertical": "education",
     "sous_segment": "Prospect froid — supérieur",
     "compte": "Paris School of Business",
@@ -635,7 +568,7 @@
   },
   {
     "id": "sig-2026-02-01-adeae517fcb1",
-    "date_capture": "2026-06-15",
+    "date_capture": "2026-06-16",
     "vertical": "education",
     "sous_segment": "Cert IA — pilote",
     "compte": "emlyon business school",
@@ -706,7 +639,7 @@
   },
   {
     "id": "sig-2026-01-19-38e40e73ddda",
-    "date_capture": "2026-06-15",
+    "date_capture": "2026-06-16",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "SKEMA Business School",
@@ -769,7 +702,7 @@
   },
   {
     "id": "sig-2026-02-01-70225dc15056",
-    "date_capture": "2026-06-15",
+    "date_capture": "2026-06-16",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "PSL Universite",
@@ -832,7 +765,7 @@
   },
   {
     "id": "sig-2026-02-01-c11ce4f990fe",
-    "date_capture": "2026-06-15",
+    "date_capture": "2026-06-16",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "IONIS Education Group",
@@ -903,7 +836,7 @@
   },
   {
     "id": "sig-2026-05-01-93e815b0ca37",
-    "date_capture": "2026-06-15",
+    "date_capture": "2026-06-16",
     "vertical": "education",
     "sous_segment": "Relance compte tiède",
     "compte": "IAE Aix-Marseille",
@@ -973,7 +906,7 @@
   },
   {
     "id": "sig-2026-02-01-a0908b02289e",
-    "date_capture": "2026-06-15",
+    "date_capture": "2026-06-16",
     "vertical": "education",
     "sous_segment": "Cert IA — pilote",
     "compte": "emlyon business school",
@@ -1044,7 +977,7 @@
   },
   {
     "id": "sig-2026-03-12-84376f5a3a00",
-    "date_capture": "2026-06-15",
+    "date_capture": "2026-06-16",
     "vertical": "education",
     "sous_segment": "Prospect froid — supérieur",
     "compte": "Universite Virtuelle de Cote d'Ivoire (UVCI)",
@@ -1107,7 +1040,7 @@
   },
   {
     "id": "sig-stable-4cc03b95f797",
-    "date_capture": "2026-06-15",
+    "date_capture": "2026-06-16",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "Universite de Technologie de Troyes (UTT)",
@@ -1127,7 +1060,7 @@
     "action_reco": "📋 **Signal détecté**\nBachelor IA - cursus 3 ans\n\n🎯 **Action à mener**\nA croiser site UTT + LinkedIn avant contact\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-06-15",
+    "date_publication": "2026-06-16",
     "email_draft": {
       "subject": "Universite de Technologie de Troyes (UTT) — Bachelor IA - cursus 3 ans : quelle évaluation prévue ?",
       "body": "Bonjour,\n\nJ'ai vu votre actualité : « Bachelor IA - cursus 3 ans ». Beau lancement.\n\nSur ce type de nouveau programme, le timing pour penser le dispositif d'évaluation des compétences est en général la période juste avant la première cohorte — ça permet de cadrer proprement la maquette pédagogique et les outils.\n\nChez Isograd, on opère 2 solutions complémentaires pour un programme comme le vôtre :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital). Argument concret en diplômation, sur le CV et auprès des entreprises partenaires.\n\n2. **ITS** pour héberger les sessions d'examen en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\n3. **Cert IA** — notre badge co-construit avec des écoles partenaires pour les programmes IA. Concrètement, vos étudiants ressortent du programme avec une certification externe sur les compétences IA appliquées. On a une program beta en cours, vous pourriez en faire partie.\n\nDéploiement en 4-6 semaines, budget calibré sur le volume étudiants. 15 minutes pour échanger sur votre cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://www.letudiant.fr/etudes/lactu-des-formations-de-nouveaux-cursus-en-ia-dans-le-superieur.html"
