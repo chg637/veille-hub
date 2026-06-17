@@ -1,7 +1,36 @@
 [
   {
+    "id": "sig-2026-06-03-654dd923bdbd",
+    "date_capture": "2026-06-17",
+    "vertical": "corporate",
+    "sous_segment": "entreprise",
+    "compte": "Akkodis",
+    "titre": "Akkodis recrute plus de 400 personnes autour de Toulouse",
+    "description": "Akkodis recrute plus de 400 personnes autour de Toulouse vie-economique.com",
+    "source": "vie-economique.com (via Google News)",
+    "source_tier": 2,
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeHVaSkRFcnFnMTI1d3E5MmdRQ2xxRndEd09GTkVzeWQwMWlmOHNRenFUdXNkNXBDTWZpQTFEZ3JydnVhV0o5WXdCa3c0N21RQWdqeHVaV0dsM0ZIZjRQcXVzUTZodDlROFNEcElZZ3VzdDduNEdfM2UzeC1oNmxKNGc5dmgxbHpXaTNTRWVjQ2I0MTNGand5cnNsZXhLdllk?oc=5",
+    "signal_type": "plan_recrutement",
+    "tier": 1,
+    "score": 93,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": null,
+    "action_reco": "Akkodis : ~400 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-06-03",
+    "email_draft": {
+      "subject": "Akkodis — fiabiliser la pré-qualification de vos recrutements",
+      "body": "Bonjour,\n\nJ'ai lu que Akkodis prépare une campagne de recrutement importante (Akkodis recrute plus de 400 personnes autour de Toulouse…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
+      "url_source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeHVaSkRFcnFnMTI1d3E5MmdRQ2xxRndEd09GTkVzeWQwMWlmOHNRenFUdXNkNXBDTWZpQTFEZ3JydnVhV0o5WXdCa3c0N21RQWdqeHVaV0dsM0ZIZjRQcXVzUTZodDlROFNEcElZZ3VzdDduNEdfM2UzeC1oNmxKNGc5dmgxbHpXaTNTRWVjQ2I0MTNGand5cnNsZXhLdllk?oc=5"
+    },
+    "contacts_cibles": []
+  },
+  {
     "id": "sig-2026-06-13-2828934fc2ce",
-    "date_capture": "2026-06-16",
+    "date_capture": "2026-06-17",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "province de Quang Ngai",
@@ -29,16 +58,16 @@
     "contacts_cibles": []
   },
   {
-    "id": "sig-2026-06-04-62fdc23c8106",
-    "date_capture": "2026-06-16",
+    "id": "sig-2026-06-09-7c18bec04a62",
+    "date_capture": "2026-06-17",
     "vertical": "corporate",
     "sous_segment": "entreprise",
-    "compte": "Khanh Hoa",
-    "titre": "Khanh Hoa recrutera 407 fonctionnaires d'ici 2026, en attirant en priorité des personnes talentueuses",
-    "description": "Khanh Hoa recrutera 407 fonctionnaires d'ici 2026, en attirant en priorité des personnes talentueuses Laodong.vn",
-    "source": "Laodong.vn (via Google News)",
+    "compte": "Mango",
+    "titre": "Mango va recruter en masse : l’enseigne de mode prévoit 700 postes à pourvoir grâce à l’ouverture de plus de 45 boutiques en France",
+    "description": "Mango va recruter en masse : l’enseigne de mode prévoit 700 postes à pourvoir grâce à l’ouverture de plus de 45 boutiques en France aufeminin.com",
+    "source": "aufeminin.com (via Google News)",
     "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbGYzaFp0endNWHktNGk0TDZBS0pVRmFLanRBNWtqTEplR0NaMVZzZk1mT1hNcVkyVGtRaFZtN0d2aWNzRGpHRlFXQ2ZpRTVWZ1VFQ3NENXU5cmZqUTYyamVuQm5HamU2aTRUdDFKOERJY2JiQlBFdGVFempwQjZycVVDZnFMQXRGenczSjU1YmhfaHAtZWtHZTkwZ1FOa3c2eWY5RjZtVnktLUU?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOYlo2c2s5cVZFVEFpYXhHaWwwNUZnQmVYZGxSUU54c1phQ1NBazZpRm4zeHdhclhLZ3FTVXJQeVpkTVhvRzJhZWNuNnpQVDhTR2xIalRuTXp1S09wWi0yQ2JYUnlPRTRNaE02RW1rd2NWek9lWG1OYzhxTFRzdERXOVAxOHZyeXVCa3Y5dV9PaDlzTjdwZUpiT1d3VU4wcUZnQkNEcEtnWHZfQjMwcFFKbkhlTk4yUTdpbmxuV0hoZndhZDh5YnAxRW41VzBTU2JqY3VzbEtLUGNleUJsNHFIUzhzMVhWSGlzQXUwTDZNMmVIOUZaX1JteXA3eDVnN01VQ0pvZjU1dFg1c1VBSHdvLVdLb3VkUQ?oc=5",
     "signal_type": "plan_recrutement",
     "tier": 1,
     "score": 93,
@@ -46,20 +75,20 @@
       "ITS"
     ],
     "owner": null,
-    "action_reco": "Khanh Hoa : ~407 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
+    "action_reco": "Mango : ~700 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-06-04",
+    "date_publication": "2026-06-09",
     "email_draft": {
-      "subject": "Khanh Hoa — fiabiliser la pré-qualification de vos recrutements",
-      "body": "Bonjour,\n\nJ'ai lu que Khanh Hoa prépare une campagne de recrutement importante (Khanh Hoa recrutera 407 fonctionnaires d'ici 2026, en attirant en priorité des personnes t…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
-      "url_source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbGYzaFp0endNWHktNGk0TDZBS0pVRmFLanRBNWtqTEplR0NaMVZzZk1mT1hNcVkyVGtRaFZtN0d2aWNzRGpHRlFXQ2ZpRTVWZ1VFQ3NENXU5cmZqUTYyamVuQm5HamU2aTRUdDFKOERJY2JiQlBFdGVFempwQjZycVVDZnFMQXRGenczSjU1YmhfaHAtZWtHZTkwZ1FOa3c2eWY5RjZtVnktLUU?oc=5"
+      "subject": "Mango — fiabiliser la pré-qualification de vos recrutements",
+      "body": "Bonjour,\n\nJ'ai lu que Mango prépare une campagne de recrutement importante (Mango va recruter en masse : l’enseigne de mode prévoit 700 postes à pourvoir grâce à l’ou…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
+      "url_source": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOYlo2c2s5cVZFVEFpYXhHaWwwNUZnQmVYZGxSUU54c1phQ1NBazZpRm4zeHdhclhLZ3FTVXJQeVpkTVhvRzJhZWNuNnpQVDhTR2xIalRuTXp1S09wWi0yQ2JYUnlPRTRNaE02RW1rd2NWek9lWG1OYzhxTFRzdERXOVAxOHZyeXVCa3Y5dV9PaDlzTjdwZUpiT1d3VU4wcUZnQkNEcEtnWHZfQjMwcFFKbkhlTk4yUTdpbmxuV0hoZndhZDh5YnAxRW41VzBTU2JqY3VzbEtLUGNleUJsNHFIUzhzMVhWSGlzQXUwTDZNMmVIOUZaX1JteXA3eDVnN01VQ0pvZjU1dFg1c1VBSHdvLVdLb3VkUQ?oc=5"
     },
     "contacts_cibles": []
   },
   {
     "id": "sig-2026-06-09-9f67e2bf534f",
-    "date_capture": "2026-06-16",
+    "date_capture": "2026-06-17",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Kerria AM",
@@ -97,7 +126,7 @@
   },
   {
     "id": "sig-2026-06-01-4079cb3ad44e",
-    "date_capture": "2026-06-16",
+    "date_capture": "2026-06-17",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "SNCF Gares & Connexions",
@@ -135,7 +164,7 @@
   },
   {
     "id": "sig-2026-06-04-2c1bc59be3ed",
-    "date_capture": "2026-06-16",
+    "date_capture": "2026-06-17",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Edenred",
@@ -164,30 +193,30 @@
     "contacts_cibles": []
   },
   {
-    "id": "sig-2026-06-11-a07afca3cf81",
-    "date_capture": "2026-06-16",
+    "id": "sig-2026-06-17-b7114e0687dc",
+    "date_capture": "2026-06-17",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
-    "compte": "Samsung",
-    "titre": "Samsung backs industrial robotics startup Theker in €85m round",
+    "compte": "Comand AI",
+    "titre": "French battlefield software startup Comand AI raises €32m from Blossom Capital, Saab",
     "description": "",
     "source": "Sifted",
     "source_tier": 1,
-    "url": "https://sifted.eu/articles/theker-industrial-robotics-85m-series-a/",
+    "url": "https://sifted.eu/articles/comand-ai-fundraise-blossom-capital-saab/",
     "signal_type": "levee_fonds",
-    "tier": 1,
-    "score": 80,
+    "tier": 2,
+    "score": 65,
     "produit_match": [
       "ITS"
     ],
     "owner": "Charles",
-    "action_reco": "📋 **Source** : https://sifted.eu/articles/theker-industrial-robotics-85m-series-a/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 85.0M EUR (~85.0M€) → scale-up confirmé, plan de recrutement massif sur 12 mois\n🔥 PRIORITÉ — fenêtre 30j (avant que les RH s'organisent)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-06-11",
+    "action_reco": "📋 **Source** : https://sifted.eu/articles/comand-ai-fundraise-blossom-capital-saab/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 32.0M EUR (~32.0M€) → Series B+, structuration des processus RH en cours\n🎯 Fenêtre 60j (timing optimal post-Series B)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-06-17",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-06-11",
+    "date_publication": "2026-06-17",
     "email_draft": {
-      "subject": "Samsung — votre Series — sur l'évaluation candidats à scale",
-      "body": "Bonjour,\n\nJe viens de voir que Samsung a bouclé une levée de 85.0M EUR (~85.0M€). Bravo pour cette étape.\n\nSur les 12 prochains mois, vous allez probablement recruter 100+ profils. C'est exactement le moment où la qualité du process d'évaluation devient un goulot d'étranglement.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/theker-industrial-robotics-85m-series-a/"
+      "subject": "Comand AI — votre Series — sur l'évaluation candidats à scale",
+      "body": "Bonjour,\n\nJe viens de voir que Comand AI a bouclé une levée de 32.0M EUR (~32.0M€). Bravo pour cette étape.\n\nPost-Series B, c'est le moment où la plupart des scale-ups structurent leur process d'éval candidats. Avant que le volume devienne incontrôlable.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/comand-ai-fundraise-blossom-capital-saab/"
     },
     "contacts_cibles": [
       {
@@ -199,8 +228,8 @@
         ],
         "priorite": 1,
         "raison": "Décide outils RH stratégiques post-levée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Samsung",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Samsung%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Comand+AI",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Comand%20AI%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
       },
       {
         "poste": "Head of Talent Acquisition",
@@ -210,8 +239,8 @@
         ],
         "priorite": 2,
         "raison": "Opérationnel — gère le plan de recrutement massif",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Samsung",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Samsung%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Comand+AI",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Comand%20AI%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
       },
       {
         "poste": "Head of Hiring",
@@ -221,14 +250,14 @@
         ],
         "priorite": 3,
         "raison": "Sous-décideur — peut tester l'outil rapidement",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Samsung",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Samsung%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Comand+AI",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Comand%20AI%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
       }
     ]
   },
   {
     "id": "sig-2026-06-16-edb64f4b448f",
-    "date_capture": "2026-06-16",
+    "date_capture": "2026-06-17",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Maddyness)",
     "compte": "Rocapine",
