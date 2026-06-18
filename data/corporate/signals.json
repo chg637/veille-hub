@@ -1,15 +1,15 @@
 [
   {
-    "id": "sig-2026-06-03-654dd923bdbd",
-    "date_capture": "2026-06-17",
+    "id": "sig-2026-05-20-9d2290000383",
+    "date_capture": "2026-06-18",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Akkodis",
-    "titre": "Akkodis recrute plus de 400 personnes autour de Toulouse",
-    "description": "Akkodis recrute plus de 400 personnes autour de Toulouse vie-economique.com",
-    "source": "vie-economique.com (via Google News)",
+    "titre": "Akkodis Prévoit De Recruter 440 Personnes Dans La Région Toulousaine D'ici Fin 2026",
+    "description": "Akkodis Prévoit De Recruter 440 Personnes Dans La Région Toulousaine D'ici Fin 2026 beziers-actualites.fr",
+    "source": "beziers-actualites.fr (via Google News)",
     "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeHVaSkRFcnFnMTI1d3E5MmdRQ2xxRndEd09GTkVzeWQwMWlmOHNRenFUdXNkNXBDTWZpQTFEZ3JydnVhV0o5WXdCa3c0N21RQWdqeHVaV0dsM0ZIZjRQcXVzUTZodDlROFNEcElZZ3VzdDduNEdfM2UzeC1oNmxKNGc5dmgxbHpXaTNTRWVjQ2I0MTNGand5cnNsZXhLdllk?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMU9TRDN3TWR4QW9jSnJlaFNPSE1EZjhuZDdib0Z1aHdsWWtxakpCQVZkdzJOWUUxVHk4aTd4SFRZY0lVVEFjWDltNG5DWTBzSFlqVjFCV2VQTXREMHJSa093cG85U2RlVUZjR3FJQWpOaHhQdHBWQW00T0cyb19zOWdGM2dnck83Q09vRmhoRENNTGlVSW9vWmhWT1pvUjNSTjYzN0pzTkEwZ2dVMkRKbWtNR1lnZ3k0NWtLQzdkU3lBM3pIaW9V?oc=5",
     "signal_type": "plan_recrutement",
     "tier": 1,
     "score": 93,
@@ -17,20 +17,20 @@
       "ITS"
     ],
     "owner": null,
-    "action_reco": "Akkodis : ~400 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
+    "action_reco": "Akkodis : ~440 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-06-03",
+    "date_publication": "2026-05-20",
     "email_draft": {
       "subject": "Akkodis — fiabiliser la pré-qualification de vos recrutements",
-      "body": "Bonjour,\n\nJ'ai lu que Akkodis prépare une campagne de recrutement importante (Akkodis recrute plus de 400 personnes autour de Toulouse…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
-      "url_source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeHVaSkRFcnFnMTI1d3E5MmdRQ2xxRndEd09GTkVzeWQwMWlmOHNRenFUdXNkNXBDTWZpQTFEZ3JydnVhV0o5WXdCa3c0N21RQWdqeHVaV0dsM0ZIZjRQcXVzUTZodDlROFNEcElZZ3VzdDduNEdfM2UzeC1oNmxKNGc5dmgxbHpXaTNTRWVjQ2I0MTNGand5cnNsZXhLdllk?oc=5"
+      "body": "Bonjour,\n\nJ'ai lu que Akkodis prépare une campagne de recrutement importante (Akkodis Prévoit De Recruter 440 Personnes Dans La Région Toulousaine D'ici Fin 2026…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
+      "url_source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMU9TRDN3TWR4QW9jSnJlaFNPSE1EZjhuZDdib0Z1aHdsWWtxakpCQVZkdzJOWUUxVHk4aTd4SFRZY0lVVEFjWDltNG5DWTBzSFlqVjFCV2VQTXREMHJSa093cG85U2RlVUZjR3FJQWpOaHhQdHBWQW00T0cyb19zOWdGM2dnck83Q09vRmhoRENNTGlVSW9vWmhWT1pvUjNSTjYzN0pzTkEwZ2dVMkRKbWtNR1lnZ3k0NWtLQzdkU3lBM3pIaW9V?oc=5"
     },
     "contacts_cibles": []
   },
   {
     "id": "sig-2026-06-13-2828934fc2ce",
-    "date_capture": "2026-06-17",
+    "date_capture": "2026-06-18",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "province de Quang Ngai",
@@ -59,7 +59,7 @@
   },
   {
     "id": "sig-2026-06-09-7c18bec04a62",
-    "date_capture": "2026-06-17",
+    "date_capture": "2026-06-18",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Mango",
@@ -88,7 +88,7 @@
   },
   {
     "id": "sig-2026-06-09-9f67e2bf534f",
-    "date_capture": "2026-06-17",
+    "date_capture": "2026-06-18",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Kerria AM",
@@ -126,7 +126,7 @@
   },
   {
     "id": "sig-2026-06-01-4079cb3ad44e",
-    "date_capture": "2026-06-17",
+    "date_capture": "2026-06-18",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "SNCF Gares & Connexions",
@@ -164,7 +164,7 @@
   },
   {
     "id": "sig-2026-06-04-2c1bc59be3ed",
-    "date_capture": "2026-06-17",
+    "date_capture": "2026-06-18",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Edenred",
@@ -194,7 +194,7 @@
   },
   {
     "id": "sig-2026-06-17-b7114e0687dc",
-    "date_capture": "2026-06-17",
+    "date_capture": "2026-06-18",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Comand AI",
@@ -252,69 +252,6 @@
         "raison": "Sous-décideur — peut tester l'outil rapidement",
         "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Comand+AI",
         "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Comand%20AI%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
-      }
-    ]
-  },
-  {
-    "id": "sig-2026-06-16-edb64f4b448f",
-    "date_capture": "2026-06-17",
-    "vertical": "corporate",
-    "sous_segment": "Scale-up / Levée Series B+ (Maddyness)",
-    "compte": "Rocapine",
-    "titre": "Rocapine lève 13 millions de dollars pour créer des apps mobiles dédiées au bien-être à contre-courant des apps addictives",
-    "description": "L’article Rocapine lève 13 millions de dollars pour créer des apps mobiles dédiées au bien-être à contre-courant des apps addictives est apparu en premier sur Maddyness - Le média pour comprendre l&#039;économie de demain .",
-    "source": "Maddyness",
-    "source_tier": 1,
-    "url": "https://www.maddyness.com/2026/06/16/rocapine-leve-13-millions-de-dollars-pour-creer-des-apps-mobiles-dediees-au-bien-etre-a-contre-courant-des-apps-addictives/",
-    "signal_type": "levee_fonds",
-    "tier": 3,
-    "score": 50,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Source** : https://www.maddyness.com/2026/06/16/rocapine-leve-13-millions-de-dollars-pour-creer-des-apps-mobiles-dediees-au-bien-etre-a-contre-courant-des-apps-addictives/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 13.0M USD (~12.0M€) → Series A late, signal mais startup encore early\n📌 À surveiller — relancer dans 3-6 mois quand ils auront recruté 30+\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-06-16",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-06-16",
-    "email_draft": {
-      "subject": "Rocapine — votre Series — sur l'évaluation candidats à scale",
-      "body": "Bonjour,\n\nJe viens de voir que Rocapine a bouclé une levée de 13.0M USD (~12.0M€). Bravo pour cette étape.\n\nUne levée à cette taille s'accompagne souvent d'un plan de recrutement ambitieux. Anticiper l'outillage évite la dette technique RH.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://www.maddyness.com/2026/06/16/rocapine-leve-13-millions-de-dollars-pour-creer-des-apps-mobiles-dediees-au-bien-etre-a-contre-courant-des-apps-addictives/"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Chief People Officer",
-        "alternatives": [
-          "Head of People",
-          "VP People",
-          "DRH"
-        ],
-        "priorite": 1,
-        "raison": "Décide outils RH stratégiques post-levée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Rocapine",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Rocapine%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
-      },
-      {
-        "poste": "Head of Talent Acquisition",
-        "alternatives": [
-          "Talent Acquisition Director",
-          "Head of Recruiting"
-        ],
-        "priorite": 2,
-        "raison": "Opérationnel — gère le plan de recrutement massif",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Rocapine",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Rocapine%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
-      },
-      {
-        "poste": "Head of Hiring",
-        "alternatives": [
-          "Hiring Manager",
-          "Recruitment Director"
-        ],
-        "priorite": 3,
-        "raison": "Sous-décideur — peut tester l'outil rapidement",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Rocapine",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Rocapine%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
       }
     ]
   }
