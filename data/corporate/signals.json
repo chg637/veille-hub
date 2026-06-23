@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-06-03-654dd923bdbd",
-    "date_capture": "2026-06-22",
+    "date_capture": "2026-06-23",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Akkodis",
@@ -30,7 +30,7 @@
   },
   {
     "id": "sig-2026-06-12-604f55f48beb",
-    "date_capture": "2026-06-22",
+    "date_capture": "2026-06-23",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Mango",
@@ -58,16 +58,16 @@
     "contacts_cibles": []
   },
   {
-    "id": "sig-2026-06-09-9f67e2bf534f",
-    "date_capture": "2026-06-22",
+    "id": "sig-2026-06-08-98131940c0b4",
+    "date_capture": "2026-06-23",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Kerria AM",
-    "titre": "Aline Chevalier, nouvelle DRH de Kerria AM",
-    "description": "Aline Chevalier, nouvelle DRH de Kerria AM Business Immo",
-    "source": "Business Immo (via Google News)",
+    "titre": "News | Aline Chevalier, nouvelle DRH de Kerria AM",
+    "description": "News | Aline Chevalier, nouvelle DRH de Kerria AM CoStar",
+    "source": "CoStar (via Google News)",
     "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNclVWRnVMOFdTWTBzaWxKa3JkMU9USWs3VTBDNFZKOVJXOE1lc3FET0N2MnBtSlN4bmhzYWlob0FpY0E1MDM3eG1fbHd0eXBhWk1heHBLeVZLUjVWbmNRZzN3QzZQdGgxRHNIcWhUbk9GWnQ4SE9KQk5QZjlrSmdWWnpLazBlRDhua3IwTTd2dDRFQ0NMZE9tMU1LVExIZG9rZUE?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWjZJRE5rcTdXb0t5UkVMM2Itb3hOa2NXMS1PMjYyM2N4dFQ0dXRtdDNsMmdwWWFvejM1bFJaNXp0enVKM2VxSkh5MlNIM1BSNzEyU1FVbkJOZ3pUeVhUTjNSY3ZFTWl2MjdpaXBGZkRkc051VEVPYXZDS3NJQWQwOXRSOVRVbEJyM0tr?oc=5",
     "signal_type": "nomination_chro",
     "tier": 1,
     "score": 90,
@@ -76,13 +76,13 @@
       "Tosa Corporate"
     ],
     "owner": null,
-    "action_reco": "Fenêtre prise de poste ~30j : InMail/email à Aline Chevalier (Kerria AM) — angle outillage évaluation des compétences (ITS + Tosa).",
+    "action_reco": "Fenêtre prise de poste ~30j : InMail/email à la nouvelle DRH (Kerria AM) — angle outillage évaluation des compétences (ITS + Tosa).",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-06-09",
+    "date_publication": "2026-06-08",
     "email_draft": {
       "subject": "Félicitations pour votre nomination DRH chez Kerria AM",
-      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez Kerria AM. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMiogFBVV95cUxNclVWRnVMOFdTWTBzaWxKa3JkMU9USWs3VTBDNFZKOVJXOE1lc3FET0N2MnBtSlN4bmhzYWlob0FpY0E1MDM3eG1fbHd0eXBhWk1heHBLeVZLUjVWbmNRZzN3QzZQdGgxRHNIcWhUbk9GWnQ4SE9KQk5QZjlrSmdWWnpLazBlRDhua3IwTTd2dDRFQ0NMZE9tMU1LVExIZG9rZUE?oc=5"
+      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez Kerria AM. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWjZJRE5rcTdXb0t5UkVMM2Itb3hOa2NXMS1PMjYyM2N4dFQ0dXRtdDNsMmdwWWFvejM1bFJaNXp0enVKM2VxSkh5MlNIM1BSNzEyU1FVbkJOZ3pUeVhUTjNSY3ZFTWl2MjdpaXBGZkRkc051VEVPYXZDS3NJQWQwOXRSOVRVbEJyM0tr?oc=5"
     },
     "contacts_cibles": [
       {
@@ -97,7 +97,7 @@
   },
   {
     "id": "sig-2026-06-04-2c1bc59be3ed",
-    "date_capture": "2026-06-22",
+    "date_capture": "2026-06-23",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Edenred",
@@ -126,13 +126,13 @@
     "contacts_cibles": []
   },
   {
-    "id": "sig-2026-06-22-3355a7b3ff6c",
-    "date_capture": "2026-06-22",
+    "id": "sig-2026-06-22-e40a398b31cc",
+    "date_capture": "2026-06-23",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Maddyness)",
     "compte": "Bionyra Pharma",
-    "titre": "« C'est la plus grosse levée de fonds jamais réalisée pour une série A en France dans les biotechs » : Bionyra Pharma lève 165 millions de dollars pour lutter contre l'eczéma sévère",
-    "description": "L’article « C&#039;est la plus grosse levée de fonds jamais réalisée pour une série A en France dans les biotechs » : Bionyra Pharma lève 165 millions de dollars pour lutter contre l&#039;eczéma sévère est apparu en premier sur Maddyness - Le média pour comprendre l&#039;économie de demain .",
+    "titre": "Bionyra Pharma lève 140 millions d'euros pour s’attaquer à l’eczéma sévère",
+    "description": "L’article Bionyra Pharma lève 140 millions d&#039;euros pour s’attaquer à l’eczéma sévère est apparu en premier sur Maddyness - Le média pour comprendre l&#039;économie de demain .",
     "source": "Maddyness",
     "source_tier": 1,
     "url": "https://www.maddyness.com/2026/06/22/cest-la-plus-grosse-levee-de-fonds-jamais-realisee-pour-une-serie-a-en-france-dans-les-biotechs-bionyra-pharma-leve-165-millions-de-dollars-pour-lutter-contre-leczema-severe/",
@@ -143,13 +143,13 @@
       "ITS"
     ],
     "owner": "Charles",
-    "action_reco": "📋 **Source** : https://www.maddyness.com/2026/06/22/cest-la-plus-grosse-levee-de-fonds-jamais-realisee-pour-une-serie-a-en-france-dans-les-biotechs-bionyra-pharma-leve-165-millions-de-dollars-pour-lutter-contre-leczema-severe/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 165.0M USD (~151.8M€) → scale-up confirmé, plan de recrutement massif sur 12 mois\n🔥 PRIORITÉ — fenêtre 30j (avant que les RH s'organisent)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-06-22",
+    "action_reco": "📋 **Source** : https://www.maddyness.com/2026/06/22/cest-la-plus-grosse-levee-de-fonds-jamais-realisee-pour-une-serie-a-en-france-dans-les-biotechs-bionyra-pharma-leve-165-millions-de-dollars-pour-lutter-contre-leczema-severe/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 140.0M EUR (~140.0M€) → scale-up confirmé, plan de recrutement massif sur 12 mois\n🔥 PRIORITÉ — fenêtre 30j (avant que les RH s'organisent)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-06-22",
     "deadline_action": null,
     "status": "new",
     "date_publication": "2026-06-22",
     "email_draft": {
       "subject": "Bionyra Pharma — votre Series — sur l'évaluation candidats à scale",
-      "body": "Bonjour,\n\nJe viens de voir que Bionyra Pharma a bouclé une levée de 165.0M USD (~151.8M€). Bravo pour cette étape.\n\nSur les 12 prochains mois, vous allez probablement recruter 100+ profils. C'est exactement le moment où la qualité du process d'évaluation devient un goulot d'étranglement.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://www.maddyness.com/2026/06/22/cest-la-plus-grosse-levee-de-fonds-jamais-realisee-pour-une-serie-a-en-france-dans-les-biotechs-bionyra-pharma-leve-165-millions-de-dollars-pour-lutter-contre-leczema-severe/"
+      "body": "Bonjour,\n\nJe viens de voir que Bionyra Pharma a bouclé une levée de 140.0M EUR (~140.0M€). Bravo pour cette étape.\n\nSur les 12 prochains mois, vous allez probablement recruter 100+ profils. C'est exactement le moment où la qualité du process d'évaluation devient un goulot d'étranglement.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://www.maddyness.com/2026/06/22/cest-la-plus-grosse-levee-de-fonds-jamais-realisee-pour-une-serie-a-en-france-dans-les-biotechs-bionyra-pharma-leve-165-millions-de-dollars-pour-lutter-contre-leczema-severe/"
     },
     "contacts_cibles": [
       {
@@ -190,7 +190,7 @@
   },
   {
     "id": "sig-2026-06-22-01f75f858265",
-    "date_capture": "2026-06-22",
+    "date_capture": "2026-06-23",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "UiPath-backer Seedcamp",
@@ -252,16 +252,16 @@
     ]
   },
   {
-    "id": "sig-2026-06-17-b7114e0687dc",
-    "date_capture": "2026-06-22",
+    "id": "sig-2026-06-23-90c901a3182e",
+    "date_capture": "2026-06-23",
     "vertical": "corporate",
-    "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
-    "compte": "Comand AI",
-    "titre": "French battlefield software startup Comand AI raises €32m from Blossom Capital, Saab",
-    "description": "",
-    "source": "Sifted",
+    "sous_segment": "Scale-up / Levée Series B+ (Maddyness)",
+    "compte": "Datadog",
+    "titre": "Deux anciens de Datadog lèvent 35 millions de dollars pour redéfinir l'observabilité à l'ère de l'IA",
+    "description": "L’article Deux anciens de Datadog lèvent 35 millions de dollars pour redéfinir l&#039;observabilité à l&#039;ère de l&#039;IA est apparu en premier sur Maddyness - Le média pour comprendre l&#039;économie de demain .",
+    "source": "Maddyness",
     "source_tier": 1,
-    "url": "https://sifted.eu/articles/comand-ai-fundraise-blossom-capital-saab/",
+    "url": "https://www.maddyness.com/2026/06/23/deux-anciens-de-datadog-levent-35-millions-de-dollars-pour-redefinir-lobservabilite-a-lere-de-lia/",
     "signal_type": "levee_fonds",
     "tier": 2,
     "score": 65,
@@ -269,13 +269,13 @@
       "ITS"
     ],
     "owner": "Charles",
-    "action_reco": "📋 **Source** : https://sifted.eu/articles/comand-ai-fundraise-blossom-capital-saab/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 32.0M EUR (~32.0M€) → Series B+, structuration des processus RH en cours\n🎯 Fenêtre 60j (timing optimal post-Series B)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-06-17",
+    "action_reco": "📋 **Source** : https://www.maddyness.com/2026/06/23/deux-anciens-de-datadog-levent-35-millions-de-dollars-pour-redefinir-lobservabilite-a-lere-de-lia/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 35.0M USD (~32.2M€) → Series B+, structuration des processus RH en cours\n🎯 Fenêtre 60j (timing optimal post-Series B)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-06-23",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-06-17",
+    "date_publication": "2026-06-23",
     "email_draft": {
-      "subject": "Comand AI — votre Series — sur l'évaluation candidats à scale",
-      "body": "Bonjour,\n\nJe viens de voir que Comand AI a bouclé une levée de 32.0M EUR (~32.0M€). Bravo pour cette étape.\n\nPost-Series B, c'est le moment où la plupart des scale-ups structurent leur process d'éval candidats. Avant que le volume devienne incontrôlable.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/comand-ai-fundraise-blossom-capital-saab/"
+      "subject": "Datadog — votre Series — sur l'évaluation candidats à scale",
+      "body": "Bonjour,\n\nJe viens de voir que Datadog a bouclé une levée de 35.0M USD (~32.2M€). Bravo pour cette étape.\n\nPost-Series B, c'est le moment où la plupart des scale-ups structurent leur process d'éval candidats. Avant que le volume devienne incontrôlable.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://www.maddyness.com/2026/06/23/deux-anciens-de-datadog-levent-35-millions-de-dollars-pour-redefinir-lobservabilite-a-lere-de-lia/"
     },
     "contacts_cibles": [
       {
@@ -287,8 +287,8 @@
         ],
         "priorite": 1,
         "raison": "Décide outils RH stratégiques post-levée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Comand+AI",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Comand%20AI%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Datadog",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Datadog%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
       },
       {
         "poste": "Head of Talent Acquisition",
@@ -298,8 +298,8 @@
         ],
         "priorite": 2,
         "raison": "Opérationnel — gère le plan de recrutement massif",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Comand+AI",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Comand%20AI%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Datadog",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Datadog%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
       },
       {
         "poste": "Head of Hiring",
@@ -309,14 +309,14 @@
         ],
         "priorite": 3,
         "raison": "Sous-décideur — peut tester l'outil rapidement",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Comand+AI",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Comand%20AI%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Datadog",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Datadog%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
       }
     ]
   },
   {
     "id": "sig-2026-06-18-d1836cd0884a",
-    "date_capture": "2026-06-22",
+    "date_capture": "2026-06-23",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Flagright",
