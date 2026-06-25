@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-06-23-9e210515c97f",
-    "date_capture": "2026-06-24",
+    "date_capture": "2026-06-25",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Isère. Maxi Zoo",
@@ -30,7 +30,7 @@
   },
   {
     "id": "sig-2026-06-03-654dd923bdbd",
-    "date_capture": "2026-06-24",
+    "date_capture": "2026-06-25",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Akkodis",
@@ -59,7 +59,7 @@
   },
   {
     "id": "sig-2026-06-08-98131940c0b4",
-    "date_capture": "2026-06-24",
+    "date_capture": "2026-06-25",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Kerria AM",
@@ -97,7 +97,7 @@
   },
   {
     "id": "sig-2026-06-23-af9857473b04",
-    "date_capture": "2026-06-24",
+    "date_capture": "2026-06-25",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "McDonald's France",
@@ -135,7 +135,7 @@
   },
   {
     "id": "sig-2026-06-04-2c1bc59be3ed",
-    "date_capture": "2026-06-24",
+    "date_capture": "2026-06-25",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Edenred",
@@ -165,7 +165,7 @@
   },
   {
     "id": "sig-2026-06-22-01f75f858265",
-    "date_capture": "2026-06-24",
+    "date_capture": "2026-06-25",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "UiPath-backer Seedcamp",
@@ -227,71 +227,8 @@
     ]
   },
   {
-    "id": "sig-2026-06-23-90c901a3182e",
-    "date_capture": "2026-06-24",
-    "vertical": "corporate",
-    "sous_segment": "Scale-up / Levée Series B+ (Maddyness)",
-    "compte": "Datadog",
-    "titre": "Deux anciens de Datadog lèvent 35 millions de dollars pour redéfinir l'observabilité à l'ère de l'IA",
-    "description": "L’article Deux anciens de Datadog lèvent 35 millions de dollars pour redéfinir l&#039;observabilité à l&#039;ère de l&#039;IA est apparu en premier sur Maddyness - Le média pour comprendre l&#039;économie de demain .",
-    "source": "Maddyness",
-    "source_tier": 1,
-    "url": "https://www.maddyness.com/2026/06/23/deux-anciens-de-datadog-levent-35-millions-de-dollars-pour-redefinir-lobservabilite-a-lere-de-lia/",
-    "signal_type": "levee_fonds",
-    "tier": 2,
-    "score": 65,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Source** : https://www.maddyness.com/2026/06/23/deux-anciens-de-datadog-levent-35-millions-de-dollars-pour-redefinir-lobservabilite-a-lere-de-lia/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 35.0M USD (~32.2M€) → Series B+, structuration des processus RH en cours\n🎯 Fenêtre 60j (timing optimal post-Series B)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-06-23",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-06-23",
-    "email_draft": {
-      "subject": "Datadog — votre Series — sur l'évaluation candidats à scale",
-      "body": "Bonjour,\n\nJe viens de voir que Datadog a bouclé une levée de 35.0M USD (~32.2M€). Bravo pour cette étape.\n\nPost-Series B, c'est le moment où la plupart des scale-ups structurent leur process d'éval candidats. Avant que le volume devienne incontrôlable.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://www.maddyness.com/2026/06/23/deux-anciens-de-datadog-levent-35-millions-de-dollars-pour-redefinir-lobservabilite-a-lere-de-lia/"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Chief People Officer",
-        "alternatives": [
-          "Head of People",
-          "VP People",
-          "DRH"
-        ],
-        "priorite": 1,
-        "raison": "Décide outils RH stratégiques post-levée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Datadog",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Datadog%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
-      },
-      {
-        "poste": "Head of Talent Acquisition",
-        "alternatives": [
-          "Talent Acquisition Director",
-          "Head of Recruiting"
-        ],
-        "priorite": 2,
-        "raison": "Opérationnel — gère le plan de recrutement massif",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Datadog",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Datadog%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
-      },
-      {
-        "poste": "Head of Hiring",
-        "alternatives": [
-          "Hiring Manager",
-          "Recruitment Director"
-        ],
-        "priorite": 3,
-        "raison": "Sous-décideur — peut tester l'outil rapidement",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Datadog",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Datadog%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
-      }
-    ]
-  },
-  {
     "id": "sig-2026-06-24-ad7bae22f61f",
-    "date_capture": "2026-06-24",
+    "date_capture": "2026-06-25",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "DeepMind",
