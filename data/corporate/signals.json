@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-06-23-9e210515c97f",
-    "date_capture": "2026-06-25",
+    "date_capture": "2026-06-26",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Isère. Maxi Zoo",
@@ -30,7 +30,7 @@
   },
   {
     "id": "sig-2026-06-03-654dd923bdbd",
-    "date_capture": "2026-06-25",
+    "date_capture": "2026-06-26",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Akkodis",
@@ -58,46 +58,8 @@
     "contacts_cibles": []
   },
   {
-    "id": "sig-2026-06-08-98131940c0b4",
-    "date_capture": "2026-06-25",
-    "vertical": "corporate",
-    "sous_segment": "entreprise",
-    "compte": "Kerria AM",
-    "titre": "News | Aline Chevalier, nouvelle DRH de Kerria AM",
-    "description": "News | Aline Chevalier, nouvelle DRH de Kerria AM CoStar",
-    "source": "CoStar (via Google News)",
-    "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWjZJRE5rcTdXb0t5UkVMM2Itb3hOa2NXMS1PMjYyM2N4dFQ0dXRtdDNsMmdwWWFvejM1bFJaNXp0enVKM2VxSkh5MlNIM1BSNzEyU1FVbkJOZ3pUeVhUTjNSY3ZFTWl2MjdpaXBGZkRkc051VEVPYXZDS3NJQWQwOXRSOVRVbEJyM0tr?oc=5",
-    "signal_type": "nomination_chro",
-    "tier": 1,
-    "score": 90,
-    "produit_match": [
-      "ITS",
-      "Tosa Corporate"
-    ],
-    "owner": null,
-    "action_reco": "Fenêtre prise de poste ~30j : InMail/email à la nouvelle DRH (Kerria AM) — angle outillage évaluation des compétences (ITS + Tosa).",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-06-08",
-    "email_draft": {
-      "subject": "Félicitations pour votre nomination DRH chez Kerria AM",
-      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez Kerria AM. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWjZJRE5rcTdXb0t5UkVMM2Itb3hOa2NXMS1PMjYyM2N4dFQ0dXRtdDNsMmdwWWFvejM1bFJaNXp0enVKM2VxSkh5MlNIM1BSNzEyU1FVbkJOZ3pUeVhUTjNSY3ZFTWl2MjdpaXBGZkRkc051VEVPYXZDS3NJQWQwOXRSOVRVbEJyM0tr?oc=5"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "La personne nommée (cible directe)",
-        "alternatives": [],
-        "priorite": 1,
-        "raison": "Fenêtre 30j post-prise de poste = haute disposition aux nouveaux outils",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22La+personne+nomm%C3%A9e+%28cible+directe%29%22&currentCompany=Kerria+AM",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Kerria%20AM%22%20La%20personne%20nomm%C3%A9e%20%28cible%20directe%29"
-      }
-    ]
-  },
-  {
     "id": "sig-2026-06-23-af9857473b04",
-    "date_capture": "2026-06-25",
+    "date_capture": "2026-06-26",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "McDonald's France",
@@ -135,7 +97,7 @@
   },
   {
     "id": "sig-2026-06-04-2c1bc59be3ed",
-    "date_capture": "2026-06-25",
+    "date_capture": "2026-06-26",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Edenred",
@@ -164,16 +126,16 @@
     "contacts_cibles": []
   },
   {
-    "id": "sig-2026-06-22-01f75f858265",
-    "date_capture": "2026-06-25",
+    "id": "sig-2026-06-25-1c9a0b062b4e",
+    "date_capture": "2026-06-26",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
-    "compte": "UiPath-backer Seedcamp",
-    "titre": "Revolut, Wise and UiPath-backer Seedcamp raises $320m",
+    "compte": "Alan",
+    "titre": "Health unicorn Alan raises €480m Series G round led by Prosus",
     "description": "",
     "source": "Sifted",
     "source_tier": 1,
-    "url": "https://sifted.eu/articles/seedcamp-320m-new-fund/",
+    "url": "https://sifted.eu/articles/alan-prosus-raise-series-g-valuation-health-tech/",
     "signal_type": "levee_fonds",
     "tier": 1,
     "score": 80,
@@ -181,13 +143,13 @@
       "ITS"
     ],
     "owner": "Charles",
-    "action_reco": "📋 **Source** : https://sifted.eu/articles/seedcamp-320m-new-fund/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 320.0M USD (~294.4M€) → scale-up confirmé, plan de recrutement massif sur 12 mois\n🔥 PRIORITÉ — fenêtre 30j (avant que les RH s'organisent)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-06-22",
+    "action_reco": "📋 **Source** : https://sifted.eu/articles/alan-prosus-raise-series-g-valuation-health-tech/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 480.0M EUR (~480.0M€) → scale-up confirmé, plan de recrutement massif sur 12 mois\n🔥 PRIORITÉ — fenêtre 30j (avant que les RH s'organisent)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-06-25",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-06-22",
+    "date_publication": "2026-06-25",
     "email_draft": {
-      "subject": "UiPath-backer Seedcamp — votre Series — sur l'évaluation candidats à scale",
-      "body": "Bonjour,\n\nJe viens de voir que UiPath-backer Seedcamp a bouclé une levée de 320.0M USD (~294.4M€). Bravo pour cette étape.\n\nSur les 12 prochains mois, vous allez probablement recruter 100+ profils. C'est exactement le moment où la qualité du process d'évaluation devient un goulot d'étranglement.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/seedcamp-320m-new-fund/"
+      "subject": "Alan — votre Series — sur l'évaluation candidats à scale",
+      "body": "Bonjour,\n\nJe viens de voir que Alan a bouclé une levée de 480.0M EUR (~480.0M€). Bravo pour cette étape.\n\nSur les 12 prochains mois, vous allez probablement recruter 100+ profils. C'est exactement le moment où la qualité du process d'évaluation devient un goulot d'étranglement.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/alan-prosus-raise-series-g-valuation-health-tech/"
     },
     "contacts_cibles": [
       {
@@ -199,8 +161,8 @@
         ],
         "priorite": 1,
         "raison": "Décide outils RH stratégiques post-levée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=UiPath-backer+Seedcamp",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22UiPath-backer%20Seedcamp%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Alan",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Alan%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
       },
       {
         "poste": "Head of Talent Acquisition",
@@ -210,8 +172,8 @@
         ],
         "priorite": 2,
         "raison": "Opérationnel — gère le plan de recrutement massif",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=UiPath-backer+Seedcamp",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22UiPath-backer%20Seedcamp%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Alan",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Alan%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
       },
       {
         "poste": "Head of Hiring",
@@ -221,14 +183,14 @@
         ],
         "priorite": 3,
         "raison": "Sous-décideur — peut tester l'outil rapidement",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=UiPath-backer+Seedcamp",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22UiPath-backer%20Seedcamp%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Alan",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Alan%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
       }
     ]
   },
   {
     "id": "sig-2026-06-24-ad7bae22f61f",
-    "date_capture": "2026-06-25",
+    "date_capture": "2026-06-26",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "DeepMind",
