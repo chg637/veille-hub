@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-06-23-9e210515c97f",
-    "date_capture": "2026-06-26",
+    "date_capture": "2026-06-27",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Isère. Maxi Zoo",
@@ -30,7 +30,7 @@
   },
   {
     "id": "sig-2026-06-03-654dd923bdbd",
-    "date_capture": "2026-06-26",
+    "date_capture": "2026-06-27",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Akkodis",
@@ -58,8 +58,37 @@
     "contacts_cibles": []
   },
   {
+    "id": "sig-2026-06-27-d4edf60c5b21",
+    "date_capture": "2026-06-27",
+    "vertical": "corporate",
+    "sous_segment": "entreprise",
+    "compte": "province de Thanh Hoa",
+    "titre": "La province de Thanh Hoa prévoit de recruter plus de 2 000 enseignants et responsables de l'éducation en 2026.",
+    "description": "La province de Thanh Hoa prévoit de recruter plus de 2 000 enseignants et responsables de l'éducation en 2026. Vietnam.vn",
+    "source": "Vietnam.vn (via Google News)",
+    "source_tier": 2,
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbGtZQWNqWFYtMmkxQ0U5Y05TUDRWUXlGNklNYnRHaXR5WHA3ZzJnNzFFTkVCOHpXa28zTW4xT0doNGNXaHJxT0pEaG1CY1F5OVh3RWdIQlpTTWNVcWlaN1Q5cGRUUEoxSWZuNWRwMlE3aTBjZ3hYWWJGb0k2TzFzYmg5R2JROTNUcW5Fd1A3NFZjRmhTS2N0aUo3dzJyMnc4Q2hhZU1R?oc=5",
+    "signal_type": "plan_recrutement",
+    "tier": 1,
+    "score": 93,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": null,
+    "action_reco": "province de Thanh Hoa : ~2000 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-06-27",
+    "email_draft": {
+      "subject": "province de Thanh Hoa — fiabiliser la pré-qualification de vos recrutements",
+      "body": "Bonjour,\n\nJ'ai lu que province de Thanh Hoa prépare une campagne de recrutement importante (La province de Thanh Hoa prévoit de recruter plus de 2 000 enseignants et responsables de …).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
+      "url_source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbGtZQWNqWFYtMmkxQ0U5Y05TUDRWUXlGNklNYnRHaXR5WHA3ZzJnNzFFTkVCOHpXa28zTW4xT0doNGNXaHJxT0pEaG1CY1F5OVh3RWdIQlpTTWNVcWlaN1Q5cGRUUEoxSWZuNWRwMlE3aTBjZ3hYWWJGb0k2TzFzYmg5R2JROTNUcW5Fd1A3NFZjRmhTS2N0aUo3dzJyMnc4Q2hhZU1R?oc=5"
+    },
+    "contacts_cibles": []
+  },
+  {
     "id": "sig-2026-06-23-af9857473b04",
-    "date_capture": "2026-06-26",
+    "date_capture": "2026-06-27",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "McDonald's France",
@@ -97,7 +126,7 @@
   },
   {
     "id": "sig-2026-06-04-2c1bc59be3ed",
-    "date_capture": "2026-06-26",
+    "date_capture": "2026-06-27",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Edenred",
@@ -127,7 +156,7 @@
   },
   {
     "id": "sig-2026-06-25-1c9a0b062b4e",
-    "date_capture": "2026-06-26",
+    "date_capture": "2026-06-27",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Alan",
@@ -190,7 +219,7 @@
   },
   {
     "id": "sig-2026-06-24-ad7bae22f61f",
-    "date_capture": "2026-06-26",
+    "date_capture": "2026-06-27",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "DeepMind",

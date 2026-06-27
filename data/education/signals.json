@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-06-22-3b33c749533a",
-    "date_capture": "2026-06-26",
+    "date_capture": "2026-06-27",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "Jérôme",
@@ -18,7 +18,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nLe nouveau directeur de l’Institut national du service public (INSP) dresse les priorités de son mandat. Jérôme Filippini a pris ses fonctions en janvier dernier, en pleine réforme de la procédure de…\n\n🎯 **Action à mener**\nNote LinkedIn 100 premiers jours du nouveau DG. Angle « bilan rapide du dispositif certification ». Brief équipe sur les comptes Tosa déjà présents chez Jérôme.\n\n💡 **Angle pitch ITS/Tosa**\nFenêtre stratégique post-prise de poste : nouveau directeur cherche à poser sa marque. Apport rapide = Tosa pour signal externe + ITS pour structurer la passation.\n\n📅 **Timing**\n30-90 jours après l'annonce. Au-delà, la roadmap est figée.",
-    "deadline_action": "2026-07-03",
+    "deadline_action": "2026-07-04",
     "status": "new",
     "date_publication": "2026-06-22",
     "email_draft": {
@@ -63,7 +63,7 @@
   },
   {
     "id": "sig-2026-06-15-33cff839e248",
-    "date_capture": "2026-06-26",
+    "date_capture": "2026-06-27",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "Darbon",
@@ -80,7 +80,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nAlors que son mandat à la tête de Sciences po Bordeaux touche à sa fin, Dominique Darbon dresse un bilan de ses cinq années. Il revient notamment sur l’intégration de l’IEP sur Parcoursup et le…\n\n🎯 **Action à mener**\nNote LinkedIn 100 premiers jours du nouveau DG. Angle « bilan rapide du dispositif certification ». Brief équipe sur les comptes Tosa déjà présents chez Darbon.\n\n💡 **Angle pitch ITS/Tosa**\nFenêtre stratégique post-prise de poste : nouveau directeur cherche à poser sa marque. Apport rapide = Tosa pour signal externe + ITS pour structurer la passation.\n\n📅 **Timing**\n30-90 jours après l'annonce. Au-delà, la roadmap est figée.",
-    "deadline_action": "2026-07-03",
+    "deadline_action": "2026-07-04",
     "status": "new",
     "date_publication": "2026-06-15",
     "email_draft": {
@@ -125,7 +125,7 @@
   },
   {
     "id": "sig-2026-06-16-da39c9b0dad3",
-    "date_capture": "2026-06-26",
+    "date_capture": "2026-06-27",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "Thibault Cheviron",
@@ -142,7 +142,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nÀ la tête de Nuclétudes, Thibault Cheviron travaille sur la robustesse des systèmes critiques face aux environnements extrêmes. L’article Nuclétudes : l’exigence au service de la souveraineté –…\n\n🎯 **Action à mener**\nNote LinkedIn 100 premiers jours du nouveau DG. Angle « bilan rapide du dispositif certification ». Brief équipe sur les comptes Tosa déjà présents chez Thibault Cheviron.\n\n💡 **Angle pitch ITS/Tosa**\nFenêtre stratégique post-prise de poste : nouveau directeur cherche à poser sa marque. Apport rapide = Tosa pour signal externe + ITS pour structurer la passation.\n\n📅 **Timing**\n30-90 jours après l'annonce. Au-delà, la roadmap est figée.",
-    "deadline_action": "2026-07-03",
+    "deadline_action": "2026-07-04",
     "status": "new",
     "date_publication": "2026-06-16",
     "email_draft": {
@@ -187,7 +187,7 @@
   },
   {
     "id": "sig-2026-01-19-4880fa2c26b5",
-    "date_capture": "2026-06-26",
+    "date_capture": "2026-06-27",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "SKEMA Business School",
@@ -250,7 +250,7 @@
   },
   {
     "id": "sig-2026-02-01-5c1d41c5837e",
-    "date_capture": "2026-06-26",
+    "date_capture": "2026-06-27",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "Ecole polytechnique",
@@ -313,7 +313,7 @@
   },
   {
     "id": "sig-2026-02-01-db338c98dff8",
-    "date_capture": "2026-06-26",
+    "date_capture": "2026-06-27",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "aivancity",
@@ -375,71 +375,8 @@
     ]
   },
   {
-    "id": "sig-2026-06-12-e33edd24599c",
-    "date_capture": "2026-06-26",
-    "vertical": "education",
-    "sous_segment": "grande-ecole",
-    "compte": "NEOMA",
-    "titre": "Quand le monde se ferme, les business schools s’ouvrent : l’exemple de NEOMA au Canada",
-    "description": "Le 13 octobre 2023, un petit séisme a secoué le monde académique québécois. Le gouvernement nationaliste de François Legault entérine une mesure lourde de conséquences pour les universités de sa province : les frais de scolarité pour les Canadiens non-Québécois doublent, passant de 9 000 à 17 000 dollars. Quant aux étrangers, ces derniers devront [&#8230;] Cet article Quand le monde se ferme, les ",
-    "source": "Business Cool",
-    "source_tier": 2,
-    "url": "https://business-cool.com/decryptage/analyse/quand-le-monde-se-ferme-les-business-schools-souvrent-exemple-neoma-canada/",
-    "signal_type": "nouvelle_formation",
-    "tier": 1,
-    "score": 80,
-    "produit_match": [
-      "Pack Education Tosa",
-      "Cert IA"
-    ],
-    "owner": null,
-    "action_reco": "📋 **Signal détecté**\nLe 13 octobre 2023, un petit séisme a secoué le monde académique québécois. Le gouvernement nationaliste de François Legault entérine une mesure lourde de conséquences pour les universités de sa…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme NEOMA. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-07-03",
-    "status": "new",
-    "date_publication": "2026-06-12",
-    "email_draft": {
-      "subject": "NEOMA — Le 13 octobre 2023, un petit : quelle évaluation prévue ?",
-      "body": "Bonjour,\n\nJ'ai vu votre actualité : « Le 13 octobre 2023, un petit séisme a secoué le monde académique québécois. Le gouvernement nationaliste de François… ». Beau lancement.\n\nSur ce type de nouveau programme, le timing pour penser le dispositif d'évaluation des compétences est en général la période juste avant la première cohorte — ça permet de cadrer proprement la maquette pédagogique et les outils.\n\nChez Isograd, on opère 2 solutions complémentaires pour un programme comme le vôtre :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital). Argument concret en diplômation, sur le CV et auprès des entreprises partenaires.\n\n2. **ITS** pour héberger les sessions d'examen en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\nDéploiement en 4-6 semaines, budget calibré sur le volume étudiants. 15 minutes pour échanger sur votre cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://business-cool.com/decryptage/analyse/quand-le-monde-se-ferme-les-business-schools-souvrent-exemple-neoma-canada/"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Responsable du programme / Directeur(rice) de la formation",
-        "alternatives": [
-          "Coordinateur(rice) pédagogique",
-          "Responsable de filière"
-        ],
-        "priorite": 1,
-        "raison": "Définit le dispositif d'évaluation du nouveau programme",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+du+programme+%2F+Directeur%28rice%29+de+la+formation%22+OR+%22Coordinateur%28rice%29+p%C3%A9dagogique%22+OR+%22Responsable+de+fili%C3%A8re%22&currentCompany=NEOMA",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22NEOMA%22%20Responsable%20du%20programme%20/%20Directeur%28rice%29%20de%20la%20formation%20Coordinateur%28rice%29%20p%C3%A9dagogique%20Responsable%20de%20fili%C3%A8re"
-      },
-      {
-        "poste": "Doyen / Directeur(rice) académique",
-        "alternatives": [
-          "VP Pédagogie",
-          "Directeur(rice) des études"
-        ],
-        "priorite": 2,
-        "raison": "Arbitrage sur l'outillage évaluation à l'échelle de l'établissement",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Doyen+%2F+Directeur%28rice%29+acad%C3%A9mique%22+OR+%22VP+P%C3%A9dagogie%22+OR+%22Directeur%28rice%29+des+%C3%A9tudes%22&currentCompany=NEOMA",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22NEOMA%22%20Doyen%20/%20Directeur%28rice%29%20acad%C3%A9mique%20VP%20P%C3%A9dagogie%20Directeur%28rice%29%20des%20%C3%A9tudes"
-      },
-      {
-        "poste": "Responsable RNCP / Certifications",
-        "alternatives": [
-          "Référent qualité",
-          "Responsable Qualiopi"
-        ],
-        "priorite": 3,
-        "raison": "Cadrage Qualiopi / preuve d'évaluation pour la certification",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+Certifications%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22+OR+%22Responsable+Qualiopi%22&currentCompany=NEOMA",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22NEOMA%22%20Responsable%20RNCP%20/%20Certifications%20R%C3%A9f%C3%A9rent%20qualit%C3%A9%20Responsable%20Qualiopi"
-      }
-    ]
-  },
-  {
     "id": "sig-2026-05-01-beb7d25e358c",
-    "date_capture": "2026-06-26",
+    "date_capture": "2026-06-27",
     "vertical": "education",
     "sous_segment": "Prospect froid — supérieur",
     "compte": "Paris School of Business",
@@ -502,7 +439,7 @@
   },
   {
     "id": "sig-2026-02-01-adeae517fcb1",
-    "date_capture": "2026-06-26",
+    "date_capture": "2026-06-27",
     "vertical": "education",
     "sous_segment": "Cert IA — pilote",
     "compte": "emlyon business school",
@@ -573,7 +510,7 @@
   },
   {
     "id": "sig-2026-01-19-38e40e73ddda",
-    "date_capture": "2026-06-26",
+    "date_capture": "2026-06-27",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "SKEMA Business School",
@@ -636,7 +573,7 @@
   },
   {
     "id": "sig-2026-02-01-70225dc15056",
-    "date_capture": "2026-06-26",
+    "date_capture": "2026-06-27",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "PSL Universite",
@@ -699,7 +636,7 @@
   },
   {
     "id": "sig-2026-02-01-c11ce4f990fe",
-    "date_capture": "2026-06-26",
+    "date_capture": "2026-06-27",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "IONIS Education Group",
@@ -770,7 +707,7 @@
   },
   {
     "id": "sig-2026-05-01-93e815b0ca37",
-    "date_capture": "2026-06-26",
+    "date_capture": "2026-06-27",
     "vertical": "education",
     "sous_segment": "Relance compte tiède",
     "compte": "IAE Aix-Marseille",
@@ -840,7 +777,7 @@
   },
   {
     "id": "sig-2026-02-01-a0908b02289e",
-    "date_capture": "2026-06-26",
+    "date_capture": "2026-06-27",
     "vertical": "education",
     "sous_segment": "Cert IA — pilote",
     "compte": "emlyon business school",
@@ -911,7 +848,7 @@
   },
   {
     "id": "sig-2026-03-12-84376f5a3a00",
-    "date_capture": "2026-06-26",
+    "date_capture": "2026-06-27",
     "vertical": "education",
     "sous_segment": "Prospect froid — supérieur",
     "compte": "Universite Virtuelle de Cote d'Ivoire (UVCI)",
@@ -974,7 +911,7 @@
   },
   {
     "id": "sig-stable-4cc03b95f797",
-    "date_capture": "2026-06-26",
+    "date_capture": "2026-06-27",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "Universite de Technologie de Troyes (UTT)",
@@ -994,7 +931,7 @@
     "action_reco": "📋 **Signal détecté**\nBachelor IA - cursus 3 ans\n\n🎯 **Action à mener**\nA croiser site UTT + LinkedIn avant contact\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-06-26",
+    "date_publication": "2026-06-27",
     "email_draft": {
       "subject": "Universite de Technologie de Troyes (UTT) — Bachelor IA - cursus 3 ans : quelle évaluation prévue ?",
       "body": "Bonjour,\n\nJ'ai vu votre actualité : « Bachelor IA - cursus 3 ans ». Beau lancement.\n\nSur ce type de nouveau programme, le timing pour penser le dispositif d'évaluation des compétences est en général la période juste avant la première cohorte — ça permet de cadrer proprement la maquette pédagogique et les outils.\n\nChez Isograd, on opère 2 solutions complémentaires pour un programme comme le vôtre :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital). Argument concret en diplômation, sur le CV et auprès des entreprises partenaires.\n\n2. **ITS** pour héberger les sessions d'examen en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\n3. **Cert IA** — notre badge co-construit avec des écoles partenaires pour les programmes IA. Concrètement, vos étudiants ressortent du programme avec une certification externe sur les compétences IA appliquées. On a une program beta en cours, vous pourriez en faire partie.\n\nDéploiement en 4-6 semaines, budget calibré sur le volume étudiants. 15 minutes pour échanger sur votre cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://www.letudiant.fr/etudes/lactu-des-formations-de-nouveaux-cursus-en-ia-dans-le-superieur.html"
