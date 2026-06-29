@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-06-23-9e210515c97f",
-    "date_capture": "2026-06-28",
+    "date_capture": "2026-06-29",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Isère. Maxi Zoo",
@@ -30,7 +30,7 @@
   },
   {
     "id": "sig-2026-06-03-654dd923bdbd",
-    "date_capture": "2026-06-28",
+    "date_capture": "2026-06-29",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Akkodis",
@@ -58,37 +58,46 @@
     "contacts_cibles": []
   },
   {
-    "id": "sig-2026-06-27-d4edf60c5b21",
-    "date_capture": "2026-06-28",
+    "id": "sig-2026-06-09-9f67e2bf534f",
+    "date_capture": "2026-06-29",
     "vertical": "corporate",
     "sous_segment": "entreprise",
-    "compte": "province de Thanh Hoa",
-    "titre": "La province de Thanh Hoa prévoit de recruter plus de 2 000 enseignants et responsables de l'éducation en 2026.",
-    "description": "La province de Thanh Hoa prévoit de recruter plus de 2 000 enseignants et responsables de l'éducation en 2026. Vietnam.vn",
-    "source": "Vietnam.vn (via Google News)",
+    "compte": "Kerria AM",
+    "titre": "Aline Chevalier, nouvelle DRH de Kerria AM",
+    "description": "Aline Chevalier, nouvelle DRH de Kerria AM Business Immo",
+    "source": "Business Immo (via Google News)",
     "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbGtZQWNqWFYtMmkxQ0U5Y05TUDRWUXlGNklNYnRHaXR5WHA3ZzJnNzFFTkVCOHpXa28zTW4xT0doNGNXaHJxT0pEaG1CY1F5OVh3RWdIQlpTTWNVcWlaN1Q5cGRUUEoxSWZuNWRwMlE3aTBjZ3hYWWJGb0k2TzFzYmg5R2JROTNUcW5Fd1A3NFZjRmhTS2N0aUo3dzJyMnc4Q2hhZU1R?oc=5",
-    "signal_type": "plan_recrutement",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNclVWRnVMOFdTWTBzaWxKa3JkMU9USWs3VTBDNFZKOVJXOE1lc3FET0N2MnBtSlN4bmhzYWlob0FpY0E1MDM3eG1fbHd0eXBhWk1heHBLeVZLUjVWbmNRZzN3QzZQdGgxRHNIcWhUbk9GWnQ4SE9KQk5QZjlrSmdWWnpLazBlRDhua3IwTTd2dDRFQ0NMZE9tMU1LVExIZG9rZUE?oc=5",
+    "signal_type": "nomination_chro",
     "tier": 1,
-    "score": 93,
+    "score": 90,
     "produit_match": [
-      "ITS"
+      "ITS",
+      "Tosa Corporate"
     ],
     "owner": null,
-    "action_reco": "province de Thanh Hoa : ~2000 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
+    "action_reco": "Fenêtre prise de poste ~30j : InMail/email à Aline Chevalier (Kerria AM) — angle outillage évaluation des compétences (ITS + Tosa).",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-06-27",
+    "date_publication": "2026-06-09",
     "email_draft": {
-      "subject": "province de Thanh Hoa — fiabiliser la pré-qualification de vos recrutements",
-      "body": "Bonjour,\n\nJ'ai lu que province de Thanh Hoa prépare une campagne de recrutement importante (La province de Thanh Hoa prévoit de recruter plus de 2 000 enseignants et responsables de …).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
-      "url_source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbGtZQWNqWFYtMmkxQ0U5Y05TUDRWUXlGNklNYnRHaXR5WHA3ZzJnNzFFTkVCOHpXa28zTW4xT0doNGNXaHJxT0pEaG1CY1F5OVh3RWdIQlpTTWNVcWlaN1Q5cGRUUEoxSWZuNWRwMlE3aTBjZ3hYWWJGb0k2TzFzYmg5R2JROTNUcW5Fd1A3NFZjRmhTS2N0aUo3dzJyMnc4Q2hhZU1R?oc=5"
+      "subject": "Félicitations pour votre nomination DRH chez Kerria AM",
+      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez Kerria AM. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMiogFBVV95cUxNclVWRnVMOFdTWTBzaWxKa3JkMU9USWs3VTBDNFZKOVJXOE1lc3FET0N2MnBtSlN4bmhzYWlob0FpY0E1MDM3eG1fbHd0eXBhWk1heHBLeVZLUjVWbmNRZzN3QzZQdGgxRHNIcWhUbk9GWnQ4SE9KQk5QZjlrSmdWWnpLazBlRDhua3IwTTd2dDRFQ0NMZE9tMU1LVExIZG9rZUE?oc=5"
     },
-    "contacts_cibles": []
+    "contacts_cibles": [
+      {
+        "poste": "La personne nommée (cible directe)",
+        "alternatives": [],
+        "priorite": 1,
+        "raison": "Fenêtre 30j post-prise de poste = haute disposition aux nouveaux outils",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22La+personne+nomm%C3%A9e+%28cible+directe%29%22&currentCompany=Kerria+AM",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Kerria%20AM%22%20La%20personne%20nomm%C3%A9e%20%28cible%20directe%29"
+      }
+    ]
   },
   {
     "id": "sig-2026-06-23-af9857473b04",
-    "date_capture": "2026-06-28",
+    "date_capture": "2026-06-29",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "McDonald's France",
@@ -126,7 +135,7 @@
   },
   {
     "id": "sig-2026-06-04-2c1bc59be3ed",
-    "date_capture": "2026-06-28",
+    "date_capture": "2026-06-29",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Edenred",
@@ -156,7 +165,7 @@
   },
   {
     "id": "sig-2026-06-25-1c9a0b062b4e",
-    "date_capture": "2026-06-28",
+    "date_capture": "2026-06-29",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Alan",
@@ -219,7 +228,7 @@
   },
   {
     "id": "sig-2026-06-24-ad7bae22f61f",
-    "date_capture": "2026-06-28",
+    "date_capture": "2026-06-29",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "DeepMind",
