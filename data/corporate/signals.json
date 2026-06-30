@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-06-23-9e210515c97f",
-    "date_capture": "2026-06-29",
+    "date_capture": "2026-06-30",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Isère. Maxi Zoo",
@@ -30,7 +30,7 @@
   },
   {
     "id": "sig-2026-06-03-654dd923bdbd",
-    "date_capture": "2026-06-29",
+    "date_capture": "2026-06-30",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Akkodis",
@@ -58,46 +58,66 @@
     "contacts_cibles": []
   },
   {
-    "id": "sig-2026-06-09-9f67e2bf534f",
-    "date_capture": "2026-06-29",
+    "id": "sig-2026-06-30-eebab51edfe3",
+    "date_capture": "2026-06-30",
     "vertical": "corporate",
     "sous_segment": "entreprise",
-    "compte": "Kerria AM",
-    "titre": "Aline Chevalier, nouvelle DRH de Kerria AM",
-    "description": "Aline Chevalier, nouvelle DRH de Kerria AM Business Immo",
-    "source": "Business Immo (via Google News)",
+    "compte": "Hanoï",
+    "titre": "Hanoï prévoit de recruter 15 000 ingénieurs au deuxième trimestre 2026.",
+    "description": "Hanoï prévoit de recruter 15 000 ingénieurs au deuxième trimestre 2026. Vietnam.vn",
+    "source": "Vietnam.vn (via Google News)",
     "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNclVWRnVMOFdTWTBzaWxKa3JkMU9USWs3VTBDNFZKOVJXOE1lc3FET0N2MnBtSlN4bmhzYWlob0FpY0E1MDM3eG1fbHd0eXBhWk1heHBLeVZLUjVWbmNRZzN3QzZQdGgxRHNIcWhUbk9GWnQ4SE9KQk5QZjlrSmdWWnpLazBlRDhua3IwTTd2dDRFQ0NMZE9tMU1LVExIZG9rZUE?oc=5",
-    "signal_type": "nomination_chro",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JLTRQWnlnWXJPb2FBTE95eURFNE43ZDRwV0syN0lOS3FKMHRVM2E2WWZsSzBvekhjZ2pVM1E3RU5IaXpqLWRWSGdyWVlnTXFtVEdRNTFXX1NoQnNqY2dqR0VHcS0zeVBFX0tpU2FqRkJsN0pLZXlQSUoyZVRKVHc?oc=5",
+    "signal_type": "plan_recrutement",
     "tier": 1,
-    "score": 90,
+    "score": 93,
     "produit_match": [
-      "ITS",
-      "Tosa Corporate"
+      "ITS"
     ],
     "owner": null,
-    "action_reco": "Fenêtre prise de poste ~30j : InMail/email à Aline Chevalier (Kerria AM) — angle outillage évaluation des compétences (ITS + Tosa).",
+    "action_reco": "Hanoï : ~15000 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-06-09",
+    "date_publication": "2026-06-30",
     "email_draft": {
-      "subject": "Félicitations pour votre nomination DRH chez Kerria AM",
-      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez Kerria AM. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMiogFBVV95cUxNclVWRnVMOFdTWTBzaWxKa3JkMU9USWs3VTBDNFZKOVJXOE1lc3FET0N2MnBtSlN4bmhzYWlob0FpY0E1MDM3eG1fbHd0eXBhWk1heHBLeVZLUjVWbmNRZzN3QzZQdGgxRHNIcWhUbk9GWnQ4SE9KQk5QZjlrSmdWWnpLazBlRDhua3IwTTd2dDRFQ0NMZE9tMU1LVExIZG9rZUE?oc=5"
+      "subject": "Hanoï — fiabiliser la pré-qualification de vos recrutements",
+      "body": "Bonjour,\n\nJ'ai lu que Hanoï prépare une campagne de recrutement importante (Hanoï prévoit de recruter 15 000 ingénieurs au deuxième trimestre 2026.…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
+      "url_source": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JLTRQWnlnWXJPb2FBTE95eURFNE43ZDRwV0syN0lOS3FKMHRVM2E2WWZsSzBvekhjZ2pVM1E3RU5IaXpqLWRWSGdyWVlnTXFtVEdRNTFXX1NoQnNqY2dqR0VHcS0zeVBFX0tpU2FqRkJsN0pLZXlQSUoyZVRKVHc?oc=5"
     },
-    "contacts_cibles": [
-      {
-        "poste": "La personne nommée (cible directe)",
-        "alternatives": [],
-        "priorite": 1,
-        "raison": "Fenêtre 30j post-prise de poste = haute disposition aux nouveaux outils",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22La+personne+nomm%C3%A9e+%28cible+directe%29%22&currentCompany=Kerria+AM",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Kerria%20AM%22%20La%20personne%20nomm%C3%A9e%20%28cible%20directe%29"
-      }
-    ]
+    "contacts_cibles": []
+  },
+  {
+    "id": "sig-2026-06-27-d4edf60c5b21",
+    "date_capture": "2026-06-30",
+    "vertical": "corporate",
+    "sous_segment": "entreprise",
+    "compte": "province de Thanh Hoa",
+    "titre": "La province de Thanh Hoa prévoit de recruter plus de 2 000 enseignants et responsables de l'éducation en 2026.",
+    "description": "La province de Thanh Hoa prévoit de recruter plus de 2 000 enseignants et responsables de l'éducation en 2026. Vietnam.vn",
+    "source": "Vietnam.vn (via Google News)",
+    "source_tier": 2,
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbGtZQWNqWFYtMmkxQ0U5Y05TUDRWUXlGNklNYnRHaXR5WHA3ZzJnNzFFTkVCOHpXa28zTW4xT0doNGNXaHJxT0pEaG1CY1F5OVh3RWdIQlpTTWNVcWlaN1Q5cGRUUEoxSWZuNWRwMlE3aTBjZ3hYWWJGb0k2TzFzYmg5R2JROTNUcW5Fd1A3NFZjRmhTS2N0aUo3dzJyMnc4Q2hhZU1R?oc=5",
+    "signal_type": "plan_recrutement",
+    "tier": 1,
+    "score": 93,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": null,
+    "action_reco": "province de Thanh Hoa : ~2000 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-06-27",
+    "email_draft": {
+      "subject": "province de Thanh Hoa — fiabiliser la pré-qualification de vos recrutements",
+      "body": "Bonjour,\n\nJ'ai lu que province de Thanh Hoa prépare une campagne de recrutement importante (La province de Thanh Hoa prévoit de recruter plus de 2 000 enseignants et responsables de …).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
+      "url_source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbGtZQWNqWFYtMmkxQ0U5Y05TUDRWUXlGNklNYnRHaXR5WHA3ZzJnNzFFTkVCOHpXa28zTW4xT0doNGNXaHJxT0pEaG1CY1F5OVh3RWdIQlpTTWNVcWlaN1Q5cGRUUEoxSWZuNWRwMlE3aTBjZ3hYWWJGb0k2TzFzYmg5R2JROTNUcW5Fd1A3NFZjRmhTS2N0aUo3dzJyMnc4Q2hhZU1R?oc=5"
+    },
+    "contacts_cibles": []
   },
   {
     "id": "sig-2026-06-23-af9857473b04",
-    "date_capture": "2026-06-29",
+    "date_capture": "2026-06-30",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "McDonald's France",
@@ -135,7 +155,7 @@
   },
   {
     "id": "sig-2026-06-04-2c1bc59be3ed",
-    "date_capture": "2026-06-29",
+    "date_capture": "2026-06-30",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Edenred",
@@ -165,7 +185,7 @@
   },
   {
     "id": "sig-2026-06-25-1c9a0b062b4e",
-    "date_capture": "2026-06-29",
+    "date_capture": "2026-06-30",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Alan",
@@ -223,69 +243,6 @@
         "raison": "Sous-décideur — peut tester l'outil rapidement",
         "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Alan",
         "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Alan%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
-      }
-    ]
-  },
-  {
-    "id": "sig-2026-06-24-ad7bae22f61f",
-    "date_capture": "2026-06-29",
-    "vertical": "corporate",
-    "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
-    "compte": "DeepMind",
-    "titre": "DeepMind handpicked this startup for its robotics accelerator. Now it’s raised an $11.7m seed round",
-    "description": "",
-    "source": "Sifted",
-    "source_tier": 1,
-    "url": "https://sifted.eu/articles/deepmind-robotics-accelerator-acumino-seed-round/",
-    "signal_type": "levee_fonds",
-    "tier": 3,
-    "score": 50,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Source** : https://sifted.eu/articles/deepmind-robotics-accelerator-acumino-seed-round/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 11.7M USD (~10.8M€) → Series A late, signal mais startup encore early\n📌 À surveiller — relancer dans 3-6 mois quand ils auront recruté 30+\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-06-24",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-06-24",
-    "email_draft": {
-      "subject": "DeepMind — votre Series — sur l'évaluation candidats à scale",
-      "body": "Bonjour,\n\nJe viens de voir que DeepMind a bouclé une levée de 11.7M USD (~10.8M€). Bravo pour cette étape.\n\nUne levée à cette taille s'accompagne souvent d'un plan de recrutement ambitieux. Anticiper l'outillage évite la dette technique RH.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/deepmind-robotics-accelerator-acumino-seed-round/"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Chief People Officer",
-        "alternatives": [
-          "Head of People",
-          "VP People",
-          "DRH"
-        ],
-        "priorite": 1,
-        "raison": "Décide outils RH stratégiques post-levée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=DeepMind",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22DeepMind%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
-      },
-      {
-        "poste": "Head of Talent Acquisition",
-        "alternatives": [
-          "Talent Acquisition Director",
-          "Head of Recruiting"
-        ],
-        "priorite": 2,
-        "raison": "Opérationnel — gère le plan de recrutement massif",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=DeepMind",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22DeepMind%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
-      },
-      {
-        "poste": "Head of Hiring",
-        "alternatives": [
-          "Hiring Manager",
-          "Recruitment Director"
-        ],
-        "priorite": 3,
-        "raison": "Sous-décideur — peut tester l'outil rapidement",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=DeepMind",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22DeepMind%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
       }
     ]
   }
