@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-06-22-3b33c749533a",
-    "date_capture": "2026-06-30",
+    "date_capture": "2026-07-01",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "Jérôme",
@@ -18,7 +18,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nLe nouveau directeur de l’Institut national du service public (INSP) dresse les priorités de son mandat. Jérôme Filippini a pris ses fonctions en janvier dernier, en pleine réforme de la procédure de…\n\n🎯 **Action à mener**\nNote LinkedIn 100 premiers jours du nouveau DG. Angle « bilan rapide du dispositif certification ». Brief équipe sur les comptes Tosa déjà présents chez Jérôme.\n\n💡 **Angle pitch ITS/Tosa**\nFenêtre stratégique post-prise de poste : nouveau directeur cherche à poser sa marque. Apport rapide = Tosa pour signal externe + ITS pour structurer la passation.\n\n📅 **Timing**\n30-90 jours après l'annonce. Au-delà, la roadmap est figée.",
-    "deadline_action": "2026-07-07",
+    "deadline_action": "2026-07-08",
     "status": "new",
     "date_publication": "2026-06-22",
     "email_draft": {
@@ -62,70 +62,8 @@
     ]
   },
   {
-    "id": "sig-2026-06-16-da39c9b0dad3",
-    "date_capture": "2026-06-30",
-    "vertical": "education",
-    "sous_segment": "grande-ecole",
-    "compte": "Thibault Cheviron",
-    "titre": "Nuclétudes : l’exigence au service de la souveraineté – L’interview de Thibault Cheviron",
-    "description": "À la tête de Nuclétudes, Thibault Cheviron travaille sur la robustesse des systèmes critiques face aux environnements extrêmes. L’article Nuclétudes : l’exigence au service de la souveraineté – L’interview de Thibault Cheviron est apparu en premier sur Monde des grandes écoles et universités .",
-    "source": "Monde des Grandes Écoles",
-    "source_tier": 2,
-    "url": "https://www.mondedesgrandesecoles.fr/nucletudes-lexigence-au-service-de-la-souverainete-linterview-de-thibault-cheviron/",
-    "signal_type": "nomination_dg",
-    "tier": 1,
-    "score": 85,
-    "produit_match": [
-      "Pack Education Tosa"
-    ],
-    "owner": null,
-    "action_reco": "📋 **Signal détecté**\nÀ la tête de Nuclétudes, Thibault Cheviron travaille sur la robustesse des systèmes critiques face aux environnements extrêmes. L’article Nuclétudes : l’exigence au service de la souveraineté –…\n\n🎯 **Action à mener**\nNote LinkedIn 100 premiers jours du nouveau DG. Angle « bilan rapide du dispositif certification ». Brief équipe sur les comptes Tosa déjà présents chez Thibault Cheviron.\n\n💡 **Angle pitch ITS/Tosa**\nFenêtre stratégique post-prise de poste : nouveau directeur cherche à poser sa marque. Apport rapide = Tosa pour signal externe + ITS pour structurer la passation.\n\n📅 **Timing**\n30-90 jours après l'annonce. Au-delà, la roadmap est figée.",
-    "deadline_action": "2026-07-07",
-    "status": "new",
-    "date_publication": "2026-06-16",
-    "email_draft": {
-      "subject": "Thibault Cheviron — nouvelle direction : quels chantiers évaluation prévus ?",
-      "body": "Bonjour,\n\nJ'ai noté votre arrivée à la direction chez Thibault Cheviron.\nContexte que j'ai vu passer : « À la tête de Nuclétudes, Thibault Cheviron travaille sur la robustesse des systèmes critiques face aux environnements extrêmes… ».\n\nFélicitations pour cette prise de poste — belle étape.\n\nJe me permets de vous écrire car beaucoup de directeurs récemment nommés dans le supérieur partagent le même constat à 60-90 jours : besoin de poser rapidement une stratégie claire sur l'évaluation des compétences étudiants — pour répondre aux exigences Qualiopi/RNCP et aux attentes des entreprises partenaires.\n\nChez Isograd, deux solutions utilisées par des écoles comparables :\n\n1. **Tosa** — certification des compétences numériques étudiants (bureautique, code, digital). Argument fort en diplômation, CV, et classements.\n\n2. **ITS** — plateforme d'hébergement d'examens en ligne avec proctoring et banque de questions, opposable en audit.\n\n15 minutes pour vous montrer ce que d'autres directions ont mis en place dans leurs premiers mois ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource de l'info : https://www.mondedesgrandesecoles.fr/nucletudes-lexigence-au-service-de-la-souverainete-linterview-de-thibault-cheviron/"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Le(la) nouveau(elle) directeur(rice) directement",
-        "alternatives": [
-          "Directeur(rice) général(e)",
-          "Présidence"
-        ],
-        "priorite": 1,
-        "raison": "Fenêtre 30-90j post-prise de poste — ouvert aux nouveaux chantiers",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Le%28la%29+nouveau%28elle%29+directeur%28rice%29+directement%22+OR+%22Directeur%28rice%29+g%C3%A9n%C3%A9ral%28e%29%22+OR+%22Pr%C3%A9sidence%22&currentCompany=Thibault+Cheviron",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Thibault%20Cheviron%22%20Le%28la%29%20nouveau%28elle%29%20directeur%28rice%29%20directement%20Directeur%28rice%29%20g%C3%A9n%C3%A9ral%28e%29%20Pr%C3%A9sidence"
-      },
-      {
-        "poste": "Directeur(rice) de cabinet / Adjoint(e)",
-        "alternatives": [
-          "Bras droit",
-          "Chief of Staff"
-        ],
-        "priorite": 2,
-        "raison": "Pré-qualifie les dossiers stratégiques du nouveau directeur",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+de+cabinet+%2F+Adjoint%28e%29%22+OR+%22Bras+droit%22+OR+%22Chief+of+Staff%22&currentCompany=Thibault+Cheviron",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Thibault%20Cheviron%22%20Directeur%28rice%29%20de%20cabinet%20/%20Adjoint%28e%29%20Bras%20droit%20Chief%20of%20Staff"
-      },
-      {
-        "poste": "Directeur(rice) des programmes / Académique",
-        "alternatives": [
-          "Doyen",
-          "VP Pédagogie"
-        ],
-        "priorite": 3,
-        "raison": "Souvent en pleine relecture de la roadmap pédagogique post-nomination",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+des+programmes+%2F+Acad%C3%A9mique%22+OR+%22Doyen%22+OR+%22VP+P%C3%A9dagogie%22&currentCompany=Thibault+Cheviron",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Thibault%20Cheviron%22%20Directeur%28rice%29%20des%20programmes%20/%20Acad%C3%A9mique%20Doyen%20VP%20P%C3%A9dagogie"
-      }
-    ]
-  },
-  {
     "id": "sig-2026-01-19-4880fa2c26b5",
-    "date_capture": "2026-06-30",
+    "date_capture": "2026-07-01",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "SKEMA Business School",
@@ -188,7 +126,7 @@
   },
   {
     "id": "sig-2026-02-01-5c1d41c5837e",
-    "date_capture": "2026-06-30",
+    "date_capture": "2026-07-01",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "Ecole polytechnique",
@@ -251,7 +189,7 @@
   },
   {
     "id": "sig-2026-02-01-db338c98dff8",
-    "date_capture": "2026-06-30",
+    "date_capture": "2026-07-01",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "aivancity",
@@ -314,7 +252,7 @@
   },
   {
     "id": "sig-2026-06-29-c5d8ac0fe517",
-    "date_capture": "2026-06-30",
+    "date_capture": "2026-07-01",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "Audencia",
@@ -332,7 +270,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nAudencia et l&#8217;Adie Pays de la Loire dévoilent « L&#8217;Entrepreneuriat pour tous », un podcast réalisé avec des étudiants d&#8217;Audencia SciencesCom. À travers cinq premiers épisodes, cette…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme Audencia. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-07-07",
+    "deadline_action": "2026-07-08",
     "status": "new",
     "date_publication": "2026-06-29",
     "email_draft": {
@@ -377,7 +315,7 @@
   },
   {
     "id": "sig-2026-05-01-beb7d25e358c",
-    "date_capture": "2026-06-30",
+    "date_capture": "2026-07-01",
     "vertical": "education",
     "sous_segment": "Prospect froid — supérieur",
     "compte": "Paris School of Business",
@@ -440,7 +378,7 @@
   },
   {
     "id": "sig-2026-02-01-adeae517fcb1",
-    "date_capture": "2026-06-30",
+    "date_capture": "2026-07-01",
     "vertical": "education",
     "sous_segment": "Cert IA — pilote",
     "compte": "emlyon business school",
@@ -511,7 +449,7 @@
   },
   {
     "id": "sig-2026-01-19-38e40e73ddda",
-    "date_capture": "2026-06-30",
+    "date_capture": "2026-07-01",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "SKEMA Business School",
@@ -574,7 +512,7 @@
   },
   {
     "id": "sig-2026-02-01-70225dc15056",
-    "date_capture": "2026-06-30",
+    "date_capture": "2026-07-01",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "PSL Universite",
@@ -637,7 +575,7 @@
   },
   {
     "id": "sig-2026-02-01-c11ce4f990fe",
-    "date_capture": "2026-06-30",
+    "date_capture": "2026-07-01",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "IONIS Education Group",
@@ -708,7 +646,7 @@
   },
   {
     "id": "sig-2026-05-01-93e815b0ca37",
-    "date_capture": "2026-06-30",
+    "date_capture": "2026-07-01",
     "vertical": "education",
     "sous_segment": "Relance compte tiède",
     "compte": "IAE Aix-Marseille",
@@ -778,7 +716,7 @@
   },
   {
     "id": "sig-2026-02-01-a0908b02289e",
-    "date_capture": "2026-06-30",
+    "date_capture": "2026-07-01",
     "vertical": "education",
     "sous_segment": "Cert IA — pilote",
     "compte": "emlyon business school",
@@ -849,7 +787,7 @@
   },
   {
     "id": "sig-2026-03-12-84376f5a3a00",
-    "date_capture": "2026-06-30",
+    "date_capture": "2026-07-01",
     "vertical": "education",
     "sous_segment": "Prospect froid — supérieur",
     "compte": "Universite Virtuelle de Cote d'Ivoire (UVCI)",
@@ -912,7 +850,7 @@
   },
   {
     "id": "sig-stable-4cc03b95f797",
-    "date_capture": "2026-06-30",
+    "date_capture": "2026-07-01",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "Universite de Technologie de Troyes (UTT)",
@@ -932,7 +870,7 @@
     "action_reco": "📋 **Signal détecté**\nBachelor IA - cursus 3 ans\n\n🎯 **Action à mener**\nA croiser site UTT + LinkedIn avant contact\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-06-30",
+    "date_publication": "2026-07-01",
     "email_draft": {
       "subject": "Universite de Technologie de Troyes (UTT) — Bachelor IA - cursus 3 ans : quelle évaluation prévue ?",
       "body": "Bonjour,\n\nJ'ai vu votre actualité : « Bachelor IA - cursus 3 ans ». Beau lancement.\n\nSur ce type de nouveau programme, le timing pour penser le dispositif d'évaluation des compétences est en général la période juste avant la première cohorte — ça permet de cadrer proprement la maquette pédagogique et les outils.\n\nChez Isograd, on opère 2 solutions complémentaires pour un programme comme le vôtre :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital). Argument concret en diplômation, sur le CV et auprès des entreprises partenaires.\n\n2. **ITS** pour héberger les sessions d'examen en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\n3. **Cert IA** — notre badge co-construit avec des écoles partenaires pour les programmes IA. Concrètement, vos étudiants ressortent du programme avec une certification externe sur les compétences IA appliquées. On a une program beta en cours, vous pourriez en faire partie.\n\nDéploiement en 4-6 semaines, budget calibré sur le volume étudiants. 15 minutes pour échanger sur votre cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://www.letudiant.fr/etudes/lactu-des-formations-de-nouveaux-cursus-en-ia-dans-le-superieur.html"
