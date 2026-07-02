@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-07-01-4ac5fa20633c",
-    "date_capture": "2026-07-01",
+    "date_capture": "2026-07-02",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Singapour : OCBC",
@@ -30,7 +30,7 @@
   },
   {
     "id": "sig-2026-06-23-9e210515c97f",
-    "date_capture": "2026-07-01",
+    "date_capture": "2026-07-02",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Isère. Maxi Zoo",
@@ -58,37 +58,8 @@
     "contacts_cibles": []
   },
   {
-    "id": "sig-2026-06-03-654dd923bdbd",
-    "date_capture": "2026-07-01",
-    "vertical": "corporate",
-    "sous_segment": "entreprise",
-    "compte": "Akkodis",
-    "titre": "Akkodis recrute plus de 400 personnes autour de Toulouse",
-    "description": "Akkodis recrute plus de 400 personnes autour de Toulouse vie-economique.com",
-    "source": "vie-economique.com (via Google News)",
-    "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeHVaSkRFcnFnMTI1d3E5MmdRQ2xxRndEd09GTkVzeWQwMWlmOHNRenFUdXNkNXBDTWZpQTFEZ3JydnVhV0o5WXdCa3c0N21RQWdqeHVaV0dsM0ZIZjRQcXVzUTZodDlROFNEcElZZ3VzdDduNEdfM2UzeC1oNmxKNGc5dmgxbHpXaTNTRWVjQ2I0MTNGand5cnNsZXhLdllk?oc=5",
-    "signal_type": "plan_recrutement",
-    "tier": 1,
-    "score": 93,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": null,
-    "action_reco": "Akkodis : ~400 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-06-03",
-    "email_draft": {
-      "subject": "Akkodis — fiabiliser la pré-qualification de vos recrutements",
-      "body": "Bonjour,\n\nJ'ai lu que Akkodis prépare une campagne de recrutement importante (Akkodis recrute plus de 400 personnes autour de Toulouse…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
-      "url_source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeHVaSkRFcnFnMTI1d3E5MmdRQ2xxRndEd09GTkVzeWQwMWlmOHNRenFUdXNkNXBDTWZpQTFEZ3JydnVhV0o5WXdCa3c0N21RQWdqeHVaV0dsM0ZIZjRQcXVzUTZodDlROFNEcElZZ3VzdDduNEdfM2UzeC1oNmxKNGc5dmgxbHpXaTNTRWVjQ2I0MTNGand5cnNsZXhLdllk?oc=5"
-    },
-    "contacts_cibles": []
-  },
-  {
     "id": "sig-2026-06-30-eebab51edfe3",
-    "date_capture": "2026-07-01",
+    "date_capture": "2026-07-02",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Hanoï",
@@ -116,8 +87,37 @@
     "contacts_cibles": []
   },
   {
+    "id": "sig-2026-07-01-8f86987cacbd",
+    "date_capture": "2026-07-02",
+    "vertical": "corporate",
+    "sous_segment": "entreprise",
+    "compte": "Manchester City",
+    "titre": "Manchester City prévoit de recruter Bouaddi et de le laisser à Lille jusqu'en 2027-2028",
+    "description": "Manchester City prévoit de recruter Bouaddi et de le laisser à Lille jusqu'en 2027-2028 Elbotola",
+    "source": "Elbotola (via Google News)",
+    "source_tier": 2,
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13OWVxckxZZDBoYW55NUJEUkhaNkhUai1IbjdoYW5BOEdId2VlSmRzLW84SEotNUU2dEJLNlA5Y0lJZ180NzVqTTZ3NWVuaUIxWUxUUk1zdWp3dWZwdmluMHctS0diQnBESXc?oc=5",
+    "signal_type": "plan_recrutement",
+    "tier": 1,
+    "score": 93,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": null,
+    "action_reco": "Manchester City : ~2027 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-07-01",
+    "email_draft": {
+      "subject": "Manchester City — fiabiliser la pré-qualification de vos recrutements",
+      "body": "Bonjour,\n\nJ'ai lu que Manchester City prépare une campagne de recrutement importante (Manchester City prévoit de recruter Bouaddi et de le laisser à Lille jusqu'en 2027-2028…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
+      "url_source": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13OWVxckxZZDBoYW55NUJEUkhaNkhUai1IbjdoYW5BOEdId2VlSmRzLW84SEotNUU2dEJLNlA5Y0lJZ180NzVqTTZ3NWVuaUIxWUxUUk1zdWp3dWZwdmluMHctS0diQnBESXc?oc=5"
+    },
+    "contacts_cibles": []
+  },
+  {
     "id": "sig-2026-06-23-af9857473b04",
-    "date_capture": "2026-07-01",
+    "date_capture": "2026-07-02",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "McDonald's France",
@@ -155,7 +155,7 @@
   },
   {
     "id": "sig-2026-06-04-2c1bc59be3ed",
-    "date_capture": "2026-07-01",
+    "date_capture": "2026-07-02",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Edenred",
