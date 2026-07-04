@@ -1,36 +1,7 @@
 [
   {
-    "id": "sig-2026-07-01-4ac5fa20633c",
-    "date_capture": "2026-07-03",
-    "vertical": "corporate",
-    "sous_segment": "entreprise",
-    "compte": "Singapour : OCBC",
-    "titre": "Singapour : OCBC va recruter 600 chargés de clientèle et lance une application d'avatars IA pour sa gestion de fortune",
-    "description": "Singapour : OCBC va recruter 600 chargés de clientèle et lance une application d'avatars IA pour sa gestion de fortune Zonebourse Suisse",
-    "source": "Zonebourse Suisse (via Google News)",
-    "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZ0dHQkljYUc0bmJvTW5udFV3MWZaNTQ1OU90OV96MkF6aHh2ZDI1SHd5enp5Tk1mNGExYktycm02QVlUdldreXdaeHQ5Slp2TnBxYTkyclRhOF9MOUpiMjJuT2o1OS1uT1dxWFJ1WFUxVG92NlJFNDFqby1HSE4wdkZNXzBPdG5iWnh3SllsbGtHYWxickdPc01WRVU5clJkS2tFUVE5N2ZHMnp0UE0zUURrQ1lNcXlSVTJHNG5rV1ZfU19qSDA5S3hNczRKdGp0ejlNRDVYcl9NUGlNZGd3SERmY2MyT3RDeFJYa09n?oc=5",
-    "signal_type": "plan_recrutement",
-    "tier": 1,
-    "score": 93,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": null,
-    "action_reco": "Singapour : OCBC : ~600 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-07-01",
-    "email_draft": {
-      "subject": "Singapour : OCBC — fiabiliser la pré-qualification de vos recrutements",
-      "body": "Bonjour,\n\nJ'ai lu que Singapour : OCBC prépare une campagne de recrutement importante (Singapour : OCBC va recruter 600 chargés de clientèle et lance une application d'avatars I…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
-      "url_source": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZ0dHQkljYUc0bmJvTW5udFV3MWZaNTQ1OU90OV96MkF6aHh2ZDI1SHd5enp5Tk1mNGExYktycm02QVlUdldreXdaeHQ5Slp2TnBxYTkyclRhOF9MOUpiMjJuT2o1OS1uT1dxWFJ1WFUxVG92NlJFNDFqby1HSE4wdkZNXzBPdG5iWnh3SllsbGtHYWxickdPc01WRVU5clJkS2tFUVE5N2ZHMnp0UE0zUURrQ1lNcXlSVTJHNG5rV1ZfU19qSDA5S3hNczRKdGp0ejlNRDVYcl9NUGlNZGd3SERmY2MyT3RDeFJYa09n?oc=5"
-    },
-    "contacts_cibles": []
-  },
-  {
     "id": "sig-2026-06-23-9e210515c97f",
-    "date_capture": "2026-07-03",
+    "date_capture": "2026-07-04",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Isère. Maxi Zoo",
@@ -58,8 +29,37 @@
     "contacts_cibles": []
   },
   {
+    "id": "sig-2026-07-01-4ac5fa20633c",
+    "date_capture": "2026-07-04",
+    "vertical": "corporate",
+    "sous_segment": "entreprise",
+    "compte": "Singapour : OCBC",
+    "titre": "Singapour : OCBC va recruter 600 chargés de clientèle et lance une application d'avatars IA pour sa gestion de fortune",
+    "description": "Singapour : OCBC va recruter 600 chargés de clientèle et lance une application d'avatars IA pour sa gestion de fortune Zonebourse Suisse",
+    "source": "Zonebourse Suisse (via Google News)",
+    "source_tier": 2,
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZ0dHQkljYUc0bmJvTW5udFV3MWZaNTQ1OU90OV96MkF6aHh2ZDI1SHd5enp5Tk1mNGExYktycm02QVlUdldreXdaeHQ5Slp2TnBxYTkyclRhOF9MOUpiMjJuT2o1OS1uT1dxWFJ1WFUxVG92NlJFNDFqby1HSE4wdkZNXzBPdG5iWnh3SllsbGtHYWxickdPc01WRVU5clJkS2tFUVE5N2ZHMnp0UE0zUURrQ1lNcXlSVTJHNG5rV1ZfU19qSDA5S3hNczRKdGp0ejlNRDVYcl9NUGlNZGd3SERmY2MyT3RDeFJYa09n?oc=5",
+    "signal_type": "plan_recrutement",
+    "tier": 1,
+    "score": 93,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": null,
+    "action_reco": "Singapour : OCBC : ~600 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-07-01",
+    "email_draft": {
+      "subject": "Singapour : OCBC — fiabiliser la pré-qualification de vos recrutements",
+      "body": "Bonjour,\n\nJ'ai lu que Singapour : OCBC prépare une campagne de recrutement importante (Singapour : OCBC va recruter 600 chargés de clientèle et lance une application d'avatars I…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
+      "url_source": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZ0dHQkljYUc0bmJvTW5udFV3MWZaNTQ1OU90OV96MkF6aHh2ZDI1SHd5enp5Tk1mNGExYktycm02QVlUdldreXdaeHQ5Slp2TnBxYTkyclRhOF9MOUpiMjJuT2o1OS1uT1dxWFJ1WFUxVG92NlJFNDFqby1HSE4wdkZNXzBPdG5iWnh3SllsbGtHYWxickdPc01WRVU5clJkS2tFUVE5N2ZHMnp0UE0zUURrQ1lNcXlSVTJHNG5rV1ZfU19qSDA5S3hNczRKdGp0ejlNRDVYcl9NUGlNZGd3SERmY2MyT3RDeFJYa09n?oc=5"
+    },
+    "contacts_cibles": []
+  },
+  {
     "id": "sig-2026-07-02-c01508c0414a",
-    "date_capture": "2026-07-03",
+    "date_capture": "2026-07-04",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "marine belge",
@@ -88,7 +88,7 @@
   },
   {
     "id": "sig-2026-06-30-eebab51edfe3",
-    "date_capture": "2026-07-03",
+    "date_capture": "2026-07-04",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Hanoï",
@@ -117,7 +117,7 @@
   },
   {
     "id": "sig-2026-07-01-8f86987cacbd",
-    "date_capture": "2026-07-03",
+    "date_capture": "2026-07-04",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Manchester City",
@@ -146,7 +146,7 @@
   },
   {
     "id": "sig-2026-06-23-af9857473b04",
-    "date_capture": "2026-07-03",
+    "date_capture": "2026-07-04",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "McDonald's France",
@@ -184,7 +184,7 @@
   },
   {
     "id": "sig-2026-06-04-2c1bc59be3ed",
-    "date_capture": "2026-07-03",
+    "date_capture": "2026-07-04",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Edenred",
@@ -209,6 +209,36 @@
       "subject": "Edenred — mesurer le socle de compétences IA de vos équipes",
       "body": "Bonjour,\n\nVotre initiative de formation à l'IA (Edenred rejoint le consortium Quintessence AI pour former ses 12 000 salariés…) m'a interpellé.\n\nPour piloter ce type de programme, nos clients mesurent un socle de compétences avant/après (certification Tosa, plateforme ITS pour vos contenus propres). La Certification IA Tosa sort en septembre 2026 — programme partenaires de lancement en cours.\n\nUn échange de 20 minutes pour voir si cela peut soutenir votre déploiement ?\n\nBien cordialement,\nCharles Gosset — Isograd",
       "url_source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRFVsdmNIdk1tR0dDWF9uNWxCTFhMODhWakJ0NTN4VzFUM2VVbFJxZUdMY3RaQWwxa1F4VVFLSHB6dmlZSU9rd2ZfQ3ZneU03eXdVUmVXSXJHTklQYTMtTFI1b1N2bUg0MU0tNVJveXBrSHVZWW9ibUlBNllldnlIZm53Q0NjTmZVc252RXFwYmU4MW5OcDdwX3R6U1lvLTcwTmNoU1NZYThYTFFGeGs2dk1uMENaS29LcVRqVlZlMUJabVZOMjNfbmRpRjM?oc=5"
+    },
+    "contacts_cibles": []
+  },
+  {
+    "id": "sig-2026-07-03-1b3b37b46ed5",
+    "date_capture": "2026-07-04",
+    "vertical": "corporate",
+    "sous_segment": "entreprise",
+    "compte": "France Travail",
+    "titre": "France Travail va former 5 000 agents IA à répondre de façon désagréable",
+    "description": "France Travail va former 5 000 agents IA à répondre de façon désagréable Le Gorafi.fr Gorafi News Network",
+    "source": "Le Gorafi.fr Gorafi News Network (via Google News)",
+    "source_tier": 2,
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX0hrdzNvT2g2VllIc1NIQy1tUEx4Q3pMQ1dnQng1aEJyOWNmZkJZdHFtWmNfeFhxWjBGV3hvTTd0Q3hxVFV1RXdqV21nSU03MVVkdHVZV0wyaFRNajRLOWpWcWdoRjVzSF9LVjF4c0ZobGZlUjhEdC01TF8zXzQ0YzVtZUs0SWdlcWUyS3QwaUNOMzVsdVdKS1ctR3NuS2Z6V3pSQ1BmZUlmMXoz0gG0AUFVX3lxTFBWT0JMR2VsRUZQM3FjdG9DN29pYng4eUswdzFwdzk5TUhJelFUU3RWeExhd0VCQ2ljRENaMjhnZVE3czdnVWVZQnJzdE50cW4tbG5ZT1U1NmV0ZjFSbnh3bXNHQkdHZlhPa2g5ZDdDbWNHUjMtTk5RQmNlSGRFUXpSRkZkcFoteGd2X3BhWXZQQnJGSzJqRFo1ZHN5eU5IN0xxVDM1a0cyTVlpTl81bWpRMGEwYQ?oc=5",
+    "signal_type": "plan_ia",
+    "tier": 1,
+    "score": 85,
+    "produit_match": [
+      "ITS",
+      "Tosa Corporate"
+    ],
+    "owner": null,
+    "action_reco": "France Travail : plan de formation IA. Cibler Head of L&D / CDO — pitch mesure de socle (Cert IA Tosa sept 2026, programme partenaires).",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-07-03",
+    "email_draft": {
+      "subject": "France Travail — mesurer le socle de compétences IA de vos équipes",
+      "body": "Bonjour,\n\nVotre initiative de formation à l'IA (France Travail va former 5 000 agents IA à répondre de façon désagréable…) m'a interpellé.\n\nPour piloter ce type de programme, nos clients mesurent un socle de compétences avant/après (certification Tosa, plateforme ITS pour vos contenus propres). La Certification IA Tosa sort en septembre 2026 — programme partenaires de lancement en cours.\n\nUn échange de 20 minutes pour voir si cela peut soutenir votre déploiement ?\n\nBien cordialement,\nCharles Gosset — Isograd",
+      "url_source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX0hrdzNvT2g2VllIc1NIQy1tUEx4Q3pMQ1dnQng1aEJyOWNmZkJZdHFtWmNfeFhxWjBGV3hvTTd0Q3hxVFV1RXdqV21nSU03MVVkdHVZV0wyaFRNajRLOWpWcWdoRjVzSF9LVjF4c0ZobGZlUjhEdC01TF8zXzQ0YzVtZUs0SWdlcWUyS3QwaUNOMzVsdVdKS1ctR3NuS2Z6V3pSQ1BmZUlmMXoz0gG0AUFVX3lxTFBWT0JMR2VsRUZQM3FjdG9DN29pYng4eUswdzFwdzk5TUhJelFUU3RWeExhd0VCQ2ljRENaMjhnZVE3czdnVWVZQnJzdE50cW4tbG5ZT1U1NmV0ZjFSbnh3bXNHQkdHZlhPa2g5ZDdDbWNHUjMtTk5RQmNlSGRFUXpSRkZkcFoteGd2X3BhWXZQQnJGSzJqRFo1ZHN5eU5IN0xxVDM1a0cyTVlpTl81bWpRMGEwYQ?oc=5"
     },
     "contacts_cibles": []
   }
