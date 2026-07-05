@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-06-23-9e210515c97f",
-    "date_capture": "2026-07-04",
+    "date_capture": "2026-07-05",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Isère. Maxi Zoo",
@@ -30,7 +30,7 @@
   },
   {
     "id": "sig-2026-07-01-4ac5fa20633c",
-    "date_capture": "2026-07-04",
+    "date_capture": "2026-07-05",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Singapour : OCBC",
@@ -59,7 +59,7 @@
   },
   {
     "id": "sig-2026-07-02-c01508c0414a",
-    "date_capture": "2026-07-04",
+    "date_capture": "2026-07-05",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "marine belge",
@@ -88,7 +88,7 @@
   },
   {
     "id": "sig-2026-06-30-eebab51edfe3",
-    "date_capture": "2026-07-04",
+    "date_capture": "2026-07-05",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Hanoï",
@@ -116,37 +116,8 @@
     "contacts_cibles": []
   },
   {
-    "id": "sig-2026-07-01-8f86987cacbd",
-    "date_capture": "2026-07-04",
-    "vertical": "corporate",
-    "sous_segment": "entreprise",
-    "compte": "Manchester City",
-    "titre": "Manchester City prévoit de recruter Bouaddi et de le laisser à Lille jusqu'en 2027-2028",
-    "description": "Manchester City prévoit de recruter Bouaddi et de le laisser à Lille jusqu'en 2027-2028 Elbotola",
-    "source": "Elbotola (via Google News)",
-    "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13OWVxckxZZDBoYW55NUJEUkhaNkhUai1IbjdoYW5BOEdId2VlSmRzLW84SEotNUU2dEJLNlA5Y0lJZ180NzVqTTZ3NWVuaUIxWUxUUk1zdWp3dWZwdmluMHctS0diQnBESXc?oc=5",
-    "signal_type": "plan_recrutement",
-    "tier": 1,
-    "score": 93,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": null,
-    "action_reco": "Manchester City : ~2027 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-07-01",
-    "email_draft": {
-      "subject": "Manchester City — fiabiliser la pré-qualification de vos recrutements",
-      "body": "Bonjour,\n\nJ'ai lu que Manchester City prépare une campagne de recrutement importante (Manchester City prévoit de recruter Bouaddi et de le laisser à Lille jusqu'en 2027-2028…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
-      "url_source": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13OWVxckxZZDBoYW55NUJEUkhaNkhUai1IbjdoYW5BOEdId2VlSmRzLW84SEotNUU2dEJLNlA5Y0lJZ180NzVqTTZ3NWVuaUIxWUxUUk1zdWp3dWZwdmluMHctS0diQnBESXc?oc=5"
-    },
-    "contacts_cibles": []
-  },
-  {
-    "id": "sig-2026-06-23-af9857473b04",
-    "date_capture": "2026-07-04",
+    "id": "sig-2026-06-24-3baea282198d",
+    "date_capture": "2026-07-05",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "McDonald's France",
@@ -166,7 +137,7 @@
     "action_reco": "Fenêtre prise de poste ~30j : InMail/email à la nouvelle DRH (McDonald's France) — angle outillage évaluation des compétences (ITS + Tosa).",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-06-23",
+    "date_publication": "2026-06-24",
     "email_draft": {
       "subject": "Félicitations pour votre nomination DRH chez McDonald's France",
       "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez McDonald's France. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMiugFBVV95cUxPbXg4UUMwaWxCTGZQQ0FYQlFGbll5S3pEam96ekhZUm1VQnZaYUZEV1EzS1hRQl80ME1xbEh4d1ZmTmZzV0s1MG1zV1JQOUNMM2JCcUxDWHB6ejEzYVBnaGhfaXZQSFYzOHZHb3ROdzRSYTVkcnVxVUlsX2lMdE84YXJlOG5GZ2xYNVQ0ZGJiS1NWLW54WjRHa1dSVEY2bmx0WjNEcHlzUEVNRjRlT2VNODhreFVOQnIyOGc?oc=5"
@@ -184,7 +155,7 @@
   },
   {
     "id": "sig-2026-06-04-2c1bc59be3ed",
-    "date_capture": "2026-07-04",
+    "date_capture": "2026-07-05",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Edenred",
@@ -214,7 +185,7 @@
   },
   {
     "id": "sig-2026-07-03-1b3b37b46ed5",
-    "date_capture": "2026-07-04",
+    "date_capture": "2026-07-05",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "France Travail",
