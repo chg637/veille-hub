@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-06-23-9e210515c97f",
-    "date_capture": "2026-07-06",
+    "date_capture": "2026-07-07",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Isère. Maxi Zoo",
@@ -30,7 +30,7 @@
   },
   {
     "id": "sig-2026-07-01-4ac5fa20633c",
-    "date_capture": "2026-07-06",
+    "date_capture": "2026-07-07",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Singapour : OCBC",
@@ -59,7 +59,7 @@
   },
   {
     "id": "sig-2026-07-02-c01508c0414a",
-    "date_capture": "2026-07-06",
+    "date_capture": "2026-07-07",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "marine belge",
@@ -88,7 +88,7 @@
   },
   {
     "id": "sig-2026-06-30-eebab51edfe3",
-    "date_capture": "2026-07-06",
+    "date_capture": "2026-07-07",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Hanoï",
@@ -117,7 +117,7 @@
   },
   {
     "id": "sig-2026-07-01-8f86987cacbd",
-    "date_capture": "2026-07-06",
+    "date_capture": "2026-07-07",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Manchester City",
@@ -146,7 +146,7 @@
   },
   {
     "id": "sig-2026-06-24-3baea282198d",
-    "date_capture": "2026-07-06",
+    "date_capture": "2026-07-07",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "McDonald's France",
@@ -184,7 +184,7 @@
   },
   {
     "id": "sig-2026-06-04-2c1bc59be3ed",
-    "date_capture": "2026-07-06",
+    "date_capture": "2026-07-07",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Edenred",
@@ -211,5 +211,68 @@
       "url_source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRFVsdmNIdk1tR0dDWF9uNWxCTFhMODhWakJ0NTN4VzFUM2VVbFJxZUdMY3RaQWwxa1F4VVFLSHB6dmlZSU9rd2ZfQ3ZneU03eXdVUmVXSXJHTklQYTMtTFI1b1N2bUg0MU0tNVJveXBrSHVZWW9ibUlBNllldnlIZm53Q0NjTmZVc252RXFwYmU4MW5OcDdwX3R6U1lvLTcwTmNoU1NZYThYTFFGeGs2dk1uMENaS29LcVRqVlZlMUJabVZOMjNfbmRpRjM?oc=5"
     },
     "contacts_cibles": []
+  },
+  {
+    "id": "sig-2026-07-07-ef3748f402d7",
+    "date_capture": "2026-07-07",
+    "vertical": "corporate",
+    "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
+    "compte": "Hive",
+    "titre": "Hive raises $15m for ‘silicon brain’ that cuts hourly cost of running machines by 80%",
+    "description": "",
+    "source": "Sifted",
+    "source_tier": 1,
+    "url": "https://sifted.eu/articles/hive-raises-15m-for-silicon-brain/",
+    "signal_type": "levee_fonds",
+    "tier": 3,
+    "score": 50,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Source** : https://sifted.eu/articles/hive-raises-15m-for-silicon-brain/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 15.0M USD (~13.8M€) → Series A late, signal mais startup encore early\n📌 À surveiller — relancer dans 3-6 mois quand ils auront recruté 30+\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-07-07",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-07-07",
+    "email_draft": {
+      "subject": "Hive — votre Series — sur l'évaluation candidats à scale",
+      "body": "Bonjour,\n\nJe viens de voir que Hive a bouclé une levée de 15.0M USD (~13.8M€). Bravo pour cette étape.\n\nUne levée à cette taille s'accompagne souvent d'un plan de recrutement ambitieux. Anticiper l'outillage évite la dette technique RH.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/hive-raises-15m-for-silicon-brain/"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Chief People Officer",
+        "alternatives": [
+          "Head of People",
+          "VP People",
+          "DRH"
+        ],
+        "priorite": 1,
+        "raison": "Décide outils RH stratégiques post-levée",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Hive",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Hive%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
+      },
+      {
+        "poste": "Head of Talent Acquisition",
+        "alternatives": [
+          "Talent Acquisition Director",
+          "Head of Recruiting"
+        ],
+        "priorite": 2,
+        "raison": "Opérationnel — gère le plan de recrutement massif",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Hive",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Hive%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
+      },
+      {
+        "poste": "Head of Hiring",
+        "alternatives": [
+          "Hiring Manager",
+          "Recruitment Director"
+        ],
+        "priorite": 3,
+        "raison": "Sous-décideur — peut tester l'outil rapidement",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Hive",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Hive%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
+      }
+    ]
   }
 ]
