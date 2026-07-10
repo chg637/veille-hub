@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-07-09-be6d85e296fe",
-    "date_capture": "2026-07-09",
+    "date_capture": "2026-07-10",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Verisure",
@@ -29,37 +29,8 @@
     "contacts_cibles": []
   },
   {
-    "id": "sig-2026-07-01-4ac5fa20633c",
-    "date_capture": "2026-07-09",
-    "vertical": "corporate",
-    "sous_segment": "entreprise",
-    "compte": "Singapour : OCBC",
-    "titre": "Singapour : OCBC va recruter 600 chargés de clientèle et lance une application d'avatars IA pour sa gestion de fortune",
-    "description": "Singapour : OCBC va recruter 600 chargés de clientèle et lance une application d'avatars IA pour sa gestion de fortune Zonebourse Suisse",
-    "source": "Zonebourse Suisse (via Google News)",
-    "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZ0dHQkljYUc0bmJvTW5udFV3MWZaNTQ1OU90OV96MkF6aHh2ZDI1SHd5enp5Tk1mNGExYktycm02QVlUdldreXdaeHQ5Slp2TnBxYTkyclRhOF9MOUpiMjJuT2o1OS1uT1dxWFJ1WFUxVG92NlJFNDFqby1HSE4wdkZNXzBPdG5iWnh3SllsbGtHYWxickdPc01WRVU5clJkS2tFUVE5N2ZHMnp0UE0zUURrQ1lNcXlSVTJHNG5rV1ZfU19qSDA5S3hNczRKdGp0ejlNRDVYcl9NUGlNZGd3SERmY2MyT3RDeFJYa09n?oc=5",
-    "signal_type": "plan_recrutement",
-    "tier": 1,
-    "score": 93,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": null,
-    "action_reco": "Singapour : OCBC : ~600 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-07-01",
-    "email_draft": {
-      "subject": "Singapour : OCBC — fiabiliser la pré-qualification de vos recrutements",
-      "body": "Bonjour,\n\nJ'ai lu que Singapour : OCBC prépare une campagne de recrutement importante (Singapour : OCBC va recruter 600 chargés de clientèle et lance une application d'avatars I…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
-      "url_source": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZ0dHQkljYUc0bmJvTW5udFV3MWZaNTQ1OU90OV96MkF6aHh2ZDI1SHd5enp5Tk1mNGExYktycm02QVlUdldreXdaeHQ5Slp2TnBxYTkyclRhOF9MOUpiMjJuT2o1OS1uT1dxWFJ1WFUxVG92NlJFNDFqby1HSE4wdkZNXzBPdG5iWnh3SllsbGtHYWxickdPc01WRVU5clJkS2tFUVE5N2ZHMnp0UE0zUURrQ1lNcXlSVTJHNG5rV1ZfU19qSDA5S3hNczRKdGp0ejlNRDVYcl9NUGlNZGd3SERmY2MyT3RDeFJYa09n?oc=5"
-    },
-    "contacts_cibles": []
-  },
-  {
     "id": "sig-2026-07-02-c01508c0414a",
-    "date_capture": "2026-07-09",
+    "date_capture": "2026-07-10",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "marine belge",
@@ -88,7 +59,7 @@
   },
   {
     "id": "sig-2026-07-01-8f86987cacbd",
-    "date_capture": "2026-07-09",
+    "date_capture": "2026-07-10",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Manchester City",
@@ -117,7 +88,7 @@
   },
   {
     "id": "sig-2026-06-24-3baea282198d",
-    "date_capture": "2026-07-09",
+    "date_capture": "2026-07-10",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "McDonald's France",
@@ -155,7 +126,7 @@
   },
   {
     "id": "sig-2026-06-04-2c1bc59be3ed",
-    "date_capture": "2026-07-09",
+    "date_capture": "2026-07-10",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Edenred",
@@ -185,7 +156,7 @@
   },
   {
     "id": "sig-2026-07-08-88ea7e59e196",
-    "date_capture": "2026-07-09",
+    "date_capture": "2026-07-10",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Maddyness)",
     "compte": "Gradium",
@@ -247,8 +218,71 @@
     ]
   },
   {
+    "id": "sig-2026-07-10-40f85154c176",
+    "date_capture": "2026-07-10",
+    "vertical": "corporate",
+    "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
+    "compte": "Over",
+    "titre": "Over $500m in fresh funding, risks of “French state influence” and a 100x valuation: What Pasqal’s SPAC filings reveal",
+    "description": "",
+    "source": "Sifted",
+    "source_tier": 1,
+    "url": "https://sifted.eu/articles/pasqal-sec-filings/",
+    "signal_type": "levee_fonds",
+    "tier": 1,
+    "score": 80,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Source** : https://sifted.eu/articles/pasqal-sec-filings/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 500.0M USD (~460.0M€) → scale-up confirmé, plan de recrutement massif sur 12 mois\n🔥 PRIORITÉ — fenêtre 30j (avant que les RH s'organisent)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-07-10",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-07-10",
+    "email_draft": {
+      "subject": "Over — votre Series — sur l'évaluation candidats à scale",
+      "body": "Bonjour,\n\nJe viens de voir que Over a bouclé une levée de 500.0M USD (~460.0M€). Bravo pour cette étape.\n\nSur les 12 prochains mois, vous allez probablement recruter 100+ profils. C'est exactement le moment où la qualité du process d'évaluation devient un goulot d'étranglement.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/pasqal-sec-filings/"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Chief People Officer",
+        "alternatives": [
+          "Head of People",
+          "VP People",
+          "DRH"
+        ],
+        "priorite": 1,
+        "raison": "Décide outils RH stratégiques post-levée",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Over",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Over%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
+      },
+      {
+        "poste": "Head of Talent Acquisition",
+        "alternatives": [
+          "Talent Acquisition Director",
+          "Head of Recruiting"
+        ],
+        "priorite": 2,
+        "raison": "Opérationnel — gère le plan de recrutement massif",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Over",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Over%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
+      },
+      {
+        "poste": "Head of Hiring",
+        "alternatives": [
+          "Hiring Manager",
+          "Recruitment Director"
+        ],
+        "priorite": 3,
+        "raison": "Sous-décideur — peut tester l'outil rapidement",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Over",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Over%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-07-09-c2e155114bcc",
-    "date_capture": "2026-07-09",
+    "date_capture": "2026-07-10",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "World",
@@ -311,7 +345,7 @@
   },
   {
     "id": "sig-2026-07-08-2916335f08b2",
-    "date_capture": "2026-07-09",
+    "date_capture": "2026-07-10",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Nvidia",
@@ -374,7 +408,7 @@
   },
   {
     "id": "sig-2026-07-07-ef3748f402d7",
-    "date_capture": "2026-07-09",
+    "date_capture": "2026-07-10",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Hive",
