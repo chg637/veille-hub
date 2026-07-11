@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-07-09-be6d85e296fe",
-    "date_capture": "2026-07-10",
+    "date_capture": "2026-07-11",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Verisure",
@@ -30,7 +30,7 @@
   },
   {
     "id": "sig-2026-07-02-c01508c0414a",
-    "date_capture": "2026-07-10",
+    "date_capture": "2026-07-11",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "marine belge",
@@ -59,7 +59,7 @@
   },
   {
     "id": "sig-2026-07-01-8f86987cacbd",
-    "date_capture": "2026-07-10",
+    "date_capture": "2026-07-11",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Manchester City",
@@ -87,8 +87,46 @@
     "contacts_cibles": []
   },
   {
+    "id": "sig-2026-07-08-ed67f7fb5629",
+    "date_capture": "2026-07-11",
+    "vertical": "corporate",
+    "sous_segment": "entreprise",
+    "compte": "DHL Supply Chain France",
+    "titre": "Alexis Mingasson, nouveau DRH de DHL Supply Chain France",
+    "description": "Alexis Mingasson, nouveau DRH de DHL Supply Chain France FAQ Logistique",
+    "source": "FAQ Logistique (via Google News)",
+    "source_tier": 2,
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM1ZsOGRIT0lJZkR0TzRkUnVTX3RjUkRBTVpSbm5BLTFtelhVVkNXcVYwOVB0eFh4a0hLekppY01aNFF4d0FPdnFTSFJVU0dsX1RsU0Z0bzExYlp2eFJJYzVFNElQOEczSDJLd2EyX0FsWU1jd0ZSRjZOVUx1dmxjWUJkZmItNHBqTXF2UVVLZFBOYTlIS3M0Qld3?oc=5",
+    "signal_type": "nomination_chro",
+    "tier": 1,
+    "score": 90,
+    "produit_match": [
+      "ITS",
+      "Tosa Corporate"
+    ],
+    "owner": null,
+    "action_reco": "Fenêtre prise de poste ~30j : InMail/email à Alexis Mingasson (DHL Supply Chain France) — angle outillage évaluation des compétences (ITS + Tosa).",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-07-08",
+    "email_draft": {
+      "subject": "Félicitations pour votre nomination DRH chez DHL Supply Chain France",
+      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez DHL Supply Chain France. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMimgFBVV95cUxOM1ZsOGRIT0lJZkR0TzRkUnVTX3RjUkRBTVpSbm5BLTFtelhVVkNXcVYwOVB0eFh4a0hLekppY01aNFF4d0FPdnFTSFJVU0dsX1RsU0Z0bzExYlp2eFJJYzVFNElQOEczSDJLd2EyX0FsWU1jd0ZSRjZOVUx1dmxjWUJkZmItNHBqTXF2UVVLZFBOYTlIS3M0Qld3?oc=5"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "La personne nommée (cible directe)",
+        "alternatives": [],
+        "priorite": 1,
+        "raison": "Fenêtre 30j post-prise de poste = haute disposition aux nouveaux outils",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22La+personne+nomm%C3%A9e+%28cible+directe%29%22&currentCompany=DHL+Supply+Chain+France",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22DHL%20Supply%20Chain%20France%22%20La%20personne%20nomm%C3%A9e%20%28cible%20directe%29"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-06-24-3baea282198d",
-    "date_capture": "2026-07-10",
+    "date_capture": "2026-07-11",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "McDonald's France",
@@ -126,7 +164,7 @@
   },
   {
     "id": "sig-2026-06-04-2c1bc59be3ed",
-    "date_capture": "2026-07-10",
+    "date_capture": "2026-07-11",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Edenred",
@@ -155,71 +193,38 @@
     "contacts_cibles": []
   },
   {
-    "id": "sig-2026-07-08-88ea7e59e196",
-    "date_capture": "2026-07-10",
+    "id": "sig-2026-07-03-1b3b37b46ed5",
+    "date_capture": "2026-07-11",
     "vertical": "corporate",
-    "sous_segment": "Scale-up / Levée Series B+ (Maddyness)",
-    "compte": "Gradium",
-    "titre": "IA : Gradium étend son tour de table initial au-delà des 100 millions de dollars avec Nvidia",
-    "description": "L’article IA : Gradium étend son tour de table initial au-delà des 100 millions de dollars avec Nvidia est apparu en premier sur Maddyness - Le média pour comprendre l&#039;économie de demain .",
-    "source": "Maddyness",
-    "source_tier": 1,
-    "url": "https://www.maddyness.com/2026/07/08/ia-gradium-etend-son-tour-de-table-initial-au-dela-des-100-millions-de-dollars-avec-nvidia/",
-    "signal_type": "levee_fonds",
+    "sous_segment": "entreprise",
+    "compte": "France Travail",
+    "titre": "France Travail va former 5 000 agents IA à répondre de façon désagréable",
+    "description": "France Travail va former 5 000 agents IA à répondre de façon désagréable Le Gorafi.fr Gorafi News Network",
+    "source": "Le Gorafi.fr Gorafi News Network (via Google News)",
+    "source_tier": 2,
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX0hrdzNvT2g2VllIc1NIQy1tUEx4Q3pMQ1dnQng1aEJyOWNmZkJZdHFtWmNfeFhxWjBGV3hvTTd0Q3hxVFV1RXdqV21nSU03MVVkdHVZV0wyaFRNajRLOWpWcWdoRjVzSF9LVjF4c0ZobGZlUjhEdC01TF8zXzQ0YzVtZUs0SWdlcWUyS3QwaUNOMzVsdVdKS1ctR3NuS2Z6V3pSQ1BmZUlmMXoz0gG0AUFVX3lxTFBWT0JMR2VsRUZQM3FjdG9DN29pYng4eUswdzFwdzk5TUhJelFUU3RWeExhd0VCQ2ljRENaMjhnZVE3czdnVWVZQnJzdE50cW4tbG5ZT1U1NmV0ZjFSbnh3bXNHQkdHZlhPa2g5ZDdDbWNHUjMtTk5RQmNlSGRFUXpSRkZkcFoteGd2X3BhWXZQQnJGSzJqRFo1ZHN5eU5IN0xxVDM1a0cyTVlpTl81bWpRMGEwYQ?oc=5",
+    "signal_type": "plan_ia",
     "tier": 1,
-    "score": 80,
+    "score": 85,
     "produit_match": [
-      "ITS"
+      "ITS",
+      "Tosa Corporate"
     ],
-    "owner": "Charles",
-    "action_reco": "📋 **Source** : https://www.maddyness.com/2026/07/08/ia-gradium-etend-son-tour-de-table-initial-au-dela-des-100-millions-de-dollars-avec-nvidia/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 100.0M USD (~92.0M€) → scale-up confirmé, plan de recrutement massif sur 12 mois\n🔥 PRIORITÉ — fenêtre 30j (avant que les RH s'organisent)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-07-08",
+    "owner": null,
+    "action_reco": "France Travail : plan de formation IA. Cibler Head of L&D / CDO — pitch mesure de socle (Cert IA Tosa sept 2026, programme partenaires).",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-07-08",
+    "date_publication": "2026-07-03",
     "email_draft": {
-      "subject": "Gradium — votre Series — sur l'évaluation candidats à scale",
-      "body": "Bonjour,\n\nJe viens de voir que Gradium a bouclé une levée de 100.0M USD (~92.0M€). Bravo pour cette étape.\n\nSur les 12 prochains mois, vous allez probablement recruter 100+ profils. C'est exactement le moment où la qualité du process d'évaluation devient un goulot d'étranglement.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://www.maddyness.com/2026/07/08/ia-gradium-etend-son-tour-de-table-initial-au-dela-des-100-millions-de-dollars-avec-nvidia/"
+      "subject": "France Travail — mesurer le socle de compétences IA de vos équipes",
+      "body": "Bonjour,\n\nVotre initiative de formation à l'IA (France Travail va former 5 000 agents IA à répondre de façon désagréable…) m'a interpellé.\n\nPour piloter ce type de programme, nos clients mesurent un socle de compétences avant/après (certification Tosa, plateforme ITS pour vos contenus propres). La Certification IA Tosa sort en septembre 2026 — programme partenaires de lancement en cours.\n\nUn échange de 20 minutes pour voir si cela peut soutenir votre déploiement ?\n\nBien cordialement,\nCharles Gosset — Isograd",
+      "url_source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX0hrdzNvT2g2VllIc1NIQy1tUEx4Q3pMQ1dnQng1aEJyOWNmZkJZdHFtWmNfeFhxWjBGV3hvTTd0Q3hxVFV1RXdqV21nSU03MVVkdHVZV0wyaFRNajRLOWpWcWdoRjVzSF9LVjF4c0ZobGZlUjhEdC01TF8zXzQ0YzVtZUs0SWdlcWUyS3QwaUNOMzVsdVdKS1ctR3NuS2Z6V3pSQ1BmZUlmMXoz0gG0AUFVX3lxTFBWT0JMR2VsRUZQM3FjdG9DN29pYng4eUswdzFwdzk5TUhJelFUU3RWeExhd0VCQ2ljRENaMjhnZVE3czdnVWVZQnJzdE50cW4tbG5ZT1U1NmV0ZjFSbnh3bXNHQkdHZlhPa2g5ZDdDbWNHUjMtTk5RQmNlSGRFUXpSRkZkcFoteGd2X3BhWXZQQnJGSzJqRFo1ZHN5eU5IN0xxVDM1a0cyTVlpTl81bWpRMGEwYQ?oc=5"
     },
-    "contacts_cibles": [
-      {
-        "poste": "Chief People Officer",
-        "alternatives": [
-          "Head of People",
-          "VP People",
-          "DRH"
-        ],
-        "priorite": 1,
-        "raison": "Décide outils RH stratégiques post-levée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Gradium",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Gradium%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
-      },
-      {
-        "poste": "Head of Talent Acquisition",
-        "alternatives": [
-          "Talent Acquisition Director",
-          "Head of Recruiting"
-        ],
-        "priorite": 2,
-        "raison": "Opérationnel — gère le plan de recrutement massif",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Gradium",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Gradium%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
-      },
-      {
-        "poste": "Head of Hiring",
-        "alternatives": [
-          "Hiring Manager",
-          "Recruitment Director"
-        ],
-        "priorite": 3,
-        "raison": "Sous-décideur — peut tester l'outil rapidement",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Gradium",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Gradium%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
-      }
-    ]
+    "contacts_cibles": []
   },
   {
     "id": "sig-2026-07-10-40f85154c176",
-    "date_capture": "2026-07-10",
+    "date_capture": "2026-07-11",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Over",
@@ -282,7 +287,7 @@
   },
   {
     "id": "sig-2026-07-09-c2e155114bcc",
-    "date_capture": "2026-07-10",
+    "date_capture": "2026-07-11",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "World",
@@ -345,7 +350,7 @@
   },
   {
     "id": "sig-2026-07-08-2916335f08b2",
-    "date_capture": "2026-07-10",
+    "date_capture": "2026-07-11",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Nvidia",
@@ -408,7 +413,7 @@
   },
   {
     "id": "sig-2026-07-07-ef3748f402d7",
-    "date_capture": "2026-07-10",
+    "date_capture": "2026-07-11",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Hive",
