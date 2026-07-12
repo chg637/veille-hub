@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-07-09-be6d85e296fe",
-    "date_capture": "2026-07-11",
+    "date_capture": "2026-07-12",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Verisure",
@@ -29,8 +29,37 @@
     "contacts_cibles": []
   },
   {
+    "id": "sig-2026-06-23-9e210515c97f",
+    "date_capture": "2026-07-12",
+    "vertical": "corporate",
+    "sous_segment": "entreprise",
+    "compte": "Isère. Maxi Zoo",
+    "titre": "Isère. Maxi Zoo prévoit de recruter 1 500 personnes pour ouvrir 230 boutiques d’ici 2030",
+    "description": "Isère. Maxi Zoo prévoit de recruter 1 500 personnes pour ouvrir 230 boutiques d’ici 2030 Le Dauphiné Libéré",
+    "source": "Le Dauphiné Libéré (via Google News)",
+    "source_tier": 2,
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRkJBbFZqMnA4TUxQTTliTlRaZlI0ZFBhRVJ0UXdKYV9jOENZMHB4ZXRwc3g1UGJ5andvdlJBVHp3YmFZWXlpd3BMaU1uQ3lSNy1ZZHVjSDY1R1hDMlNTU2l5LXVPcUdzX2J4Ny00c3VuMFJvMTJxWnptR3RlRmFVWUhHV1piT3lrcEFFOWdXZ0xsSUZuSHp3RnQ0a0pDSmhyaG45dVlKZ1dIR2FsbnhXZWdLd2prdllzU016UFRjcDFmYmUwY3g4?oc=5",
+    "signal_type": "plan_recrutement",
+    "tier": 1,
+    "score": 93,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": null,
+    "action_reco": "Isère. Maxi Zoo : ~1500 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-06-23",
+    "email_draft": {
+      "subject": "Isère. Maxi Zoo — fiabiliser la pré-qualification de vos recrutements",
+      "body": "Bonjour,\n\nJ'ai lu que Isère. Maxi Zoo prépare une campagne de recrutement importante (Isère. Maxi Zoo prévoit de recruter 1 500 personnes pour ouvrir 230 boutiques d’ici 2030…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
+      "url_source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRkJBbFZqMnA4TUxQTTliTlRaZlI0ZFBhRVJ0UXdKYV9jOENZMHB4ZXRwc3g1UGJ5andvdlJBVHp3YmFZWXlpd3BMaU1uQ3lSNy1ZZHVjSDY1R1hDMlNTU2l5LXVPcUdzX2J4Ny00c3VuMFJvMTJxWnptR3RlRmFVWUhHV1piT3lrcEFFOWdXZ0xsSUZuSHp3RnQ0a0pDSmhyaG45dVlKZ1dIR2FsbnhXZWdLd2prdllzU016UFRjcDFmYmUwY3g4?oc=5"
+    },
+    "contacts_cibles": []
+  },
+  {
     "id": "sig-2026-07-02-c01508c0414a",
-    "date_capture": "2026-07-11",
+    "date_capture": "2026-07-12",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "marine belge",
@@ -58,8 +87,37 @@
     "contacts_cibles": []
   },
   {
+    "id": "sig-2026-06-30-eebab51edfe3",
+    "date_capture": "2026-07-12",
+    "vertical": "corporate",
+    "sous_segment": "entreprise",
+    "compte": "Hanoï",
+    "titre": "Hanoï prévoit de recruter 15 000 ingénieurs au deuxième trimestre 2026.",
+    "description": "Hanoï prévoit de recruter 15 000 ingénieurs au deuxième trimestre 2026. Vietnam.vn",
+    "source": "Vietnam.vn (via Google News)",
+    "source_tier": 2,
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JLTRQWnlnWXJPb2FBTE95eURFNE43ZDRwV0syN0lOS3FKMHRVM2E2WWZsSzBvekhjZ2pVM1E3RU5IaXpqLWRWSGdyWVlnTXFtVEdRNTFXX1NoQnNqY2dqR0VHcS0zeVBFX0tpU2FqRkJsN0pLZXlQSUoyZVRKVHc?oc=5",
+    "signal_type": "plan_recrutement",
+    "tier": 1,
+    "score": 93,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": null,
+    "action_reco": "Hanoï : ~15000 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-06-30",
+    "email_draft": {
+      "subject": "Hanoï — fiabiliser la pré-qualification de vos recrutements",
+      "body": "Bonjour,\n\nJ'ai lu que Hanoï prépare une campagne de recrutement importante (Hanoï prévoit de recruter 15 000 ingénieurs au deuxième trimestre 2026.…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
+      "url_source": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JLTRQWnlnWXJPb2FBTE95eURFNE43ZDRwV0syN0lOS3FKMHRVM2E2WWZsSzBvekhjZ2pVM1E3RU5IaXpqLWRWSGdyWVlnTXFtVEdRNTFXX1NoQnNqY2dqR0VHcS0zeVBFX0tpU2FqRkJsN0pLZXlQSUoyZVRKVHc?oc=5"
+    },
+    "contacts_cibles": []
+  },
+  {
     "id": "sig-2026-07-01-8f86987cacbd",
-    "date_capture": "2026-07-11",
+    "date_capture": "2026-07-12",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Manchester City",
@@ -87,46 +145,8 @@
     "contacts_cibles": []
   },
   {
-    "id": "sig-2026-07-08-ed67f7fb5629",
-    "date_capture": "2026-07-11",
-    "vertical": "corporate",
-    "sous_segment": "entreprise",
-    "compte": "DHL Supply Chain France",
-    "titre": "Alexis Mingasson, nouveau DRH de DHL Supply Chain France",
-    "description": "Alexis Mingasson, nouveau DRH de DHL Supply Chain France FAQ Logistique",
-    "source": "FAQ Logistique (via Google News)",
-    "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM1ZsOGRIT0lJZkR0TzRkUnVTX3RjUkRBTVpSbm5BLTFtelhVVkNXcVYwOVB0eFh4a0hLekppY01aNFF4d0FPdnFTSFJVU0dsX1RsU0Z0bzExYlp2eFJJYzVFNElQOEczSDJLd2EyX0FsWU1jd0ZSRjZOVUx1dmxjWUJkZmItNHBqTXF2UVVLZFBOYTlIS3M0Qld3?oc=5",
-    "signal_type": "nomination_chro",
-    "tier": 1,
-    "score": 90,
-    "produit_match": [
-      "ITS",
-      "Tosa Corporate"
-    ],
-    "owner": null,
-    "action_reco": "Fenêtre prise de poste ~30j : InMail/email à Alexis Mingasson (DHL Supply Chain France) — angle outillage évaluation des compétences (ITS + Tosa).",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-07-08",
-    "email_draft": {
-      "subject": "Félicitations pour votre nomination DRH chez DHL Supply Chain France",
-      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez DHL Supply Chain France. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMimgFBVV95cUxOM1ZsOGRIT0lJZkR0TzRkUnVTX3RjUkRBTVpSbm5BLTFtelhVVkNXcVYwOVB0eFh4a0hLekppY01aNFF4d0FPdnFTSFJVU0dsX1RsU0Z0bzExYlp2eFJJYzVFNElQOEczSDJLd2EyX0FsWU1jd0ZSRjZOVUx1dmxjWUJkZmItNHBqTXF2UVVLZFBOYTlIS3M0Qld3?oc=5"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "La personne nommée (cible directe)",
-        "alternatives": [],
-        "priorite": 1,
-        "raison": "Fenêtre 30j post-prise de poste = haute disposition aux nouveaux outils",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22La+personne+nomm%C3%A9e+%28cible+directe%29%22&currentCompany=DHL+Supply+Chain+France",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22DHL%20Supply%20Chain%20France%22%20La%20personne%20nomm%C3%A9e%20%28cible%20directe%29"
-      }
-    ]
-  },
-  {
     "id": "sig-2026-06-24-3baea282198d",
-    "date_capture": "2026-07-11",
+    "date_capture": "2026-07-12",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "McDonald's France",
@@ -164,7 +184,7 @@
   },
   {
     "id": "sig-2026-06-04-2c1bc59be3ed",
-    "date_capture": "2026-07-11",
+    "date_capture": "2026-07-12",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Edenred",
@@ -193,38 +213,8 @@
     "contacts_cibles": []
   },
   {
-    "id": "sig-2026-07-03-1b3b37b46ed5",
-    "date_capture": "2026-07-11",
-    "vertical": "corporate",
-    "sous_segment": "entreprise",
-    "compte": "France Travail",
-    "titre": "France Travail va former 5 000 agents IA à répondre de façon désagréable",
-    "description": "France Travail va former 5 000 agents IA à répondre de façon désagréable Le Gorafi.fr Gorafi News Network",
-    "source": "Le Gorafi.fr Gorafi News Network (via Google News)",
-    "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX0hrdzNvT2g2VllIc1NIQy1tUEx4Q3pMQ1dnQng1aEJyOWNmZkJZdHFtWmNfeFhxWjBGV3hvTTd0Q3hxVFV1RXdqV21nSU03MVVkdHVZV0wyaFRNajRLOWpWcWdoRjVzSF9LVjF4c0ZobGZlUjhEdC01TF8zXzQ0YzVtZUs0SWdlcWUyS3QwaUNOMzVsdVdKS1ctR3NuS2Z6V3pSQ1BmZUlmMXoz0gG0AUFVX3lxTFBWT0JMR2VsRUZQM3FjdG9DN29pYng4eUswdzFwdzk5TUhJelFUU3RWeExhd0VCQ2ljRENaMjhnZVE3czdnVWVZQnJzdE50cW4tbG5ZT1U1NmV0ZjFSbnh3bXNHQkdHZlhPa2g5ZDdDbWNHUjMtTk5RQmNlSGRFUXpSRkZkcFoteGd2X3BhWXZQQnJGSzJqRFo1ZHN5eU5IN0xxVDM1a0cyTVlpTl81bWpRMGEwYQ?oc=5",
-    "signal_type": "plan_ia",
-    "tier": 1,
-    "score": 85,
-    "produit_match": [
-      "ITS",
-      "Tosa Corporate"
-    ],
-    "owner": null,
-    "action_reco": "France Travail : plan de formation IA. Cibler Head of L&D / CDO — pitch mesure de socle (Cert IA Tosa sept 2026, programme partenaires).",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-07-03",
-    "email_draft": {
-      "subject": "France Travail — mesurer le socle de compétences IA de vos équipes",
-      "body": "Bonjour,\n\nVotre initiative de formation à l'IA (France Travail va former 5 000 agents IA à répondre de façon désagréable…) m'a interpellé.\n\nPour piloter ce type de programme, nos clients mesurent un socle de compétences avant/après (certification Tosa, plateforme ITS pour vos contenus propres). La Certification IA Tosa sort en septembre 2026 — programme partenaires de lancement en cours.\n\nUn échange de 20 minutes pour voir si cela peut soutenir votre déploiement ?\n\nBien cordialement,\nCharles Gosset — Isograd",
-      "url_source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX0hrdzNvT2g2VllIc1NIQy1tUEx4Q3pMQ1dnQng1aEJyOWNmZkJZdHFtWmNfeFhxWjBGV3hvTTd0Q3hxVFV1RXdqV21nSU03MVVkdHVZV0wyaFRNajRLOWpWcWdoRjVzSF9LVjF4c0ZobGZlUjhEdC01TF8zXzQ0YzVtZUs0SWdlcWUyS3QwaUNOMzVsdVdKS1ctR3NuS2Z6V3pSQ1BmZUlmMXoz0gG0AUFVX3lxTFBWT0JMR2VsRUZQM3FjdG9DN29pYng4eUswdzFwdzk5TUhJelFUU3RWeExhd0VCQ2ljRENaMjhnZVE3czdnVWVZQnJzdE50cW4tbG5ZT1U1NmV0ZjFSbnh3bXNHQkdHZlhPa2g5ZDdDbWNHUjMtTk5RQmNlSGRFUXpSRkZkcFoteGd2X3BhWXZQQnJGSzJqRFo1ZHN5eU5IN0xxVDM1a0cyTVlpTl81bWpRMGEwYQ?oc=5"
-    },
-    "contacts_cibles": []
-  },
-  {
     "id": "sig-2026-07-10-40f85154c176",
-    "date_capture": "2026-07-11",
+    "date_capture": "2026-07-12",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Over",
@@ -287,7 +277,7 @@
   },
   {
     "id": "sig-2026-07-09-c2e155114bcc",
-    "date_capture": "2026-07-11",
+    "date_capture": "2026-07-12",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "World",
@@ -350,7 +340,7 @@
   },
   {
     "id": "sig-2026-07-08-2916335f08b2",
-    "date_capture": "2026-07-11",
+    "date_capture": "2026-07-12",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Nvidia",
@@ -413,7 +403,7 @@
   },
   {
     "id": "sig-2026-07-07-ef3748f402d7",
-    "date_capture": "2026-07-11",
+    "date_capture": "2026-07-12",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Hive",
