@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-07-09-be6d85e296fe",
-    "date_capture": "2026-07-15",
+    "date_capture": "2026-07-16",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Verisure",
@@ -30,7 +30,7 @@
   },
   {
     "id": "sig-2026-07-12-41f9575196ed",
-    "date_capture": "2026-07-15",
+    "date_capture": "2026-07-16",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "indienne Tata Consultancy Services",
@@ -59,7 +59,7 @@
   },
   {
     "id": "sig-2026-06-23-9e210515c97f",
-    "date_capture": "2026-07-15",
+    "date_capture": "2026-07-16",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Isère. Maxi Zoo",
@@ -87,37 +87,8 @@
     "contacts_cibles": []
   },
   {
-    "id": "sig-2026-07-02-c01508c0414a",
-    "date_capture": "2026-07-15",
-    "vertical": "corporate",
-    "sous_segment": "entreprise",
-    "compte": "marine belge",
-    "titre": "La marine belge va recruter 1000 personnes dans les 4 ans à venir",
-    "description": "La marine belge va recruter 1000 personnes dans les 4 ans à venir RTL Info",
-    "source": "RTL Info (via Google News)",
-    "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWmRETE5RMjB0WXdyOUVBTUZqMTA0VnUyNGI0emhxenppcTlxUGVJbDE0Z0Rza1czVnRGMUx0VFZEd2tsX25KTmdaSU1XbUhBTHJDWkhwZ0RwNWVCR096dGloVDdzcG1ZM28xY00wSy1IZkxIV1Q3cUFnWEU3MkcyYmNxRzVXaGNQQWRieHNnYWl2elBlaEk0OUtKRElua1p4YmVUb0JjTGZkVVgxQlVXWnIyU0JnVTlYbmhSdDgtdmZ2UUlYSlE?oc=5",
-    "signal_type": "plan_recrutement",
-    "tier": 1,
-    "score": 93,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": null,
-    "action_reco": "marine belge : ~1000 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-07-02",
-    "email_draft": {
-      "subject": "marine belge — fiabiliser la pré-qualification de vos recrutements",
-      "body": "Bonjour,\n\nJ'ai lu que marine belge prépare une campagne de recrutement importante (La marine belge va recruter 1000 personnes dans les 4 ans à venir…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
-      "url_source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWmRETE5RMjB0WXdyOUVBTUZqMTA0VnUyNGI0emhxenppcTlxUGVJbDE0Z0Rza1czVnRGMUx0VFZEd2tsX25KTmdaSU1XbUhBTHJDWkhwZ0RwNWVCR096dGloVDdzcG1ZM28xY00wSy1IZkxIV1Q3cUFnWEU3MkcyYmNxRzVXaGNQQWRieHNnYWl2elBlaEk0OUtKRElua1p4YmVUb0JjTGZkVVgxQlVXWnIyU0JnVTlYbmhSdDgtdmZ2UUlYSlE?oc=5"
-    },
-    "contacts_cibles": []
-  },
-  {
     "id": "sig-2026-06-30-eebab51edfe3",
-    "date_capture": "2026-07-15",
+    "date_capture": "2026-07-16",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Hanoï",
@@ -146,7 +117,7 @@
   },
   {
     "id": "sig-2026-07-01-8f86987cacbd",
-    "date_capture": "2026-07-15",
+    "date_capture": "2026-07-16",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Manchester City",
@@ -175,7 +146,7 @@
   },
   {
     "id": "sig-2026-06-04-2c1bc59be3ed",
-    "date_capture": "2026-07-15",
+    "date_capture": "2026-07-16",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Edenred",
@@ -205,7 +176,7 @@
   },
   {
     "id": "sig-2026-07-15-072f00765bbb",
-    "date_capture": "2026-07-15",
+    "date_capture": "2026-07-16",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Neko",
@@ -268,7 +239,7 @@
   },
   {
     "id": "sig-2026-07-14-c83cc5890648",
-    "date_capture": "2026-07-15",
+    "date_capture": "2026-07-16",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "This",
@@ -330,30 +301,30 @@
     ]
   },
   {
-    "id": "sig-2026-07-10-40f85154c176",
-    "date_capture": "2026-07-15",
+    "id": "sig-2026-07-16-531f5e82529b",
+    "date_capture": "2026-07-16",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
-    "compte": "Over",
-    "titre": "Over $500m in fresh funding, risks of “French state influence” and a 100x valuation: What Pasqal’s SPAC filings reveal",
+    "compte": "Syntetica",
+    "titre": "EQT-backed Syntetica raises $30m backed by Lululemon",
     "description": "",
     "source": "Sifted",
     "source_tier": 1,
-    "url": "https://sifted.eu/articles/pasqal-sec-filings/",
+    "url": "https://sifted.eu/articles/eqt-syntetica-30m-lululemon/",
     "signal_type": "levee_fonds",
-    "tier": 1,
-    "score": 80,
+    "tier": 2,
+    "score": 65,
     "produit_match": [
       "ITS"
     ],
     "owner": "Charles",
-    "action_reco": "📋 **Source** : https://sifted.eu/articles/pasqal-sec-filings/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 500.0M USD (~460.0M€) → scale-up confirmé, plan de recrutement massif sur 12 mois\n🔥 PRIORITÉ — fenêtre 30j (avant que les RH s'organisent)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-07-10",
+    "action_reco": "📋 **Source** : https://sifted.eu/articles/eqt-syntetica-30m-lululemon/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 30.0M USD (~27.6M€) → Series B+, structuration des processus RH en cours\n🎯 Fenêtre 60j (timing optimal post-Series B)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-07-16",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-07-10",
+    "date_publication": "2026-07-16",
     "email_draft": {
-      "subject": "Over — votre Series — sur l'évaluation candidats à scale",
-      "body": "Bonjour,\n\nJe viens de voir que Over a bouclé une levée de 500.0M USD (~460.0M€). Bravo pour cette étape.\n\nSur les 12 prochains mois, vous allez probablement recruter 100+ profils. C'est exactement le moment où la qualité du process d'évaluation devient un goulot d'étranglement.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/pasqal-sec-filings/"
+      "subject": "Syntetica — votre Series — sur l'évaluation candidats à scale",
+      "body": "Bonjour,\n\nJe viens de voir que Syntetica a bouclé une levée de 30.0M USD (~27.6M€). Bravo pour cette étape.\n\nPost-Series B, c'est le moment où la plupart des scale-ups structurent leur process d'éval candidats. Avant que le volume devienne incontrôlable.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/eqt-syntetica-30m-lululemon/"
     },
     "contacts_cibles": [
       {
@@ -365,8 +336,8 @@
         ],
         "priorite": 1,
         "raison": "Décide outils RH stratégiques post-levée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Over",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Over%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Syntetica",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Syntetica%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
       },
       {
         "poste": "Head of Talent Acquisition",
@@ -376,8 +347,8 @@
         ],
         "priorite": 2,
         "raison": "Opérationnel — gère le plan de recrutement massif",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Over",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Over%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Syntetica",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Syntetica%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
       },
       {
         "poste": "Head of Hiring",
@@ -387,8 +358,71 @@
         ],
         "priorite": 3,
         "raison": "Sous-décideur — peut tester l'outil rapidement",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Over",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Over%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Syntetica",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Syntetica%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
+      }
+    ]
+  },
+  {
+    "id": "sig-2026-07-15-bef13d7f29de",
+    "date_capture": "2026-07-16",
+    "vertical": "corporate",
+    "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
+    "compte": "Monumental",
+    "titre": "Robotics startup Monumental raises $32m backed by Khosla Ventures",
+    "description": "",
+    "source": "Sifted",
+    "source_tier": 1,
+    "url": "https://sifted.eu/articles/monumental-robots-fundraise-raises-32m-backed-by-khosla-ventures/",
+    "signal_type": "levee_fonds",
+    "tier": 2,
+    "score": 65,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Source** : https://sifted.eu/articles/monumental-robots-fundraise-raises-32m-backed-by-khosla-ventures/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 32.0M USD (~29.4M€) → Series B+, structuration des processus RH en cours\n🎯 Fenêtre 60j (timing optimal post-Series B)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-07-15",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-07-15",
+    "email_draft": {
+      "subject": "Monumental — votre Series — sur l'évaluation candidats à scale",
+      "body": "Bonjour,\n\nJe viens de voir que Monumental a bouclé une levée de 32.0M USD (~29.4M€). Bravo pour cette étape.\n\nPost-Series B, c'est le moment où la plupart des scale-ups structurent leur process d'éval candidats. Avant que le volume devienne incontrôlable.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/monumental-robots-fundraise-raises-32m-backed-by-khosla-ventures/"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Chief People Officer",
+        "alternatives": [
+          "Head of People",
+          "VP People",
+          "DRH"
+        ],
+        "priorite": 1,
+        "raison": "Décide outils RH stratégiques post-levée",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Monumental",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Monumental%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
+      },
+      {
+        "poste": "Head of Talent Acquisition",
+        "alternatives": [
+          "Talent Acquisition Director",
+          "Head of Recruiting"
+        ],
+        "priorite": 2,
+        "raison": "Opérationnel — gère le plan de recrutement massif",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Monumental",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Monumental%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
+      },
+      {
+        "poste": "Head of Hiring",
+        "alternatives": [
+          "Hiring Manager",
+          "Recruitment Director"
+        ],
+        "priorite": 3,
+        "raison": "Sous-décideur — peut tester l'outil rapidement",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Monumental",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Monumental%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
       }
     ]
   }
