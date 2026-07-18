@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-07-09-be6d85e296fe",
-    "date_capture": "2026-07-17",
+    "date_capture": "2026-07-18",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Verisure",
@@ -30,7 +30,7 @@
   },
   {
     "id": "sig-2026-07-12-41f9575196ed",
-    "date_capture": "2026-07-17",
+    "date_capture": "2026-07-18",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "indienne Tata Consultancy Services",
@@ -59,7 +59,7 @@
   },
   {
     "id": "sig-2026-06-23-9e210515c97f",
-    "date_capture": "2026-07-17",
+    "date_capture": "2026-07-18",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Isère. Maxi Zoo",
@@ -88,7 +88,7 @@
   },
   {
     "id": "sig-2026-07-01-8f86987cacbd",
-    "date_capture": "2026-07-17",
+    "date_capture": "2026-07-18",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Manchester City",
@@ -116,8 +116,37 @@
     "contacts_cibles": []
   },
   {
+    "id": "sig-2026-07-16-ad39559c9eba",
+    "date_capture": "2026-07-18",
+    "vertical": "corporate",
+    "sous_segment": "entreprise",
+    "compte": "Mali : L’Etat",
+    "titre": "Mali : L’Etat va recruter 1000 policiers et 500 sapeurs-pompiers",
+    "description": "Mali : L’Etat va recruter 1000 policiers et 500 sapeurs-pompiers kewoulo",
+    "source": "kewoulo (via Google News)",
+    "source_tier": 2,
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZzdVVjkyVDlwdnRqVlZFMVF5a1FYMW9SUDN6RTMwc19FaEVRM0E3dm9BRVpzcklxOW1La19iNGdWbFdXTC1BR2lpTHR6aldIa2N0TGNwdmxQRmVZczBNRmpULU9ReDB1Z0NnaFk5TkxhRzgwTm9qcGhkc1NBUG5senRSM2dqd0g5RGc?oc=5",
+    "signal_type": "plan_recrutement",
+    "tier": 1,
+    "score": 93,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": null,
+    "action_reco": "Mali : L’Etat : ~1000 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-07-16",
+    "email_draft": {
+      "subject": "Mali : L’Etat — fiabiliser la pré-qualification de vos recrutements",
+      "body": "Bonjour,\n\nJ'ai lu que Mali : L’Etat prépare une campagne de recrutement importante (Mali : L’Etat va recruter 1000 policiers et 500 sapeurs-pompiers…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
+      "url_source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZzdVVjkyVDlwdnRqVlZFMVF5a1FYMW9SUDN6RTMwc19FaEVRM0E3dm9BRVpzcklxOW1La19iNGdWbFdXTC1BR2lpTHR6aldIa2N0TGNwdmxQRmVZczBNRmpULU9ReDB1Z0NnaFk5TkxhRzgwTm9qcGhkc1NBUG5senRSM2dqd0g5RGc?oc=5"
+    },
+    "contacts_cibles": []
+  },
+  {
     "id": "sig-2026-06-04-2c1bc59be3ed",
-    "date_capture": "2026-07-17",
+    "date_capture": "2026-07-18",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Edenred",
@@ -147,7 +176,7 @@
   },
   {
     "id": "sig-2026-07-16-10beb64146e6",
-    "date_capture": "2026-07-17",
+    "date_capture": "2026-07-18",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Microagi",
@@ -210,7 +239,7 @@
   },
   {
     "id": "sig-2026-07-15-072f00765bbb",
-    "date_capture": "2026-07-17",
+    "date_capture": "2026-07-18",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Neko",
@@ -272,71 +301,8 @@
     ]
   },
   {
-    "id": "sig-2026-07-14-c83cc5890648",
-    "date_capture": "2026-07-17",
-    "vertical": "corporate",
-    "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
-    "compte": "This",
-    "titre": "This founder sold his startup to Klarna for €110m. Now he's raised €12m to build again",
-    "description": "",
-    "source": "Sifted",
-    "source_tier": 1,
-    "url": "https://sifted.eu/articles/skalar-seed-fundraise/",
-    "signal_type": "levee_fonds",
-    "tier": 1,
-    "score": 80,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Source** : https://sifted.eu/articles/skalar-seed-fundraise/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 110.0M EUR (~110.0M€) → scale-up confirmé, plan de recrutement massif sur 12 mois\n🔥 PRIORITÉ — fenêtre 30j (avant que les RH s'organisent)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-07-14",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-07-14",
-    "email_draft": {
-      "subject": "This — votre Series — sur l'évaluation candidats à scale",
-      "body": "Bonjour,\n\nJe viens de voir que This a bouclé une levée de 110.0M EUR (~110.0M€). Bravo pour cette étape.\n\nSur les 12 prochains mois, vous allez probablement recruter 100+ profils. C'est exactement le moment où la qualité du process d'évaluation devient un goulot d'étranglement.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/skalar-seed-fundraise/"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Chief People Officer",
-        "alternatives": [
-          "Head of People",
-          "VP People",
-          "DRH"
-        ],
-        "priorite": 1,
-        "raison": "Décide outils RH stratégiques post-levée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=This",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22This%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
-      },
-      {
-        "poste": "Head of Talent Acquisition",
-        "alternatives": [
-          "Talent Acquisition Director",
-          "Head of Recruiting"
-        ],
-        "priorite": 2,
-        "raison": "Opérationnel — gère le plan de recrutement massif",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=This",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22This%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
-      },
-      {
-        "poste": "Head of Hiring",
-        "alternatives": [
-          "Hiring Manager",
-          "Recruitment Director"
-        ],
-        "priorite": 3,
-        "raison": "Sous-décideur — peut tester l'outil rapidement",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=This",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22This%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
-      }
-    ]
-  },
-  {
     "id": "sig-2026-07-16-531f5e82529b",
-    "date_capture": "2026-07-17",
+    "date_capture": "2026-07-18",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Syntetica",
@@ -399,7 +365,7 @@
   },
   {
     "id": "sig-2026-07-15-bef13d7f29de",
-    "date_capture": "2026-07-17",
+    "date_capture": "2026-07-18",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Monumental",
