@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-07-09-be6d85e296fe",
-    "date_capture": "2026-07-18",
+    "date_capture": "2026-07-19",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Verisure",
@@ -30,7 +30,7 @@
   },
   {
     "id": "sig-2026-07-12-41f9575196ed",
-    "date_capture": "2026-07-18",
+    "date_capture": "2026-07-19",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "indienne Tata Consultancy Services",
@@ -59,7 +59,7 @@
   },
   {
     "id": "sig-2026-06-23-9e210515c97f",
-    "date_capture": "2026-07-18",
+    "date_capture": "2026-07-19",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Isère. Maxi Zoo",
@@ -88,7 +88,7 @@
   },
   {
     "id": "sig-2026-07-01-8f86987cacbd",
-    "date_capture": "2026-07-18",
+    "date_capture": "2026-07-19",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Manchester City",
@@ -116,8 +116,8 @@
     "contacts_cibles": []
   },
   {
-    "id": "sig-2026-07-16-ad39559c9eba",
-    "date_capture": "2026-07-18",
+    "id": "sig-2026-07-17-cf275aa66185",
+    "date_capture": "2026-07-19",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Mali : L’Etat",
@@ -136,7 +136,7 @@
     "action_reco": "Mali : L’Etat : ~1000 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-07-16",
+    "date_publication": "2026-07-17",
     "email_draft": {
       "subject": "Mali : L’Etat — fiabiliser la pré-qualification de vos recrutements",
       "body": "Bonjour,\n\nJ'ai lu que Mali : L’Etat prépare une campagne de recrutement importante (Mali : L’Etat va recruter 1000 policiers et 500 sapeurs-pompiers…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
@@ -145,38 +145,8 @@
     "contacts_cibles": []
   },
   {
-    "id": "sig-2026-06-04-2c1bc59be3ed",
-    "date_capture": "2026-07-18",
-    "vertical": "corporate",
-    "sous_segment": "entreprise",
-    "compte": "Edenred",
-    "titre": "Edenred rejoint le consortium Quintessence AI pour former ses 12 000 salariés",
-    "description": "Edenred rejoint le consortium Quintessence AI pour former ses 12 000 salariés Idéal Investisseur",
-    "source": "Idéal Investisseur (via Google News)",
-    "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRFVsdmNIdk1tR0dDWF9uNWxCTFhMODhWakJ0NTN4VzFUM2VVbFJxZUdMY3RaQWwxa1F4VVFLSHB6dmlZSU9rd2ZfQ3ZneU03eXdVUmVXSXJHTklQYTMtTFI1b1N2bUg0MU0tNVJveXBrSHVZWW9ibUlBNllldnlIZm53Q0NjTmZVc252RXFwYmU4MW5OcDdwX3R6U1lvLTcwTmNoU1NZYThYTFFGeGs2dk1uMENaS29LcVRqVlZlMUJabVZOMjNfbmRpRjM?oc=5",
-    "signal_type": "plan_ia",
-    "tier": 1,
-    "score": 85,
-    "produit_match": [
-      "ITS",
-      "Tosa Corporate"
-    ],
-    "owner": null,
-    "action_reco": "Edenred : plan de formation IA. Cibler Head of L&D / CDO — pitch mesure de socle (Cert IA Tosa sept 2026, programme partenaires).",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-06-04",
-    "email_draft": {
-      "subject": "Edenred — mesurer le socle de compétences IA de vos équipes",
-      "body": "Bonjour,\n\nVotre initiative de formation à l'IA (Edenred rejoint le consortium Quintessence AI pour former ses 12 000 salariés…) m'a interpellé.\n\nPour piloter ce type de programme, nos clients mesurent un socle de compétences avant/après (certification Tosa, plateforme ITS pour vos contenus propres). La Certification IA Tosa sort en septembre 2026 — programme partenaires de lancement en cours.\n\nUn échange de 20 minutes pour voir si cela peut soutenir votre déploiement ?\n\nBien cordialement,\nCharles Gosset — Isograd",
-      "url_source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRFVsdmNIdk1tR0dDWF9uNWxCTFhMODhWakJ0NTN4VzFUM2VVbFJxZUdMY3RaQWwxa1F4VVFLSHB6dmlZSU9rd2ZfQ3ZneU03eXdVUmVXSXJHTklQYTMtTFI1b1N2bUg0MU0tNVJveXBrSHVZWW9ibUlBNllldnlIZm53Q0NjTmZVc252RXFwYmU4MW5OcDdwX3R6U1lvLTcwTmNoU1NZYThYTFFGeGs2dk1uMENaS29LcVRqVlZlMUJabVZOMjNfbmRpRjM?oc=5"
-    },
-    "contacts_cibles": []
-  },
-  {
     "id": "sig-2026-07-16-10beb64146e6",
-    "date_capture": "2026-07-18",
+    "date_capture": "2026-07-19",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Microagi",
@@ -239,7 +209,7 @@
   },
   {
     "id": "sig-2026-07-15-072f00765bbb",
-    "date_capture": "2026-07-18",
+    "date_capture": "2026-07-19",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Neko",
@@ -302,7 +272,7 @@
   },
   {
     "id": "sig-2026-07-16-531f5e82529b",
-    "date_capture": "2026-07-18",
+    "date_capture": "2026-07-19",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Syntetica",
@@ -365,7 +335,7 @@
   },
   {
     "id": "sig-2026-07-15-bef13d7f29de",
-    "date_capture": "2026-07-18",
+    "date_capture": "2026-07-19",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Monumental",
