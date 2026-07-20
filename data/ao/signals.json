@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-05-19-c8342a26e939",
-    "date_capture": "2026-07-19",
+    "date_capture": "2026-07-20",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "Université Paris-Saclay",
@@ -53,7 +53,7 @@
   },
   {
     "id": "sig-2026-05-11-64ab3dd75a34",
-    "date_capture": "2026-07-19",
+    "date_capture": "2026-07-20",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "NEOMA Business School (Reims)",
@@ -105,7 +105,7 @@
   },
   {
     "id": "sig-2026-06-25-6965d333b8e7",
-    "date_capture": "2026-07-19",
+    "date_capture": "2026-07-20",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "Universiteit van Amsterdam",
@@ -122,7 +122,7 @@
     ],
     "owner": "Charles",
     "action_reco": "📋 **Récupérer le DCE complet** sur https://ted.europa.eu/fr/notice/-/detail/435849-2026\n🎯 **Décideur cible** : Direction des examens + VP Pédagogie + DSI (vérifier organigramme via site officiel + LinkedIn Sales Nav)\n💡 **Angle de valeur** : ITS comme back-end éval intégrable à votre SI : banque de questions paramétrable, exports complets, multi-rôles candidat/admin/OF\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS probables : Explorance (cas Neoma), EvaluationKIT, Bluepulse, Aurion (ERP scolarité), ExamSoft, Pearson VUE, Caveon",
-    "deadline_action": "2026-07-26",
+    "deadline_action": "2026-07-27",
     "status": "new",
     "date_publication": "2026-06-25",
     "email_draft": {
@@ -157,7 +157,7 @@
   },
   {
     "id": "sig-2026-07-08-94aa9a62058e",
-    "date_capture": "2026-07-19",
+    "date_capture": "2026-07-20",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Musée du Louvre",
@@ -209,7 +209,7 @@
   },
   {
     "id": "sig-2026-06-14-642967f355df",
-    "date_capture": "2026-07-19",
+    "date_capture": "2026-07-20",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "CSTB.",
@@ -261,7 +261,7 @@
   },
   {
     "id": "sig-2026-07-09-ccebc011ca7f",
-    "date_capture": "2026-07-19",
+    "date_capture": "2026-07-20",
     "vertical": "ao",
     "sous_segment": "Marché public FPH (Hôpitaux / CHU / AP-HP)",
     "compte": "CHU ROUEN NORMANDIE",
@@ -313,7 +313,7 @@
   },
   {
     "id": "sig-2026-06-05-b64e450d489b",
-    "date_capture": "2026-07-19",
+    "date_capture": "2026-07-20",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "Université d'Angers",
@@ -365,7 +365,7 @@
   },
   {
     "id": "sig-2026-06-15-5a2f93c2a21d",
-    "date_capture": "2026-07-19",
+    "date_capture": "2026-07-20",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "Université paris est-Créteil",
@@ -417,7 +417,7 @@
   },
   {
     "id": "sig-2026-06-16-22b19128aa08",
-    "date_capture": "2026-07-19",
+    "date_capture": "2026-07-20",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "Université de Caen Normandie",
@@ -469,7 +469,7 @@
   },
   {
     "id": "sig-2026-06-26-f39cef39f8c1",
-    "date_capture": "2026-07-19",
+    "date_capture": "2026-07-20",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "EDF SA",
@@ -520,112 +520,8 @@
     ]
   },
   {
-    "id": "sig-2026-05-20-55af9a3fdc51",
-    "date_capture": "2026-07-19",
-    "vertical": "ao",
-    "sous_segment": "Marché public Collectivité",
-    "compte": "Département de la Dordogne",
-    "titre": "Fourniture de ressources numériques en ligne pour la médiathèque numérique de la Dordogne et la future plateforme culturelle",
-    "description": "Fourniture de ressources numériques en ligne pour la médiathèque numérique de la Dordogne et la future plateforme culturelle",
-    "source": "TED (Tenders Electronic Daily UE)",
-    "source_tier": 1,
-    "url": "https://ted.europa.eu/fr/notice/-/detail/345468-2026",
-    "signal_type": "ao_publie",
-    "tier": 2,
-    "score": 65,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Récupérer le DCE complet** sur https://ted.europa.eu/fr/notice/-/detail/345468-2026\n🎯 **Décideur cible** : DRH + Direction Numérique + RAQ Qualiopi (rechercher CNFPT territorial si volet formation)\n💡 **Angle de valeur** : ITS : plateforme d'hébergement d'examens (tests recrutement, contrôles, certifications internes) avec correction auto et reporting\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS : prestataires SIRH territoriaux, plateformes internes maison, Sphinx, EvalandGo",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-05-20",
-    "email_draft": {
-      "subject": "AO Département de la Dordogne — ISOGRAD souhaite candidater",
-      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"Fourniture de ressources numériques en ligne pour la médiathèque numérique de la Dordogne et la future plateforme culturelle\"\nDeadline : à définir\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://ted.europa.eu/fr/notice/-/detail/345468-2026"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Acheteur public référencé sur l'AO",
-        "alternatives": [
-          "RAQ",
-          "Responsable des achats"
-        ],
-        "priorite": 1,
-        "raison": "Référent direct de la consultation",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=D%C3%A9partement+de+la+Dordogne",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22D%C3%A9partement%20de%20la%20Dordogne%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
-      },
-      {
-        "poste": "Décideur métier (variable selon segment)",
-        "alternatives": [
-          "Direction des examens (ESR)",
-          "Direction des soins (FPH)",
-          "DRH (Collectivité)"
-        ],
-        "priorite": 2,
-        "raison": "Sponsorise le besoin métier en amont",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=D%C3%A9partement+de+la+Dordogne",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22D%C3%A9partement%20de%20la%20Dordogne%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
-      }
-    ]
-  },
-  {
-    "id": "sig-2026-05-20-010029546232",
-    "date_capture": "2026-07-19",
-    "vertical": "ao",
-    "sous_segment": "Marché public — secteur à qualifier",
-    "compte": "ES Energies Strasbourg",
-    "titre": "Solution de portail web et suivi des consommations pour les clients du marché d’affaires d’ES Energies",
-    "description": "ÉS Énergies est à la recherche d’une solution de suivi des consommations d’énergie, pour ses clients du marché d’affaires (Entreprises, Collectivités, Habitat collectif et Grands comptes). Dans un marché de plus en plus numérisé, ÉS souhaite moderniser son portail web client pour offrir un outil de pilotage énergétique de pointe dans le but de : • Renforcer la digitalisation de nos clients • Améli",
-    "source": "TED (Tenders Electronic Daily UE)",
-    "source_tier": 1,
-    "url": "https://ted.europa.eu/fr/notice/-/detail/346120-2026",
-    "signal_type": "ao_publie",
-    "tier": 2,
-    "score": 65,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Récupérer le DCE complet** sur https://ted.europa.eu/fr/notice/-/detail/346120-2026\n🎯 **Décideur cible** : À enrichir via LinkedIn Sales Nav + site officiel de l'acheteur\n💡 **Angle de valeur** : ITS en SaaS multi-tenant : déploiement 4-6 semaines, scalable, zéro infra à maintenir côté acheteur\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS à mapper via questions de cadrage : Explorance, EvaluationKIT, Sphinx, EvalandGo, ExamSoft, plateformes internes",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-05-20",
-    "email_draft": {
-      "subject": "AO ES Energies Strasbourg — ISOGRAD souhaite candidater",
-      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"Solution de portail web et suivi des consommations pour les clients du marché d’affaires d’ES Energies\"\nDeadline : à définir\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://ted.europa.eu/fr/notice/-/detail/346120-2026"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Acheteur public référencé sur l'AO",
-        "alternatives": [
-          "RAQ",
-          "Responsable des achats"
-        ],
-        "priorite": 1,
-        "raison": "Référent direct de la consultation",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=ES+Energies+Strasbourg",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ES%20Energies%20Strasbourg%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
-      },
-      {
-        "poste": "Décideur métier (variable selon segment)",
-        "alternatives": [
-          "Direction des examens (ESR)",
-          "Direction des soins (FPH)",
-          "DRH (Collectivité)"
-        ],
-        "priorite": 2,
-        "raison": "Sponsorise le besoin métier en amont",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=ES+Energies+Strasbourg",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ES%20Energies%20Strasbourg%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
-      }
-    ]
-  },
-  {
     "id": "sig-2026-05-27-18d8d9557828",
-    "date_capture": "2026-07-19",
+    "date_capture": "2026-07-20",
     "vertical": "ao",
     "sous_segment": "Marché public Collectivité",
     "compte": "Tours métropole Val de Loire",
@@ -677,7 +573,7 @@
   },
   {
     "id": "sig-2026-06-04-64779269005b",
-    "date_capture": "2026-07-19",
+    "date_capture": "2026-07-20",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "CDC Informatique",
@@ -729,7 +625,7 @@
   },
   {
     "id": "sig-2026-06-05-04befdd44df4",
-    "date_capture": "2026-07-19",
+    "date_capture": "2026-07-20",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "ENSAM",
@@ -781,7 +677,7 @@
   },
   {
     "id": "sig-2026-06-11-c20a36583e84",
-    "date_capture": "2026-07-19",
+    "date_capture": "2026-07-20",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Rectorat d'Aix Marseille",
@@ -833,7 +729,7 @@
   },
   {
     "id": "sig-2026-07-16-0b557144070a",
-    "date_capture": "2026-07-19",
+    "date_capture": "2026-07-20",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "RATP",
