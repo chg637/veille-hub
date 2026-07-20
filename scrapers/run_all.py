@@ -185,13 +185,17 @@ def main():
         logger.info("Reset %s à []", path.relative_to(repo_root))
 
     grand_total = 0
+    scraper_stats = {}
     for module_path, vertical in SCRAPERS:
         logger.info("===== Running %s =====", module_path)
+        short = module_path.replace("scrapers.", "")
         try:
             n = run_scraper(module_path, vertical, repo_root)
             grand_total += n
+            scraper_stats[short] = n
         except Exception as e:
             logger.error("Scraper %s failed: %s", module_path, e, exc_info=True)
+            scraper_stats[short] = -1  # -1 = erreur (≠ 0 signaux)
 
     logger.info("==== DONE — %d new signals captured across all scrapers ====", grand_total)
 
@@ -206,6 +210,9 @@ def main():
         "last_run_utc": now_utc.isoformat(),
         "last_run_iso": now_utc.strftime("%Y-%m-%dT%H:%M:%SZ"),
         "total_signals": grand_total,
+        # Santé par scraper : n signaux captés, 0 = muet, -1 = erreur.
+        # Affiché dans le hub pour détecter les sources qui meurent en silence.
+        "scrapers": scraper_stats,
     }
     meta_path.write_text(json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8")
     logger.info("Wrote meta to %s : %s", meta_path.relative_to(repo_root), meta["last_run_iso"])

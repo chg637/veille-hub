@@ -80,6 +80,10 @@ PURCHASE_SIGNAL_TYPES = {
     "concurrent_news",
     "of_nouvelle_offre",
     "opco_ao",
+    # AO — ao_attribue accepté depuis v5.5 : les avis de transparence ex-ante
+    # (Benelux) sont de l'intel marché (qui achète quoi, fournisseur retenu).
+    # Ils sortent en T3 via leur base score 25 — visibles mais jamais prioritaires.
+    "ao_attribue",
     # Corporate — déclencheur d'achat ITS / Tosa Corporate
     "nomination_chro",
     "levee_fonds",

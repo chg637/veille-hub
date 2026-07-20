@@ -243,7 +243,11 @@ KW_TIER_S = [
     "banque de questions", "item banking",
     "computer-based testing", "test delivery", "exam delivery",
     "online examination platform", "examination platform",
-    "digital assessment platform",
+    "digital assessment platform", "e-assessment", "assessment software",
+    # NL — marchés Benelux (TED couvre BEL/LUX/NLD depuis v5.5)
+    "digitaal toetsen", "toetssoftware", "toetsplatform", "digitale examens",
+    "evaluatieplatform", "evaluatie- en oefenplatform", "toetsen op afstand",
+    "psychométri", "psychometri", "analyse psychométrique",
     "dématérialisation des épreuves", "passation dématérialisée",
     "épreuves dématérialisées",
     "dispositif numérique de passation",
@@ -473,6 +477,19 @@ NEGATIVE_PHRASES = [
     # Certification financière (commissaires aux comptes, etc.)
     "certification des comptes", "certification de comptes",
     "commissaire aux comptes", "commissaires aux comptes",
+
+    # Faux amis observés en prod (audit AO 20 juillet 2026)
+    "certificats d'économies d'énergie", "certificats d'économie d'énergie",  # CEE ≠ certification de compétences
+    "chèque emploi service", "chèques emploi service",                        # CESU
+    "disclosure management",                                                  # reporting financier
+    # Bruit NL observé (extension Benelux v5.5)
+    "verbalisering",                    # PV de police numérique
+    "kunstbeheer",                      # gestion de collections d'art
+    "collectie informatie systeem",
+    "onderwijscatalogus",               # catalogue de cours
+    "leerlingvolgsysteem",              # suivi d'élèves K-12 (hors cible sup)
+    "tierce maintenance",                                                     # TMA informatique
+    "système de qualification des fournisseurs", "système de qualification",  # utilities (EDF/RATP)
 ]
 
 
@@ -769,7 +786,7 @@ def scrape() -> list[Signal]:
         sous_segment = _map_sous_segment(n)
         # v5.4 — scoring discriminant (le score du radar amont reste un plancher)
         score = max(score if n.get("score") else 0,
-                    score_ao(signal_type, n.get("_metier_score"), deadline, n.get("_whitelist", False)))
+                    score_ao(signal_type, n.get("_metier_score"), deadline, n.get("_whitelist", False), publication_iso=publication))
         tier = determine_tier(score)
         source_tier = _source_tier_for(source)
 

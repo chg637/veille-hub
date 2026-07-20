@@ -575,7 +575,7 @@
 <div class="ft">
   <div>📅 Prochain digest hebdo : <b id="next-digest">lundi 8h</b> · cercle réduit (Charles + Juliette)</div>
   <div id="triage-sync"><span class="dot"></span><span id="triage-sync-label">triage local</span><button onclick="configureSync()">&#9881; sync GitHub</button></div>
-  <div class="digest">v0.8 — volet OF live + décroissance RNCP + triage en masse</div>
+  <div class="digest">v0.8 — OF live · décroissance RNCP · triage en masse · AO v5.5 Benelux + santé sources</div>
 </div>
 
 <script>
@@ -954,6 +954,26 @@ function renderSignal(s) {
     </div>`;
 }
 
+// Santé des sources (meta.scrapers : n signaux, 0 = muet, -1 = erreur).
+// Un scraper muet 1 jour = normal ; l'important est de VOIR les erreurs.
+function renderScraperHealth(scrapers) {
+  if (!scrapers) return;
+  const entries = Object.entries(scrapers);
+  const errors = entries.filter(([, n]) => n === -1).map(([k]) => k);
+  const muted = entries.filter(([, n]) => n === 0).map(([k]) => k);
+  const el = document.getElementById("last-update");
+  if (!el) return;
+  const detail = entries.map(([k, n]) => `${k}: ${n === -1 ? "ERREUR" : n}`).join("\n");
+  let badge = ` · ${entries.length - errors.length - muted.length}/${entries.length} sources actives`;
+  if (errors.length) badge += ` · ⛔ ${errors.length} en erreur`;
+  else if (muted.length) badge += ` · ${muted.length} muette${muted.length > 1 ? "s" : ""}`;
+  const span = document.createElement("span");
+  span.textContent = badge;
+  span.title = detail;
+  if (errors.length) span.style.color = "var(--hot)";
+  el.appendChild(span);
+}
+
 function renderEmpty(vertical, msg) {
   const isCorpo = vertical === "corporate";
   return `<div class="empty-state ${isCorpo ? 'empty-corpo' : ''}">
@@ -1078,6 +1098,7 @@ async function initHub() {
         timeZone: "Europe/Paris",
       });
       updateLastRun(`Dernière MAJ : ${dateStr} à ${timeStr}`);
+      renderScraperHealth(meta.scrapers);
     })
     .catch(() => {
       // Fallback : date du signal le plus récent

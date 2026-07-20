@@ -163,7 +163,7 @@ def scrape() -> list[Signal]:
         notice["segment"] = segment
         signal_type = "ao_publie"
         sous_segment = _map_sous_segment(notice)
-        score = score_ao(signal_type, notice.get("_metier_score"), deadline, notice.get("_whitelist", False))
+        score = score_ao(signal_type, notice.get("_metier_score"), deadline, notice.get("_whitelist", False), publication_iso=publication)
         tier = determine_tier(score)
 
         action = _generate_ao_action(notice, signal_type, segment)

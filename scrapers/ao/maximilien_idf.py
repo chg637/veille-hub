@@ -315,7 +315,7 @@ def scrape() -> list[Signal]:
         if mx_deadline and mx_deadline < today:
             logger.info("[Maximilien IDF] ÉCHU (%s), skip : %s", mx_deadline, n["acheteur"][:40])
             continue
-        score = score_ao("ao_publie", n.get("_metier_score"), mx_deadline, n.get("_whitelist", False))
+        score = score_ao("ao_publie", n.get("_metier_score"), mx_deadline, n.get("_whitelist", False), publication_iso=n.get("publication"))
         tier = determine_tier(score)
         signal_type = "ao_publie"
         sous_segment = _map_sous_segment(n)

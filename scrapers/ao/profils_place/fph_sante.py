@@ -68,7 +68,7 @@ def scrape() -> list[Signal]:
             logger.info("[PLACE] ÉCHU (%s), skip : %s", pl_deadline, n["acheteur"][:40])
             continue
         signal_type = "ao_publie"
-        score = score_ao(signal_type, n.get("_metier_score"), pl_deadline, n.get("_whitelist", False))
+        score = score_ao(signal_type, n.get("_metier_score"), pl_deadline, n.get("_whitelist", False), publication_iso=n.get("publication"))
         tier = determine_tier(score)
         sous_segment = _map_sous_segment(n)
 

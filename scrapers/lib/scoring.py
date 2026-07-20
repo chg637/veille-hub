@@ -68,6 +68,7 @@ def score_ao(
     metier_score: Optional[int] = None,
     deadline_iso: Optional[str] = None,
     whitelist: bool = False,
+    publication_iso: Optional[str] = None,
 ) -> int:
     """
     Score AO discriminant (v5.4) — remplace le 80 fixe qui rendait le tiering plat.
@@ -101,6 +102,17 @@ def score_ao(
                 score -= 10
             elif days <= 45:
                 score += 5
+        except ValueError:
+            pass
+    elif publication_iso:
+        # Sans deadline connue, un AO ne doit pas rester à score fixe pendant
+        # les 60j de la fenêtre : décroissance par âge de publication.
+        try:
+            age = (date.today() - date.fromisoformat(str(publication_iso)[:10])).days
+            if age > 45:
+                score -= 15
+            elif age > 30:
+                score -= 8
         except ValueError:
             pass
     return max(0, min(98, score))

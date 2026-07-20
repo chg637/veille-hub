@@ -76,7 +76,9 @@ TED_FIELDS = [
 def _build_query(since_iso: str) -> str:
     """Construit la query expert TED v3."""
     cpv_or = " OR ".join(f"classification-cpv={c}" for c in CPV_TARGETS)
-    return f"({cpv_or}) AND buyer-country=FRA AND publication-date>={since_iso}"
+    # Territoire commercial : France + Benelux (la Suisse n'est pas dans TED → simap.ch, backlog)
+    countries = " OR ".join(f"buyer-country={c}" for c in ("FRA", "BEL", "LUX", "NLD"))
+    return f"({cpv_or}) AND ({countries}) AND publication-date>={since_iso}"
 
 
 def _fetch_notices(query: str, limit: int = 100) -> list[dict]:
@@ -144,6 +146,7 @@ def scrape() -> list[Signal]:
 
     ck = curated_keys()
     signals = []
+    _seen_ct = set()
 
     for rec in notices:
         notice_id = rec.get("notice-identifier") or ""
@@ -202,12 +205,26 @@ def scrape() -> list[Signal]:
 
         segment = _detect_segment_from_acheteur(acheteur) or "Autre"
         notice["segment"] = segment
-        signal_type = "ao_publie"
+        # "Vrijwillige transparantie (vooraf)" / "voluntary ex ante" = avis de
+        # transparence ex-ante → attribution déjà décidée. Intel marché (qui
+        # achète quoi, à qui), pas une opportunité à chasser → ao_attribue.
+        _lower_title = objet.lower()
+        if ("vrijwillige transparantie" in _lower_title
+                or "voluntary ex ante" in _lower_title
+                or "voluntary ex-ante" in _lower_title):
+            signal_type = "ao_attribue"
+        else:
+            signal_type = "ao_publie"
         sous_segment = _map_sous_segment(notice)
-        score = score_ao(signal_type, notice.get("_metier_score"), deadline, notice.get("_whitelist", False))
+        score = score_ao(signal_type, notice.get("_metier_score"), deadline, notice.get("_whitelist", False), publication_iso=publication)
         tier = determine_tier(score)
 
-        action = _generate_ao_action(notice, signal_type, segment)
+        if signal_type == "ao_attribue":
+            action = (f"Attribution en cours chez {acheteur[:40]} — pas d'AO à chasser. "
+                      "Intel marché : identifier le fournisseur retenu (veille concurrentielle) "
+                      "et noter le compte pour la fenêtre de renouvellement.")
+        else:
+            action = _generate_ao_action(notice, signal_type, segment)
         email_dr = email_draft_ao(acheteur, objet, deadline or "à définir", url)
         contacts = get_contacts_cibles(signal_type, acheteur)
 
@@ -234,6 +251,11 @@ def scrape() -> list[Signal]:
             email_draft=email_dr,
             contacts_cibles=contacts,
         )
+        _ct = (acheteur.lower(), objet.lower())
+        if _ct in _seen_ct:
+            logger.info("[TED] doublon compte+titre, skip : %s", acheteur[:30])
+            continue
+        _seen_ct.add(_ct)
         signals.append(sig)
         logger.info("[TED] [%d/T%d] %s — %s (%s)", score, tier, acheteur[:30], objet[:50], reason)
 
