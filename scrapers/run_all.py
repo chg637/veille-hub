@@ -146,6 +146,9 @@ SCRAPERS = [
     ("scrapers.corporate.google_news_rh", "corporate"),
     # OF — Phase 1 — levées EdTech (Maddyness + Sifted filtrés EdTech)
     ("scrapers.of.levees_edtech", "of"),
+    # Presse formation pro RSS (Centre Inffo, Digiformag) — levées/rachats OF,
+    # nouvelles offres certif/bureautique/IA, actu Qualiopi. v0.8
+    ("scrapers.of.presse_of", "of"),
     # RNCP — nouvelles fiches RNCP/RS via data.gouv.fr (France Compétences)
     # Vertical dédié distinct de OF : ici = certificateurs qui déposent.
     ("scrapers.of.france_competences", "rncp"),

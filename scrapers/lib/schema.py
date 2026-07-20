@@ -78,6 +78,7 @@ PURCHASE_SIGNAL_TYPES = {
     "rncp_open",
     "qualiopi",
     "concurrent_news",
+    "of_nouvelle_offre",
     "opco_ao",
     # Corporate — déclencheur d'achat ITS / Tosa Corporate
     "nomination_chro",

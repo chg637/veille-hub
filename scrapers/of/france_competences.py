@@ -412,6 +412,19 @@ def scrape() -> list[Signal]:
         # Score par pertinence ITS : HOT (cœur de cible) > WARM (compatible).
         # Léger malus si la fiche n'est pas de niveau supérieur (6/7).
         score = 88 if domaine == "hot" else 72
+        # Décroissance d'âge — la fenêtre d'outreach est ~30j post-décision.
+        # ≤10j: plein score · 11-21j: -6 · 22-30j: -12 · 31-45j: -20 · >45j: skip
+        from datetime import date as _date
+        _age = (_date.today() - date_dec).days if date_dec else 0
+        if _age > 45:
+            logger.info("[France Compétences] fiche > 45j (%s), skip : %s", date_dec, intitule[:50])
+            continue
+        if _age > 30:
+            score -= 20
+        elif _age > 21:
+            score -= 12
+        elif _age > 10:
+            score -= 6
         if not ("6" in niveau or "7" in niveau):
             score -= 5
         tier = determine_tier(score)

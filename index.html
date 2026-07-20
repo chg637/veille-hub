@@ -475,7 +475,8 @@
   .tri-state { font-size: 11px; font-weight: 700; margin-top: 8px; }
   .tri-state.traite { color: var(--good); }
   .tri-state.ignore { color: var(--hot); }
-  .tri-bar { display: flex; justify-content: flex-end; margin: 0 0 10px; }
+  .tri-bar { display: flex; justify-content: flex-end; gap: 16px; margin: 0 0 10px; }
+  .tri-toggle.bulk { color: var(--hot); }
   .tri-toggle {
     background: none; border: none; color: var(--isograd); font-size: 11.5px;
     font-weight: 600; cursor: pointer; padding: 0; font-family: inherit; text-decoration: underline;
@@ -509,7 +510,7 @@
 
 <div class="info">
   <div id="info-text">
-    <b>Hub live v0.5.</b> 5 volets · Sources actionnables : <b>Radar Hebdo Tosa</b> · <b>Radar AO Isograd</b> · <b>CGE labellisations</b> · <b>France Compétences</b>. Refresh quotidien 6h UTC via GitHub Actions.
+    <b>Hub live v0.8.</b> 5 volets · Sources actionnables : <b>Radar Hebdo Tosa</b> · <b>Radar AO Isograd</b> · <b>CGE labellisations</b> · <b>France Compétences</b>. Refresh quotidien 6h UTC via GitHub Actions.
   </div>
   <div class="pulse"><span id="last-update">MAJ : —</span></div>
 </div>
@@ -574,7 +575,7 @@
 <div class="ft">
   <div>📅 Prochain digest hebdo : <b id="next-digest">lundi 8h</b> · cercle réduit (Charles + Juliette)</div>
   <div id="triage-sync"><span class="dot"></span><span id="triage-sync-label">triage local</span><button onclick="configureSync()">&#9881; sync GitHub</button></div>
-  <div class="digest">v0.7 — triage persistant + scoring AO discriminant</div>
+  <div class="digest">v0.8 — volet OF live + décroissance RNCP + triage en masse</div>
 </div>
 
 <script>
@@ -636,6 +637,22 @@ function triStatus(id) {
 }
 
 function toggleTriaged() { SHOW_TRIAGED = !SHOW_TRIAGED; renderAll(); }
+
+// Triage en masse d'un volet — pensé pour les batchs RNCP (50 fiches d'un coup).
+// confirm() natif : action lourde mais réversible (Afficher → Rétablir un par un).
+function ignoreAllInVertical(v) {
+  const signals = (BY_VERTICAL && BY_VERTICAL[v]) || [];
+  const actives = signals.filter(s => s.id && !triStatus(s.id));
+  if (!actives.length) return;
+  if (!window.confirm(`Ignorer les ${actives.length} signaux actifs du volet ${v} ? (réversible via « Afficher » puis « Rétablir »)`)) return;
+  const now = new Date().toISOString();
+  for (const s of actives) {
+    TRIAGE[s.id] = Object.assign({}, TRIAGE[s.id], { status: "ignore", at: now });
+  }
+  localStorage.setItem(TRIAGE_LS_KEY, JSON.stringify(TRIAGE));
+  schedulePush();
+  renderAll();
+}
 
 function renderTriageControls(s) {
   const id = s.id || "";
@@ -955,11 +972,20 @@ function bySortKey(a, b) {
   return dB.localeCompare(dA);
 }
 
-function triBar(hidden) {
-  if (hidden <= 0) return "";
-  const verb = SHOW_TRIAGED ? "Masquer" : "Afficher";
-  const noun = hidden > 1 ? `les ${hidden} signaux traités/ignorés` : "le signal traité/ignoré";
-  return `<div class="tri-bar"><button class="tri-toggle" onclick="toggleTriaged()">${verb} ${noun}</button></div>`;
+function triBar(hidden, vertical) {
+  const parts = [];
+  if (vertical) {
+    const actives = ((BY_VERTICAL && BY_VERTICAL[vertical]) || []).filter(s => s.id && !triStatus(s.id));
+    if (actives.length >= 5) {
+      parts.push(`<button class="tri-toggle bulk" onclick="ignoreAllInVertical('${vertical}')">✕ Ignorer les ${actives.length} signaux du volet</button>`);
+    }
+  }
+  if (hidden > 0) {
+    const verb = SHOW_TRIAGED ? "Masquer" : "Afficher";
+    const noun = hidden > 1 ? `les ${hidden} signaux traités/ignorés` : "le signal traité/ignoré";
+    parts.push(`<button class="tri-toggle" onclick="toggleTriaged()">${verb} ${noun}</button>`);
+  }
+  return parts.length ? `<div class="tri-bar">${parts.join("")}</div>` : "";
 }
 
 // Rendu complet (appelé au chargement et après chaque action de triage)
@@ -980,8 +1006,9 @@ function renderAll() {
     }
     if (signals.length === 0) {
       let msg = "Aucun signal capturé. Les scrapers vont s'exécuter quotidiennement à 6h UTC.";
-      if (v === "corporate") msg = "Vertical en cours de construction (S3, 2-6 juin). Sources LinkedIn nominations, AEF RH, levées de fonds à brancher.";
-      if (v === "ao") msg = "Vertical synchronisé avec le Radar AO Isograd. La sync auto sera branchée en S3.";
+      if (v === "of") msg = "Volet à faible volume par nature : la presse formation pro publie peu de signaux d'achat OF. Sources branchées : Centre Inffo + Digiformag (levées, rachats, nouvelles offres). La prospection OF de masse passera par la liste publique Qualiopi (chantier accounts).";
+      if (v === "corporate") msg = "Aucun signal corporate actif — le scraper Google News RH (nominations DRH, plans de recrutement, plans IA) tourne quotidiennement à 6h UTC.";
+      if (v === "ao") msg = "Aucun AO actif dans la fenêtre — scrapers TED / BOAMP / PLACE quotidiens, AO échus exclus automatiquement.";
       container.innerHTML = renderEmpty(v, msg);
       document.getElementById(`badge-${v}`).textContent = "0";
       stats[v] = 0;
@@ -993,7 +1020,7 @@ function renderAll() {
     const hidden = signals.length - active.length;
     hiddenTotal += hidden;
     const shown = SHOW_TRIAGED ? signals : active;
-    container.innerHTML = triBar(hidden) + (shown.length > 0
+    container.innerHTML = triBar(hidden, v) + (shown.length > 0
       ? shown.map(renderSignal).join("")
       : renderEmpty(v, "Tous les signaux de ce volet ont été traités. \ud83d\udc4c"));
     document.getElementById(`badge-${v}`).textContent = active.length;

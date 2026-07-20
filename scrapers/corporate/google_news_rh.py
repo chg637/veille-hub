@@ -63,6 +63,9 @@ QUERIES = [
 # hors ICP ITS corporate — le public passe par les AO), politique.
 NEGATIVE_PATTERNS = [
     r"\bmercato\b", r"\bjoueur", r"\bfootball\b", r"\brugby\b", r"\bclub\b",
+    r"\bpoliciers?\b", r"\bsapeurs?-pompiers?\b", r"\bmilitaires?\b", r"\bsoldats?\b",
+    r"\bfonctionnaires?\b", r"\benseignants?\b", r"\bmagistrats?\b",
+    r"\b(?:Manchester|Liverpool|Chelsea|Arsenal|Real Madrid|Barcelone|PSG|Marseille|OM|OL)\b",
     r"\battaquant\b", r"\bdéfenseur\b", r"\bmilieu de terrain\b", r"\bgardien de but\b",
     r"\btransfert\b", r"\bligue \d\b",
     r"\barmée\b", r"\bgendarmerie\b", r"\bpolice\b", r"\bmilitaire",
@@ -72,7 +75,11 @@ NEGATIVE_PATTERNS = [
 ]
 
 # Mots-outils en tête de nom d'entreprise (+ tournures temporelles "En 2026, …")
-LEADING_NOISE = re.compile(r"^(?:en\s+\d{4}\s*,?\s*)?(?:le groupe|la société|l['’]entreprise|le|la|les|l['’])\s+", re.IGNORECASE)
+LEADING_NOISE = re.compile(
+    r"^(?:en\s+\d{4}\s*,?\s*)?"
+    r"(?:(?:le groupe|la société|l['’]entreprise|l['’]enseigne|la start-?up|la scale-?up|le|la|les|l['’])\s+)?"
+    r"(?:(?:française?|indienne?|américaine?|allemande?|britannique|espagnole?|italienne?|"
+    r"chinoise?|japonaise?|suisse|belge|néerlandaise?)\s+)?", re.IGNORECASE)
 
 # Comptes hors-cible corporate : public et éducation (couverts par les volets
 # education et AO), collectivités. On ne veut que des entreprises privées.
@@ -125,8 +132,9 @@ def _extract_plan_recrutement(title: str) -> tuple[str, int]:
     compte = _clean_company(m.group(1)) if m else ""
     vol = 0
     # Le nombre ne doit PAS être un montant ("51 millions d'euros") ni un âge/%
-    mv = re.search(r"(\d{1,3}(?:[\s.,]\d{3})+|\d{2,6})\s*(?!millions?|milliards?|M€|k€|€|\$|%|ans)"
-                   r"(?:personnes|postes|salariés|collaborateurs|recrutements|embauches|CDI)?",
+    mv = re.search(r"(\d{1,3}(?:[\s.,]\d{3})+|\d{2,6})\s*"
+                   r"(?:personnes|postes|salariés|collaborateurs|recrutements|embauches|CDI|"
+                   r"talents|ingénieurs|techniciens|conseillers|experts|alternants)\b",
                    title, re.IGNORECASE)
     if mv:
         try:
@@ -186,6 +194,8 @@ def scrape() -> list[Signal]:
             if not is_recent(item["date_iso"], max_age_days=max_age):
                 continue
             title, real_source = _split_gnews_title(item["title"])
+            # Presse locale : "Isère. Maxi Zoo prévoit…" → strip le préfixe région
+            title = re.sub(r"^[A-ZÉÈ][\w'’-]{2,20}(?:\s[A-ZÉÈ][\w'’-]{2,20})?\.\s+", "", title)
             if is_editorial_noise(title) or matches_regex(title, NEGATIVE_PATTERNS):
                 continue
 

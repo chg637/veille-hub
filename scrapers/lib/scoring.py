@@ -25,6 +25,7 @@ SIGNAL_TYPE_SCORES = {
     "rncp_open": 75,
     "qualiopi": 60,
     "concurrent_news": 55,
+    "of_nouvelle_offre": 68,   # OF qui lance une offre bureautique/IA = revendeur Tosa potentiel
     # AO (appels d'offres)
     "ao_publie": 85,
     "ao_pre_info": 70,

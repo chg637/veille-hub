@@ -6,14 +6,15 @@ Hub central d'agrégation de la veille marché Isograd — 3 verticaux (Educatio
 
 ---
 
-## État actuel — v0.2 (S2 en cours, 19 mai 2026)
+## État actuel — v0.8 (20 juillet 2026)
 
-- ✅ Maquette HTML standalone (4 onglets, scoring, signaux mock + réels)
-- ✅ Déploiement Vercel statique
-- ✅ Pipeline Python : schema commun + scoring + scraper Maddyness (1ʳᵉ source live)
+- ✅ 5 volets live (Education, OF, RNCP, Corporate, AO) — front connecté aux JSON
+- ✅ Scrapers : presse sup RSS, CGE, Google News RH (nominations/recrutements/plans IA),
+  Google News OF, France Compétences (décroissance 30j), TED/BOAMP/PLACE (scoring v5.4)
+- ✅ Triage persistant Traité/Ignoré (data/triage.json, sync API GitHub) + triage en masse par volet
+- ✅ Boucle CSV Radar Hebdo (task Cowork mercredi → data/curated/, fenêtre 90j côté hub)
 - ✅ Workflow GitHub Actions daily (cron 6h UTC)
-- ⏳ Autres scrapers Education / OF / Corporate : à brancher au fil de S2-S3
-- ⏳ Connexion frontend ↔ JSON : à brancher fin S2
+- ⏳ accounts.json + boost ICP : à alimenter
 
 Voir le plan stratégique complet : `../plan-hub-veille-isograd.md` (hors repo, dans outputs).
 Voir le cadrage ICP Corporate : `../cadrage-icp-corporate-segment-B.md`.

@@ -120,6 +120,15 @@ def _build_signal(row: dict, today_iso: str) -> Optional[Signal]:
     description = signal_text[:400]
     url = (row.get("Source_URL") or "").strip()
     date_pub = _parse_date(row.get("Date_Signal", ""))
+    # Fenêtre 90j : les lignes historiques du CSV (l'historique complet vit dans
+    # git) ne doivent plus polluer le hub. Lignes sans date parsable : gardées.
+    if date_pub:
+        from datetime import date as _d, timedelta as _td
+        try:
+            if _d.fromisoformat(str(date_pub)[:10]) < _d.today() - _td(days=90):
+                return None
+        except ValueError:
+            pass
 
     # Produits — base + Cert IA si applicable
     produits = list(produit_match_for(signal_type, VERTICAL))
