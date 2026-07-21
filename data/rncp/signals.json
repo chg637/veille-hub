@@ -1,7 +1,70 @@
 [
   {
+    "id": "sig-2026-07-17-ad7b5012c80b",
+    "date_capture": "2026-07-21",
+    "vertical": "rncp",
+    "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
+    "compte": "GROUPE IGS - CIEFA",
+    "titre": "Nouvelle fiche RNCP42617 — Chargé des ressources humaines",
+    "description": "Chargé des ressources humaines. Type :  (Niveau 6). Enregistrement sur demande. Décision du 2026-07-17. Certificateur(s) : GROUPE IGS - CIEFA.",
+    "source": "France Compétences",
+    "source_tier": 1,
+    "url": "https://www.francecompetences.fr/recherche/rncp/42617/",
+    "signal_type": "rncp_open",
+    "tier": 1,
+    "score": 88,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Signal détecté**\nNouvelle fiche RNCP42617 déposée le 17/07/2026 — Chargé des ressources humaines\n\n🔥 **Cible prioritaire ITS** — domaine cœur de cible (tech/numérique/gestion), savoirs évaluables en QCM/épreuve écrite.\n\n🎯 **Action à mener**\nEmail à la direction certifications/RNCP sous 30j. Proposer une démo ITS avant que la 1re session d'examen soit calée avec un concurrent.\n\n💡 **Angle pitch ITS**\nPour passer la 1re session de cette nouvelle fiche : banque de questions par bloc de compétences, proctoring, attestations auto, traçabilité opposable en audit France Compétences. Déploiement en 4-6 semaines.\n\n📅 **Timing**\n30 jours après la décision = phase de montage de la 1re session. C'est le moment d'arriver.",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-07-17",
+    "email_draft": {
+      "subject": "GROUPE IGS - CIEFA — Chargé des ressources humaines : comment vous outillez la passation ?",
+      "body": "Bonjour,\n\nJ'ai noté votre actualité : « Chargé des ressources humaines ».\n\nSur une nouvelle fiche RNCP/RS, deux sujets pèsent vite côté opérationnel : la passation d'épreuves à scale, et la traçabilité des résultats (audit Qualiopi, contrôle France Compétences).\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens sur laquelle vous déposez VOS propres épreuves (théoriques, pratiques, comportementales) et qui prend en charge :\n\n- Banque de questions structurée par bloc de compétences (alignée sur votre fiche RNCP)\n- Surveillance à distance (proctoring) avec preuves opposables\n- Correction automatique + rapports candidat/admin\n- Traçabilité complète des sessions, exportable pour audit\n- Génération automatique des attestations et duplicatas\n\nAvantage : vous gardez la main pédagogique sur le contenu et vous déléguez l'infrastructure de passation. Déploiement 4-6 semaines pour ouvrir la 1re session.\n\n20 minutes pour vous montrer comment ça tourne chez un certificateur de taille comparable ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource : https://www.francecompetences.fr/recherche/rncp/42617/"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Responsable RNCP / Référent certifications",
+        "alternatives": [
+          "Responsable RS",
+          "Responsable habilitation",
+          "Référent France Compétences"
+        ],
+        "priorite": 1,
+        "raison": "Pilote la déclaration et l'animation de la fiche déposée",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=GROUPE+IGS+-+CIEFA",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22GROUPE%20IGS%20-%20CIEFA%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
+      },
+      {
+        "poste": "Directeur(rice) qualité / Responsable Qualiopi",
+        "alternatives": [
+          "RAQ",
+          "Référent qualité"
+        ],
+        "priorite": 2,
+        "raison": "Garant de la traçabilité et de l'opposabilité en audit",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=GROUPE+IGS+-+CIEFA",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22GROUPE%20IGS%20-%20CIEFA%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
+      },
+      {
+        "poste": "Directeur(rice) pédagogique / Responsable ingénierie",
+        "alternatives": [
+          "Directeur(rice) des programmes",
+          "Responsable ingénierie certification"
+        ],
+        "priorite": 3,
+        "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=GROUPE+IGS+-+CIEFA",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22GROUPE%20IGS%20-%20CIEFA%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-07-17-67be2dd77607",
-    "date_capture": "2026-07-20",
+    "date_capture": "2026-07-21",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "EFREI PARIS",
@@ -64,7 +127,7 @@
   },
   {
     "id": "sig-2026-07-17-3eb1e4b747c3",
-    "date_capture": "2026-07-20",
+    "date_capture": "2026-07-21",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "ESIEE IT - CCI PARIS ILE DE FRANCE",
@@ -126,8 +189,197 @@
     ]
   },
   {
+    "id": "sig-2026-07-17-98d1d509f829",
+    "date_capture": "2026-07-21",
+    "vertical": "rncp",
+    "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
+    "compte": "HOSTING ACADEMY",
+    "titre": "Nouvelle fiche RNCP42626 — Gestionnaire de meublés de tourisme",
+    "description": "Gestionnaire de meublés de tourisme. Type :  (Niveau 6). Enregistrement sur demande. Décision du 2026-07-17. Certificateur(s) : HOSTING ACADEMY.",
+    "source": "France Compétences",
+    "source_tier": 1,
+    "url": "https://www.francecompetences.fr/recherche/rncp/42626/",
+    "signal_type": "rncp_open",
+    "tier": 1,
+    "score": 88,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Signal détecté**\nNouvelle fiche RNCP42626 déposée le 17/07/2026 — Gestionnaire de meublés de tourisme\n\n🔥 **Cible prioritaire ITS** — domaine cœur de cible (tech/numérique/gestion), savoirs évaluables en QCM/épreuve écrite.\n\n🎯 **Action à mener**\nEmail à la direction certifications/RNCP sous 30j. Proposer une démo ITS avant que la 1re session d'examen soit calée avec un concurrent.\n\n💡 **Angle pitch ITS**\nPour passer la 1re session de cette nouvelle fiche : banque de questions par bloc de compétences, proctoring, attestations auto, traçabilité opposable en audit France Compétences. Déploiement en 4-6 semaines.\n\n📅 **Timing**\n30 jours après la décision = phase de montage de la 1re session. C'est le moment d'arriver.",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-07-17",
+    "email_draft": {
+      "subject": "HOSTING ACADEMY — Gestionnaire de meublés de tourisme : comment vous outillez la passation ?",
+      "body": "Bonjour,\n\nJ'ai noté votre actualité : « Gestionnaire de meublés de tourisme ».\n\nSur une nouvelle fiche RNCP/RS, deux sujets pèsent vite côté opérationnel : la passation d'épreuves à scale, et la traçabilité des résultats (audit Qualiopi, contrôle France Compétences).\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens sur laquelle vous déposez VOS propres épreuves (théoriques, pratiques, comportementales) et qui prend en charge :\n\n- Banque de questions structurée par bloc de compétences (alignée sur votre fiche RNCP)\n- Surveillance à distance (proctoring) avec preuves opposables\n- Correction automatique + rapports candidat/admin\n- Traçabilité complète des sessions, exportable pour audit\n- Génération automatique des attestations et duplicatas\n\nAvantage : vous gardez la main pédagogique sur le contenu et vous déléguez l'infrastructure de passation. Déploiement 4-6 semaines pour ouvrir la 1re session.\n\n20 minutes pour vous montrer comment ça tourne chez un certificateur de taille comparable ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource : https://www.francecompetences.fr/recherche/rncp/42626/"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Responsable RNCP / Référent certifications",
+        "alternatives": [
+          "Responsable RS",
+          "Responsable habilitation",
+          "Référent France Compétences"
+        ],
+        "priorite": 1,
+        "raison": "Pilote la déclaration et l'animation de la fiche déposée",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=HOSTING+ACADEMY",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22HOSTING%20ACADEMY%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
+      },
+      {
+        "poste": "Directeur(rice) qualité / Responsable Qualiopi",
+        "alternatives": [
+          "RAQ",
+          "Référent qualité"
+        ],
+        "priorite": 2,
+        "raison": "Garant de la traçabilité et de l'opposabilité en audit",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=HOSTING+ACADEMY",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22HOSTING%20ACADEMY%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
+      },
+      {
+        "poste": "Directeur(rice) pédagogique / Responsable ingénierie",
+        "alternatives": [
+          "Directeur(rice) des programmes",
+          "Responsable ingénierie certification"
+        ],
+        "priorite": 3,
+        "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=HOSTING+ACADEMY",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22HOSTING%20ACADEMY%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
+      }
+    ]
+  },
+  {
+    "id": "sig-2026-07-17-7fd543cde4d7",
+    "date_capture": "2026-07-21",
+    "vertical": "rncp",
+    "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
+    "compte": "ASSOCIATION O.R.T.",
+    "titre": "Nouvelle fiche RNCP42629 — Prothésiste dentaire numérique",
+    "description": "Prothésiste dentaire numérique. Type :  (Niveau 6). Enregistrement sur demande. Décision du 2026-07-17. Certificateur(s) : ASSOCIATION O.R.T., ACADEMIE D'ART DENTAIRE, UNION PATRON PROTHESE DENTAIRE.",
+    "source": "France Compétences",
+    "source_tier": 1,
+    "url": "https://www.francecompetences.fr/recherche/rncp/42629/",
+    "signal_type": "rncp_open",
+    "tier": 1,
+    "score": 88,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Signal détecté**\nNouvelle fiche RNCP42629 déposée le 17/07/2026 — Prothésiste dentaire numérique\n\n🔥 **Cible prioritaire ITS** — domaine cœur de cible (tech/numérique/gestion), savoirs évaluables en QCM/épreuve écrite.\n\n🎯 **Action à mener**\nEmail à la direction certifications/RNCP sous 30j. Proposer une démo ITS avant que la 1re session d'examen soit calée avec un concurrent.\n\n💡 **Angle pitch ITS**\nPour passer la 1re session de cette nouvelle fiche : banque de questions par bloc de compétences, proctoring, attestations auto, traçabilité opposable en audit France Compétences. Déploiement en 4-6 semaines.\n\n📅 **Timing**\n30 jours après la décision = phase de montage de la 1re session. C'est le moment d'arriver.",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-07-17",
+    "email_draft": {
+      "subject": "ASSOCIATION O.R.T. — Prothésiste dentaire numérique : comment vous outillez la passation ?",
+      "body": "Bonjour,\n\nJ'ai noté votre actualité : « Prothésiste dentaire numérique ».\n\nSur une nouvelle fiche RNCP/RS, deux sujets pèsent vite côté opérationnel : la passation d'épreuves à scale, et la traçabilité des résultats (audit Qualiopi, contrôle France Compétences).\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens sur laquelle vous déposez VOS propres épreuves (théoriques, pratiques, comportementales) et qui prend en charge :\n\n- Banque de questions structurée par bloc de compétences (alignée sur votre fiche RNCP)\n- Surveillance à distance (proctoring) avec preuves opposables\n- Correction automatique + rapports candidat/admin\n- Traçabilité complète des sessions, exportable pour audit\n- Génération automatique des attestations et duplicatas\n\nAvantage : vous gardez la main pédagogique sur le contenu et vous déléguez l'infrastructure de passation. Déploiement 4-6 semaines pour ouvrir la 1re session.\n\n20 minutes pour vous montrer comment ça tourne chez un certificateur de taille comparable ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource : https://www.francecompetences.fr/recherche/rncp/42629/"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Responsable RNCP / Référent certifications",
+        "alternatives": [
+          "Responsable RS",
+          "Responsable habilitation",
+          "Référent France Compétences"
+        ],
+        "priorite": 1,
+        "raison": "Pilote la déclaration et l'animation de la fiche déposée",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=ASSOCIATION+O.R.T.",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ASSOCIATION%20O.R.T.%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
+      },
+      {
+        "poste": "Directeur(rice) qualité / Responsable Qualiopi",
+        "alternatives": [
+          "RAQ",
+          "Référent qualité"
+        ],
+        "priorite": 2,
+        "raison": "Garant de la traçabilité et de l'opposabilité en audit",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=ASSOCIATION+O.R.T.",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ASSOCIATION%20O.R.T.%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
+      },
+      {
+        "poste": "Directeur(rice) pédagogique / Responsable ingénierie",
+        "alternatives": [
+          "Directeur(rice) des programmes",
+          "Responsable ingénierie certification"
+        ],
+        "priorite": 3,
+        "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=ASSOCIATION+O.R.T.",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ASSOCIATION%20O.R.T.%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
+      }
+    ]
+  },
+  {
+    "id": "sig-2026-07-17-e414286990cb",
+    "date_capture": "2026-07-21",
+    "vertical": "rncp",
+    "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
+    "compte": "CTI",
+    "titre": "Nouvelle fiche RNCP42631 — Chargé d'affaires commerciales et de développement à l'international",
+    "description": "Chargé d'affaires commerciales et de développement à l'international. Type :  (Niveau 6). Enregistrement sur demande. Décision du 2026-07-17. Certificateur(s) : CTI.",
+    "source": "France Compétences",
+    "source_tier": 1,
+    "url": "https://www.francecompetences.fr/recherche/rncp/42631/",
+    "signal_type": "rncp_open",
+    "tier": 1,
+    "score": 88,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Signal détecté**\nNouvelle fiche RNCP42631 déposée le 17/07/2026 — Chargé d'affaires commerciales et de développement à l'international\n\n🔥 **Cible prioritaire ITS** — domaine cœur de cible (tech/numérique/gestion), savoirs évaluables en QCM/épreuve écrite.\n\n🎯 **Action à mener**\nEmail à la direction certifications/RNCP sous 30j. Proposer une démo ITS avant que la 1re session d'examen soit calée avec un concurrent.\n\n💡 **Angle pitch ITS**\nPour passer la 1re session de cette nouvelle fiche : banque de questions par bloc de compétences, proctoring, attestations auto, traçabilité opposable en audit France Compétences. Déploiement en 4-6 semaines.\n\n📅 **Timing**\n30 jours après la décision = phase de montage de la 1re session. C'est le moment d'arriver.",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-07-17",
+    "email_draft": {
+      "subject": "CTI — Chargé d'affaires commerciales et de développement : comment vous outillez la passation ?",
+      "body": "Bonjour,\n\nJ'ai noté votre actualité : « Chargé d'affaires commerciales et de développement à l'international ».\n\nSur une nouvelle fiche RNCP/RS, deux sujets pèsent vite côté opérationnel : la passation d'épreuves à scale, et la traçabilité des résultats (audit Qualiopi, contrôle France Compétences).\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens sur laquelle vous déposez VOS propres épreuves (théoriques, pratiques, comportementales) et qui prend en charge :\n\n- Banque de questions structurée par bloc de compétences (alignée sur votre fiche RNCP)\n- Surveillance à distance (proctoring) avec preuves opposables\n- Correction automatique + rapports candidat/admin\n- Traçabilité complète des sessions, exportable pour audit\n- Génération automatique des attestations et duplicatas\n\nAvantage : vous gardez la main pédagogique sur le contenu et vous déléguez l'infrastructure de passation. Déploiement 4-6 semaines pour ouvrir la 1re session.\n\n20 minutes pour vous montrer comment ça tourne chez un certificateur de taille comparable ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource : https://www.francecompetences.fr/recherche/rncp/42631/"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Responsable RNCP / Référent certifications",
+        "alternatives": [
+          "Responsable RS",
+          "Responsable habilitation",
+          "Référent France Compétences"
+        ],
+        "priorite": 1,
+        "raison": "Pilote la déclaration et l'animation de la fiche déposée",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=CTI",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22CTI%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
+      },
+      {
+        "poste": "Directeur(rice) qualité / Responsable Qualiopi",
+        "alternatives": [
+          "RAQ",
+          "Référent qualité"
+        ],
+        "priorite": 2,
+        "raison": "Garant de la traçabilité et de l'opposabilité en audit",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=CTI",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22CTI%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
+      },
+      {
+        "poste": "Directeur(rice) pédagogique / Responsable ingénierie",
+        "alternatives": [
+          "Directeur(rice) des programmes",
+          "Responsable ingénierie certification"
+        ],
+        "priorite": 3,
+        "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=CTI",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22CTI%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-07-17-542844fae526",
-    "date_capture": "2026-07-20",
+    "date_capture": "2026-07-21",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "ETNA ECOLE TECH NUMERIQUES APPLIQUES",
@@ -189,8 +441,134 @@
     ]
   },
   {
+    "id": "sig-2026-07-17-b443b3ef8ca1",
+    "date_capture": "2026-07-21",
+    "vertical": "rncp",
+    "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
+    "compte": "ASSOCIATION ECEMA - ECOLE EUROPEENNE DE MANAGEMENT EN ALTERNANCE",
+    "titre": "Nouvelle fiche RNCP42638 — Manager des ressources humaines",
+    "description": "Manager des ressources humaines. Type :  (Niveau 7). Enregistrement sur demande. Décision du 2026-07-17. Certificateur(s) : ASSOCIATION ECEMA - ECOLE EUROPEENNE DE MANAGEMENT EN ALTERNANCE.",
+    "source": "France Compétences",
+    "source_tier": 1,
+    "url": "https://www.francecompetences.fr/recherche/rncp/42638/",
+    "signal_type": "rncp_open",
+    "tier": 1,
+    "score": 88,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Signal détecté**\nNouvelle fiche RNCP42638 déposée le 17/07/2026 — Manager des ressources humaines\n\n🔥 **Cible prioritaire ITS** — domaine cœur de cible (tech/numérique/gestion), savoirs évaluables en QCM/épreuve écrite.\n\n🎯 **Action à mener**\nEmail à la direction certifications/RNCP sous 30j. Proposer une démo ITS avant que la 1re session d'examen soit calée avec un concurrent.\n\n💡 **Angle pitch ITS**\nPour passer la 1re session de cette nouvelle fiche : banque de questions par bloc de compétences, proctoring, attestations auto, traçabilité opposable en audit France Compétences. Déploiement en 4-6 semaines.\n\n📅 **Timing**\n30 jours après la décision = phase de montage de la 1re session. C'est le moment d'arriver.",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-07-17",
+    "email_draft": {
+      "subject": "ASSOCIATION ECEMA - ECOLE EUROPEENNE DE MANAGEMENT EN ALTERNANCE — Manager des ressources humaines : comment vous outillez la passation ?",
+      "body": "Bonjour,\n\nJ'ai noté votre actualité : « Manager des ressources humaines ».\n\nSur une nouvelle fiche RNCP/RS, deux sujets pèsent vite côté opérationnel : la passation d'épreuves à scale, et la traçabilité des résultats (audit Qualiopi, contrôle France Compétences).\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens sur laquelle vous déposez VOS propres épreuves (théoriques, pratiques, comportementales) et qui prend en charge :\n\n- Banque de questions structurée par bloc de compétences (alignée sur votre fiche RNCP)\n- Surveillance à distance (proctoring) avec preuves opposables\n- Correction automatique + rapports candidat/admin\n- Traçabilité complète des sessions, exportable pour audit\n- Génération automatique des attestations et duplicatas\n\nAvantage : vous gardez la main pédagogique sur le contenu et vous déléguez l'infrastructure de passation. Déploiement 4-6 semaines pour ouvrir la 1re session.\n\n20 minutes pour vous montrer comment ça tourne chez un certificateur de taille comparable ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource : https://www.francecompetences.fr/recherche/rncp/42638/"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Responsable RNCP / Référent certifications",
+        "alternatives": [
+          "Responsable RS",
+          "Responsable habilitation",
+          "Référent France Compétences"
+        ],
+        "priorite": 1,
+        "raison": "Pilote la déclaration et l'animation de la fiche déposée",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=ASSOCIATION+ECEMA+-+ECOLE+EUROPEENNE+DE+MANAGEMENT+EN+ALTERNANCE",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ASSOCIATION%20ECEMA%20-%20ECOLE%20EUROPEENNE%20DE%20MANAGEMENT%20EN%20ALTERNANCE%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
+      },
+      {
+        "poste": "Directeur(rice) qualité / Responsable Qualiopi",
+        "alternatives": [
+          "RAQ",
+          "Référent qualité"
+        ],
+        "priorite": 2,
+        "raison": "Garant de la traçabilité et de l'opposabilité en audit",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=ASSOCIATION+ECEMA+-+ECOLE+EUROPEENNE+DE+MANAGEMENT+EN+ALTERNANCE",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ASSOCIATION%20ECEMA%20-%20ECOLE%20EUROPEENNE%20DE%20MANAGEMENT%20EN%20ALTERNANCE%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
+      },
+      {
+        "poste": "Directeur(rice) pédagogique / Responsable ingénierie",
+        "alternatives": [
+          "Directeur(rice) des programmes",
+          "Responsable ingénierie certification"
+        ],
+        "priorite": 3,
+        "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=ASSOCIATION+ECEMA+-+ECOLE+EUROPEENNE+DE+MANAGEMENT+EN+ALTERNANCE",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ASSOCIATION%20ECEMA%20-%20ECOLE%20EUROPEENNE%20DE%20MANAGEMENT%20EN%20ALTERNANCE%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
+      }
+    ]
+  },
+  {
+    "id": "sig-2026-07-17-aa6c8c4f0779",
+    "date_capture": "2026-07-21",
+    "vertical": "rncp",
+    "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
+    "compte": "ASSOCIATION POUR LA GESTION DE 3IL",
+    "titre": "Nouvelle fiche RNCP42639 — Manager des ressources humaines",
+    "description": "Manager des ressources humaines. Type :  (Niveau 7). Enregistrement sur demande. Décision du 2026-07-17. Certificateur(s) : ASSOCIATION POUR LA GESTION DE 3IL.",
+    "source": "France Compétences",
+    "source_tier": 1,
+    "url": "https://www.francecompetences.fr/recherche/rncp/42639/",
+    "signal_type": "rncp_open",
+    "tier": 1,
+    "score": 88,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Signal détecté**\nNouvelle fiche RNCP42639 déposée le 17/07/2026 — Manager des ressources humaines\n\n🔥 **Cible prioritaire ITS** — domaine cœur de cible (tech/numérique/gestion), savoirs évaluables en QCM/épreuve écrite.\n\n🎯 **Action à mener**\nEmail à la direction certifications/RNCP sous 30j. Proposer une démo ITS avant que la 1re session d'examen soit calée avec un concurrent.\n\n💡 **Angle pitch ITS**\nPour passer la 1re session de cette nouvelle fiche : banque de questions par bloc de compétences, proctoring, attestations auto, traçabilité opposable en audit France Compétences. Déploiement en 4-6 semaines.\n\n📅 **Timing**\n30 jours après la décision = phase de montage de la 1re session. C'est le moment d'arriver.",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-07-17",
+    "email_draft": {
+      "subject": "ASSOCIATION POUR LA GESTION DE 3IL — Manager des ressources humaines : comment vous outillez la passation ?",
+      "body": "Bonjour,\n\nJ'ai noté votre actualité : « Manager des ressources humaines ».\n\nSur une nouvelle fiche RNCP/RS, deux sujets pèsent vite côté opérationnel : la passation d'épreuves à scale, et la traçabilité des résultats (audit Qualiopi, contrôle France Compétences).\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens sur laquelle vous déposez VOS propres épreuves (théoriques, pratiques, comportementales) et qui prend en charge :\n\n- Banque de questions structurée par bloc de compétences (alignée sur votre fiche RNCP)\n- Surveillance à distance (proctoring) avec preuves opposables\n- Correction automatique + rapports candidat/admin\n- Traçabilité complète des sessions, exportable pour audit\n- Génération automatique des attestations et duplicatas\n\nAvantage : vous gardez la main pédagogique sur le contenu et vous déléguez l'infrastructure de passation. Déploiement 4-6 semaines pour ouvrir la 1re session.\n\n20 minutes pour vous montrer comment ça tourne chez un certificateur de taille comparable ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource : https://www.francecompetences.fr/recherche/rncp/42639/"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Responsable RNCP / Référent certifications",
+        "alternatives": [
+          "Responsable RS",
+          "Responsable habilitation",
+          "Référent France Compétences"
+        ],
+        "priorite": 1,
+        "raison": "Pilote la déclaration et l'animation de la fiche déposée",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=ASSOCIATION+POUR+LA+GESTION+DE+3IL",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ASSOCIATION%20POUR%20LA%20GESTION%20DE%203IL%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
+      },
+      {
+        "poste": "Directeur(rice) qualité / Responsable Qualiopi",
+        "alternatives": [
+          "RAQ",
+          "Référent qualité"
+        ],
+        "priorite": 2,
+        "raison": "Garant de la traçabilité et de l'opposabilité en audit",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=ASSOCIATION+POUR+LA+GESTION+DE+3IL",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ASSOCIATION%20POUR%20LA%20GESTION%20DE%203IL%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
+      },
+      {
+        "poste": "Directeur(rice) pédagogique / Responsable ingénierie",
+        "alternatives": [
+          "Directeur(rice) des programmes",
+          "Responsable ingénierie certification"
+        ],
+        "priorite": 3,
+        "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=ASSOCIATION+POUR+LA+GESTION+DE+3IL",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ASSOCIATION%20POUR%20LA%20GESTION%20DE%203IL%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-07-17-50abcc1342dc",
-    "date_capture": "2026-07-20",
+    "date_capture": "2026-07-21",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "OPENCLASSROOMS",
@@ -253,7 +631,7 @@
   },
   {
     "id": "sig-2026-07-17-7e5fc572f6d8",
-    "date_capture": "2026-07-20",
+    "date_capture": "2026-07-21",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "ECOLE BIBLIOTHECAIRES ET DOCUMENTALISTES",
@@ -315,8 +693,134 @@
     ]
   },
   {
+    "id": "sig-2026-07-17-37afcfb69b9c",
+    "date_capture": "2026-07-21",
+    "vertical": "rncp",
+    "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
+    "compte": "IMCI INSTITUT DES MEDIAS ET DE LA COMMUNICATION SUR INTERNET",
+    "titre": "Nouvelle fiche RNCP42645 — Social Media Manager",
+    "description": "Social Media Manager. Type :  (Niveau 6). Enregistrement sur demande. Décision du 2026-07-17. Certificateur(s) : IMCI INSTITUT DES MEDIAS ET DE LA COMMUNICATION SUR INTERNET.",
+    "source": "France Compétences",
+    "source_tier": 1,
+    "url": "https://www.francecompetences.fr/recherche/rncp/42645/",
+    "signal_type": "rncp_open",
+    "tier": 1,
+    "score": 88,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Signal détecté**\nNouvelle fiche RNCP42645 déposée le 17/07/2026 — Social Media Manager\n\n🔥 **Cible prioritaire ITS** — domaine cœur de cible (tech/numérique/gestion), savoirs évaluables en QCM/épreuve écrite.\n\n🎯 **Action à mener**\nEmail à la direction certifications/RNCP sous 30j. Proposer une démo ITS avant que la 1re session d'examen soit calée avec un concurrent.\n\n💡 **Angle pitch ITS**\nPour passer la 1re session de cette nouvelle fiche : banque de questions par bloc de compétences, proctoring, attestations auto, traçabilité opposable en audit France Compétences. Déploiement en 4-6 semaines.\n\n📅 **Timing**\n30 jours après la décision = phase de montage de la 1re session. C'est le moment d'arriver.",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-07-17",
+    "email_draft": {
+      "subject": "IMCI INSTITUT DES MEDIAS ET DE LA COMMUNICATION SUR INTERNET — Social Media Manager : comment vous outillez la passation ?",
+      "body": "Bonjour,\n\nJ'ai noté votre actualité : « Social Media Manager ».\n\nSur une nouvelle fiche RNCP/RS, deux sujets pèsent vite côté opérationnel : la passation d'épreuves à scale, et la traçabilité des résultats (audit Qualiopi, contrôle France Compétences).\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens sur laquelle vous déposez VOS propres épreuves (théoriques, pratiques, comportementales) et qui prend en charge :\n\n- Banque de questions structurée par bloc de compétences (alignée sur votre fiche RNCP)\n- Surveillance à distance (proctoring) avec preuves opposables\n- Correction automatique + rapports candidat/admin\n- Traçabilité complète des sessions, exportable pour audit\n- Génération automatique des attestations et duplicatas\n\nAvantage : vous gardez la main pédagogique sur le contenu et vous déléguez l'infrastructure de passation. Déploiement 4-6 semaines pour ouvrir la 1re session.\n\n20 minutes pour vous montrer comment ça tourne chez un certificateur de taille comparable ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource : https://www.francecompetences.fr/recherche/rncp/42645/"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Responsable RNCP / Référent certifications",
+        "alternatives": [
+          "Responsable RS",
+          "Responsable habilitation",
+          "Référent France Compétences"
+        ],
+        "priorite": 1,
+        "raison": "Pilote la déclaration et l'animation de la fiche déposée",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=IMCI+INSTITUT+DES+MEDIAS+ET+DE+LA+COMMUNICATION+SUR+INTERNET",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22IMCI%20INSTITUT%20DES%20MEDIAS%20ET%20DE%20LA%20COMMUNICATION%20SUR%20INTERNET%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
+      },
+      {
+        "poste": "Directeur(rice) qualité / Responsable Qualiopi",
+        "alternatives": [
+          "RAQ",
+          "Référent qualité"
+        ],
+        "priorite": 2,
+        "raison": "Garant de la traçabilité et de l'opposabilité en audit",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=IMCI+INSTITUT+DES+MEDIAS+ET+DE+LA+COMMUNICATION+SUR+INTERNET",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22IMCI%20INSTITUT%20DES%20MEDIAS%20ET%20DE%20LA%20COMMUNICATION%20SUR%20INTERNET%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
+      },
+      {
+        "poste": "Directeur(rice) pédagogique / Responsable ingénierie",
+        "alternatives": [
+          "Directeur(rice) des programmes",
+          "Responsable ingénierie certification"
+        ],
+        "priorite": 3,
+        "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=IMCI+INSTITUT+DES+MEDIAS+ET+DE+LA+COMMUNICATION+SUR+INTERNET",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22IMCI%20INSTITUT%20DES%20MEDIAS%20ET%20DE%20LA%20COMMUNICATION%20SUR%20INTERNET%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
+      }
+    ]
+  },
+  {
+    "id": "sig-2026-07-17-b34c7a5b3a71",
+    "date_capture": "2026-07-21",
+    "vertical": "rncp",
+    "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
+    "compte": "ESGCV",
+    "titre": "Nouvelle fiche RNCP42647 — Manager produits et marketing",
+    "description": "Manager produits et marketing. Type :  (Niveau 7). Enregistrement sur demande. Décision du 2026-07-17. Certificateur(s) : ESGCV.",
+    "source": "France Compétences",
+    "source_tier": 1,
+    "url": "https://www.francecompetences.fr/recherche/rncp/42647/",
+    "signal_type": "rncp_open",
+    "tier": 1,
+    "score": 88,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Signal détecté**\nNouvelle fiche RNCP42647 déposée le 17/07/2026 — Manager produits et marketing\n\n🔥 **Cible prioritaire ITS** — domaine cœur de cible (tech/numérique/gestion), savoirs évaluables en QCM/épreuve écrite.\n\n🎯 **Action à mener**\nEmail à la direction certifications/RNCP sous 30j. Proposer une démo ITS avant que la 1re session d'examen soit calée avec un concurrent.\n\n💡 **Angle pitch ITS**\nPour passer la 1re session de cette nouvelle fiche : banque de questions par bloc de compétences, proctoring, attestations auto, traçabilité opposable en audit France Compétences. Déploiement en 4-6 semaines.\n\n📅 **Timing**\n30 jours après la décision = phase de montage de la 1re session. C'est le moment d'arriver.",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-07-17",
+    "email_draft": {
+      "subject": "ESGCV — Manager produits et marketing : comment vous outillez la passation ?",
+      "body": "Bonjour,\n\nJ'ai noté votre actualité : « Manager produits et marketing ».\n\nSur une nouvelle fiche RNCP/RS, deux sujets pèsent vite côté opérationnel : la passation d'épreuves à scale, et la traçabilité des résultats (audit Qualiopi, contrôle France Compétences).\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens sur laquelle vous déposez VOS propres épreuves (théoriques, pratiques, comportementales) et qui prend en charge :\n\n- Banque de questions structurée par bloc de compétences (alignée sur votre fiche RNCP)\n- Surveillance à distance (proctoring) avec preuves opposables\n- Correction automatique + rapports candidat/admin\n- Traçabilité complète des sessions, exportable pour audit\n- Génération automatique des attestations et duplicatas\n\nAvantage : vous gardez la main pédagogique sur le contenu et vous déléguez l'infrastructure de passation. Déploiement 4-6 semaines pour ouvrir la 1re session.\n\n20 minutes pour vous montrer comment ça tourne chez un certificateur de taille comparable ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource : https://www.francecompetences.fr/recherche/rncp/42647/"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Responsable RNCP / Référent certifications",
+        "alternatives": [
+          "Responsable RS",
+          "Responsable habilitation",
+          "Référent France Compétences"
+        ],
+        "priorite": 1,
+        "raison": "Pilote la déclaration et l'animation de la fiche déposée",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=ESGCV",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ESGCV%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
+      },
+      {
+        "poste": "Directeur(rice) qualité / Responsable Qualiopi",
+        "alternatives": [
+          "RAQ",
+          "Référent qualité"
+        ],
+        "priorite": 2,
+        "raison": "Garant de la traçabilité et de l'opposabilité en audit",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=ESGCV",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ESGCV%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
+      },
+      {
+        "poste": "Directeur(rice) pédagogique / Responsable ingénierie",
+        "alternatives": [
+          "Directeur(rice) des programmes",
+          "Responsable ingénierie certification"
+        ],
+        "priorite": 3,
+        "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=ESGCV",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ESGCV%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-07-17-95b07c2245d6",
-    "date_capture": "2026-07-20",
+    "date_capture": "2026-07-21",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "TOULOUSE BUSINESS SCHOOL - TBS",
@@ -379,7 +883,7 @@
   },
   {
     "id": "sig-2026-07-17-61b2cb186b7e",
-    "date_capture": "2026-07-20",
+    "date_capture": "2026-07-21",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "SIMPLON.CO",
@@ -442,7 +946,7 @@
   },
   {
     "id": "sig-2026-07-17-777f2f23cfd3",
-    "date_capture": "2026-07-20",
+    "date_capture": "2026-07-21",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "DATASCIENTEST",
@@ -505,7 +1009,7 @@
   },
   {
     "id": "sig-2026-07-17-8c1c147433ef",
-    "date_capture": "2026-07-20",
+    "date_capture": "2026-07-21",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "IONIS SCHOOL OF TECHNOL & MANAGEMENT",
@@ -567,8 +1071,134 @@
     ]
   },
   {
+    "id": "sig-2026-07-17-3738fe6b79c0",
+    "date_capture": "2026-07-21",
+    "vertical": "rncp",
+    "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 4",
+    "compte": "CAFA FORMATION",
+    "titre": "Nouvelle fiche RNCP42662 — Employé de vente polyvalent en magasin",
+    "description": "Employé de vente polyvalent en magasin. Type :  (Niveau 4). Enregistrement sur demande. Décision du 2026-07-17. Certificateur(s) : CAFA FORMATION.",
+    "source": "France Compétences",
+    "source_tier": 1,
+    "url": "https://www.francecompetences.fr/recherche/rncp/42662/",
+    "signal_type": "rncp_open",
+    "tier": 1,
+    "score": 83,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Signal détecté**\nNouvelle fiche RNCP42662 déposée le 17/07/2026 — Employé de vente polyvalent en magasin\n\n🔥 **Cible prioritaire ITS** — domaine cœur de cible (tech/numérique/gestion), savoirs évaluables en QCM/épreuve écrite.\n\n🎯 **Action à mener**\nEmail à la direction certifications/RNCP sous 30j. Proposer une démo ITS avant que la 1re session d'examen soit calée avec un concurrent.\n\n💡 **Angle pitch ITS**\nPour passer la 1re session de cette nouvelle fiche : banque de questions par bloc de compétences, proctoring, attestations auto, traçabilité opposable en audit France Compétences. Déploiement en 4-6 semaines.\n\n📅 **Timing**\n30 jours après la décision = phase de montage de la 1re session. C'est le moment d'arriver.",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-07-17",
+    "email_draft": {
+      "subject": "CAFA FORMATION — Employé de vente polyvalent en magasin : comment vous outillez la passation ?",
+      "body": "Bonjour,\n\nJ'ai noté votre actualité : « Employé de vente polyvalent en magasin ».\n\nSur une nouvelle fiche RNCP/RS, deux sujets pèsent vite côté opérationnel : la passation d'épreuves à scale, et la traçabilité des résultats (audit Qualiopi, contrôle France Compétences).\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens sur laquelle vous déposez VOS propres épreuves (théoriques, pratiques, comportementales) et qui prend en charge :\n\n- Banque de questions structurée par bloc de compétences (alignée sur votre fiche RNCP)\n- Surveillance à distance (proctoring) avec preuves opposables\n- Correction automatique + rapports candidat/admin\n- Traçabilité complète des sessions, exportable pour audit\n- Génération automatique des attestations et duplicatas\n\nAvantage : vous gardez la main pédagogique sur le contenu et vous déléguez l'infrastructure de passation. Déploiement 4-6 semaines pour ouvrir la 1re session.\n\n20 minutes pour vous montrer comment ça tourne chez un certificateur de taille comparable ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource : https://www.francecompetences.fr/recherche/rncp/42662/"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Responsable RNCP / Référent certifications",
+        "alternatives": [
+          "Responsable RS",
+          "Responsable habilitation",
+          "Référent France Compétences"
+        ],
+        "priorite": 1,
+        "raison": "Pilote la déclaration et l'animation de la fiche déposée",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=CAFA+FORMATION",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22CAFA%20FORMATION%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
+      },
+      {
+        "poste": "Directeur(rice) qualité / Responsable Qualiopi",
+        "alternatives": [
+          "RAQ",
+          "Référent qualité"
+        ],
+        "priorite": 2,
+        "raison": "Garant de la traçabilité et de l'opposabilité en audit",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=CAFA+FORMATION",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22CAFA%20FORMATION%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
+      },
+      {
+        "poste": "Directeur(rice) pédagogique / Responsable ingénierie",
+        "alternatives": [
+          "Directeur(rice) des programmes",
+          "Responsable ingénierie certification"
+        ],
+        "priorite": 3,
+        "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=CAFA+FORMATION",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22CAFA%20FORMATION%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
+      }
+    ]
+  },
+  {
+    "id": "sig-2026-07-17-c9804f66da38",
+    "date_capture": "2026-07-21",
+    "vertical": "rncp",
+    "sous_segment": "🔥 Cible prioritaire · Fiche",
+    "compte": "LE TEMPLE RH",
+    "titre": "Nouvelle fiche RS7679 — Conduire la transformation digitale d’un processus RH en mobilisant des systèmes d’automatisation et d’intelligence arti",
+    "description": "Conduire la transformation digitale d’un processus RH en mobilisant des systèmes d’automatisation et d’intelligence artificielle. Type :  (). Enregistrement sur demande. Décision du 2026-07-17. Certificateur(s) : LE TEMPLE RH.",
+    "source": "France Compétences",
+    "source_tier": 1,
+    "url": "https://www.francecompetences.fr/recherche/rs/7679/",
+    "signal_type": "rncp_open",
+    "tier": 1,
+    "score": 83,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Signal détecté**\nNouvelle fiche RS7679 déposée le 17/07/2026 — Conduire la transformation digitale d’un processus RH en mobilisant des systèmes d’automatisation et d’intelligence artificielle\n\n🔥 **Cible prioritaire ITS** — domaine cœur de cible (tech/numérique/gestion), savoirs évaluables en QCM/épreuve écrite.\n\n🎯 **Action à mener**\nEmail à la direction certifications/RNCP sous 30j. Proposer une démo ITS avant que la 1re session d'examen soit calée avec un concurrent.\n\n💡 **Angle pitch ITS**\nPour passer la 1re session de cette nouvelle fiche : banque de questions par bloc de compétences, proctoring, attestations auto, traçabilité opposable en audit France Compétences. Déploiement en 4-6 semaines.\n\n📅 **Timing**\n30 jours après la décision = phase de montage de la 1re session. C'est le moment d'arriver.",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-07-17",
+    "email_draft": {
+      "subject": "LE TEMPLE RH — Conduire la transformation digitale d’un processus : comment vous outillez la passation ?",
+      "body": "Bonjour,\n\nJ'ai noté votre actualité : « Conduire la transformation digitale d’un processus RH en mobilisant des systèmes d’automatisation et d’intelligence… ».\n\nSur une nouvelle fiche RNCP/RS, deux sujets pèsent vite côté opérationnel : la passation d'épreuves à scale, et la traçabilité des résultats (audit Qualiopi, contrôle France Compétences).\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens sur laquelle vous déposez VOS propres épreuves (théoriques, pratiques, comportementales) et qui prend en charge :\n\n- Banque de questions structurée par bloc de compétences (alignée sur votre fiche RNCP)\n- Surveillance à distance (proctoring) avec preuves opposables\n- Correction automatique + rapports candidat/admin\n- Traçabilité complète des sessions, exportable pour audit\n- Génération automatique des attestations et duplicatas\n\nAvantage : vous gardez la main pédagogique sur le contenu et vous déléguez l'infrastructure de passation. Déploiement 4-6 semaines pour ouvrir la 1re session.\n\n20 minutes pour vous montrer comment ça tourne chez un certificateur de taille comparable ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource : https://www.francecompetences.fr/recherche/rs/7679/"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Responsable RNCP / Référent certifications",
+        "alternatives": [
+          "Responsable RS",
+          "Responsable habilitation",
+          "Référent France Compétences"
+        ],
+        "priorite": 1,
+        "raison": "Pilote la déclaration et l'animation de la fiche déposée",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=LE+TEMPLE+RH",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22LE%20TEMPLE%20RH%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
+      },
+      {
+        "poste": "Directeur(rice) qualité / Responsable Qualiopi",
+        "alternatives": [
+          "RAQ",
+          "Référent qualité"
+        ],
+        "priorite": 2,
+        "raison": "Garant de la traçabilité et de l'opposabilité en audit",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=LE+TEMPLE+RH",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22LE%20TEMPLE%20RH%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
+      },
+      {
+        "poste": "Directeur(rice) pédagogique / Responsable ingénierie",
+        "alternatives": [
+          "Directeur(rice) des programmes",
+          "Responsable ingénierie certification"
+        ],
+        "priorite": 3,
+        "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=LE+TEMPLE+RH",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22LE%20TEMPLE%20RH%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-06-26-e7620072bf78",
-    "date_capture": "2026-07-20",
+    "date_capture": "2026-07-21",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "ECOLE SUPERIEURE D'ASSURANCE",
@@ -578,8 +1208,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42465/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 88,
+    "tier": 2,
+    "score": 76,
     "produit_match": [
       "ITS"
     ],
@@ -631,7 +1261,7 @@
   },
   {
     "id": "sig-2026-06-26-bb62bf7596d3",
-    "date_capture": "2026-07-20",
+    "date_capture": "2026-07-21",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "TALIS COMPETENCES & CERTIFICATIONS",
@@ -641,8 +1271,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42467/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 88,
+    "tier": 2,
+    "score": 76,
     "produit_match": [
       "ITS"
     ],
@@ -694,7 +1324,7 @@
   },
   {
     "id": "sig-2026-06-26-c0fed2695f16",
-    "date_capture": "2026-07-20",
+    "date_capture": "2026-07-21",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "INSTITUT CATHOLIQUE DE PARIS",
@@ -704,8 +1334,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42470/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 88,
+    "tier": 2,
+    "score": 76,
     "produit_match": [
       "ITS"
     ],
@@ -757,7 +1387,7 @@
   },
   {
     "id": "sig-2026-06-26-820d8e61e9ef",
-    "date_capture": "2026-07-20",
+    "date_capture": "2026-07-21",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "TOULOUSE BUSINESS SCHOOL - TBS",
@@ -767,8 +1397,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42472/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 88,
+    "tier": 2,
+    "score": 76,
     "produit_match": [
       "ITS"
     ],
@@ -820,18 +1450,18 @@
   },
   {
     "id": "sig-2026-06-26-2611f3ee9570",
-    "date_capture": "2026-07-20",
+    "date_capture": "2026-07-21",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "EFAP LILLE-EUROPE SAS",
     "titre": "Nouvelle fiche RNCP42474 — Manager de la communication",
-    "description": "Manager de la communication. Type :  (Niveau 7). Enregistrement sur demande. Décision du 2026-06-26. Certificateur(s) : EFAP LILLE-EUROPE SAS, GROUPE EDH SAS, EFAP-ICART AQUITAINE SAS ….",
+    "description": "Manager de la communication. Type :  (Niveau 7). Enregistrement sur demande. Décision du 2026-06-26. Certificateur(s) : EFAP LILLE-EUROPE SAS, EFAP RHONE-ALPES SAS, EFAP-ICART AQUITAINE SAS ….",
     "source": "France Compétences",
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42474/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 88,
+    "tier": 2,
+    "score": 76,
     "produit_match": [
       "ITS"
     ],
@@ -883,7 +1513,7 @@
   },
   {
     "id": "sig-2026-06-26-2992aecb6900",
-    "date_capture": "2026-07-20",
+    "date_capture": "2026-07-21",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "ASSOCIATION POUR LA FORMATION AU MANAGEMENT A LA GESTION ET A L'ENTREPRENEURIAT",
@@ -893,8 +1523,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42475/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 88,
+    "tier": 2,
+    "score": 76,
     "produit_match": [
       "ITS"
     ],
@@ -946,7 +1576,7 @@
   },
   {
     "id": "sig-2026-06-26-d7ee075242ef",
-    "date_capture": "2026-07-20",
+    "date_capture": "2026-07-21",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "ETABLISSEMENT D ENSEIGNEMENT SUPERIEUR CONSULAIRE HAUTES ETUDES COMMERCIALES DE PARIS",
@@ -956,8 +1586,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42481/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 88,
+    "tier": 2,
+    "score": 76,
     "produit_match": [
       "ITS"
     ],
@@ -1009,7 +1639,7 @@
   },
   {
     "id": "sig-2026-06-26-a9e0f89387dc",
-    "date_capture": "2026-07-20",
+    "date_capture": "2026-07-21",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "STE INT GESTION EDUCATIVE",
@@ -1019,8 +1649,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42484/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 88,
+    "tier": 2,
+    "score": 76,
     "produit_match": [
       "ITS"
     ],
@@ -1071,19 +1701,19 @@
     ]
   },
   {
-    "id": "sig-2026-06-26-f234becbb9d8",
-    "date_capture": "2026-07-20",
+    "id": "sig-2026-06-26-90d364dba514",
+    "date_capture": "2026-07-21",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
-    "compte": "SUP DE PUB (SUP DE PUB) (ISCM)",
+    "compte": "CENTRE ETUDES EUROPEEN RHONE ALPES",
     "titre": "Nouvelle fiche RNCP42485 — Manager de la communication de marque",
-    "description": "Manager de la communication de marque. Type :  (Niveau 7). Enregistrement sur demande. Décision du 2026-06-26. Certificateur(s) : SUP DE PUB (SUP DE PUB) (ISCM), CENTRE D'ETUDES EUROPEEN MEDITERRANEE, CENTRE D'ETUDES EUROPEEN DU SUD OUEST ….",
+    "description": "Manager de la communication de marque. Type :  (Niveau 7). Enregistrement sur demande. Décision du 2026-06-26. Certificateur(s) : CENTRE ETUDES EUROPEEN RHONE ALPES, ADEFI FORMATION, CENTRE D'ETUDES EUROPEEN OUEST ….",
     "source": "France Compétences",
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42485/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 88,
+    "tier": 2,
+    "score": 76,
     "produit_match": [
       "ITS"
     ],
@@ -1093,7 +1723,7 @@
     "status": "new",
     "date_publication": "2026-06-26",
     "email_draft": {
-      "subject": "SUP DE PUB (SUP DE PUB) (ISCM) — Manager de la communication de marque : comment vous outillez la passation ?",
+      "subject": "CENTRE ETUDES EUROPEEN RHONE ALPES — Manager de la communication de marque : comment vous outillez la passation ?",
       "body": "Bonjour,\n\nJ'ai noté votre actualité : « Manager de la communication de marque ».\n\nSur une nouvelle fiche RNCP/RS, deux sujets pèsent vite côté opérationnel : la passation d'épreuves à scale, et la traçabilité des résultats (audit Qualiopi, contrôle France Compétences).\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens sur laquelle vous déposez VOS propres épreuves (théoriques, pratiques, comportementales) et qui prend en charge :\n\n- Banque de questions structurée par bloc de compétences (alignée sur votre fiche RNCP)\n- Surveillance à distance (proctoring) avec preuves opposables\n- Correction automatique + rapports candidat/admin\n- Traçabilité complète des sessions, exportable pour audit\n- Génération automatique des attestations et duplicatas\n\nAvantage : vous gardez la main pédagogique sur le contenu et vous déléguez l'infrastructure de passation. Déploiement 4-6 semaines pour ouvrir la 1re session.\n\n20 minutes pour vous montrer comment ça tourne chez un certificateur de taille comparable ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource : https://www.francecompetences.fr/recherche/rncp/42485/"
     },
     "contacts_cibles": [
@@ -1106,8 +1736,8 @@
         ],
         "priorite": 1,
         "raison": "Pilote la déclaration et l'animation de la fiche déposée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=SUP+DE+PUB+%28SUP+DE+PUB%29+%28ISCM%29",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22SUP%20DE%20PUB%20%28SUP%20DE%20PUB%29%20%28ISCM%29%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=CENTRE+ETUDES+EUROPEEN+RHONE+ALPES",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22CENTRE%20ETUDES%20EUROPEEN%20RHONE%20ALPES%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
       },
       {
         "poste": "Directeur(rice) qualité / Responsable Qualiopi",
@@ -1117,8 +1747,8 @@
         ],
         "priorite": 2,
         "raison": "Garant de la traçabilité et de l'opposabilité en audit",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=SUP+DE+PUB+%28SUP+DE+PUB%29+%28ISCM%29",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22SUP%20DE%20PUB%20%28SUP%20DE%20PUB%29%20%28ISCM%29%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=CENTRE+ETUDES+EUROPEEN+RHONE+ALPES",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22CENTRE%20ETUDES%20EUROPEEN%20RHONE%20ALPES%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
       },
       {
         "poste": "Directeur(rice) pédagogique / Responsable ingénierie",
@@ -1128,25 +1758,25 @@
         ],
         "priorite": 3,
         "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=SUP+DE+PUB+%28SUP+DE+PUB%29+%28ISCM%29",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22SUP%20DE%20PUB%20%28SUP%20DE%20PUB%29%20%28ISCM%29%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=CENTRE+ETUDES+EUROPEEN+RHONE+ALPES",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22CENTRE%20ETUDES%20EUROPEEN%20RHONE%20ALPES%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
       }
     ]
   },
   {
-    "id": "sig-2026-06-26-7a58dda6568c",
-    "date_capture": "2026-07-20",
+    "id": "sig-2026-06-26-ce5dfa2bf0d8",
+    "date_capture": "2026-07-21",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
-    "compte": "CENTRE D'ETUDES EUROPEEN MEDITERRANEE",
+    "compte": "CENTRE ETUDES EUROPEEN RHONE ALPES",
     "titre": "Nouvelle fiche RNCP42488 — Manager de la stratégie digitale",
-    "description": "Manager de la stratégie digitale. Type :  (Niveau 7). Enregistrement sur demande. Décision du 2026-06-26. Certificateur(s) : CENTRE D'ETUDES EUROPEEN MEDITERRANEE, CENTRE D'ETUDES EUROPEEN DU SUD OUEST, CENTRE D'ETUDES EUROPEEN OUEST ….",
+    "description": "Manager de la stratégie digitale. Type :  (Niveau 7). Enregistrement sur demande. Décision du 2026-06-26. Certificateur(s) : CENTRE ETUDES EUROPEEN RHONE ALPES, CENTRE D'ETUDES EUROPEEN DU SUD OUEST, ADEFI FORMATION ….",
     "source": "France Compétences",
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42488/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 88,
+    "tier": 2,
+    "score": 76,
     "produit_match": [
       "ITS"
     ],
@@ -1156,7 +1786,7 @@
     "status": "new",
     "date_publication": "2026-06-26",
     "email_draft": {
-      "subject": "CENTRE D'ETUDES EUROPEEN MEDITERRANEE — Manager de la stratégie digitale : comment vous outillez la passation ?",
+      "subject": "CENTRE ETUDES EUROPEEN RHONE ALPES — Manager de la stratégie digitale : comment vous outillez la passation ?",
       "body": "Bonjour,\n\nJ'ai noté votre actualité : « Manager de la stratégie digitale ».\n\nSur une nouvelle fiche RNCP/RS, deux sujets pèsent vite côté opérationnel : la passation d'épreuves à scale, et la traçabilité des résultats (audit Qualiopi, contrôle France Compétences).\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens sur laquelle vous déposez VOS propres épreuves (théoriques, pratiques, comportementales) et qui prend en charge :\n\n- Banque de questions structurée par bloc de compétences (alignée sur votre fiche RNCP)\n- Surveillance à distance (proctoring) avec preuves opposables\n- Correction automatique + rapports candidat/admin\n- Traçabilité complète des sessions, exportable pour audit\n- Génération automatique des attestations et duplicatas\n\nAvantage : vous gardez la main pédagogique sur le contenu et vous déléguez l'infrastructure de passation. Déploiement 4-6 semaines pour ouvrir la 1re session.\n\n20 minutes pour vous montrer comment ça tourne chez un certificateur de taille comparable ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource : https://www.francecompetences.fr/recherche/rncp/42488/"
     },
     "contacts_cibles": [
@@ -1169,8 +1799,8 @@
         ],
         "priorite": 1,
         "raison": "Pilote la déclaration et l'animation de la fiche déposée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=CENTRE+D%27ETUDES+EUROPEEN+MEDITERRANEE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22CENTRE%20D%27ETUDES%20EUROPEEN%20MEDITERRANEE%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=CENTRE+ETUDES+EUROPEEN+RHONE+ALPES",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22CENTRE%20ETUDES%20EUROPEEN%20RHONE%20ALPES%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
       },
       {
         "poste": "Directeur(rice) qualité / Responsable Qualiopi",
@@ -1180,8 +1810,8 @@
         ],
         "priorite": 2,
         "raison": "Garant de la traçabilité et de l'opposabilité en audit",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=CENTRE+D%27ETUDES+EUROPEEN+MEDITERRANEE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22CENTRE%20D%27ETUDES%20EUROPEEN%20MEDITERRANEE%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=CENTRE+ETUDES+EUROPEEN+RHONE+ALPES",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22CENTRE%20ETUDES%20EUROPEEN%20RHONE%20ALPES%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
       },
       {
         "poste": "Directeur(rice) pédagogique / Responsable ingénierie",
@@ -1191,14 +1821,14 @@
         ],
         "priorite": 3,
         "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=CENTRE+D%27ETUDES+EUROPEEN+MEDITERRANEE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22CENTRE%20D%27ETUDES%20EUROPEEN%20MEDITERRANEE%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=CENTRE+ETUDES+EUROPEEN+RHONE+ALPES",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22CENTRE%20ETUDES%20EUROPEEN%20RHONE%20ALPES%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
       }
     ]
   },
   {
     "id": "sig-2026-06-26-44729dda3025",
-    "date_capture": "2026-07-20",
+    "date_capture": "2026-07-21",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "ASS FONDATEURS PROTECT INST CATHO LYON",
@@ -1208,8 +1838,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42490/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 88,
+    "tier": 2,
+    "score": 76,
     "produit_match": [
       "ITS"
     ],
@@ -1261,7 +1891,7 @@
   },
   {
     "id": "sig-2026-06-26-4ab733aa0ab1",
-    "date_capture": "2026-07-20",
+    "date_capture": "2026-07-21",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "ASSOCIATION ECEMA - ECOLE EUROPEENNE DE MANAGEMENT EN ALTERNANCE",
@@ -1271,8 +1901,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42496/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 88,
+    "tier": 2,
+    "score": 76,
     "produit_match": [
       "ITS"
     ],
@@ -1324,7 +1954,7 @@
   },
   {
     "id": "sig-2026-06-26-504996bdd9ca",
-    "date_capture": "2026-07-20",
+    "date_capture": "2026-07-21",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "INSTITUT MINES TELECOM - ECOLE NATIONALE SUPERIEURE DES MINES SAINT ETIENNE",
@@ -1334,8 +1964,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42497/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 88,
+    "tier": 2,
+    "score": 76,
     "produit_match": [
       "ITS"
     ],
@@ -1387,7 +2017,7 @@
   },
   {
     "id": "sig-2026-06-26-66c137b236e1",
-    "date_capture": "2026-07-20",
+    "date_capture": "2026-07-21",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "VIDENUM",
@@ -1397,8 +2027,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42500/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 88,
+    "tier": 2,
+    "score": 76,
     "produit_match": [
       "ITS"
     ],
@@ -1450,7 +2080,7 @@
   },
   {
     "id": "sig-2026-06-26-0f91084c8644",
-    "date_capture": "2026-07-20",
+    "date_capture": "2026-07-21",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "CRISTAL 1",
@@ -1460,8 +2090,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42502/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 88,
+    "tier": 2,
+    "score": 76,
     "produit_match": [
       "ITS"
     ],
@@ -1513,7 +2143,7 @@
   },
   {
     "id": "sig-2026-06-26-eb9aada0d67c",
-    "date_capture": "2026-07-20",
+    "date_capture": "2026-07-21",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "CSB EDUCATION GROUP",
@@ -1523,8 +2153,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42503/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 88,
+    "tier": 2,
+    "score": 76,
     "produit_match": [
       "ITS"
     ],
@@ -1576,7 +2206,7 @@
   },
   {
     "id": "sig-2026-06-26-07d7a5df3794",
-    "date_capture": "2026-07-20",
+    "date_capture": "2026-07-21",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "AGENCE NATIONALE DE LA SECURITE DES SYSTEMES D'INFORMATION",
@@ -1586,8 +2216,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42504/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 88,
+    "tier": 2,
+    "score": 76,
     "produit_match": [
       "ITS"
     ],
@@ -1639,7 +2269,7 @@
   },
   {
     "id": "sig-2026-06-26-b4a7cb7581ab",
-    "date_capture": "2026-07-20",
+    "date_capture": "2026-07-21",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "EPITECH ECOLE INFORMATIQUE NOUV TECHNO",
@@ -1649,8 +2279,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42505/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 88,
+    "tier": 2,
+    "score": 76,
     "produit_match": [
       "ITS"
     ],
@@ -1702,7 +2332,7 @@
   },
   {
     "id": "sig-2026-06-26-d8729f61265f",
-    "date_capture": "2026-07-20",
+    "date_capture": "2026-07-21",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "GROUPE DES ECOLES NATIONALES D ECONOMIE ET STATISTIQUE",
@@ -1712,8 +2342,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42508/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 88,
+    "tier": 2,
+    "score": 76,
     "produit_match": [
       "ITS"
     ],
@@ -1765,7 +2395,7 @@
   },
   {
     "id": "sig-2026-06-26-601b37ed064b",
-    "date_capture": "2026-07-20",
+    "date_capture": "2026-07-21",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "INSTITUT DE GESTION SOCIALE (IGS)",
@@ -1775,8 +2405,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42510/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 88,
+    "tier": 2,
+    "score": 76,
     "produit_match": [
       "ITS"
     ],
@@ -1828,7 +2458,7 @@
   },
   {
     "id": "sig-2026-06-26-391e5347bb99",
-    "date_capture": "2026-07-20",
+    "date_capture": "2026-07-21",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "CCI FRANCE",
@@ -1838,8 +2468,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42514/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 88,
+    "tier": 2,
+    "score": 76,
     "produit_match": [
       "ITS"
     ],
@@ -1891,7 +2521,7 @@
   },
   {
     "id": "sig-2026-06-26-e9d558375842",
-    "date_capture": "2026-07-20",
+    "date_capture": "2026-07-21",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "2600",
@@ -1901,8 +2531,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42515/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 88,
+    "tier": 2,
+    "score": 76,
     "produit_match": [
       "ITS"
     ],
@@ -1954,7 +2584,7 @@
   },
   {
     "id": "sig-2026-06-26-d7abe9c99e4b",
-    "date_capture": "2026-07-20",
+    "date_capture": "2026-07-21",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "SUP DES RH",
@@ -1964,8 +2594,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42518/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 88,
+    "tier": 2,
+    "score": 76,
     "produit_match": [
       "ITS"
     ],
@@ -2016,19 +2646,19 @@
     ]
   },
   {
-    "id": "sig-2026-06-26-dcaa396db3c1",
-    "date_capture": "2026-07-20",
+    "id": "sig-2026-06-26-e49480395e6d",
+    "date_capture": "2026-07-21",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
-    "compte": "THE PROGRESS FACTORY",
+    "compte": "CODA",
     "titre": "Nouvelle fiche RNCP42520 — Expert DevOps",
-    "description": "Expert DevOps. Type :  (Niveau 7). Enregistrement sur demande. Décision du 2026-06-26. Certificateur(s) : THE PROGRESS FACTORY, CODA.",
+    "description": "Expert DevOps. Type :  (Niveau 7). Enregistrement sur demande. Décision du 2026-06-26. Certificateur(s) : CODA, THE PROGRESS FACTORY.",
     "source": "France Compétences",
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42520/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 88,
+    "tier": 2,
+    "score": 76,
     "produit_match": [
       "ITS"
     ],
@@ -2038,7 +2668,7 @@
     "status": "new",
     "date_publication": "2026-06-26",
     "email_draft": {
-      "subject": "THE PROGRESS FACTORY — Expert DevOps : comment vous outillez la passation ?",
+      "subject": "CODA — Expert DevOps : comment vous outillez la passation ?",
       "body": "Bonjour,\n\nJ'ai noté votre actualité : « Expert DevOps ».\n\nSur une nouvelle fiche RNCP/RS, deux sujets pèsent vite côté opérationnel : la passation d'épreuves à scale, et la traçabilité des résultats (audit Qualiopi, contrôle France Compétences).\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens sur laquelle vous déposez VOS propres épreuves (théoriques, pratiques, comportementales) et qui prend en charge :\n\n- Banque de questions structurée par bloc de compétences (alignée sur votre fiche RNCP)\n- Surveillance à distance (proctoring) avec preuves opposables\n- Correction automatique + rapports candidat/admin\n- Traçabilité complète des sessions, exportable pour audit\n- Génération automatique des attestations et duplicatas\n\nAvantage : vous gardez la main pédagogique sur le contenu et vous déléguez l'infrastructure de passation. Déploiement 4-6 semaines pour ouvrir la 1re session.\n\n20 minutes pour vous montrer comment ça tourne chez un certificateur de taille comparable ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource : https://www.francecompetences.fr/recherche/rncp/42520/"
     },
     "contacts_cibles": [
@@ -2051,8 +2681,8 @@
         ],
         "priorite": 1,
         "raison": "Pilote la déclaration et l'animation de la fiche déposée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=THE+PROGRESS+FACTORY",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22THE%20PROGRESS%20FACTORY%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=CODA",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22CODA%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
       },
       {
         "poste": "Directeur(rice) qualité / Responsable Qualiopi",
@@ -2062,8 +2692,8 @@
         ],
         "priorite": 2,
         "raison": "Garant de la traçabilité et de l'opposabilité en audit",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=THE+PROGRESS+FACTORY",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22THE%20PROGRESS%20FACTORY%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=CODA",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22CODA%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
       },
       {
         "poste": "Directeur(rice) pédagogique / Responsable ingénierie",
@@ -2073,14 +2703,14 @@
         ],
         "priorite": 3,
         "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=THE+PROGRESS+FACTORY",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22THE%20PROGRESS%20FACTORY%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=CODA",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22CODA%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
       }
     ]
   },
   {
     "id": "sig-2026-06-26-a3716e837a86",
-    "date_capture": "2026-07-20",
+    "date_capture": "2026-07-21",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "YNOV",
@@ -2090,8 +2720,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42521/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 88,
+    "tier": 2,
+    "score": 76,
     "produit_match": [
       "ITS"
     ],
@@ -2142,19 +2772,19 @@
     ]
   },
   {
-    "id": "sig-2026-06-26-1e851f10e087",
-    "date_capture": "2026-07-20",
+    "id": "sig-2026-06-26-4b66a6a0bd66",
+    "date_capture": "2026-07-21",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
-    "compte": "CCI FRANCE",
+    "compte": "F N A I M",
     "titre": "Nouvelle fiche RNCP42523 — Responsable de transactions et de gestion de biens immobiliers",
-    "description": "Responsable de transactions et de gestion de biens immobiliers. Type :  (Niveau 6). Enregistrement sur demande. Décision du 2026-06-26. Certificateur(s) : CCI FRANCE, F N A I M.",
+    "description": "Responsable de transactions et de gestion de biens immobiliers. Type :  (Niveau 6). Enregistrement sur demande. Décision du 2026-06-26. Certificateur(s) : F N A I M, CCI FRANCE.",
     "source": "France Compétences",
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42523/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 88,
+    "tier": 2,
+    "score": 76,
     "produit_match": [
       "ITS"
     ],
@@ -2164,7 +2794,7 @@
     "status": "new",
     "date_publication": "2026-06-26",
     "email_draft": {
-      "subject": "CCI FRANCE — Responsable de transactions et de gestion : comment vous outillez la passation ?",
+      "subject": "F N A I M — Responsable de transactions et de gestion : comment vous outillez la passation ?",
       "body": "Bonjour,\n\nJ'ai noté votre actualité : « Responsable de transactions et de gestion de biens immobiliers ».\n\nSur une nouvelle fiche RNCP/RS, deux sujets pèsent vite côté opérationnel : la passation d'épreuves à scale, et la traçabilité des résultats (audit Qualiopi, contrôle France Compétences).\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens sur laquelle vous déposez VOS propres épreuves (théoriques, pratiques, comportementales) et qui prend en charge :\n\n- Banque de questions structurée par bloc de compétences (alignée sur votre fiche RNCP)\n- Surveillance à distance (proctoring) avec preuves opposables\n- Correction automatique + rapports candidat/admin\n- Traçabilité complète des sessions, exportable pour audit\n- Génération automatique des attestations et duplicatas\n\nAvantage : vous gardez la main pédagogique sur le contenu et vous déléguez l'infrastructure de passation. Déploiement 4-6 semaines pour ouvrir la 1re session.\n\n20 minutes pour vous montrer comment ça tourne chez un certificateur de taille comparable ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource : https://www.francecompetences.fr/recherche/rncp/42523/"
     },
     "contacts_cibles": [
@@ -2177,8 +2807,8 @@
         ],
         "priorite": 1,
         "raison": "Pilote la déclaration et l'animation de la fiche déposée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=CCI+FRANCE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22CCI%20FRANCE%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=F+N+A+I+M",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22F%20N%20A%20I%20M%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
       },
       {
         "poste": "Directeur(rice) qualité / Responsable Qualiopi",
@@ -2188,8 +2818,8 @@
         ],
         "priorite": 2,
         "raison": "Garant de la traçabilité et de l'opposabilité en audit",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=CCI+FRANCE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22CCI%20FRANCE%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=F+N+A+I+M",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22F%20N%20A%20I%20M%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
       },
       {
         "poste": "Directeur(rice) pédagogique / Responsable ingénierie",
@@ -2199,14 +2829,14 @@
         ],
         "priorite": 3,
         "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=CCI+FRANCE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22CCI%20FRANCE%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=F+N+A+I+M",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22F%20N%20A%20I%20M%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
       }
     ]
   },
   {
     "id": "sig-2026-06-26-838700c74fc6",
-    "date_capture": "2026-07-20",
+    "date_capture": "2026-07-21",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "INST DE FORMATION COMMERCIALE PERMANENTE",
@@ -2216,8 +2846,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42524/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 88,
+    "tier": 2,
+    "score": 76,
     "produit_match": [
       "ITS"
     ],
@@ -2268,8 +2898,197 @@
     ]
   },
   {
+    "id": "sig-2026-07-17-843dcdcca15a",
+    "date_capture": "2026-07-21",
+    "vertical": "rncp",
+    "sous_segment": "🟡 À qualifier · Fiche Niveau 7",
+    "compte": "COLLEGE EMPLOYEUR",
+    "titre": "Nouvelle fiche RNCP42625 — Coordinateur opérationnel au sein des organisations éducatives scolaires et /ou de formation",
+    "description": "Coordinateur opérationnel au sein des organisations éducatives scolaires et /ou de formation. Type :  (Niveau 7). Enregistrement sur demande. Décision du 2026-07-17. Certificateur(s) : COLLEGE EMPLOYEUR, SECRETARIAT GEN ENSEIGN CATHOLIQUE.",
+    "source": "France Compétences",
+    "source_tier": 1,
+    "url": "https://www.francecompetences.fr/recherche/rncp/42625/",
+    "signal_type": "rncp_open",
+    "tier": 2,
+    "score": 72,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Signal détecté**\nNouvelle fiche RNCP42625 déposée le 17/07/2026 — Coordinateur opérationnel au sein des organisations éducatives scolaires et /ou de formation\n\n🟡 **Cible à qualifier** — domaine tertiaire compatible ITS, mais vérifier que l'évaluation passe bien par des épreuves écrites/QCM.\n\n🎯 **Action à mener**\nQualifier le besoin avant d'investir : la fiche prévoit-elle une épreuve écrite/QCM ? Si oui, email à la direction certifications.\n\n💡 **Angle pitch ITS**\nPour passer la 1re session de cette nouvelle fiche : banque de questions par bloc de compétences, proctoring, attestations auto, traçabilité opposable en audit France Compétences. Déploiement en 4-6 semaines.\n\n📅 **Timing**\n30 jours après la décision = phase de montage de la 1re session. C'est le moment d'arriver.",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-07-17",
+    "email_draft": {
+      "subject": "COLLEGE EMPLOYEUR — Coordinateur opérationnel au sein des organisations : comment vous outillez la passation ?",
+      "body": "Bonjour,\n\nJ'ai noté votre actualité : « Coordinateur opérationnel au sein des organisations éducatives scolaires et /ou de formation ».\n\nSur une nouvelle fiche RNCP/RS, deux sujets pèsent vite côté opérationnel : la passation d'épreuves à scale, et la traçabilité des résultats (audit Qualiopi, contrôle France Compétences).\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens sur laquelle vous déposez VOS propres épreuves (théoriques, pratiques, comportementales) et qui prend en charge :\n\n- Banque de questions structurée par bloc de compétences (alignée sur votre fiche RNCP)\n- Surveillance à distance (proctoring) avec preuves opposables\n- Correction automatique + rapports candidat/admin\n- Traçabilité complète des sessions, exportable pour audit\n- Génération automatique des attestations et duplicatas\n\nAvantage : vous gardez la main pédagogique sur le contenu et vous déléguez l'infrastructure de passation. Déploiement 4-6 semaines pour ouvrir la 1re session.\n\n20 minutes pour vous montrer comment ça tourne chez un certificateur de taille comparable ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource : https://www.francecompetences.fr/recherche/rncp/42625/"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Responsable RNCP / Référent certifications",
+        "alternatives": [
+          "Responsable RS",
+          "Responsable habilitation",
+          "Référent France Compétences"
+        ],
+        "priorite": 1,
+        "raison": "Pilote la déclaration et l'animation de la fiche déposée",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=COLLEGE+EMPLOYEUR",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22COLLEGE%20EMPLOYEUR%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
+      },
+      {
+        "poste": "Directeur(rice) qualité / Responsable Qualiopi",
+        "alternatives": [
+          "RAQ",
+          "Référent qualité"
+        ],
+        "priorite": 2,
+        "raison": "Garant de la traçabilité et de l'opposabilité en audit",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=COLLEGE+EMPLOYEUR",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22COLLEGE%20EMPLOYEUR%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
+      },
+      {
+        "poste": "Directeur(rice) pédagogique / Responsable ingénierie",
+        "alternatives": [
+          "Directeur(rice) des programmes",
+          "Responsable ingénierie certification"
+        ],
+        "priorite": 3,
+        "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=COLLEGE+EMPLOYEUR",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22COLLEGE%20EMPLOYEUR%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
+      }
+    ]
+  },
+  {
+    "id": "sig-2026-07-17-a917ec60a800",
+    "date_capture": "2026-07-21",
+    "vertical": "rncp",
+    "sous_segment": "🟡 À qualifier · Fiche Niveau 7",
+    "compte": "INSTITUT D'ETUDES POLITIQUES D'AIX-EN-PROVENCE",
+    "titre": "Nouvelle fiche RNCP42636 — Expert en renseignement et anticipation des risques et menaces (MS)",
+    "description": "Expert en renseignement et anticipation des risques et menaces (MS). Type :  (Niveau 7). Enregistrement sur demande. Décision du 2026-07-17. Certificateur(s) : INSTITUT D'ETUDES POLITIQUES D'AIX-EN-PROVENCE.",
+    "source": "France Compétences",
+    "source_tier": 1,
+    "url": "https://www.francecompetences.fr/recherche/rncp/42636/",
+    "signal_type": "rncp_open",
+    "tier": 2,
+    "score": 72,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Signal détecté**\nNouvelle fiche RNCP42636 déposée le 17/07/2026 — Expert en renseignement et anticipation des risques et menaces (MS)\n\n🟡 **Cible à qualifier** — domaine tertiaire compatible ITS, mais vérifier que l'évaluation passe bien par des épreuves écrites/QCM.\n\n🎯 **Action à mener**\nQualifier le besoin avant d'investir : la fiche prévoit-elle une épreuve écrite/QCM ? Si oui, email à la direction certifications.\n\n💡 **Angle pitch ITS**\nPour passer la 1re session de cette nouvelle fiche : banque de questions par bloc de compétences, proctoring, attestations auto, traçabilité opposable en audit France Compétences. Déploiement en 4-6 semaines.\n\n📅 **Timing**\n30 jours après la décision = phase de montage de la 1re session. C'est le moment d'arriver.",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-07-17",
+    "email_draft": {
+      "subject": "INSTITUT D'ETUDES POLITIQUES D'AIX-EN-PROVENCE — Expert en renseignement et anticipation des : comment vous outillez la passation ?",
+      "body": "Bonjour,\n\nJ'ai noté votre actualité : « Expert en renseignement et anticipation des risques et menaces (MS) ».\n\nSur une nouvelle fiche RNCP/RS, deux sujets pèsent vite côté opérationnel : la passation d'épreuves à scale, et la traçabilité des résultats (audit Qualiopi, contrôle France Compétences).\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens sur laquelle vous déposez VOS propres épreuves (théoriques, pratiques, comportementales) et qui prend en charge :\n\n- Banque de questions structurée par bloc de compétences (alignée sur votre fiche RNCP)\n- Surveillance à distance (proctoring) avec preuves opposables\n- Correction automatique + rapports candidat/admin\n- Traçabilité complète des sessions, exportable pour audit\n- Génération automatique des attestations et duplicatas\n\nAvantage : vous gardez la main pédagogique sur le contenu et vous déléguez l'infrastructure de passation. Déploiement 4-6 semaines pour ouvrir la 1re session.\n\n20 minutes pour vous montrer comment ça tourne chez un certificateur de taille comparable ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource : https://www.francecompetences.fr/recherche/rncp/42636/"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Responsable RNCP / Référent certifications",
+        "alternatives": [
+          "Responsable RS",
+          "Responsable habilitation",
+          "Référent France Compétences"
+        ],
+        "priorite": 1,
+        "raison": "Pilote la déclaration et l'animation de la fiche déposée",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=INSTITUT+D%27ETUDES+POLITIQUES+D%27AIX-EN-PROVENCE",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22INSTITUT%20D%27ETUDES%20POLITIQUES%20D%27AIX-EN-PROVENCE%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
+      },
+      {
+        "poste": "Directeur(rice) qualité / Responsable Qualiopi",
+        "alternatives": [
+          "RAQ",
+          "Référent qualité"
+        ],
+        "priorite": 2,
+        "raison": "Garant de la traçabilité et de l'opposabilité en audit",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=INSTITUT+D%27ETUDES+POLITIQUES+D%27AIX-EN-PROVENCE",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22INSTITUT%20D%27ETUDES%20POLITIQUES%20D%27AIX-EN-PROVENCE%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
+      },
+      {
+        "poste": "Directeur(rice) pédagogique / Responsable ingénierie",
+        "alternatives": [
+          "Directeur(rice) des programmes",
+          "Responsable ingénierie certification"
+        ],
+        "priorite": 3,
+        "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=INSTITUT+D%27ETUDES+POLITIQUES+D%27AIX-EN-PROVENCE",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22INSTITUT%20D%27ETUDES%20POLITIQUES%20D%27AIX-EN-PROVENCE%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
+      }
+    ]
+  },
+  {
+    "id": "sig-2026-07-17-830a0e2cd054",
+    "date_capture": "2026-07-21",
+    "vertical": "rncp",
+    "sous_segment": "🟡 À qualifier · Fiche Niveau 6",
+    "compte": "INT F GILLET INST CONCIERGERIE",
+    "titre": "Nouvelle fiche RNCP42654 — Concierge de grand hôtel international",
+    "description": "Concierge de grand hôtel international. Type :  (Niveau 6). Enregistrement sur demande. Décision du 2026-07-17. Certificateur(s) : INT F GILLET INST CONCIERGERIE.",
+    "source": "France Compétences",
+    "source_tier": 1,
+    "url": "https://www.francecompetences.fr/recherche/rncp/42654/",
+    "signal_type": "rncp_open",
+    "tier": 2,
+    "score": 72,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Signal détecté**\nNouvelle fiche RNCP42654 déposée le 17/07/2026 — Concierge de grand hôtel international\n\n🟡 **Cible à qualifier** — domaine tertiaire compatible ITS, mais vérifier que l'évaluation passe bien par des épreuves écrites/QCM.\n\n🎯 **Action à mener**\nQualifier le besoin avant d'investir : la fiche prévoit-elle une épreuve écrite/QCM ? Si oui, email à la direction certifications.\n\n💡 **Angle pitch ITS**\nPour passer la 1re session de cette nouvelle fiche : banque de questions par bloc de compétences, proctoring, attestations auto, traçabilité opposable en audit France Compétences. Déploiement en 4-6 semaines.\n\n📅 **Timing**\n30 jours après la décision = phase de montage de la 1re session. C'est le moment d'arriver.",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-07-17",
+    "email_draft": {
+      "subject": "INT F GILLET INST CONCIERGERIE — Concierge de grand hôtel international : comment vous outillez la passation ?",
+      "body": "Bonjour,\n\nJ'ai noté votre actualité : « Concierge de grand hôtel international ».\n\nSur une nouvelle fiche RNCP/RS, deux sujets pèsent vite côté opérationnel : la passation d'épreuves à scale, et la traçabilité des résultats (audit Qualiopi, contrôle France Compétences).\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens sur laquelle vous déposez VOS propres épreuves (théoriques, pratiques, comportementales) et qui prend en charge :\n\n- Banque de questions structurée par bloc de compétences (alignée sur votre fiche RNCP)\n- Surveillance à distance (proctoring) avec preuves opposables\n- Correction automatique + rapports candidat/admin\n- Traçabilité complète des sessions, exportable pour audit\n- Génération automatique des attestations et duplicatas\n\nAvantage : vous gardez la main pédagogique sur le contenu et vous déléguez l'infrastructure de passation. Déploiement 4-6 semaines pour ouvrir la 1re session.\n\n20 minutes pour vous montrer comment ça tourne chez un certificateur de taille comparable ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource : https://www.francecompetences.fr/recherche/rncp/42654/"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Responsable RNCP / Référent certifications",
+        "alternatives": [
+          "Responsable RS",
+          "Responsable habilitation",
+          "Référent France Compétences"
+        ],
+        "priorite": 1,
+        "raison": "Pilote la déclaration et l'animation de la fiche déposée",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=INT+F+GILLET+INST+CONCIERGERIE",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22INT%20F%20GILLET%20INST%20CONCIERGERIE%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
+      },
+      {
+        "poste": "Directeur(rice) qualité / Responsable Qualiopi",
+        "alternatives": [
+          "RAQ",
+          "Référent qualité"
+        ],
+        "priorite": 2,
+        "raison": "Garant de la traçabilité et de l'opposabilité en audit",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=INT+F+GILLET+INST+CONCIERGERIE",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22INT%20F%20GILLET%20INST%20CONCIERGERIE%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
+      },
+      {
+        "poste": "Directeur(rice) pédagogique / Responsable ingénierie",
+        "alternatives": [
+          "Directeur(rice) des programmes",
+          "Responsable ingénierie certification"
+        ],
+        "priorite": 3,
+        "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=INT+F+GILLET+INST+CONCIERGERIE",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22INT%20F%20GILLET%20INST%20CONCIERGERIE%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-06-26-392d7780a54e",
-    "date_capture": "2026-07-20",
+    "date_capture": "2026-07-21",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 5",
     "compte": "ANAPIJ - 92100",
@@ -2279,8 +3098,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42471/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
+    "tier": 2,
+    "score": 71,
     "produit_match": [
       "ITS"
     ],
@@ -2327,825 +3146,6 @@
         "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
         "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=ANAPIJ+-+92100",
         "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ANAPIJ%20-%2092100%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
-      }
-    ]
-  },
-  {
-    "id": "sig-2026-06-26-ab526b3acc0f",
-    "date_capture": "2026-07-20",
-    "vertical": "rncp",
-    "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 5",
-    "compte": "IESC FORMATION",
-    "titre": "Nouvelle fiche RNCP42483 — Dirigeant d’entreprise de sécurité privée",
-    "description": "Dirigeant d’entreprise de sécurité privée. Type :  (Niveau 5). Enregistrement sur demande. Décision du 2026-06-26. Certificateur(s) : IESC FORMATION.",
-    "source": "France Compétences",
-    "source_tier": 1,
-    "url": "https://www.francecompetences.fr/recherche/rncp/42483/",
-    "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Signal détecté**\nNouvelle fiche RNCP42483 déposée le 26/06/2026 — Dirigeant d’entreprise de sécurité privée\n\n🔥 **Cible prioritaire ITS** — domaine cœur de cible (tech/numérique/gestion), savoirs évaluables en QCM/épreuve écrite.\n\n🎯 **Action à mener**\nEmail à la direction certifications/RNCP sous 30j. Proposer une démo ITS avant que la 1re session d'examen soit calée avec un concurrent.\n\n💡 **Angle pitch ITS**\nPour passer la 1re session de cette nouvelle fiche : banque de questions par bloc de compétences, proctoring, attestations auto, traçabilité opposable en audit France Compétences. Déploiement en 4-6 semaines.\n\n📅 **Timing**\n30 jours après la décision = phase de montage de la 1re session. C'est le moment d'arriver.",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-06-26",
-    "email_draft": {
-      "subject": "IESC FORMATION — Dirigeant d’entreprise de sécurité privée : comment vous outillez la passation ?",
-      "body": "Bonjour,\n\nJ'ai noté votre actualité : « Dirigeant d’entreprise de sécurité privée ».\n\nSur une nouvelle fiche RNCP/RS, deux sujets pèsent vite côté opérationnel : la passation d'épreuves à scale, et la traçabilité des résultats (audit Qualiopi, contrôle France Compétences).\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens sur laquelle vous déposez VOS propres épreuves (théoriques, pratiques, comportementales) et qui prend en charge :\n\n- Banque de questions structurée par bloc de compétences (alignée sur votre fiche RNCP)\n- Surveillance à distance (proctoring) avec preuves opposables\n- Correction automatique + rapports candidat/admin\n- Traçabilité complète des sessions, exportable pour audit\n- Génération automatique des attestations et duplicatas\n\nAvantage : vous gardez la main pédagogique sur le contenu et vous déléguez l'infrastructure de passation. Déploiement 4-6 semaines pour ouvrir la 1re session.\n\n20 minutes pour vous montrer comment ça tourne chez un certificateur de taille comparable ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource : https://www.francecompetences.fr/recherche/rncp/42483/"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Responsable RNCP / Référent certifications",
-        "alternatives": [
-          "Responsable RS",
-          "Responsable habilitation",
-          "Référent France Compétences"
-        ],
-        "priorite": 1,
-        "raison": "Pilote la déclaration et l'animation de la fiche déposée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=IESC+FORMATION",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22IESC%20FORMATION%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
-      },
-      {
-        "poste": "Directeur(rice) qualité / Responsable Qualiopi",
-        "alternatives": [
-          "RAQ",
-          "Référent qualité"
-        ],
-        "priorite": 2,
-        "raison": "Garant de la traçabilité et de l'opposabilité en audit",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=IESC+FORMATION",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22IESC%20FORMATION%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
-      },
-      {
-        "poste": "Directeur(rice) pédagogique / Responsable ingénierie",
-        "alternatives": [
-          "Directeur(rice) des programmes",
-          "Responsable ingénierie certification"
-        ],
-        "priorite": 3,
-        "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=IESC+FORMATION",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22IESC%20FORMATION%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
-      }
-    ]
-  },
-  {
-    "id": "sig-2026-06-26-fea5eb3095f8",
-    "date_capture": "2026-07-20",
-    "vertical": "rncp",
-    "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 5",
-    "compte": "INST DE FORMATION COMMERCIALE PERMANENTE",
-    "titre": "Nouvelle fiche RNCP42501 — Développeur intégrateur web",
-    "description": "Développeur intégrateur web. Type :  (Niveau 5). Enregistrement sur demande. Décision du 2026-06-26. Certificateur(s) : INST DE FORMATION COMMERCIALE PERMANENTE.",
-    "source": "France Compétences",
-    "source_tier": 1,
-    "url": "https://www.francecompetences.fr/recherche/rncp/42501/",
-    "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Signal détecté**\nNouvelle fiche RNCP42501 déposée le 26/06/2026 — Développeur intégrateur web\n\n🔥 **Cible prioritaire ITS** — domaine cœur de cible (tech/numérique/gestion), savoirs évaluables en QCM/épreuve écrite.\n\n🎯 **Action à mener**\nEmail à la direction certifications/RNCP sous 30j. Proposer une démo ITS avant que la 1re session d'examen soit calée avec un concurrent.\n\n💡 **Angle pitch ITS**\nPour passer la 1re session de cette nouvelle fiche : banque de questions par bloc de compétences, proctoring, attestations auto, traçabilité opposable en audit France Compétences. Déploiement en 4-6 semaines.\n\n📅 **Timing**\n30 jours après la décision = phase de montage de la 1re session. C'est le moment d'arriver.",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-06-26",
-    "email_draft": {
-      "subject": "INST DE FORMATION COMMERCIALE PERMANENTE — Développeur intégrateur web : comment vous outillez la passation ?",
-      "body": "Bonjour,\n\nJ'ai noté votre actualité : « Développeur intégrateur web ».\n\nSur une nouvelle fiche RNCP/RS, deux sujets pèsent vite côté opérationnel : la passation d'épreuves à scale, et la traçabilité des résultats (audit Qualiopi, contrôle France Compétences).\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens sur laquelle vous déposez VOS propres épreuves (théoriques, pratiques, comportementales) et qui prend en charge :\n\n- Banque de questions structurée par bloc de compétences (alignée sur votre fiche RNCP)\n- Surveillance à distance (proctoring) avec preuves opposables\n- Correction automatique + rapports candidat/admin\n- Traçabilité complète des sessions, exportable pour audit\n- Génération automatique des attestations et duplicatas\n\nAvantage : vous gardez la main pédagogique sur le contenu et vous déléguez l'infrastructure de passation. Déploiement 4-6 semaines pour ouvrir la 1re session.\n\n20 minutes pour vous montrer comment ça tourne chez un certificateur de taille comparable ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource : https://www.francecompetences.fr/recherche/rncp/42501/"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Responsable RNCP / Référent certifications",
-        "alternatives": [
-          "Responsable RS",
-          "Responsable habilitation",
-          "Référent France Compétences"
-        ],
-        "priorite": 1,
-        "raison": "Pilote la déclaration et l'animation de la fiche déposée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=INST+DE+FORMATION+COMMERCIALE+PERMANENTE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22INST%20DE%20FORMATION%20COMMERCIALE%20PERMANENTE%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
-      },
-      {
-        "poste": "Directeur(rice) qualité / Responsable Qualiopi",
-        "alternatives": [
-          "RAQ",
-          "Référent qualité"
-        ],
-        "priorite": 2,
-        "raison": "Garant de la traçabilité et de l'opposabilité en audit",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=INST+DE+FORMATION+COMMERCIALE+PERMANENTE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22INST%20DE%20FORMATION%20COMMERCIALE%20PERMANENTE%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
-      },
-      {
-        "poste": "Directeur(rice) pédagogique / Responsable ingénierie",
-        "alternatives": [
-          "Directeur(rice) des programmes",
-          "Responsable ingénierie certification"
-        ],
-        "priorite": 3,
-        "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=INST+DE+FORMATION+COMMERCIALE+PERMANENTE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22INST%20DE%20FORMATION%20COMMERCIALE%20PERMANENTE%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
-      }
-    ]
-  },
-  {
-    "id": "sig-2026-06-26-29637b89bb89",
-    "date_capture": "2026-07-20",
-    "vertical": "rncp",
-    "sous_segment": "🔥 Cible prioritaire · Fiche",
-    "compte": "WEB ASSOCIATION BERGERAC",
-    "titre": "Nouvelle fiche RS7614 — Utiliser la data analytics pour optimiser les performances marketing",
-    "description": "Utiliser la data analytics pour optimiser les performances marketing. Type :  (). Enregistrement sur demande. Décision du 2026-06-26. Certificateur(s) : WEB ASSOCIATION BERGERAC.",
-    "source": "France Compétences",
-    "source_tier": 1,
-    "url": "https://www.francecompetences.fr/recherche/rs/7614/",
-    "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Signal détecté**\nNouvelle fiche RS7614 déposée le 26/06/2026 — Utiliser la data analytics pour optimiser les performances marketing\n\n🔥 **Cible prioritaire ITS** — domaine cœur de cible (tech/numérique/gestion), savoirs évaluables en QCM/épreuve écrite.\n\n🎯 **Action à mener**\nEmail à la direction certifications/RNCP sous 30j. Proposer une démo ITS avant que la 1re session d'examen soit calée avec un concurrent.\n\n💡 **Angle pitch ITS**\nPour passer la 1re session de cette nouvelle fiche : banque de questions par bloc de compétences, proctoring, attestations auto, traçabilité opposable en audit France Compétences. Déploiement en 4-6 semaines.\n\n📅 **Timing**\n30 jours après la décision = phase de montage de la 1re session. C'est le moment d'arriver.",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-06-26",
-    "email_draft": {
-      "subject": "WEB ASSOCIATION BERGERAC — Utiliser la data analytics pour optimiser : comment vous outillez la passation ?",
-      "body": "Bonjour,\n\nJ'ai noté votre actualité : « Utiliser la data analytics pour optimiser les performances marketing ».\n\nSur une nouvelle fiche RNCP/RS, deux sujets pèsent vite côté opérationnel : la passation d'épreuves à scale, et la traçabilité des résultats (audit Qualiopi, contrôle France Compétences).\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens sur laquelle vous déposez VOS propres épreuves (théoriques, pratiques, comportementales) et qui prend en charge :\n\n- Banque de questions structurée par bloc de compétences (alignée sur votre fiche RNCP)\n- Surveillance à distance (proctoring) avec preuves opposables\n- Correction automatique + rapports candidat/admin\n- Traçabilité complète des sessions, exportable pour audit\n- Génération automatique des attestations et duplicatas\n\nAvantage : vous gardez la main pédagogique sur le contenu et vous déléguez l'infrastructure de passation. Déploiement 4-6 semaines pour ouvrir la 1re session.\n\n20 minutes pour vous montrer comment ça tourne chez un certificateur de taille comparable ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource : https://www.francecompetences.fr/recherche/rs/7614/"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Responsable RNCP / Référent certifications",
-        "alternatives": [
-          "Responsable RS",
-          "Responsable habilitation",
-          "Référent France Compétences"
-        ],
-        "priorite": 1,
-        "raison": "Pilote la déclaration et l'animation de la fiche déposée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=WEB+ASSOCIATION+BERGERAC",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22WEB%20ASSOCIATION%20BERGERAC%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
-      },
-      {
-        "poste": "Directeur(rice) qualité / Responsable Qualiopi",
-        "alternatives": [
-          "RAQ",
-          "Référent qualité"
-        ],
-        "priorite": 2,
-        "raison": "Garant de la traçabilité et de l'opposabilité en audit",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=WEB+ASSOCIATION+BERGERAC",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22WEB%20ASSOCIATION%20BERGERAC%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
-      },
-      {
-        "poste": "Directeur(rice) pédagogique / Responsable ingénierie",
-        "alternatives": [
-          "Directeur(rice) des programmes",
-          "Responsable ingénierie certification"
-        ],
-        "priorite": 3,
-        "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=WEB+ASSOCIATION+BERGERAC",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22WEB%20ASSOCIATION%20BERGERAC%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
-      }
-    ]
-  },
-  {
-    "id": "sig-2026-06-26-7663ab7b1a5c",
-    "date_capture": "2026-07-20",
-    "vertical": "rncp",
-    "sous_segment": "🔥 Cible prioritaire · Fiche",
-    "compte": "GROUPE DES ECOLES NATIONALES D ECONOMIE ET STATISTIQUE",
-    "titre": "Nouvelle fiche RS7615 — Data analyse : exploiter, analyser des données structurées et réaliser des études quantitatives",
-    "description": "Data analyse : exploiter, analyser des données structurées et réaliser des études quantitatives. Type :  (). Enregistrement sur demande. Décision du 2026-06-26. Certificateur(s) : GROUPE DES ECOLES NATIONALES D ECONOMIE ET STATISTIQUE.",
-    "source": "France Compétences",
-    "source_tier": 1,
-    "url": "https://www.francecompetences.fr/recherche/rs/7615/",
-    "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Signal détecté**\nNouvelle fiche RS7615 déposée le 26/06/2026 — Data analyse : exploiter, analyser des données structurées et réaliser des études quantitatives\n\n🔥 **Cible prioritaire ITS** — domaine cœur de cible (tech/numérique/gestion), savoirs évaluables en QCM/épreuve écrite.\n\n🎯 **Action à mener**\nEmail à la direction certifications/RNCP sous 30j. Proposer une démo ITS avant que la 1re session d'examen soit calée avec un concurrent.\n\n💡 **Angle pitch ITS**\nPour passer la 1re session de cette nouvelle fiche : banque de questions par bloc de compétences, proctoring, attestations auto, traçabilité opposable en audit France Compétences. Déploiement en 4-6 semaines.\n\n📅 **Timing**\n30 jours après la décision = phase de montage de la 1re session. C'est le moment d'arriver.",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-06-26",
-    "email_draft": {
-      "subject": "GROUPE DES ECOLES NATIONALES D ECONOMIE ET STATISTIQUE — Data analyse : exploiter, analyser des : comment vous outillez la passation ?",
-      "body": "Bonjour,\n\nJ'ai noté votre actualité : « Data analyse : exploiter, analyser des données structurées et réaliser des études quantitatives ».\n\nSur une nouvelle fiche RNCP/RS, deux sujets pèsent vite côté opérationnel : la passation d'épreuves à scale, et la traçabilité des résultats (audit Qualiopi, contrôle France Compétences).\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens sur laquelle vous déposez VOS propres épreuves (théoriques, pratiques, comportementales) et qui prend en charge :\n\n- Banque de questions structurée par bloc de compétences (alignée sur votre fiche RNCP)\n- Surveillance à distance (proctoring) avec preuves opposables\n- Correction automatique + rapports candidat/admin\n- Traçabilité complète des sessions, exportable pour audit\n- Génération automatique des attestations et duplicatas\n\nAvantage : vous gardez la main pédagogique sur le contenu et vous déléguez l'infrastructure de passation. Déploiement 4-6 semaines pour ouvrir la 1re session.\n\n20 minutes pour vous montrer comment ça tourne chez un certificateur de taille comparable ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource : https://www.francecompetences.fr/recherche/rs/7615/"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Responsable RNCP / Référent certifications",
-        "alternatives": [
-          "Responsable RS",
-          "Responsable habilitation",
-          "Référent France Compétences"
-        ],
-        "priorite": 1,
-        "raison": "Pilote la déclaration et l'animation de la fiche déposée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=GROUPE+DES+ECOLES+NATIONALES+D+ECONOMIE+ET+STATISTIQUE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22GROUPE%20DES%20ECOLES%20NATIONALES%20D%20ECONOMIE%20ET%20STATISTIQUE%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
-      },
-      {
-        "poste": "Directeur(rice) qualité / Responsable Qualiopi",
-        "alternatives": [
-          "RAQ",
-          "Référent qualité"
-        ],
-        "priorite": 2,
-        "raison": "Garant de la traçabilité et de l'opposabilité en audit",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=GROUPE+DES+ECOLES+NATIONALES+D+ECONOMIE+ET+STATISTIQUE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22GROUPE%20DES%20ECOLES%20NATIONALES%20D%20ECONOMIE%20ET%20STATISTIQUE%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
-      },
-      {
-        "poste": "Directeur(rice) pédagogique / Responsable ingénierie",
-        "alternatives": [
-          "Directeur(rice) des programmes",
-          "Responsable ingénierie certification"
-        ],
-        "priorite": 3,
-        "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=GROUPE+DES+ECOLES+NATIONALES+D+ECONOMIE+ET+STATISTIQUE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22GROUPE%20DES%20ECOLES%20NATIONALES%20D%20ECONOMIE%20ET%20STATISTIQUE%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
-      }
-    ]
-  },
-  {
-    "id": "sig-2026-06-26-e0b73470d3c0",
-    "date_capture": "2026-07-20",
-    "vertical": "rncp",
-    "sous_segment": "🔥 Cible prioritaire · Fiche",
-    "compte": "GROUPE DES ECOLES NATIONALES D ECONOMIE ET STATISTIQUE",
-    "titre": "Nouvelle fiche RS7616 — Data Science : prédire et décider avec le machine learning opérationnel",
-    "description": "Data Science : prédire et décider avec le machine learning opérationnel. Type :  (). Enregistrement sur demande. Décision du 2026-06-26. Certificateur(s) : GROUPE DES ECOLES NATIONALES D ECONOMIE ET STATISTIQUE.",
-    "source": "France Compétences",
-    "source_tier": 1,
-    "url": "https://www.francecompetences.fr/recherche/rs/7616/",
-    "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Signal détecté**\nNouvelle fiche RS7616 déposée le 26/06/2026 — Data Science : prédire et décider avec le machine learning opérationnel\n\n🔥 **Cible prioritaire ITS** — domaine cœur de cible (tech/numérique/gestion), savoirs évaluables en QCM/épreuve écrite.\n\n🎯 **Action à mener**\nEmail à la direction certifications/RNCP sous 30j. Proposer une démo ITS avant que la 1re session d'examen soit calée avec un concurrent.\n\n💡 **Angle pitch ITS**\nPour passer la 1re session de cette nouvelle fiche : banque de questions par bloc de compétences, proctoring, attestations auto, traçabilité opposable en audit France Compétences. Déploiement en 4-6 semaines.\n\n📅 **Timing**\n30 jours après la décision = phase de montage de la 1re session. C'est le moment d'arriver.",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-06-26",
-    "email_draft": {
-      "subject": "GROUPE DES ECOLES NATIONALES D ECONOMIE ET STATISTIQUE — Data Science : prédire et décider : comment vous outillez la passation ?",
-      "body": "Bonjour,\n\nJ'ai noté votre actualité : « Data Science : prédire et décider avec le machine learning opérationnel ».\n\nSur une nouvelle fiche RNCP/RS, deux sujets pèsent vite côté opérationnel : la passation d'épreuves à scale, et la traçabilité des résultats (audit Qualiopi, contrôle France Compétences).\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens sur laquelle vous déposez VOS propres épreuves (théoriques, pratiques, comportementales) et qui prend en charge :\n\n- Banque de questions structurée par bloc de compétences (alignée sur votre fiche RNCP)\n- Surveillance à distance (proctoring) avec preuves opposables\n- Correction automatique + rapports candidat/admin\n- Traçabilité complète des sessions, exportable pour audit\n- Génération automatique des attestations et duplicatas\n\nAvantage : vous gardez la main pédagogique sur le contenu et vous déléguez l'infrastructure de passation. Déploiement 4-6 semaines pour ouvrir la 1re session.\n\n20 minutes pour vous montrer comment ça tourne chez un certificateur de taille comparable ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource : https://www.francecompetences.fr/recherche/rs/7616/"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Responsable RNCP / Référent certifications",
-        "alternatives": [
-          "Responsable RS",
-          "Responsable habilitation",
-          "Référent France Compétences"
-        ],
-        "priorite": 1,
-        "raison": "Pilote la déclaration et l'animation de la fiche déposée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=GROUPE+DES+ECOLES+NATIONALES+D+ECONOMIE+ET+STATISTIQUE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22GROUPE%20DES%20ECOLES%20NATIONALES%20D%20ECONOMIE%20ET%20STATISTIQUE%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
-      },
-      {
-        "poste": "Directeur(rice) qualité / Responsable Qualiopi",
-        "alternatives": [
-          "RAQ",
-          "Référent qualité"
-        ],
-        "priorite": 2,
-        "raison": "Garant de la traçabilité et de l'opposabilité en audit",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=GROUPE+DES+ECOLES+NATIONALES+D+ECONOMIE+ET+STATISTIQUE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22GROUPE%20DES%20ECOLES%20NATIONALES%20D%20ECONOMIE%20ET%20STATISTIQUE%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
-      },
-      {
-        "poste": "Directeur(rice) pédagogique / Responsable ingénierie",
-        "alternatives": [
-          "Directeur(rice) des programmes",
-          "Responsable ingénierie certification"
-        ],
-        "priorite": 3,
-        "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=GROUPE+DES+ECOLES+NATIONALES+D+ECONOMIE+ET+STATISTIQUE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22GROUPE%20DES%20ECOLES%20NATIONALES%20D%20ECONOMIE%20ET%20STATISTIQUE%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
-      }
-    ]
-  },
-  {
-    "id": "sig-2026-06-26-fb87a7ea4bf0",
-    "date_capture": "2026-07-20",
-    "vertical": "rncp",
-    "sous_segment": "🔥 Cible prioritaire · Fiche",
-    "compte": "PEOPLECERT INTERNATIONAL LIMITED",
-    "titre": "Nouvelle fiche RS7617 — PRINCE2 – gestion de projet – niveau praticen",
-    "description": "PRINCE2 – gestion de projet – niveau praticen. Type :  (). Enregistrement sur demande. Décision du 2026-06-26. Certificateur(s) : PEOPLECERT INTERNATIONAL LIMITED.",
-    "source": "France Compétences",
-    "source_tier": 1,
-    "url": "https://www.francecompetences.fr/recherche/rs/7617/",
-    "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Signal détecté**\nNouvelle fiche RS7617 déposée le 26/06/2026 — PRINCE2 – gestion de projet – niveau praticen\n\n🔥 **Cible prioritaire ITS** — domaine cœur de cible (tech/numérique/gestion), savoirs évaluables en QCM/épreuve écrite.\n\n🎯 **Action à mener**\nEmail à la direction certifications/RNCP sous 30j. Proposer une démo ITS avant que la 1re session d'examen soit calée avec un concurrent.\n\n💡 **Angle pitch ITS**\nPour passer la 1re session de cette nouvelle fiche : banque de questions par bloc de compétences, proctoring, attestations auto, traçabilité opposable en audit France Compétences. Déploiement en 4-6 semaines.\n\n📅 **Timing**\n30 jours après la décision = phase de montage de la 1re session. C'est le moment d'arriver.",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-06-26",
-    "email_draft": {
-      "subject": "PEOPLECERT INTERNATIONAL LIMITED — PRINCE2 – gestion de projet – : comment vous outillez la passation ?",
-      "body": "Bonjour,\n\nJ'ai noté votre actualité : « PRINCE2 – gestion de projet – niveau praticen ».\n\nSur une nouvelle fiche RNCP/RS, deux sujets pèsent vite côté opérationnel : la passation d'épreuves à scale, et la traçabilité des résultats (audit Qualiopi, contrôle France Compétences).\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens sur laquelle vous déposez VOS propres épreuves (théoriques, pratiques, comportementales) et qui prend en charge :\n\n- Banque de questions structurée par bloc de compétences (alignée sur votre fiche RNCP)\n- Surveillance à distance (proctoring) avec preuves opposables\n- Correction automatique + rapports candidat/admin\n- Traçabilité complète des sessions, exportable pour audit\n- Génération automatique des attestations et duplicatas\n\nAvantage : vous gardez la main pédagogique sur le contenu et vous déléguez l'infrastructure de passation. Déploiement 4-6 semaines pour ouvrir la 1re session.\n\n20 minutes pour vous montrer comment ça tourne chez un certificateur de taille comparable ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource : https://www.francecompetences.fr/recherche/rs/7617/"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Responsable RNCP / Référent certifications",
-        "alternatives": [
-          "Responsable RS",
-          "Responsable habilitation",
-          "Référent France Compétences"
-        ],
-        "priorite": 1,
-        "raison": "Pilote la déclaration et l'animation de la fiche déposée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=PEOPLECERT+INTERNATIONAL+LIMITED",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22PEOPLECERT%20INTERNATIONAL%20LIMITED%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
-      },
-      {
-        "poste": "Directeur(rice) qualité / Responsable Qualiopi",
-        "alternatives": [
-          "RAQ",
-          "Référent qualité"
-        ],
-        "priorite": 2,
-        "raison": "Garant de la traçabilité et de l'opposabilité en audit",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=PEOPLECERT+INTERNATIONAL+LIMITED",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22PEOPLECERT%20INTERNATIONAL%20LIMITED%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
-      },
-      {
-        "poste": "Directeur(rice) pédagogique / Responsable ingénierie",
-        "alternatives": [
-          "Directeur(rice) des programmes",
-          "Responsable ingénierie certification"
-        ],
-        "priorite": 3,
-        "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=PEOPLECERT+INTERNATIONAL+LIMITED",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22PEOPLECERT%20INTERNATIONAL%20LIMITED%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
-      }
-    ]
-  },
-  {
-    "id": "sig-2026-06-26-67876e6f812e",
-    "date_capture": "2026-07-20",
-    "vertical": "rncp",
-    "sous_segment": "🔥 Cible prioritaire · Fiche",
-    "compte": "FORMITES",
-    "titre": "Nouvelle fiche RS7621 — Assurer la gestion administrative d’un organisme de formation",
-    "description": "Assurer la gestion administrative d’un organisme de formation. Type :  (). Enregistrement sur demande. Décision du 2026-06-26. Certificateur(s) : FORMITES.",
-    "source": "France Compétences",
-    "source_tier": 1,
-    "url": "https://www.francecompetences.fr/recherche/rs/7621/",
-    "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Signal détecté**\nNouvelle fiche RS7621 déposée le 26/06/2026 — Assurer la gestion administrative d’un organisme de formation\n\n🔥 **Cible prioritaire ITS** — domaine cœur de cible (tech/numérique/gestion), savoirs évaluables en QCM/épreuve écrite.\n\n🎯 **Action à mener**\nEmail à la direction certifications/RNCP sous 30j. Proposer une démo ITS avant que la 1re session d'examen soit calée avec un concurrent.\n\n💡 **Angle pitch ITS**\nPour passer la 1re session de cette nouvelle fiche : banque de questions par bloc de compétences, proctoring, attestations auto, traçabilité opposable en audit France Compétences. Déploiement en 4-6 semaines.\n\n📅 **Timing**\n30 jours après la décision = phase de montage de la 1re session. C'est le moment d'arriver.",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-06-26",
-    "email_draft": {
-      "subject": "FORMITES — Assurer la gestion administrative d’un organisme : comment vous outillez la passation ?",
-      "body": "Bonjour,\n\nJ'ai noté votre actualité : « Assurer la gestion administrative d’un organisme de formation ».\n\nSur une nouvelle fiche RNCP/RS, deux sujets pèsent vite côté opérationnel : la passation d'épreuves à scale, et la traçabilité des résultats (audit Qualiopi, contrôle France Compétences).\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens sur laquelle vous déposez VOS propres épreuves (théoriques, pratiques, comportementales) et qui prend en charge :\n\n- Banque de questions structurée par bloc de compétences (alignée sur votre fiche RNCP)\n- Surveillance à distance (proctoring) avec preuves opposables\n- Correction automatique + rapports candidat/admin\n- Traçabilité complète des sessions, exportable pour audit\n- Génération automatique des attestations et duplicatas\n\nAvantage : vous gardez la main pédagogique sur le contenu et vous déléguez l'infrastructure de passation. Déploiement 4-6 semaines pour ouvrir la 1re session.\n\n20 minutes pour vous montrer comment ça tourne chez un certificateur de taille comparable ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource : https://www.francecompetences.fr/recherche/rs/7621/"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Responsable RNCP / Référent certifications",
-        "alternatives": [
-          "Responsable RS",
-          "Responsable habilitation",
-          "Référent France Compétences"
-        ],
-        "priorite": 1,
-        "raison": "Pilote la déclaration et l'animation de la fiche déposée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=FORMITES",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22FORMITES%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
-      },
-      {
-        "poste": "Directeur(rice) qualité / Responsable Qualiopi",
-        "alternatives": [
-          "RAQ",
-          "Référent qualité"
-        ],
-        "priorite": 2,
-        "raison": "Garant de la traçabilité et de l'opposabilité en audit",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=FORMITES",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22FORMITES%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
-      },
-      {
-        "poste": "Directeur(rice) pédagogique / Responsable ingénierie",
-        "alternatives": [
-          "Directeur(rice) des programmes",
-          "Responsable ingénierie certification"
-        ],
-        "priorite": 3,
-        "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=FORMITES",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22FORMITES%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
-      }
-    ]
-  },
-  {
-    "id": "sig-2026-06-26-90628c933c64",
-    "date_capture": "2026-07-20",
-    "vertical": "rncp",
-    "sous_segment": "🔥 Cible prioritaire · Fiche",
-    "compte": "B&GL",
-    "titre": "Nouvelle fiche RS7625 — Piloter des cycles de vie contractuels – Contract management",
-    "description": "Piloter des cycles de vie contractuels – Contract management. Type :  (). Enregistrement sur demande. Décision du 2026-06-26. Certificateur(s) : B&GL.",
-    "source": "France Compétences",
-    "source_tier": 1,
-    "url": "https://www.francecompetences.fr/recherche/rs/7625/",
-    "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Signal détecté**\nNouvelle fiche RS7625 déposée le 26/06/2026 — Piloter des cycles de vie contractuels – Contract management\n\n🔥 **Cible prioritaire ITS** — domaine cœur de cible (tech/numérique/gestion), savoirs évaluables en QCM/épreuve écrite.\n\n🎯 **Action à mener**\nEmail à la direction certifications/RNCP sous 30j. Proposer une démo ITS avant que la 1re session d'examen soit calée avec un concurrent.\n\n💡 **Angle pitch ITS**\nPour passer la 1re session de cette nouvelle fiche : banque de questions par bloc de compétences, proctoring, attestations auto, traçabilité opposable en audit France Compétences. Déploiement en 4-6 semaines.\n\n📅 **Timing**\n30 jours après la décision = phase de montage de la 1re session. C'est le moment d'arriver.",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-06-26",
-    "email_draft": {
-      "subject": "B&GL — Piloter des cycles de vie contractuels : comment vous outillez la passation ?",
-      "body": "Bonjour,\n\nJ'ai noté votre actualité : « Piloter des cycles de vie contractuels – Contract management ».\n\nSur une nouvelle fiche RNCP/RS, deux sujets pèsent vite côté opérationnel : la passation d'épreuves à scale, et la traçabilité des résultats (audit Qualiopi, contrôle France Compétences).\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens sur laquelle vous déposez VOS propres épreuves (théoriques, pratiques, comportementales) et qui prend en charge :\n\n- Banque de questions structurée par bloc de compétences (alignée sur votre fiche RNCP)\n- Surveillance à distance (proctoring) avec preuves opposables\n- Correction automatique + rapports candidat/admin\n- Traçabilité complète des sessions, exportable pour audit\n- Génération automatique des attestations et duplicatas\n\nAvantage : vous gardez la main pédagogique sur le contenu et vous déléguez l'infrastructure de passation. Déploiement 4-6 semaines pour ouvrir la 1re session.\n\n20 minutes pour vous montrer comment ça tourne chez un certificateur de taille comparable ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource : https://www.francecompetences.fr/recherche/rs/7625/"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Responsable RNCP / Référent certifications",
-        "alternatives": [
-          "Responsable RS",
-          "Responsable habilitation",
-          "Référent France Compétences"
-        ],
-        "priorite": 1,
-        "raison": "Pilote la déclaration et l'animation de la fiche déposée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=B%26GL",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22B%26GL%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
-      },
-      {
-        "poste": "Directeur(rice) qualité / Responsable Qualiopi",
-        "alternatives": [
-          "RAQ",
-          "Référent qualité"
-        ],
-        "priorite": 2,
-        "raison": "Garant de la traçabilité et de l'opposabilité en audit",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=B%26GL",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22B%26GL%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
-      },
-      {
-        "poste": "Directeur(rice) pédagogique / Responsable ingénierie",
-        "alternatives": [
-          "Directeur(rice) des programmes",
-          "Responsable ingénierie certification"
-        ],
-        "priorite": 3,
-        "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=B%26GL",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22B%26GL%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
-      }
-    ]
-  },
-  {
-    "id": "sig-2026-06-26-e34a9e010b9d",
-    "date_capture": "2026-07-20",
-    "vertical": "rncp",
-    "sous_segment": "🔥 Cible prioritaire · Fiche",
-    "compte": "EXPERTEEZ",
-    "titre": "Nouvelle fiche RS7629 — Accompagner les publics en difficulté avec le numérique (illectronisme) dans leurs démarches en ligne",
-    "description": "Accompagner les publics en difficulté avec le numérique (illectronisme) dans leurs démarches en ligne. Type :  (). Enregistrement sur demande. Décision du 2026-06-26. Certificateur(s) : EXPERTEEZ.",
-    "source": "France Compétences",
-    "source_tier": 1,
-    "url": "https://www.francecompetences.fr/recherche/rs/7629/",
-    "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Signal détecté**\nNouvelle fiche RS7629 déposée le 26/06/2026 — Accompagner les publics en difficulté avec le numérique (illectronisme) dans leurs démarches en ligne\n\n🔥 **Cible prioritaire ITS** — domaine cœur de cible (tech/numérique/gestion), savoirs évaluables en QCM/épreuve écrite.\n\n🎯 **Action à mener**\nEmail à la direction certifications/RNCP sous 30j. Proposer une démo ITS avant que la 1re session d'examen soit calée avec un concurrent.\n\n💡 **Angle pitch ITS**\nPour passer la 1re session de cette nouvelle fiche : banque de questions par bloc de compétences, proctoring, attestations auto, traçabilité opposable en audit France Compétences. Déploiement en 4-6 semaines.\n\n📅 **Timing**\n30 jours après la décision = phase de montage de la 1re session. C'est le moment d'arriver.",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-06-26",
-    "email_draft": {
-      "subject": "EXPERTEEZ — Accompagner les publics en difficulté avec : comment vous outillez la passation ?",
-      "body": "Bonjour,\n\nJ'ai noté votre actualité : « Accompagner les publics en difficulté avec le numérique (illectronisme) dans leurs démarches en ligne ».\n\nSur une nouvelle fiche RNCP/RS, deux sujets pèsent vite côté opérationnel : la passation d'épreuves à scale, et la traçabilité des résultats (audit Qualiopi, contrôle France Compétences).\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens sur laquelle vous déposez VOS propres épreuves (théoriques, pratiques, comportementales) et qui prend en charge :\n\n- Banque de questions structurée par bloc de compétences (alignée sur votre fiche RNCP)\n- Surveillance à distance (proctoring) avec preuves opposables\n- Correction automatique + rapports candidat/admin\n- Traçabilité complète des sessions, exportable pour audit\n- Génération automatique des attestations et duplicatas\n\nAvantage : vous gardez la main pédagogique sur le contenu et vous déléguez l'infrastructure de passation. Déploiement 4-6 semaines pour ouvrir la 1re session.\n\n20 minutes pour vous montrer comment ça tourne chez un certificateur de taille comparable ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource : https://www.francecompetences.fr/recherche/rs/7629/"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Responsable RNCP / Référent certifications",
-        "alternatives": [
-          "Responsable RS",
-          "Responsable habilitation",
-          "Référent France Compétences"
-        ],
-        "priorite": 1,
-        "raison": "Pilote la déclaration et l'animation de la fiche déposée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=EXPERTEEZ",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22EXPERTEEZ%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
-      },
-      {
-        "poste": "Directeur(rice) qualité / Responsable Qualiopi",
-        "alternatives": [
-          "RAQ",
-          "Référent qualité"
-        ],
-        "priorite": 2,
-        "raison": "Garant de la traçabilité et de l'opposabilité en audit",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=EXPERTEEZ",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22EXPERTEEZ%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
-      },
-      {
-        "poste": "Directeur(rice) pédagogique / Responsable ingénierie",
-        "alternatives": [
-          "Directeur(rice) des programmes",
-          "Responsable ingénierie certification"
-        ],
-        "priorite": 3,
-        "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=EXPERTEEZ",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22EXPERTEEZ%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
-      }
-    ]
-  },
-  {
-    "id": "sig-2026-06-26-42c8cdec640d",
-    "date_capture": "2026-07-20",
-    "vertical": "rncp",
-    "sous_segment": "🔥 Cible prioritaire · Fiche",
-    "compte": "UNIVERSITE PARIS XIII PARIS NORD VILLETANEUSE",
-    "titre": "Nouvelle fiche RS7632 — Sécuriser juridiquement les relations commerciales dans la grande distribution (DU)",
-    "description": "Sécuriser juridiquement les relations commerciales dans la grande distribution (DU). Type :  (). Enregistrement sur demande. Décision du 2026-06-26. Certificateur(s) : UNIVERSITE PARIS XIII PARIS NORD VILLETANEUSE.",
-    "source": "France Compétences",
-    "source_tier": 1,
-    "url": "https://www.francecompetences.fr/recherche/rs/7632/",
-    "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Signal détecté**\nNouvelle fiche RS7632 déposée le 26/06/2026 — Sécuriser juridiquement les relations commerciales dans la grande distribution (DU)\n\n🔥 **Cible prioritaire ITS** — domaine cœur de cible (tech/numérique/gestion), savoirs évaluables en QCM/épreuve écrite.\n\n🎯 **Action à mener**\nEmail à la direction certifications/RNCP sous 30j. Proposer une démo ITS avant que la 1re session d'examen soit calée avec un concurrent.\n\n💡 **Angle pitch ITS**\nPour passer la 1re session de cette nouvelle fiche : banque de questions par bloc de compétences, proctoring, attestations auto, traçabilité opposable en audit France Compétences. Déploiement en 4-6 semaines.\n\n📅 **Timing**\n30 jours après la décision = phase de montage de la 1re session. C'est le moment d'arriver.",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-06-26",
-    "email_draft": {
-      "subject": "UNIVERSITE PARIS XIII PARIS NORD VILLETANEUSE — Sécuriser juridiquement les relations commerciales dans : comment vous outillez la passation ?",
-      "body": "Bonjour,\n\nJ'ai noté votre actualité : « Sécuriser juridiquement les relations commerciales dans la grande distribution (DU) ».\n\nSur une nouvelle fiche RNCP/RS, deux sujets pèsent vite côté opérationnel : la passation d'épreuves à scale, et la traçabilité des résultats (audit Qualiopi, contrôle France Compétences).\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens sur laquelle vous déposez VOS propres épreuves (théoriques, pratiques, comportementales) et qui prend en charge :\n\n- Banque de questions structurée par bloc de compétences (alignée sur votre fiche RNCP)\n- Surveillance à distance (proctoring) avec preuves opposables\n- Correction automatique + rapports candidat/admin\n- Traçabilité complète des sessions, exportable pour audit\n- Génération automatique des attestations et duplicatas\n\nAvantage : vous gardez la main pédagogique sur le contenu et vous déléguez l'infrastructure de passation. Déploiement 4-6 semaines pour ouvrir la 1re session.\n\n20 minutes pour vous montrer comment ça tourne chez un certificateur de taille comparable ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource : https://www.francecompetences.fr/recherche/rs/7632/"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Responsable RNCP / Référent certifications",
-        "alternatives": [
-          "Responsable RS",
-          "Responsable habilitation",
-          "Référent France Compétences"
-        ],
-        "priorite": 1,
-        "raison": "Pilote la déclaration et l'animation de la fiche déposée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=UNIVERSITE+PARIS+XIII+PARIS+NORD+VILLETANEUSE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22UNIVERSITE%20PARIS%20XIII%20PARIS%20NORD%20VILLETANEUSE%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
-      },
-      {
-        "poste": "Directeur(rice) qualité / Responsable Qualiopi",
-        "alternatives": [
-          "RAQ",
-          "Référent qualité"
-        ],
-        "priorite": 2,
-        "raison": "Garant de la traçabilité et de l'opposabilité en audit",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=UNIVERSITE+PARIS+XIII+PARIS+NORD+VILLETANEUSE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22UNIVERSITE%20PARIS%20XIII%20PARIS%20NORD%20VILLETANEUSE%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
-      },
-      {
-        "poste": "Directeur(rice) pédagogique / Responsable ingénierie",
-        "alternatives": [
-          "Directeur(rice) des programmes",
-          "Responsable ingénierie certification"
-        ],
-        "priorite": 3,
-        "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=UNIVERSITE+PARIS+XIII+PARIS+NORD+VILLETANEUSE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22UNIVERSITE%20PARIS%20XIII%20PARIS%20NORD%20VILLETANEUSE%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
-      }
-    ]
-  },
-  {
-    "id": "sig-2026-06-26-3fa0b28408b9",
-    "date_capture": "2026-07-20",
-    "vertical": "rncp",
-    "sous_segment": "🔥 Cible prioritaire · Fiche",
-    "compte": "LE TEMPLE RH",
-    "titre": "Nouvelle fiche RS7638 — Structurer et déployer une communication numérique RH sur les réseaux sociaux",
-    "description": "Structurer et déployer une communication numérique RH sur les réseaux sociaux. Type :  (). Enregistrement sur demande. Décision du 2026-06-26. Certificateur(s) : LE TEMPLE RH.",
-    "source": "France Compétences",
-    "source_tier": 1,
-    "url": "https://www.francecompetences.fr/recherche/rs/7638/",
-    "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Signal détecté**\nNouvelle fiche RS7638 déposée le 26/06/2026 — Structurer et déployer une communication numérique RH sur les réseaux sociaux\n\n🔥 **Cible prioritaire ITS** — domaine cœur de cible (tech/numérique/gestion), savoirs évaluables en QCM/épreuve écrite.\n\n🎯 **Action à mener**\nEmail à la direction certifications/RNCP sous 30j. Proposer une démo ITS avant que la 1re session d'examen soit calée avec un concurrent.\n\n💡 **Angle pitch ITS**\nPour passer la 1re session de cette nouvelle fiche : banque de questions par bloc de compétences, proctoring, attestations auto, traçabilité opposable en audit France Compétences. Déploiement en 4-6 semaines.\n\n📅 **Timing**\n30 jours après la décision = phase de montage de la 1re session. C'est le moment d'arriver.",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-06-26",
-    "email_draft": {
-      "subject": "LE TEMPLE RH — Structurer et déployer une communication numérique : comment vous outillez la passation ?",
-      "body": "Bonjour,\n\nJ'ai noté votre actualité : « Structurer et déployer une communication numérique RH sur les réseaux sociaux ».\n\nSur une nouvelle fiche RNCP/RS, deux sujets pèsent vite côté opérationnel : la passation d'épreuves à scale, et la traçabilité des résultats (audit Qualiopi, contrôle France Compétences).\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens sur laquelle vous déposez VOS propres épreuves (théoriques, pratiques, comportementales) et qui prend en charge :\n\n- Banque de questions structurée par bloc de compétences (alignée sur votre fiche RNCP)\n- Surveillance à distance (proctoring) avec preuves opposables\n- Correction automatique + rapports candidat/admin\n- Traçabilité complète des sessions, exportable pour audit\n- Génération automatique des attestations et duplicatas\n\nAvantage : vous gardez la main pédagogique sur le contenu et vous déléguez l'infrastructure de passation. Déploiement 4-6 semaines pour ouvrir la 1re session.\n\n20 minutes pour vous montrer comment ça tourne chez un certificateur de taille comparable ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource : https://www.francecompetences.fr/recherche/rs/7638/"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Responsable RNCP / Référent certifications",
-        "alternatives": [
-          "Responsable RS",
-          "Responsable habilitation",
-          "Référent France Compétences"
-        ],
-        "priorite": 1,
-        "raison": "Pilote la déclaration et l'animation de la fiche déposée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=LE+TEMPLE+RH",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22LE%20TEMPLE%20RH%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
-      },
-      {
-        "poste": "Directeur(rice) qualité / Responsable Qualiopi",
-        "alternatives": [
-          "RAQ",
-          "Référent qualité"
-        ],
-        "priorite": 2,
-        "raison": "Garant de la traçabilité et de l'opposabilité en audit",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=LE+TEMPLE+RH",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22LE%20TEMPLE%20RH%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
-      },
-      {
-        "poste": "Directeur(rice) pédagogique / Responsable ingénierie",
-        "alternatives": [
-          "Directeur(rice) des programmes",
-          "Responsable ingénierie certification"
-        ],
-        "priorite": 3,
-        "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=LE+TEMPLE+RH",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22LE%20TEMPLE%20RH%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
-      }
-    ]
-  },
-  {
-    "id": "sig-2026-06-26-3cdfcf500e3b",
-    "date_capture": "2026-07-20",
-    "vertical": "rncp",
-    "sous_segment": "🔥 Cible prioritaire · Fiche",
-    "compte": "RESEAU COMPOST CITOYEN",
-    "titre": "Nouvelle fiche RS7639 — Accompagner et sensibiliser à la pratique de la prévention et gestion de proximité des biodéchets sur le territoire",
-    "description": "Accompagner et sensibiliser à la pratique de la prévention et gestion de proximité des biodéchets sur le territoire. Type :  (). Enregistrement sur demande. Décision du 2026-06-26. Certificateur(s) : RESEAU COMPOST CITOYEN.",
-    "source": "France Compétences",
-    "source_tier": 1,
-    "url": "https://www.francecompetences.fr/recherche/rs/7639/",
-    "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Signal détecté**\nNouvelle fiche RS7639 déposée le 26/06/2026 — Accompagner et sensibiliser à la pratique de la prévention et gestion de proximité des biodéchets sur le territoire\n\n🔥 **Cible prioritaire ITS** — domaine cœur de cible (tech/numérique/gestion), savoirs évaluables en QCM/épreuve écrite.\n\n🎯 **Action à mener**\nEmail à la direction certifications/RNCP sous 30j. Proposer une démo ITS avant que la 1re session d'examen soit calée avec un concurrent.\n\n💡 **Angle pitch ITS**\nPour passer la 1re session de cette nouvelle fiche : banque de questions par bloc de compétences, proctoring, attestations auto, traçabilité opposable en audit France Compétences. Déploiement en 4-6 semaines.\n\n📅 **Timing**\n30 jours après la décision = phase de montage de la 1re session. C'est le moment d'arriver.",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-06-26",
-    "email_draft": {
-      "subject": "RESEAU COMPOST CITOYEN — Accompagner et sensibiliser à la pratique : comment vous outillez la passation ?",
-      "body": "Bonjour,\n\nJ'ai noté votre actualité : « Accompagner et sensibiliser à la pratique de la prévention et gestion de proximité des biodéchets sur le territoire ».\n\nSur une nouvelle fiche RNCP/RS, deux sujets pèsent vite côté opérationnel : la passation d'épreuves à scale, et la traçabilité des résultats (audit Qualiopi, contrôle France Compétences).\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens sur laquelle vous déposez VOS propres épreuves (théoriques, pratiques, comportementales) et qui prend en charge :\n\n- Banque de questions structurée par bloc de compétences (alignée sur votre fiche RNCP)\n- Surveillance à distance (proctoring) avec preuves opposables\n- Correction automatique + rapports candidat/admin\n- Traçabilité complète des sessions, exportable pour audit\n- Génération automatique des attestations et duplicatas\n\nAvantage : vous gardez la main pédagogique sur le contenu et vous déléguez l'infrastructure de passation. Déploiement 4-6 semaines pour ouvrir la 1re session.\n\n20 minutes pour vous montrer comment ça tourne chez un certificateur de taille comparable ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource : https://www.francecompetences.fr/recherche/rs/7639/"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Responsable RNCP / Référent certifications",
-        "alternatives": [
-          "Responsable RS",
-          "Responsable habilitation",
-          "Référent France Compétences"
-        ],
-        "priorite": 1,
-        "raison": "Pilote la déclaration et l'animation de la fiche déposée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=RESEAU+COMPOST+CITOYEN",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22RESEAU%20COMPOST%20CITOYEN%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
-      },
-      {
-        "poste": "Directeur(rice) qualité / Responsable Qualiopi",
-        "alternatives": [
-          "RAQ",
-          "Référent qualité"
-        ],
-        "priorite": 2,
-        "raison": "Garant de la traçabilité et de l'opposabilité en audit",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=RESEAU+COMPOST+CITOYEN",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22RESEAU%20COMPOST%20CITOYEN%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
-      },
-      {
-        "poste": "Directeur(rice) pédagogique / Responsable ingénierie",
-        "alternatives": [
-          "Directeur(rice) des programmes",
-          "Responsable ingénierie certification"
-        ],
-        "priorite": 3,
-        "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=RESEAU+COMPOST+CITOYEN",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22RESEAU%20COMPOST%20CITOYEN%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
-      }
-    ]
-  },
-  {
-    "id": "sig-2026-06-26-f831c8169637",
-    "date_capture": "2026-07-20",
-    "vertical": "rncp",
-    "sous_segment": "🔥 Cible prioritaire · Fiche",
-    "compte": "ALTERNATIVE DIGITALE",
-    "titre": "Nouvelle fiche RS7643 — Développer l’activité commerciale par les réseaux sociaux",
-    "description": "Développer l’activité commerciale par les réseaux sociaux. Type :  (). Enregistrement sur demande. Décision du 2026-06-26. Certificateur(s) : ALTERNATIVE DIGITALE.",
-    "source": "France Compétences",
-    "source_tier": 1,
-    "url": "https://www.francecompetences.fr/recherche/rs/7643/",
-    "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Signal détecté**\nNouvelle fiche RS7643 déposée le 26/06/2026 — Développer l’activité commerciale par les réseaux sociaux\n\n🔥 **Cible prioritaire ITS** — domaine cœur de cible (tech/numérique/gestion), savoirs évaluables en QCM/épreuve écrite.\n\n🎯 **Action à mener**\nEmail à la direction certifications/RNCP sous 30j. Proposer une démo ITS avant que la 1re session d'examen soit calée avec un concurrent.\n\n💡 **Angle pitch ITS**\nPour passer la 1re session de cette nouvelle fiche : banque de questions par bloc de compétences, proctoring, attestations auto, traçabilité opposable en audit France Compétences. Déploiement en 4-6 semaines.\n\n📅 **Timing**\n30 jours après la décision = phase de montage de la 1re session. C'est le moment d'arriver.",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-06-26",
-    "email_draft": {
-      "subject": "ALTERNATIVE DIGITALE — Développer l’activité commerciale par les réseaux : comment vous outillez la passation ?",
-      "body": "Bonjour,\n\nJ'ai noté votre actualité : « Développer l’activité commerciale par les réseaux sociaux ».\n\nSur une nouvelle fiche RNCP/RS, deux sujets pèsent vite côté opérationnel : la passation d'épreuves à scale, et la traçabilité des résultats (audit Qualiopi, contrôle France Compétences).\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens sur laquelle vous déposez VOS propres épreuves (théoriques, pratiques, comportementales) et qui prend en charge :\n\n- Banque de questions structurée par bloc de compétences (alignée sur votre fiche RNCP)\n- Surveillance à distance (proctoring) avec preuves opposables\n- Correction automatique + rapports candidat/admin\n- Traçabilité complète des sessions, exportable pour audit\n- Génération automatique des attestations et duplicatas\n\nAvantage : vous gardez la main pédagogique sur le contenu et vous déléguez l'infrastructure de passation. Déploiement 4-6 semaines pour ouvrir la 1re session.\n\n20 minutes pour vous montrer comment ça tourne chez un certificateur de taille comparable ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource : https://www.francecompetences.fr/recherche/rs/7643/"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Responsable RNCP / Référent certifications",
-        "alternatives": [
-          "Responsable RS",
-          "Responsable habilitation",
-          "Référent France Compétences"
-        ],
-        "priorite": 1,
-        "raison": "Pilote la déclaration et l'animation de la fiche déposée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=ALTERNATIVE+DIGITALE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ALTERNATIVE%20DIGITALE%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
-      },
-      {
-        "poste": "Directeur(rice) qualité / Responsable Qualiopi",
-        "alternatives": [
-          "RAQ",
-          "Référent qualité"
-        ],
-        "priorite": 2,
-        "raison": "Garant de la traçabilité et de l'opposabilité en audit",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=ALTERNATIVE+DIGITALE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ALTERNATIVE%20DIGITALE%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
-      },
-      {
-        "poste": "Directeur(rice) pédagogique / Responsable ingénierie",
-        "alternatives": [
-          "Directeur(rice) des programmes",
-          "Responsable ingénierie certification"
-        ],
-        "priorite": 3,
-        "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=ALTERNATIVE+DIGITALE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ALTERNATIVE%20DIGITALE%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
       }
     ]
   }
