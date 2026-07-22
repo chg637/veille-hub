@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-06-30-517e5fba9ca2",
-    "date_capture": "2026-07-21",
+    "date_capture": "2026-07-22",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "CGE",
@@ -19,7 +19,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nL’article Les labellisations CGE de juin est apparu en premier sur Conférence des grandes écoles .\n\n🎯 **Action à mener**\nEmail au responsable maquette + pitch « Pack Edu Tosa = preuve mesurable compétences digitales pour le dossier accréditation ». Joindre 2 cas pairs. RDV sous 14j.\n\n💡 **Angle pitch ITS/Tosa**\nTosa = preuve opposable de la qualité d'évaluation des compétences (audit Qualiopi, France Compétences). Doublement du signal extérieur dans la promotion du programme labellisé.\n\n📅 **Timing**\n3 mois post-annonce — fenêtre de capitalisation médiatique encore active.",
-    "deadline_action": "2026-07-28",
+    "deadline_action": "2026-07-29",
     "status": "new",
     "date_publication": "2026-06-30",
     "email_draft": {
@@ -66,7 +66,7 @@
   },
   {
     "id": "sig-2026-07-20-f4704d9b8ef2",
-    "date_capture": "2026-07-21",
+    "date_capture": "2026-07-22",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "Universitarisation",
@@ -84,7 +84,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nAlors que le processus d’universitarisation des Ifsi a débuté il y a plus de quatre ans, 2026 marque une étape importante avec l’intégration des instituts aux universités. Quel bilan dresser de ce…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme Universitarisation. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-07-28",
+    "deadline_action": "2026-07-29",
     "status": "new",
     "date_publication": "2026-07-20",
     "email_draft": {
@@ -129,7 +129,7 @@
   },
   {
     "id": "sig-2026-07-17-45d50b5b334c",
-    "date_capture": "2026-07-21",
+    "date_capture": "2026-07-22",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "Un nouvel IAE",
@@ -147,7 +147,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nLe réseau IAE France a annoncé, lors de son agora le 2 juillet 2026, l’entrée d’un nouveau membre dans son réseau. L’IAE Reims-Troyes vient de voir le jour, au sein de l’université de Reims…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme Un nouvel IAE. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-07-28",
+    "deadline_action": "2026-07-29",
     "status": "new",
     "date_publication": "2026-07-17",
     "email_draft": {
@@ -191,70 +191,8 @@
     ]
   },
   {
-    "id": "sig-2026-07-07-c570bcb52f0c",
-    "date_capture": "2026-07-21",
-    "vertical": "education",
-    "sous_segment": "grande-ecole",
-    "compte": "Excelia Business School",
-    "titre": "Nathalie Hector est nommée directrice d’Excelia Business School",
-    "description": "Après avoir rejoint le comité exécutif de SKEMA en 2020, où elle supervisait notamment le développement, les admissions et l&#8217;innovation, Nathalie Hector prendra les fonctions de Directrice et Dean d&#8217;Excelia Business School à compter du 1er septembre 2026. Elle succède à Tamym Abdessemed, qui reprend ses activités académiques tout en accompagnant la direction générale du [&#8230;] Cet a",
-    "source": "Business Cool",
-    "source_tier": 2,
-    "url": "https://business-cool.com/actualites/actu-ecoles/nathalie-hector-est-nommee-directrice-dexcelia-business-school/",
-    "signal_type": "nomination_dg",
-    "tier": 1,
-    "score": 85,
-    "produit_match": [
-      "Pack Education Tosa"
-    ],
-    "owner": null,
-    "action_reco": "📋 **Signal détecté**\nAprès avoir rejoint le comité exécutif de SKEMA en 2020, où elle supervisait notamment le développement, les admissions et l&#8217;innovation, Nathalie Hector prendra les fonctions de Directrice et…\n\n🎯 **Action à mener**\nNote LinkedIn 100 premiers jours du nouveau DG. Angle « bilan rapide du dispositif certification ». Brief équipe sur les comptes Tosa déjà présents chez Excelia Business School.\n\n💡 **Angle pitch ITS/Tosa**\nFenêtre stratégique post-prise de poste : nouveau directeur cherche à poser sa marque. Apport rapide = Tosa pour signal externe + ITS pour structurer la passation.\n\n📅 **Timing**\n30-90 jours après l'annonce. Au-delà, la roadmap est figée.",
-    "deadline_action": "2026-07-28",
-    "status": "new",
-    "date_publication": "2026-07-07",
-    "email_draft": {
-      "subject": "Excelia Business School — nouvelle direction : quels chantiers évaluation prévus ?",
-      "body": "Bonjour,\n\nJ'ai noté votre arrivée à la direction chez Excelia Business School.\nContexte que j'ai vu passer : « Après avoir rejoint le comité exécutif de SKEMA en 2020, où elle supervisait notamment le développement, les admissions et… ».\n\nFélicitations pour cette prise de poste — belle étape.\n\nJe me permets de vous écrire car beaucoup de directeurs récemment nommés dans le supérieur partagent le même constat à 60-90 jours : besoin de poser rapidement une stratégie claire sur l'évaluation des compétences étudiants — pour répondre aux exigences Qualiopi/RNCP et aux attentes des entreprises partenaires.\n\nChez Isograd, deux solutions utilisées par des écoles comparables :\n\n1. **Tosa** — certification des compétences numériques étudiants (bureautique, code, digital). Argument fort en diplômation, CV, et classements.\n\n2. **ITS** — plateforme d'hébergement d'examens en ligne avec proctoring et banque de questions, opposable en audit.\n\n15 minutes pour vous montrer ce que d'autres directions ont mis en place dans leurs premiers mois ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource de l'info : https://business-cool.com/actualites/actu-ecoles/nathalie-hector-est-nommee-directrice-dexcelia-business-school/"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Le(la) nouveau(elle) directeur(rice) directement",
-        "alternatives": [
-          "Directeur(rice) général(e)",
-          "Présidence"
-        ],
-        "priorite": 1,
-        "raison": "Fenêtre 30-90j post-prise de poste — ouvert aux nouveaux chantiers",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Le%28la%29+nouveau%28elle%29+directeur%28rice%29+directement%22+OR+%22Directeur%28rice%29+g%C3%A9n%C3%A9ral%28e%29%22+OR+%22Pr%C3%A9sidence%22&currentCompany=Excelia+Business+School",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Excelia%20Business%20School%22%20Le%28la%29%20nouveau%28elle%29%20directeur%28rice%29%20directement%20Directeur%28rice%29%20g%C3%A9n%C3%A9ral%28e%29%20Pr%C3%A9sidence"
-      },
-      {
-        "poste": "Directeur(rice) de cabinet / Adjoint(e)",
-        "alternatives": [
-          "Bras droit",
-          "Chief of Staff"
-        ],
-        "priorite": 2,
-        "raison": "Pré-qualifie les dossiers stratégiques du nouveau directeur",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+de+cabinet+%2F+Adjoint%28e%29%22+OR+%22Bras+droit%22+OR+%22Chief+of+Staff%22&currentCompany=Excelia+Business+School",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Excelia%20Business%20School%22%20Directeur%28rice%29%20de%20cabinet%20/%20Adjoint%28e%29%20Bras%20droit%20Chief%20of%20Staff"
-      },
-      {
-        "poste": "Directeur(rice) des programmes / Académique",
-        "alternatives": [
-          "Doyen",
-          "VP Pédagogie"
-        ],
-        "priorite": 3,
-        "raison": "Souvent en pleine relecture de la roadmap pédagogique post-nomination",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+des+programmes+%2F+Acad%C3%A9mique%22+OR+%22Doyen%22+OR+%22VP+P%C3%A9dagogie%22&currentCompany=Excelia+Business+School",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Excelia%20Business%20School%22%20Directeur%28rice%29%20des%20programmes%20/%20Acad%C3%A9mique%20Doyen%20VP%20P%C3%A9dagogie"
-      }
-    ]
-  },
-  {
     "id": "sig-2026-05-01-beb7d25e358c",
-    "date_capture": "2026-07-21",
+    "date_capture": "2026-07-22",
     "vertical": "education",
     "sous_segment": "Prospect froid — supérieur",
     "compte": "Paris School of Business",
@@ -317,7 +255,7 @@
   },
   {
     "id": "sig-2026-05-01-93e815b0ca37",
-    "date_capture": "2026-07-21",
+    "date_capture": "2026-07-22",
     "vertical": "education",
     "sous_segment": "Relance compte tiède",
     "compte": "IAE Aix-Marseille",
@@ -387,7 +325,7 @@
   },
   {
     "id": "sig-stable-4cc03b95f797",
-    "date_capture": "2026-07-21",
+    "date_capture": "2026-07-22",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "Universite de Technologie de Troyes (UTT)",
@@ -407,7 +345,7 @@
     "action_reco": "📋 **Signal détecté**\nBachelor IA - cursus 3 ans\n\n🎯 **Action à mener**\nA croiser site UTT + LinkedIn avant contact\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-07-21",
+    "date_publication": "2026-07-22",
     "email_draft": {
       "subject": "Universite de Technologie de Troyes (UTT) — Bachelor IA - cursus 3 ans : quelle évaluation prévue ?",
       "body": "Bonjour,\n\nJ'ai vu votre actualité : « Bachelor IA - cursus 3 ans ». Beau lancement.\n\nSur ce type de nouveau programme, le timing pour penser le dispositif d'évaluation des compétences est en général la période juste avant la première cohorte — ça permet de cadrer proprement la maquette pédagogique et les outils.\n\nChez Isograd, on opère 2 solutions complémentaires pour un programme comme le vôtre :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital). Argument concret en diplômation, sur le CV et auprès des entreprises partenaires.\n\n2. **ITS** pour héberger les sessions d'examen en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\n3. **Cert IA** — notre badge co-construit avec des écoles partenaires pour les programmes IA. Concrètement, vos étudiants ressortent du programme avec une certification externe sur les compétences IA appliquées. On a une program beta en cours, vous pourriez en faire partie.\n\nDéploiement en 4-6 semaines, budget calibré sur le volume étudiants. 15 minutes pour échanger sur votre cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://www.letudiant.fr/etudes/lactu-des-formations-de-nouveaux-cursus-en-ia-dans-le-superieur.html"
