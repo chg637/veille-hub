@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-07-09-be6d85e296fe",
-    "date_capture": "2026-07-22",
+    "date_capture": "2026-07-23",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Verisure",
@@ -30,7 +30,7 @@
   },
   {
     "id": "sig-2026-07-12-d59cef5f9d34",
-    "date_capture": "2026-07-22",
+    "date_capture": "2026-07-23",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Tata Consultancy Services",
@@ -58,37 +58,8 @@
     "contacts_cibles": []
   },
   {
-    "id": "sig-2026-06-23-dc3e961f5571",
-    "date_capture": "2026-07-22",
-    "vertical": "corporate",
-    "sous_segment": "entreprise",
-    "compte": "Maxi Zoo",
-    "titre": "Maxi Zoo prévoit de recruter 1 500 personnes pour ouvrir 230 boutiques d’ici 2030",
-    "description": "Isère. Maxi Zoo prévoit de recruter 1 500 personnes pour ouvrir 230 boutiques d’ici 2030 Le Dauphiné Libéré",
-    "source": "Le Dauphiné Libéré (via Google News)",
-    "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRkJBbFZqMnA4TUxQTTliTlRaZlI0ZFBhRVJ0UXdKYV9jOENZMHB4ZXRwc3g1UGJ5andvdlJBVHp3YmFZWXlpd3BMaU1uQ3lSNy1ZZHVjSDY1R1hDMlNTU2l5LXVPcUdzX2J4Ny00c3VuMFJvMTJxWnptR3RlRmFVWUhHV1piT3lrcEFFOWdXZ0xsSUZuSHp3RnQ0a0pDSmhyaG45dVlKZ1dIR2FsbnhXZWdLd2prdllzU016UFRjcDFmYmUwY3g4?oc=5",
-    "signal_type": "plan_recrutement",
-    "tier": 1,
-    "score": 93,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": null,
-    "action_reco": "Maxi Zoo : ~1500 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-06-23",
-    "email_draft": {
-      "subject": "Maxi Zoo — fiabiliser la pré-qualification de vos recrutements",
-      "body": "Bonjour,\n\nJ'ai lu que Maxi Zoo prépare une campagne de recrutement importante (Maxi Zoo prévoit de recruter 1 500 personnes pour ouvrir 230 boutiques d’ici 2030…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
-      "url_source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRkJBbFZqMnA4TUxQTTliTlRaZlI0ZFBhRVJ0UXdKYV9jOENZMHB4ZXRwc3g1UGJ5andvdlJBVHp3YmFZWXlpd3BMaU1uQ3lSNy1ZZHVjSDY1R1hDMlNTU2l5LXVPcUdzX2J4Ny00c3VuMFJvMTJxWnptR3RlRmFVWUhHV1piT3lrcEFFOWdXZ0xsSUZuSHp3RnQ0a0pDSmhyaG45dVlKZ1dIR2FsbnhXZWdLd2prdllzU016UFRjcDFmYmUwY3g4?oc=5"
-    },
-    "contacts_cibles": []
-  },
-  {
     "id": "sig-2026-07-20-e3a38b5bb1b7",
-    "date_capture": "2026-07-22",
+    "date_capture": "2026-07-23",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "CuspAI",
@@ -146,69 +117,6 @@
         "raison": "Sous-décideur — peut tester l'outil rapidement",
         "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=CuspAI",
         "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22CuspAI%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
-      }
-    ]
-  },
-  {
-    "id": "sig-2026-07-16-10beb64146e6",
-    "date_capture": "2026-07-22",
-    "vertical": "corporate",
-    "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
-    "compte": "Microagi",
-    "titre": "Munich robotics startup Microagi raises $55m, Germany’s largest ever seed round",
-    "description": "",
-    "source": "Sifted",
-    "source_tier": 1,
-    "url": "https://sifted.eu/articles/munich-robotics-startup-microagi-raises-55m-germanys-largest-ever-seed-round/",
-    "signal_type": "levee_fonds",
-    "tier": 1,
-    "score": 80,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Source** : https://sifted.eu/articles/munich-robotics-startup-microagi-raises-55m-germanys-largest-ever-seed-round/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 55.0M USD (~50.6M€) → scale-up confirmé, plan de recrutement massif sur 12 mois\n🔥 PRIORITÉ — fenêtre 30j (avant que les RH s'organisent)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-07-16",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-07-16",
-    "email_draft": {
-      "subject": "Microagi — votre Series — sur l'évaluation candidats à scale",
-      "body": "Bonjour,\n\nJe viens de voir que Microagi a bouclé une levée de 55.0M USD (~50.6M€). Bravo pour cette étape.\n\nSur les 12 prochains mois, vous allez probablement recruter 100+ profils. C'est exactement le moment où la qualité du process d'évaluation devient un goulot d'étranglement.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/munich-robotics-startup-microagi-raises-55m-germanys-largest-ever-seed-round/"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Chief People Officer",
-        "alternatives": [
-          "Head of People",
-          "VP People",
-          "DRH"
-        ],
-        "priorite": 1,
-        "raison": "Décide outils RH stratégiques post-levée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Microagi",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Microagi%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
-      },
-      {
-        "poste": "Head of Talent Acquisition",
-        "alternatives": [
-          "Talent Acquisition Director",
-          "Head of Recruiting"
-        ],
-        "priorite": 2,
-        "raison": "Opérationnel — gère le plan de recrutement massif",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Microagi",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Microagi%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
-      },
-      {
-        "poste": "Head of Hiring",
-        "alternatives": [
-          "Hiring Manager",
-          "Recruitment Director"
-        ],
-        "priorite": 3,
-        "raison": "Sous-décideur — peut tester l'outil rapidement",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Microagi",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Microagi%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
       }
     ]
   }
