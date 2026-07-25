@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-07-09-be6d85e296fe",
-    "date_capture": "2026-07-24",
+    "date_capture": "2026-07-25",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Verisure",
@@ -29,16 +29,16 @@
     "contacts_cibles": []
   },
   {
-    "id": "sig-2026-07-12-d59cef5f9d34",
-    "date_capture": "2026-07-24",
+    "id": "sig-2026-07-24-f50ff07e742e",
+    "date_capture": "2026-07-25",
     "vertical": "corporate",
     "sous_segment": "entreprise",
-    "compte": "Tata Consultancy Services",
-    "titre": "La société indienne Tata Consultancy Services prévoit de recruter jusqu'à 8 900 ingénieurs spécialisés dans le",
-    "description": "La société indienne Tata Consultancy Services prévoit de recruter jusqu'à 8 900 ingénieurs spécialisés dans le Boursorama",
-    "source": "Boursorama (via Google News)",
+    "compte": "Coquelles : Eurotunnel",
+    "titre": "Coquelles : Eurotunnel va recruter 200 à 250 personnes par an jusqu’en 2031",
+    "description": "Coquelles : Eurotunnel va recruter 200 à 250 personnes par an jusqu’en 2031 Nord Littoral",
+    "source": "Nord Littoral (via Google News)",
     "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPN1QxQjlNRTFmQVkxTHE1cVdhSE42YW5OS3JwUDcyaFNlOFNRTVVjWDB5b3ZxVUJ4S1FxX2pVUHdwbWlSYVg5dFU0QnBtSHU4U0VZNnBzR3NVU3pzNDBIcnZlZnM1NXFHYzY5dGkxM1BOcmNjMVhTZDFVTlNZOExQMHlSLUNkYnQtQVZLc2ZScGd6ajV1N01LdWVfWEhqcVM2U3U5UTBWSlh4UDEzTG5pLXRSbkY1NEZ1NXpNdjdhTFZHU3kzR0ZiY3hFYnczUWRkRFlZbFN1U2l0X3JDQjdfUENRWVM0dk80M3pTa2xxbzE4WHJJVm81elVuV1gzUmd0RnJnRFhZWEdhV2pBNUVUVG1NZ1JTMjltMVQwVUNNUjVnaVZ1Nmxyc3pleHZSaVNkWVJ0WGFvY3BhTF96em9SbG9WR0tmejNCbkNMMkdXMW13emtyeko0eHRITXp1czdOczducGNVQXlKdmVQTVB5anR0OXFxU19SanFR0gGAA0FVX3lxTFB3MnVuMUxLd0NWU1RfMjktTk9CNENyTmEyMm0zRVlQR0g0ajRyMUsxRTc0Z05ybVlQWXAxYTBjTTBScGs2M19UM3ZZUERNcDdhT19fRHFPYmJIQ25SenJ4OEc5b29CNkl2Zl9wZTBUYjhZcHAxMC1QMXBpMjd3VEJpVVBpT3p5RERFXzA3U3ZCNmFQNXpNOWctTW0tWkxxR2JYaldJRDJmdVVkd3pPMjFucG5FY0tUSzdGcE9VczhMaDlqVDI1eWVTV01IR010bXA5S0ZtWWw4cUtkZUJ5UklMNXhnVDRHNEhVNS1jTTB2X09pcWFWNThFUENkS1hINFE0d1I0V3VnZGVwVEVEY2p0Qm5DQnJkbDVYdERKX1BUemVvdDhFMVlyM3lHdzh0OHhVbXhKa1phLTdXUEh2Q3AxYzFSQ0hCWlh3QkUtWFJkNHZSdTc1SnpDWUF0S2hPaVFxcU0wTFJFRllDeFpKd0o3dWI3TVBtNXVEaXJJcEV1eg?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ2ZWc25fS05Lc21FMHZFYlF0UlNlWWdGU004dllkc1A5OUpTS3RJeXVvaDJZLUp0WEJqYTJXa3Y2QVUtb29RZkhuZTA1TVQzOHFhUy1jcF9IbkpKSTlPY1BsQzVzWkpFVmpiWFpOM0VJcjlkQlZJX1VBZ1JhanJVUExkQV94bFFyYzZ6WV9DLW9TdW5sdlhQdVFlbm1mYzdTVFRQcE1hNzFLYXlWYWlKTFFvSWcyOWVoTTNELXFOZw?oc=5",
     "signal_type": "plan_recrutement",
     "tier": 1,
     "score": 93,
@@ -46,20 +46,20 @@
       "ITS"
     ],
     "owner": null,
-    "action_reco": "Tata Consultancy Services : ~8900 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
+    "action_reco": "Coquelles : Eurotunnel : ~250 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-07-12",
+    "date_publication": "2026-07-24",
     "email_draft": {
-      "subject": "Tata Consultancy Services — fiabiliser la pré-qualification de vos recrutements",
-      "body": "Bonjour,\n\nJ'ai lu que Tata Consultancy Services prépare une campagne de recrutement importante (La société indienne Tata Consultancy Services prévoit de recruter jusqu'à 8 900 ingénieurs…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
-      "url_source": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPN1QxQjlNRTFmQVkxTHE1cVdhSE42YW5OS3JwUDcyaFNlOFNRTVVjWDB5b3ZxVUJ4S1FxX2pVUHdwbWlSYVg5dFU0QnBtSHU4U0VZNnBzR3NVU3pzNDBIcnZlZnM1NXFHYzY5dGkxM1BOcmNjMVhTZDFVTlNZOExQMHlSLUNkYnQtQVZLc2ZScGd6ajV1N01LdWVfWEhqcVM2U3U5UTBWSlh4UDEzTG5pLXRSbkY1NEZ1NXpNdjdhTFZHU3kzR0ZiY3hFYnczUWRkRFlZbFN1U2l0X3JDQjdfUENRWVM0dk80M3pTa2xxbzE4WHJJVm81elVuV1gzUmd0RnJnRFhZWEdhV2pBNUVUVG1NZ1JTMjltMVQwVUNNUjVnaVZ1Nmxyc3pleHZSaVNkWVJ0WGFvY3BhTF96em9SbG9WR0tmejNCbkNMMkdXMW13emtyeko0eHRITXp1czdOczducGNVQXlKdmVQTVB5anR0OXFxU19SanFR0gGAA0FVX3lxTFB3MnVuMUxLd0NWU1RfMjktTk9CNENyTmEyMm0zRVlQR0g0ajRyMUsxRTc0Z05ybVlQWXAxYTBjTTBScGs2M19UM3ZZUERNcDdhT19fRHFPYmJIQ25SenJ4OEc5b29CNkl2Zl9wZTBUYjhZcHAxMC1QMXBpMjd3VEJpVVBpT3p5RERFXzA3U3ZCNmFQNXpNOWctTW0tWkxxR2JYaldJRDJmdVVkd3pPMjFucG5FY0tUSzdGcE9VczhMaDlqVDI1eWVTV01IR010bXA5S0ZtWWw4cUtkZUJ5UklMNXhnVDRHNEhVNS1jTTB2X09pcWFWNThFUENkS1hINFE0d1I0V3VnZGVwVEVEY2p0Qm5DQnJkbDVYdERKX1BUemVvdDhFMVlyM3lHdzh0OHhVbXhKa1phLTdXUEh2Q3AxYzFSQ0hCWlh3QkUtWFJkNHZSdTc1SnpDWUF0S2hPaVFxcU0wTFJFRllDeFpKd0o3dWI3TVBtNXVEaXJJcEV1eg?oc=5"
+      "subject": "Coquelles : Eurotunnel — fiabiliser la pré-qualification de vos recrutements",
+      "body": "Bonjour,\n\nJ'ai lu que Coquelles : Eurotunnel prépare une campagne de recrutement importante (Coquelles : Eurotunnel va recruter 200 à 250 personnes par an jusqu’en 2031…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
+      "url_source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ2ZWc25fS05Lc21FMHZFYlF0UlNlWWdGU004dllkc1A5OUpTS3RJeXVvaDJZLUp0WEJqYTJXa3Y2QVUtb29RZkhuZTA1TVQzOHFhUy1jcF9IbkpKSTlPY1BsQzVzWkpFVmpiWFpOM0VJcjlkQlZJX1VBZ1JhanJVUExkQV94bFFyYzZ6WV9DLW9TdW5sdlhQdVFlbm1mYzdTVFRQcE1hNzFLYXlWYWlKTFFvSWcyOWVoTTNELXFOZw?oc=5"
     },
     "contacts_cibles": []
   },
   {
     "id": "sig-2026-07-20-e3a38b5bb1b7",
-    "date_capture": "2026-07-24",
+    "date_capture": "2026-07-25",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "CuspAI",
