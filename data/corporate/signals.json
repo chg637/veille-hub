@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-07-09-be6d85e296fe",
-    "date_capture": "2026-07-29",
+    "date_capture": "2026-07-30",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Verisure",
@@ -30,7 +30,7 @@
   },
   {
     "id": "sig-2026-07-24-f50ff07e742e",
-    "date_capture": "2026-07-29",
+    "date_capture": "2026-07-30",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Coquelles : Eurotunnel",
@@ -58,16 +58,16 @@
     "contacts_cibles": []
   },
   {
-    "id": "sig-2026-07-27-9ad30d4220f4",
-    "date_capture": "2026-07-29",
+    "id": "sig-2026-07-03-827ba67be2ca",
+    "date_capture": "2026-07-30",
     "vertical": "corporate",
     "sous_segment": "entreprise",
-    "compte": "RATP",
-    "titre": "La RATP recrute 6 600 personnes en 2026 : Voici les postes à pourvoir",
-    "description": "La RATP recrute 6 600 personnes en 2026 : Voici les postes à pourvoir Yahoo Actualités",
-    "source": "Yahoo Actualités (via Google News)",
+    "compte": "marine belge",
+    "titre": "La marine belge va recruter 1000 personnes dans les 4 ans à venir",
+    "description": "La marine belge va recruter 1000 personnes dans les 4 ans à venir RTL Info",
+    "source": "RTL Info (via Google News)",
     "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kZDlRLU9KQ09BZkFVNkt2U1FDQkhkQ2lyS3YzVDd2VkNmWmQwRDIzSDRfYV9RSTlWbDhYMk1Mcm1Za2Z4T25uQlRGTHlyWkdfZkRQdHE2blNLbkxGWjFhTEhCM2I3b3lEWlJ3TUdKd212SnVGMWNtSQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWmRETE5RMjB0WXdyOUVBTUZqMTA0VnUyNGI0emhxenppcTlxUGVJbDE0Z0Rza1czVnRGMUx0VFZEd2tsX25KTmdaSU1XbUhBTHJDWkhwZ0RwNWVCR096dGloVDdzcG1ZM28xY00wSy1IZkxIV1Q3cUFnWEU3MkcyYmNxRzVXaGNQQWRieHNnYWl2elBlaEk0OUtKRElua1p4YmVUb0JjTGZkVVgxQlVXWnIyU0JnVTlYbmhSdDgtdmZ2UUlYSlE?oc=5",
     "signal_type": "plan_recrutement",
     "tier": 1,
     "score": 93,
@@ -75,20 +75,20 @@
       "ITS"
     ],
     "owner": null,
-    "action_reco": "RATP : ~6600 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
+    "action_reco": "marine belge : ~1000 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-07-27",
+    "date_publication": "2026-07-03",
     "email_draft": {
-      "subject": "RATP — fiabiliser la pré-qualification de vos recrutements",
-      "body": "Bonjour,\n\nJ'ai lu que RATP prépare une campagne de recrutement importante (La RATP recrute 6 600 personnes en 2026 : Voici les postes à pourvoir…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
-      "url_source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kZDlRLU9KQ09BZkFVNkt2U1FDQkhkQ2lyS3YzVDd2VkNmWmQwRDIzSDRfYV9RSTlWbDhYMk1Mcm1Za2Z4T25uQlRGTHlyWkdfZkRQdHE2blNLbkxGWjFhTEhCM2I3b3lEWlJ3TUdKd212SnVGMWNtSQ?oc=5"
+      "subject": "marine belge — fiabiliser la pré-qualification de vos recrutements",
+      "body": "Bonjour,\n\nJ'ai lu que marine belge prépare une campagne de recrutement importante (La marine belge va recruter 1000 personnes dans les 4 ans à venir…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
+      "url_source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWmRETE5RMjB0WXdyOUVBTUZqMTA0VnUyNGI0emhxenppcTlxUGVJbDE0Z0Rza1czVnRGMUx0VFZEd2tsX25KTmdaSU1XbUhBTHJDWkhwZ0RwNWVCR096dGloVDdzcG1ZM28xY00wSy1IZkxIV1Q3cUFnWEU3MkcyYmNxRzVXaGNQQWRieHNnYWl2elBlaEk0OUtKRElua1p4YmVUb0JjTGZkVVgxQlVXWnIyU0JnVTlYbmhSdDgtdmZ2UUlYSlE?oc=5"
     },
     "contacts_cibles": []
   },
   {
     "id": "sig-2026-07-28-8858a7529d00",
-    "date_capture": "2026-07-29",
+    "date_capture": "2026-07-30",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Dwelly",
@@ -151,7 +151,7 @@
   },
   {
     "id": "sig-2026-07-28-f24c6d067072",
-    "date_capture": "2026-07-29",
+    "date_capture": "2026-07-30",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "ZuriQ",

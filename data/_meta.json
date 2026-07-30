@@ -1,13 +1,13 @@
 {
-  "last_run_utc": "2026-07-29T08:23:53+00:00",
-  "last_run_iso": "2026-07-29T08:23:53Z",
-  "total_signals": 86,
+  "last_run_utc": "2026-07-30T08:10:30+00:00",
+  "last_run_iso": "2026-07-30T08:10:30Z",
+  "total_signals": 88,
   "scrapers": {
     "education.radar_hebdo_tosa": 3,
-    "education.presse_sup": 4,
+    "education.presse_sup": 5,
     "ao.ao_curated": 2,
     "ao.boamp_direct": 2,
-    "ao.ted_europe": 18,
+    "ao.ted_europe": 19,
     "ao.france_marches": 0,
     "ao.seed_from_radar": 0,
     "ao.maximilien_idf": 0,
