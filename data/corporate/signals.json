@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-07-09-be6d85e296fe",
-    "date_capture": "2026-07-30",
+    "date_capture": "2026-07-31",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Verisure",
@@ -29,8 +29,37 @@
     "contacts_cibles": []
   },
   {
+    "id": "sig-2026-07-12-d59cef5f9d34",
+    "date_capture": "2026-07-31",
+    "vertical": "corporate",
+    "sous_segment": "entreprise",
+    "compte": "Tata Consultancy Services",
+    "titre": "La société indienne Tata Consultancy Services prévoit de recruter jusqu'à 8 900 ingénieurs spécialisés dans le déploiement de l'IA et cherche à réaliser des acquisitions dans ce domaine",
+    "description": "La société indienne Tata Consultancy Services prévoit de recruter jusqu'à 8 900 ingénieurs spécialisés dans le déploiement de l'IA et cherche à réaliser des acquisitions dans ce domaine TradingView",
+    "source": "TradingView (via Google News)",
+    "source_tier": 2,
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qdHREZFl1ZmxyRm1qZVdBN0xmQTNUOUN3X040anVSS2JKWWFpeFVacE0wVHZfcTU5UERhZFl2ekJwXzRCNUlScXJwaG45bUhMYjBxcWJ2VlM0aG9TcnFoWjhyN1p5WE1YZEswMXN2T0s3eDl1dDdiRw?oc=5",
+    "signal_type": "plan_recrutement",
+    "tier": 1,
+    "score": 93,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": null,
+    "action_reco": "Tata Consultancy Services : ~8900 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-07-12",
+    "email_draft": {
+      "subject": "Tata Consultancy Services — fiabiliser la pré-qualification de vos recrutements",
+      "body": "Bonjour,\n\nJ'ai lu que Tata Consultancy Services prépare une campagne de recrutement importante (La société indienne Tata Consultancy Services prévoit de recruter jusqu'à 8 900 ingénieurs…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
+      "url_source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qdHREZFl1ZmxyRm1qZVdBN0xmQTNUOUN3X040anVSS2JKWWFpeFVacE0wVHZfcTU5UERhZFl2ekJwXzRCNUlScXJwaG45bUhMYjBxcWJ2VlM0aG9TcnFoWjhyN1p5WE1YZEswMXN2T0s3eDl1dDdiRw?oc=5"
+    },
+    "contacts_cibles": []
+  },
+  {
     "id": "sig-2026-07-24-f50ff07e742e",
-    "date_capture": "2026-07-30",
+    "date_capture": "2026-07-31",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Coquelles : Eurotunnel",
@@ -59,7 +88,7 @@
   },
   {
     "id": "sig-2026-07-03-827ba67be2ca",
-    "date_capture": "2026-07-30",
+    "date_capture": "2026-07-31",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "marine belge",
@@ -88,7 +117,7 @@
   },
   {
     "id": "sig-2026-07-28-8858a7529d00",
-    "date_capture": "2026-07-30",
+    "date_capture": "2026-07-31",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Dwelly",
@@ -151,7 +180,7 @@
   },
   {
     "id": "sig-2026-07-28-f24c6d067072",
-    "date_capture": "2026-07-30",
+    "date_capture": "2026-07-31",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "ZuriQ",
