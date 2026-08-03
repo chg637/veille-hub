@@ -1,72 +1,7 @@
 [
   {
-    "id": "sig-2026-07-28-898d6b260697",
-    "date_capture": "2026-08-02",
-    "vertical": "education",
-    "sous_segment": "grande-ecole",
-    "compte": "Quels",
-    "titre": "Quels sont les établissements labellisés DD&RS ?",
-    "description": "Découvrez les nouveaux établissements labellisés DD&#038;RS ainsi que ceux qui ont obtenu le renouvellement de leur label. L’article Quels sont les établissements labellisés DD&#038;RS ? est apparu en premier sur Planète Grandes Écoles .",
-    "source": "Planète Grandes Écoles",
-    "source_tier": 2,
-    "url": "https://www.planetegrandesecoles.com/etablissements-labellises-ddrs",
-    "signal_type": "accreditation",
-    "tier": 1,
-    "score": 90,
-    "produit_match": [
-      "Pack Education Tosa",
-      "ITS"
-    ],
-    "owner": null,
-    "action_reco": "📋 **Signal détecté**\nDécouvrez les nouveaux établissements labellisés DD&#038;RS ainsi que ceux qui ont obtenu le renouvellement de leur label. L’article Quels sont les établissements labellisés DD&#038;RS ? est apparu…\n\n🎯 **Action à mener**\nEmail au responsable maquette + pitch « Pack Edu Tosa = preuve mesurable compétences digitales pour le dossier accréditation ». Joindre 2 cas pairs. RDV sous 14j.\n\n💡 **Angle pitch ITS/Tosa**\nTosa = preuve opposable de la qualité d'évaluation des compétences (audit Qualiopi, France Compétences). Doublement du signal extérieur dans la promotion du programme labellisé.\n\n📅 **Timing**\n3 mois post-annonce — fenêtre de capitalisation médiatique encore active.",
-    "deadline_action": "2026-08-09",
-    "status": "new",
-    "date_publication": "2026-07-28",
-    "email_draft": {
-      "subject": "Quels — Découvrez les nouveaux établissements labellisés, capitaliser avec Tosa ?",
-      "body": "Bonjour,\n\nJ'ai noté votre actualité : « Découvrez les nouveaux établissements labellisés DD&#038;RS ainsi que ceux qui ont obtenu le renouvellement de leur… ».\nBravo, c'est une étape importante.\n\nOn accompagne pas mal d'écoles dans votre cas chez Isograd. Le point qui revient à 3 mois post-labellisation, c'est comment capitaliser concrètement sur cette reconnaissance — au-delà du communiqué.\n\nDeux leviers qu'on déploie chez nos clients labellisés :\n\n1. **Tosa comme preuve opposable** sur la qualité d'évaluation des compétences numériques de vos étudiants (bureautique, code, digital). Très bien vu en audit Qualiopi et dans les dossiers France Compétences.\n\n2. **Doublement du signal extérieur** : Tosa comme argument concret pour les candidats, les recruteurs et les classements qui pèsent sur le programme labellisé.\n\n15 minutes pour vous montrer ce que ça donnerait chez Quels ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://www.planetegrandesecoles.com/etablissements-labellises-ddrs"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Directeur(rice) des certifications",
-        "alternatives": [
-          "Responsable Qualiopi",
-          "Responsable des certifications"
-        ],
-        "priorite": 1,
-        "raison": "Pilote la conformité audit et la valorisation du label",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+des+certifications%22+OR+%22Responsable+Qualiopi%22+OR+%22Responsable+des+certifications%22&currentCompany=Quels",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Quels%22%20Directeur%28rice%29%20des%20certifications%20Responsable%20Qualiopi%20Responsable%20des%20certifications"
-      },
-      {
-        "poste": "Directeur(rice) des programmes / Académique",
-        "alternatives": [
-          "Doyen",
-          "Doyenne",
-          "VP Pédagogie",
-          "Directeur(rice) pédagogique"
-        ],
-        "priorite": 2,
-        "raison": "Sponsorise les outils d'évaluation des étudiants",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+des+programmes+%2F+Acad%C3%A9mique%22+OR+%22Doyen%22+OR+%22Doyenne%22+OR+%22VP+P%C3%A9dagogie%22+OR+%22Directeur%28rice%29+p%C3%A9dagogique%22&currentCompany=Quels",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Quels%22%20Directeur%28rice%29%20des%20programmes%20/%20Acad%C3%A9mique%20Doyen%20Doyenne%20VP%20P%C3%A9dagogie%20Directeur%28rice%29%20p%C3%A9dagogique"
-      },
-      {
-        "poste": "Directeur(rice) Communication / Marketing",
-        "alternatives": [
-          "Responsable Communication",
-          "Responsable Marketing"
-        ],
-        "priorite": 3,
-        "raison": "Valorise le label dans la promotion (Tosa = preuve compétences)",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+Communication+%2F+Marketing%22+OR+%22Responsable+Communication%22+OR+%22Responsable+Marketing%22&currentCompany=Quels",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Quels%22%20Directeur%28rice%29%20Communication%20/%20Marketing%20Responsable%20Communication%20Responsable%20Marketing"
-      }
-    ]
-  },
-  {
     "id": "sig-2026-07-20-f4704d9b8ef2",
-    "date_capture": "2026-08-02",
+    "date_capture": "2026-08-03",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "Universitarisation",
@@ -84,7 +19,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nAlors que le processus d’universitarisation des Ifsi a débuté il y a plus de quatre ans, 2026 marque une étape importante avec l’intégration des instituts aux universités. Quel bilan dresser de ce…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme Universitarisation. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-08-09",
+    "deadline_action": "2026-08-10",
     "status": "new",
     "date_publication": "2026-07-20",
     "email_draft": {
@@ -128,70 +63,8 @@
     ]
   },
   {
-    "id": "sig-2026-07-22-865b12f13413",
-    "date_capture": "2026-08-02",
-    "vertical": "education",
-    "sous_segment": "grande-ecole",
-    "compte": "ESCP Business School",
-    "titre": "Nomination du Pr. Thomas Jeanjean en tant que Directeur général de ESCP Business School",
-    "description": "Le Conseil d&#8217;administration de ESCP Business School a nommé Thomas Jeanjean en qualité de Directeur général de l&#8217;École. Il succédera à Léon Laulusa à compter du 24 août 2026. Cette nomination intervient à l&#8217;issue d&#8217;un processus de sélection international exigeant conduit par le Conseil d&#8217;administration. Elle traduit la volonté de poursuivre la dynamique engagée par [&",
-    "source": "Monde des Grandes Écoles",
-    "source_tier": 2,
-    "url": "https://www.mondedesgrandesecoles.fr/nomination-du-pr-thomas-jeanjean-en-tant-que-directeur-general-de-escp-business-school/",
-    "signal_type": "nomination_dg",
-    "tier": 1,
-    "score": 85,
-    "produit_match": [
-      "Pack Education Tosa"
-    ],
-    "owner": null,
-    "action_reco": "📋 **Signal détecté**\nLe Conseil d&#8217;administration de ESCP Business School a nommé Thomas Jeanjean en qualité de Directeur général de l&#8217;École. Il succédera à Léon Laulusa à compter du 24 août 2026. Cette…\n\n🎯 **Action à mener**\nNote LinkedIn 100 premiers jours du nouveau DG. Angle « bilan rapide du dispositif certification ». Brief équipe sur les comptes Tosa déjà présents chez ESCP Business School.\n\n💡 **Angle pitch ITS/Tosa**\nFenêtre stratégique post-prise de poste : nouveau directeur cherche à poser sa marque. Apport rapide = Tosa pour signal externe + ITS pour structurer la passation.\n\n📅 **Timing**\n30-90 jours après l'annonce. Au-delà, la roadmap est figée.",
-    "deadline_action": "2026-08-09",
-    "status": "new",
-    "date_publication": "2026-07-22",
-    "email_draft": {
-      "subject": "ESCP Business School — nouvelle direction : quels chantiers évaluation prévus ?",
-      "body": "Bonjour,\n\nJ'ai noté votre arrivée à la direction chez ESCP Business School.\nContexte que j'ai vu passer : « Le Conseil d&#8217;administration de ESCP Business School a nommé Thomas Jeanjean en qualité de Directeur général de… ».\n\nFélicitations pour cette prise de poste — belle étape.\n\nJe me permets de vous écrire car beaucoup de directeurs récemment nommés dans le supérieur partagent le même constat à 60-90 jours : besoin de poser rapidement une stratégie claire sur l'évaluation des compétences étudiants — pour répondre aux exigences Qualiopi/RNCP et aux attentes des entreprises partenaires.\n\nChez Isograd, deux solutions utilisées par des écoles comparables :\n\n1. **Tosa** — certification des compétences numériques étudiants (bureautique, code, digital). Argument fort en diplômation, CV, et classements.\n\n2. **ITS** — plateforme d'hébergement d'examens en ligne avec proctoring et banque de questions, opposable en audit.\n\n15 minutes pour vous montrer ce que d'autres directions ont mis en place dans leurs premiers mois ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource de l'info : https://www.mondedesgrandesecoles.fr/nomination-du-pr-thomas-jeanjean-en-tant-que-directeur-general-de-escp-business-school/"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Le(la) nouveau(elle) directeur(rice) directement",
-        "alternatives": [
-          "Directeur(rice) général(e)",
-          "Présidence"
-        ],
-        "priorite": 1,
-        "raison": "Fenêtre 30-90j post-prise de poste — ouvert aux nouveaux chantiers",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Le%28la%29+nouveau%28elle%29+directeur%28rice%29+directement%22+OR+%22Directeur%28rice%29+g%C3%A9n%C3%A9ral%28e%29%22+OR+%22Pr%C3%A9sidence%22&currentCompany=ESCP+Business+School",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ESCP%20Business%20School%22%20Le%28la%29%20nouveau%28elle%29%20directeur%28rice%29%20directement%20Directeur%28rice%29%20g%C3%A9n%C3%A9ral%28e%29%20Pr%C3%A9sidence"
-      },
-      {
-        "poste": "Directeur(rice) de cabinet / Adjoint(e)",
-        "alternatives": [
-          "Bras droit",
-          "Chief of Staff"
-        ],
-        "priorite": 2,
-        "raison": "Pré-qualifie les dossiers stratégiques du nouveau directeur",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+de+cabinet+%2F+Adjoint%28e%29%22+OR+%22Bras+droit%22+OR+%22Chief+of+Staff%22&currentCompany=ESCP+Business+School",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ESCP%20Business%20School%22%20Directeur%28rice%29%20de%20cabinet%20/%20Adjoint%28e%29%20Bras%20droit%20Chief%20of%20Staff"
-      },
-      {
-        "poste": "Directeur(rice) des programmes / Académique",
-        "alternatives": [
-          "Doyen",
-          "VP Pédagogie"
-        ],
-        "priorite": 3,
-        "raison": "Souvent en pleine relecture de la roadmap pédagogique post-nomination",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+des+programmes+%2F+Acad%C3%A9mique%22+OR+%22Doyen%22+OR+%22VP+P%C3%A9dagogie%22&currentCompany=ESCP+Business+School",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ESCP%20Business%20School%22%20Directeur%28rice%29%20des%20programmes%20/%20Acad%C3%A9mique%20Doyen%20VP%20P%C3%A9dagogie"
-      }
-    ]
-  },
-  {
     "id": "sig-2026-07-22-4e9a64b85163",
-    "date_capture": "2026-08-02",
+    "date_capture": "2026-08-03",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "ESCP",
@@ -208,7 +81,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nESCP annonce la nomination de Thomas Jeanjean à la direction générale de l&#8217;école. Il prendra ses fonctions ce 24 août, à la suite du départ de Léon Laulusa, qui rejoint la CEIBS (Chine) après…\n\n🎯 **Action à mener**\nNote LinkedIn 100 premiers jours du nouveau DG. Angle « bilan rapide du dispositif certification ». Brief équipe sur les comptes Tosa déjà présents chez ESCP.\n\n💡 **Angle pitch ITS/Tosa**\nFenêtre stratégique post-prise de poste : nouveau directeur cherche à poser sa marque. Apport rapide = Tosa pour signal externe + ITS pour structurer la passation.\n\n📅 **Timing**\n30-90 jours après l'annonce. Au-delà, la roadmap est figée.",
-    "deadline_action": "2026-08-09",
+    "deadline_action": "2026-08-10",
     "status": "new",
     "date_publication": "2026-07-22",
     "email_draft": {
@@ -253,7 +126,7 @@
   },
   {
     "id": "sig-stable-4cc03b95f797",
-    "date_capture": "2026-08-02",
+    "date_capture": "2026-08-03",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "Universite de Technologie de Troyes (UTT)",
@@ -273,7 +146,7 @@
     "action_reco": "📋 **Signal détecté**\nBachelor IA - cursus 3 ans\n\n🎯 **Action à mener**\nA croiser site UTT + LinkedIn avant contact\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-08-02",
+    "date_publication": "2026-08-03",
     "email_draft": {
       "subject": "Universite de Technologie de Troyes (UTT) — Bachelor IA - cursus 3 ans : quelle évaluation prévue ?",
       "body": "Bonjour,\n\nJ'ai vu votre actualité : « Bachelor IA - cursus 3 ans ». Beau lancement.\n\nSur ce type de nouveau programme, le timing pour penser le dispositif d'évaluation des compétences est en général la période juste avant la première cohorte — ça permet de cadrer proprement la maquette pédagogique et les outils.\n\nChez Isograd, on opère 2 solutions complémentaires pour un programme comme le vôtre :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital). Argument concret en diplômation, sur le CV et auprès des entreprises partenaires.\n\n2. **ITS** pour héberger les sessions d'examen en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\n3. **Cert IA** — notre badge co-construit avec des écoles partenaires pour les programmes IA. Concrètement, vos étudiants ressortent du programme avec une certification externe sur les compétences IA appliquées. On a une program beta en cours, vous pourriez en faire partie.\n\nDéploiement en 4-6 semaines, budget calibré sur le volume étudiants. 15 minutes pour échanger sur votre cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://www.letudiant.fr/etudes/lactu-des-formations-de-nouveaux-cursus-en-ia-dans-le-superieur.html"
