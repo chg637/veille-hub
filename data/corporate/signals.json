@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-07-09-be6d85e296fe",
-    "date_capture": "2026-08-03",
+    "date_capture": "2026-08-04",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Verisure",
@@ -30,7 +30,7 @@
   },
   {
     "id": "sig-2026-07-12-d59cef5f9d34",
-    "date_capture": "2026-08-03",
+    "date_capture": "2026-08-04",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Tata Consultancy Services",
@@ -59,7 +59,7 @@
   },
   {
     "id": "sig-2026-07-24-f50ff07e742e",
-    "date_capture": "2026-08-03",
+    "date_capture": "2026-08-04",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Coquelles : Eurotunnel",
@@ -87,79 +87,16 @@
     "contacts_cibles": []
   },
   {
-    "id": "sig-2026-07-28-8858a7529d00",
-    "date_capture": "2026-08-03",
+    "id": "sig-2026-08-04-6010737b5946",
+    "date_capture": "2026-08-04",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
-    "compte": "Dwelly",
-    "titre": "AI rollup startup Dwelly raises $170m backed by EQT and General Catalyst",
+    "compte": "Exclusive",
+    "titre": "Exclusive: Plural backs $43m round for next-generation battery startup Ore Energy",
     "description": "",
     "source": "Sifted",
     "source_tier": 1,
-    "url": "https://sifted.eu/articles/dwelly-ai-property-rollup-funding-round-elevenlabs-legora/",
-    "signal_type": "levee_fonds",
-    "tier": 1,
-    "score": 80,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Source** : https://sifted.eu/articles/dwelly-ai-property-rollup-funding-round-elevenlabs-legora/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 170.0M USD (~156.4M€) → scale-up confirmé, plan de recrutement massif sur 12 mois\n🔥 PRIORITÉ — fenêtre 30j (avant que les RH s'organisent)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-07-28",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-07-28",
-    "email_draft": {
-      "subject": "Dwelly — votre Series — sur l'évaluation candidats à scale",
-      "body": "Bonjour,\n\nJe viens de voir que Dwelly a bouclé une levée de 170.0M USD (~156.4M€). Bravo pour cette étape.\n\nSur les 12 prochains mois, vous allez probablement recruter 100+ profils. C'est exactement le moment où la qualité du process d'évaluation devient un goulot d'étranglement.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/dwelly-ai-property-rollup-funding-round-elevenlabs-legora/"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Chief People Officer",
-        "alternatives": [
-          "Head of People",
-          "VP People",
-          "DRH"
-        ],
-        "priorite": 1,
-        "raison": "Décide outils RH stratégiques post-levée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Dwelly",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Dwelly%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
-      },
-      {
-        "poste": "Head of Talent Acquisition",
-        "alternatives": [
-          "Talent Acquisition Director",
-          "Head of Recruiting"
-        ],
-        "priorite": 2,
-        "raison": "Opérationnel — gère le plan de recrutement massif",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Dwelly",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Dwelly%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
-      },
-      {
-        "poste": "Head of Hiring",
-        "alternatives": [
-          "Hiring Manager",
-          "Recruitment Director"
-        ],
-        "priorite": 3,
-        "raison": "Sous-décideur — peut tester l'outil rapidement",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Dwelly",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Dwelly%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
-      }
-    ]
-  },
-  {
-    "id": "sig-2026-07-28-f24c6d067072",
-    "date_capture": "2026-08-03",
-    "vertical": "corporate",
-    "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
-    "compte": "ZuriQ",
-    "titre": "Exclusive: ETH Zurich spinout ZuriQ raises $25.5m seed",
-    "description": "",
-    "source": "Sifted",
-    "source_tier": 1,
-    "url": "https://sifted.eu/articles/eth-spinout-zuriq-seed-round/",
+    "url": "https://sifted.eu/articles/ore-energy-plural-hv-capital-funding-round/",
     "signal_type": "levee_fonds",
     "tier": 2,
     "score": 65,
@@ -167,13 +104,13 @@
       "ITS"
     ],
     "owner": "Charles",
-    "action_reco": "📋 **Source** : https://sifted.eu/articles/eth-spinout-zuriq-seed-round/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 25.5M USD (~23.5M€) → Series B+, structuration des processus RH en cours\n🎯 Fenêtre 60j (timing optimal post-Series B)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-07-28",
+    "action_reco": "📋 **Source** : https://sifted.eu/articles/ore-energy-plural-hv-capital-funding-round/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 43.0M USD (~39.6M€) → Series B+, structuration des processus RH en cours\n🎯 Fenêtre 60j (timing optimal post-Series B)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-08-04",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-07-28",
+    "date_publication": "2026-08-04",
     "email_draft": {
-      "subject": "ZuriQ — votre Series — sur l'évaluation candidats à scale",
-      "body": "Bonjour,\n\nJe viens de voir que ZuriQ a bouclé une levée de 25.5M USD (~23.5M€). Bravo pour cette étape.\n\nPost-Series B, c'est le moment où la plupart des scale-ups structurent leur process d'éval candidats. Avant que le volume devienne incontrôlable.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/eth-spinout-zuriq-seed-round/"
+      "subject": "Exclusive — votre Series — sur l'évaluation candidats à scale",
+      "body": "Bonjour,\n\nJe viens de voir que Exclusive a bouclé une levée de 43.0M USD (~39.6M€). Bravo pour cette étape.\n\nPost-Series B, c'est le moment où la plupart des scale-ups structurent leur process d'éval candidats. Avant que le volume devienne incontrôlable.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/ore-energy-plural-hv-capital-funding-round/"
     },
     "contacts_cibles": [
       {
@@ -185,8 +122,8 @@
         ],
         "priorite": 1,
         "raison": "Décide outils RH stratégiques post-levée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=ZuriQ",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ZuriQ%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Exclusive",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Exclusive%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
       },
       {
         "poste": "Head of Talent Acquisition",
@@ -196,8 +133,8 @@
         ],
         "priorite": 2,
         "raison": "Opérationnel — gère le plan de recrutement massif",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=ZuriQ",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ZuriQ%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Exclusive",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Exclusive%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
       },
       {
         "poste": "Head of Hiring",
@@ -207,8 +144,8 @@
         ],
         "priorite": 3,
         "raison": "Sous-décideur — peut tester l'outil rapidement",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=ZuriQ",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ZuriQ%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Exclusive",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Exclusive%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
       }
     ]
   }
