@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "id": "sig-2026-08-04-e35f82ae0afd",
+    "date_capture": "2026-08-05",
+    "vertical": "of",
+    "sous_segment": "organisme-formation",
+    "compte": "Qualiopi",
+    "titre": "Qualiopi : du nouveau à venir pour novembre 2026",
+    "description": "Nous l&#8217;attendions. Le décret n° 2026-728 a été publié ce jour sur le Journal Officiel. Avec une mise en application au 1er novembre. Dans la veine du plan de lutte contre la fraude, l&#8217;audit qualiopi version 2026 mettra l&#8217;accent sur la transparence et la communication des offres de formation auprès du public. Mais pas que [&#8230;] L’article Qualiopi : du nouveau à venir pour nove",
+    "source": "Digiformag",
+    "source_tier": 2,
+    "url": "https://www.digiformag.com/qualiopi-du-nouveau-a-venir-pour-novembre-2026/",
+    "signal_type": "qualiopi",
+    "tier": 2,
+    "score": 65,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": null,
+    "action_reco": "Qualiopi : actualité Qualiopi — angle « preuve de qualité d'évaluation » avec Tosa/ITS en appui du référentiel.",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-08-04",
+    "email_draft": null,
+    "contacts_cibles": []
+  }
+]
