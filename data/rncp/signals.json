@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-07-17-ad7b5012c80b",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "GROUPE IGS - CIEFA",
@@ -64,7 +64,7 @@
   },
   {
     "id": "sig-2026-07-17-825679be111f",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "CNPP ENTREPRISE",
@@ -127,7 +127,7 @@
   },
   {
     "id": "sig-2026-07-17-67be2dd77607",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "EFREI PARIS",
@@ -190,7 +190,7 @@
   },
   {
     "id": "sig-2026-07-17-3eb1e4b747c3",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "ESIEE IT - CCI PARIS ILE DE FRANCE",
@@ -253,7 +253,7 @@
   },
   {
     "id": "sig-2026-07-17-614bae531374",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "GT FORMATION ET RESSOURCES HUMAINES",
@@ -316,7 +316,7 @@
   },
   {
     "id": "sig-2026-07-17-98d1d509f829",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "HOSTING ACADEMY",
@@ -379,7 +379,7 @@
   },
   {
     "id": "sig-2026-07-17-70c829e7e0fe",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "ECAD CONSULTANTS",
@@ -441,13 +441,13 @@
     ]
   },
   {
-    "id": "sig-2026-07-17-e4b92d6c79ac",
-    "date_capture": "2026-08-05",
+    "id": "sig-2026-07-17-7fd543cde4d7",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
-    "compte": "UNION PATRON PROTHESE DENTAIRE",
+    "compte": "ASSOCIATION O.R.T.",
     "titre": "Nouvelle fiche RNCP42629 — Prothésiste dentaire numérique",
-    "description": "Prothésiste dentaire numérique. Type :  (Niveau 6). Enregistrement sur demande. Décision du 2026-07-17. Certificateur(s) : UNION PATRON PROTHESE DENTAIRE, ASSOCIATION O.R.T., ACADEMIE D'ART DENTAIRE.",
+    "description": "Prothésiste dentaire numérique. Type :  (Niveau 6). Enregistrement sur demande. Décision du 2026-07-17. Certificateur(s) : ASSOCIATION O.R.T., ACADEMIE D'ART DENTAIRE, UNION PATRON PROTHESE DENTAIRE.",
     "source": "France Compétences",
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42629/",
@@ -463,7 +463,7 @@
     "status": "new",
     "date_publication": "2026-07-17",
     "email_draft": {
-      "subject": "UNION PATRON PROTHESE DENTAIRE — Prothésiste dentaire numérique : comment vous outillez la passation ?",
+      "subject": "ASSOCIATION O.R.T. — Prothésiste dentaire numérique : comment vous outillez la passation ?",
       "body": "Bonjour,\n\nJ'ai noté votre actualité : « Prothésiste dentaire numérique ».\n\nSur une nouvelle fiche RNCP/RS, deux sujets pèsent vite côté opérationnel : la passation d'épreuves à scale, et la traçabilité des résultats (audit Qualiopi, contrôle France Compétences).\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens sur laquelle vous déposez VOS propres épreuves (théoriques, pratiques, comportementales) et qui prend en charge :\n\n- Banque de questions structurée par bloc de compétences (alignée sur votre fiche RNCP)\n- Surveillance à distance (proctoring) avec preuves opposables\n- Correction automatique + rapports candidat/admin\n- Traçabilité complète des sessions, exportable pour audit\n- Génération automatique des attestations et duplicatas\n\nAvantage : vous gardez la main pédagogique sur le contenu et vous déléguez l'infrastructure de passation. Déploiement 4-6 semaines pour ouvrir la 1re session.\n\n20 minutes pour vous montrer comment ça tourne chez un certificateur de taille comparable ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource : https://www.francecompetences.fr/recherche/rncp/42629/"
     },
     "contacts_cibles": [
@@ -476,8 +476,8 @@
         ],
         "priorite": 1,
         "raison": "Pilote la déclaration et l'animation de la fiche déposée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=UNION+PATRON+PROTHESE+DENTAIRE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22UNION%20PATRON%20PROTHESE%20DENTAIRE%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=ASSOCIATION+O.R.T.",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ASSOCIATION%20O.R.T.%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
       },
       {
         "poste": "Directeur(rice) qualité / Responsable Qualiopi",
@@ -487,8 +487,8 @@
         ],
         "priorite": 2,
         "raison": "Garant de la traçabilité et de l'opposabilité en audit",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=UNION+PATRON+PROTHESE+DENTAIRE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22UNION%20PATRON%20PROTHESE%20DENTAIRE%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=ASSOCIATION+O.R.T.",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ASSOCIATION%20O.R.T.%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
       },
       {
         "poste": "Directeur(rice) pédagogique / Responsable ingénierie",
@@ -498,14 +498,14 @@
         ],
         "priorite": 3,
         "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=UNION+PATRON+PROTHESE+DENTAIRE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22UNION%20PATRON%20PROTHESE%20DENTAIRE%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=ASSOCIATION+O.R.T.",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ASSOCIATION%20O.R.T.%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
       }
     ]
   },
   {
     "id": "sig-2026-07-17-e414286990cb",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "CTI",
@@ -568,7 +568,7 @@
   },
   {
     "id": "sig-2026-07-17-9a90a200eb94",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "U C A N S S",
@@ -631,7 +631,7 @@
   },
   {
     "id": "sig-2026-07-17-542844fae526",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "ETNA ECOLE TECH NUMERIQUES APPLIQUES",
@@ -693,13 +693,13 @@
     ]
   },
   {
-    "id": "sig-2026-07-17-ca1a92da43bd",
-    "date_capture": "2026-08-05",
+    "id": "sig-2026-07-17-7683f8c32e94",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
-    "compte": "ADE HOLDING",
+    "compte": "DE VINCI HIGHER EDUCATION (DVHE)",
     "titre": "Nouvelle fiche RNCP42637 — Chef de projet création et productions numériques",
-    "description": "Chef de projet création et productions numériques. Type :  (Niveau 6). Enregistrement sur demande. Décision du 2026-07-17. Certificateur(s) : ADE HOLDING, DE VINCI HIGHER EDUCATION (DVHE).",
+    "description": "Chef de projet création et productions numériques. Type :  (Niveau 6). Enregistrement sur demande. Décision du 2026-07-17. Certificateur(s) : DE VINCI HIGHER EDUCATION (DVHE), ADE HOLDING.",
     "source": "France Compétences",
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42637/",
@@ -715,7 +715,7 @@
     "status": "new",
     "date_publication": "2026-07-17",
     "email_draft": {
-      "subject": "ADE HOLDING — Chef de projet création et productions : comment vous outillez la passation ?",
+      "subject": "DE VINCI HIGHER EDUCATION (DVHE) — Chef de projet création et productions : comment vous outillez la passation ?",
       "body": "Bonjour,\n\nJ'ai noté votre actualité : « Chef de projet création et productions numériques ».\n\nSur une nouvelle fiche RNCP/RS, deux sujets pèsent vite côté opérationnel : la passation d'épreuves à scale, et la traçabilité des résultats (audit Qualiopi, contrôle France Compétences).\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens sur laquelle vous déposez VOS propres épreuves (théoriques, pratiques, comportementales) et qui prend en charge :\n\n- Banque de questions structurée par bloc de compétences (alignée sur votre fiche RNCP)\n- Surveillance à distance (proctoring) avec preuves opposables\n- Correction automatique + rapports candidat/admin\n- Traçabilité complète des sessions, exportable pour audit\n- Génération automatique des attestations et duplicatas\n\nAvantage : vous gardez la main pédagogique sur le contenu et vous déléguez l'infrastructure de passation. Déploiement 4-6 semaines pour ouvrir la 1re session.\n\n20 minutes pour vous montrer comment ça tourne chez un certificateur de taille comparable ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource : https://www.francecompetences.fr/recherche/rncp/42637/"
     },
     "contacts_cibles": [
@@ -728,8 +728,8 @@
         ],
         "priorite": 1,
         "raison": "Pilote la déclaration et l'animation de la fiche déposée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=ADE+HOLDING",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ADE%20HOLDING%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=DE+VINCI+HIGHER+EDUCATION+%28DVHE%29",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22DE%20VINCI%20HIGHER%20EDUCATION%20%28DVHE%29%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
       },
       {
         "poste": "Directeur(rice) qualité / Responsable Qualiopi",
@@ -739,8 +739,8 @@
         ],
         "priorite": 2,
         "raison": "Garant de la traçabilité et de l'opposabilité en audit",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=ADE+HOLDING",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ADE%20HOLDING%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=DE+VINCI+HIGHER+EDUCATION+%28DVHE%29",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22DE%20VINCI%20HIGHER%20EDUCATION%20%28DVHE%29%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
       },
       {
         "poste": "Directeur(rice) pédagogique / Responsable ingénierie",
@@ -750,14 +750,14 @@
         ],
         "priorite": 3,
         "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=ADE+HOLDING",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ADE%20HOLDING%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=DE+VINCI+HIGHER+EDUCATION+%28DVHE%29",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22DE%20VINCI%20HIGHER%20EDUCATION%20%28DVHE%29%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
       }
     ]
   },
   {
     "id": "sig-2026-07-17-b443b3ef8ca1",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "ASSOCIATION ECEMA - ECOLE EUROPEENNE DE MANAGEMENT EN ALTERNANCE",
@@ -820,7 +820,7 @@
   },
   {
     "id": "sig-2026-07-17-aa6c8c4f0779",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "ASSOCIATION POUR LA GESTION DE 3IL",
@@ -883,7 +883,7 @@
   },
   {
     "id": "sig-2026-07-17-50abcc1342dc",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "OPENCLASSROOMS",
@@ -946,7 +946,7 @@
   },
   {
     "id": "sig-2026-07-17-dd389514acca",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "ESGCV",
@@ -1009,7 +1009,7 @@
   },
   {
     "id": "sig-2026-07-17-7e5fc572f6d8",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "ECOLE BIBLIOTHECAIRES ET DOCUMENTALISTES",
@@ -1072,7 +1072,7 @@
   },
   {
     "id": "sig-2026-07-17-37afcfb69b9c",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "IMCI INSTITUT DES MEDIAS ET DE LA COMMUNICATION SUR INTERNET",
@@ -1135,7 +1135,7 @@
   },
   {
     "id": "sig-2026-07-17-b34c7a5b3a71",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "ESGCV",
@@ -1198,7 +1198,7 @@
   },
   {
     "id": "sig-2026-07-17-161854ade290",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "PROMOTRANS PEDAGOGIE",
@@ -1261,7 +1261,7 @@
   },
   {
     "id": "sig-2026-07-17-6ed73d191eae",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "UNIVERSITE D'ANGERS",
@@ -1324,7 +1324,7 @@
   },
   {
     "id": "sig-2026-07-17-95b07c2245d6",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "TOULOUSE BUSINESS SCHOOL - TBS",
@@ -1387,7 +1387,7 @@
   },
   {
     "id": "sig-2026-07-17-61b2cb186b7e",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "SIMPLON.CO",
@@ -1450,7 +1450,7 @@
   },
   {
     "id": "sig-2026-07-17-777f2f23cfd3",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "DATASCIENTEST",
@@ -1513,7 +1513,7 @@
   },
   {
     "id": "sig-2026-07-17-8c1c147433ef",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "IONIS SCHOOL OF TECHNOL & MANAGEMENT",
@@ -1576,7 +1576,7 @@
   },
   {
     "id": "sig-2026-07-17-5909a1636178",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "ECAM LaSalle",
@@ -1638,13 +1638,13 @@
     ]
   },
   {
-    "id": "sig-2026-07-17-041a441321ae",
-    "date_capture": "2026-08-05",
+    "id": "sig-2026-07-17-8c31df38bce5",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
-    "compte": "LA COMPAGNIE DE FORMATION - PIGIER",
+    "compte": "EDUSERVICES",
     "titre": "Nouvelle fiche RNCP42661 — Modéliste développeur produit",
-    "description": "Modéliste développeur produit. Type :  (Niveau 6). Enregistrement sur demande. Décision du 2026-07-17. Certificateur(s) : LA COMPAGNIE DE FORMATION - PIGIER, EDUSERVICES.",
+    "description": "Modéliste développeur produit. Type :  (Niveau 6). Enregistrement sur demande. Décision du 2026-07-17. Certificateur(s) : EDUSERVICES, LA COMPAGNIE DE FORMATION - PIGIER.",
     "source": "France Compétences",
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42661/",
@@ -1660,7 +1660,7 @@
     "status": "new",
     "date_publication": "2026-07-17",
     "email_draft": {
-      "subject": "LA COMPAGNIE DE FORMATION - PIGIER — Modéliste développeur produit : comment vous outillez la passation ?",
+      "subject": "EDUSERVICES — Modéliste développeur produit : comment vous outillez la passation ?",
       "body": "Bonjour,\n\nJ'ai noté votre actualité : « Modéliste développeur produit ».\n\nSur une nouvelle fiche RNCP/RS, deux sujets pèsent vite côté opérationnel : la passation d'épreuves à scale, et la traçabilité des résultats (audit Qualiopi, contrôle France Compétences).\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens sur laquelle vous déposez VOS propres épreuves (théoriques, pratiques, comportementales) et qui prend en charge :\n\n- Banque de questions structurée par bloc de compétences (alignée sur votre fiche RNCP)\n- Surveillance à distance (proctoring) avec preuves opposables\n- Correction automatique + rapports candidat/admin\n- Traçabilité complète des sessions, exportable pour audit\n- Génération automatique des attestations et duplicatas\n\nAvantage : vous gardez la main pédagogique sur le contenu et vous déléguez l'infrastructure de passation. Déploiement 4-6 semaines pour ouvrir la 1re session.\n\n20 minutes pour vous montrer comment ça tourne chez un certificateur de taille comparable ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource : https://www.francecompetences.fr/recherche/rncp/42661/"
     },
     "contacts_cibles": [
@@ -1673,8 +1673,8 @@
         ],
         "priorite": 1,
         "raison": "Pilote la déclaration et l'animation de la fiche déposée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=LA+COMPAGNIE+DE+FORMATION+-+PIGIER",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22LA%20COMPAGNIE%20DE%20FORMATION%20-%20PIGIER%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=EDUSERVICES",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22EDUSERVICES%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
       },
       {
         "poste": "Directeur(rice) qualité / Responsable Qualiopi",
@@ -1684,8 +1684,8 @@
         ],
         "priorite": 2,
         "raison": "Garant de la traçabilité et de l'opposabilité en audit",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=LA+COMPAGNIE+DE+FORMATION+-+PIGIER",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22LA%20COMPAGNIE%20DE%20FORMATION%20-%20PIGIER%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=EDUSERVICES",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22EDUSERVICES%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
       },
       {
         "poste": "Directeur(rice) pédagogique / Responsable ingénierie",
@@ -1695,14 +1695,14 @@
         ],
         "priorite": 3,
         "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=LA+COMPAGNIE+DE+FORMATION+-+PIGIER",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22LA%20COMPAGNIE%20DE%20FORMATION%20-%20PIGIER%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=EDUSERVICES",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22EDUSERVICES%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
       }
     ]
   },
   {
     "id": "sig-2026-07-17-3738fe6b79c0",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 4",
     "compte": "CAFA FORMATION",
@@ -1765,7 +1765,7 @@
   },
   {
     "id": "sig-2026-07-17-c9804f66da38",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche",
     "compte": "LE TEMPLE RH",
@@ -1828,7 +1828,7 @@
   },
   {
     "id": "sig-2026-07-17-738bc2b283f7",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche",
     "compte": "ECOLE.INTUIT-LAB",
@@ -1891,7 +1891,7 @@
   },
   {
     "id": "sig-2026-07-17-2b93c2b73e61",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche",
     "compte": "DGTAL CONSULTING",
@@ -1954,7 +1954,7 @@
   },
   {
     "id": "sig-2026-07-17-438833aa7c06",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche",
     "compte": "MASSENA GROUP",
@@ -2017,7 +2017,7 @@
   },
   {
     "id": "sig-2026-07-17-a406531c253a",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 6",
     "compte": "AAAAA CONSEIL",
@@ -2080,7 +2080,7 @@
   },
   {
     "id": "sig-2026-07-17-843dcdcca15a",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 7",
     "compte": "COLLEGE EMPLOYEUR",
@@ -2143,7 +2143,7 @@
   },
   {
     "id": "sig-2026-07-17-67c8a0ab89cf",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 6",
     "compte": "MAYA CAMPUS GROUPE",
@@ -2206,7 +2206,7 @@
   },
   {
     "id": "sig-2026-07-17-c62ef86bfee0",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 7",
     "compte": "ACADEMIE JULIAN RIVE GAUCHE",
@@ -2269,7 +2269,7 @@
   },
   {
     "id": "sig-2026-07-17-a917ec60a800",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 7",
     "compte": "INSTITUT D'ETUDES POLITIQUES D'AIX-EN-PROVENCE",
@@ -2332,7 +2332,7 @@
   },
   {
     "id": "sig-2026-07-17-befa5e988be5",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 7",
     "compte": "CONSEIL NATIONAL DES BARREAUX",
@@ -2395,7 +2395,7 @@
   },
   {
     "id": "sig-2026-07-17-88adab7c1088",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 6",
     "compte": "SAS GROUPE COACH ACADEMIE",
@@ -2458,7 +2458,7 @@
   },
   {
     "id": "sig-2026-07-17-830a0e2cd054",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 6",
     "compte": "INT F GILLET INST CONCIERGERIE",
@@ -2521,7 +2521,7 @@
   },
   {
     "id": "sig-2026-07-17-8da2e1a30e59",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 6",
     "compte": "COLLECTIF FRANCE POUR LA RECHERCHE ET LA PROMOTION DE L'EMPLOI ACCOMPAGNE",
@@ -2584,7 +2584,7 @@
   },
   {
     "id": "sig-2026-07-17-22936e11291e",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 6",
     "compte": "L'ECOLE DES GEMMES",
@@ -2647,7 +2647,7 @@
   },
   {
     "id": "sig-2026-07-17-dbd71b98dedc",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 4",
     "compte": "GROUPE NOUVEL R",
@@ -2710,7 +2710,7 @@
   },
   {
     "id": "sig-2026-07-17-8a16bafbb68c",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 4",
     "compte": "GROUPE NOUVEL R",
@@ -2773,7 +2773,7 @@
   },
   {
     "id": "sig-2026-07-17-78d6e63790e3",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 4",
     "compte": "GROUPE NOUVEL R",
@@ -2836,7 +2836,7 @@
   },
   {
     "id": "sig-2026-07-17-098d4c218a8a",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 5",
     "compte": "ASSOCIATION DE GESTION ENSEMBLE CATHOLIQUE JEAN-BAPTISTE LE TAILLANDIER",
@@ -2899,7 +2899,7 @@
   },
   {
     "id": "sig-2026-07-17-b0a0d8340bd5",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 3",
     "compte": "FEDERATION FRANCAISE DES ARTISANS DU TOILETTAGE ANIMALIER",
@@ -2962,7 +2962,7 @@
   },
   {
     "id": "sig-2026-07-17-8d0f8bd4cd5d",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 4",
     "compte": "CMA FRANCE",
@@ -3025,7 +3025,7 @@
   },
   {
     "id": "sig-2026-07-17-f8f4b7900aff",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 5",
     "compte": "MFR EDUCATION ET ORIENTATION VAYRES",
@@ -3088,7 +3088,7 @@
   },
   {
     "id": "sig-2026-07-17-dd40b825658a",
-    "date_capture": "2026-08-05",
+    "date_capture": "2026-08-06",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 5",
     "compte": "ORGANISME CERTIFICATEUR DE LA BRANCHE DU SPORT OC SPORT",
