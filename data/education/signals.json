@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-07-28-898d6b260697",
-    "date_capture": "2026-08-07",
+    "date_capture": "2026-08-08",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "Quels",
@@ -19,7 +19,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nDécouvrez les nouveaux établissements labellisés DD&#038;RS ainsi que ceux qui ont obtenu le renouvellement de leur label. L’article Quels sont les établissements labellisés DD&#038;RS ? est apparu…\n\n🎯 **Action à mener**\nEmail au responsable maquette + pitch « Pack Edu Tosa = preuve mesurable compétences digitales pour le dossier accréditation ». Joindre 2 cas pairs. RDV sous 14j.\n\n💡 **Angle pitch ITS/Tosa**\nTosa = preuve opposable de la qualité d'évaluation des compétences (audit Qualiopi, France Compétences). Doublement du signal extérieur dans la promotion du programme labellisé.\n\n📅 **Timing**\n3 mois post-annonce — fenêtre de capitalisation médiatique encore active.",
-    "deadline_action": "2026-08-14",
+    "deadline_action": "2026-08-15",
     "status": "new",
     "date_publication": "2026-07-28",
     "email_draft": {
@@ -66,7 +66,7 @@
   },
   {
     "id": "sig-stable-4cc03b95f797",
-    "date_capture": "2026-08-07",
+    "date_capture": "2026-08-08",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "Universite de Technologie de Troyes (UTT)",
@@ -86,7 +86,7 @@
     "action_reco": "📋 **Signal détecté**\nBachelor IA - cursus 3 ans\n\n🎯 **Action à mener**\nA croiser site UTT + LinkedIn avant contact\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-08-07",
+    "date_publication": "2026-08-08",
     "email_draft": {
       "subject": "Universite de Technologie de Troyes (UTT) — Bachelor IA - cursus 3 ans : quelle évaluation prévue ?",
       "body": "Bonjour,\n\nJ'ai vu votre actualité : « Bachelor IA - cursus 3 ans ». Beau lancement.\n\nSur ce type de nouveau programme, le timing pour penser le dispositif d'évaluation des compétences est en général la période juste avant la première cohorte — ça permet de cadrer proprement la maquette pédagogique et les outils.\n\nChez Isograd, on opère 2 solutions complémentaires pour un programme comme le vôtre :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital). Argument concret en diplômation, sur le CV et auprès des entreprises partenaires.\n\n2. **ITS** pour héberger les sessions d'examen en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\n3. **Cert IA** — notre badge co-construit avec des écoles partenaires pour les programmes IA. Concrètement, vos étudiants ressortent du programme avec une certification externe sur les compétences IA appliquées. On a une program beta en cours, vous pourriez en faire partie.\n\nDéploiement en 4-6 semaines, budget calibré sur le volume étudiants. 15 minutes pour échanger sur votre cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://www.letudiant.fr/etudes/lactu-des-formations-de-nouveaux-cursus-en-ia-dans-le-superieur.html"
