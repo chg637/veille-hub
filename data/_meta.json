@@ -1,10 +1,10 @@
 {
-  "last_run_utc": "2026-08-09T06:41:52+00:00",
-  "last_run_iso": "2026-08-09T06:41:52Z",
-  "total_signals": 82,
+  "last_run_utc": "2026-08-10T07:12:09+00:00",
+  "last_run_iso": "2026-08-10T07:12:09Z",
+  "total_signals": 80,
   "scrapers": {
     "education.radar_hebdo_tosa": 1,
-    "education.presse_sup": 2,
+    "education.presse_sup": 0,
     "ao.ao_curated": 2,
     "ao.boamp_direct": 2,
     "ao.ted_europe": 20,
