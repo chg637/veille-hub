@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-08-05-bbd6be15d743",
-    "date_capture": "2026-08-11",
+    "date_capture": "2026-08-12",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Ils recrutent !\": Le groupe Clav",
@@ -29,8 +29,37 @@
     "contacts_cibles": []
   },
   {
+    "id": "sig-2026-07-24-f50ff07e742e",
+    "date_capture": "2026-08-12",
+    "vertical": "corporate",
+    "sous_segment": "entreprise",
+    "compte": "Coquelles : Eurotunnel",
+    "titre": "Coquelles : Eurotunnel va recruter 200 à 250 personnes par an jusqu’en 2031",
+    "description": "Coquelles : Eurotunnel va recruter 200 à 250 personnes par an jusqu’en 2031 Nord Littoral",
+    "source": "Nord Littoral (via Google News)",
+    "source_tier": 2,
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ2ZWc25fS05Lc21FMHZFYlF0UlNlWWdGU004dllkc1A5OUpTS3RJeXVvaDJZLUp0WEJqYTJXa3Y2QVUtb29RZkhuZTA1TVQzOHFhUy1jcF9IbkpKSTlPY1BsQzVzWkpFVmpiWFpOM0VJcjlkQlZJX1VBZ1JhanJVUExkQV94bFFyYzZ6WV9DLW9TdW5sdlhQdVFlbm1mYzdTVFRQcE1hNzFLYXlWYWlKTFFvSWcyOWVoTTNELXFOZw?oc=5",
+    "signal_type": "plan_recrutement",
+    "tier": 1,
+    "score": 93,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": null,
+    "action_reco": "Coquelles : Eurotunnel : ~250 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-07-24",
+    "email_draft": {
+      "subject": "Coquelles : Eurotunnel — fiabiliser la pré-qualification de vos recrutements",
+      "body": "Bonjour,\n\nJ'ai lu que Coquelles : Eurotunnel prépare une campagne de recrutement importante (Coquelles : Eurotunnel va recruter 200 à 250 personnes par an jusqu’en 2031…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
+      "url_source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ2ZWc25fS05Lc21FMHZFYlF0UlNlWWdGU004dllkc1A5OUpTS3RJeXVvaDJZLUp0WEJqYTJXa3Y2QVUtb29RZkhuZTA1TVQzOHFhUy1jcF9IbkpKSTlPY1BsQzVzWkpFVmpiWFpOM0VJcjlkQlZJX1VBZ1JhanJVUExkQV94bFFyYzZ6WV9DLW9TdW5sdlhQdVFlbm1mYzdTVFRQcE1hNzFLYXlWYWlKTFFvSWcyOWVoTTNELXFOZw?oc=5"
+    },
+    "contacts_cibles": []
+  },
+  {
     "id": "sig-2026-08-09-3ef062dcbb90",
-    "date_capture": "2026-08-11",
+    "date_capture": "2026-08-12",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Thales",
@@ -58,71 +87,8 @@
     "contacts_cibles": []
   },
   {
-    "id": "sig-2026-08-05-1f6e96b980b0",
-    "date_capture": "2026-08-11",
-    "vertical": "corporate",
-    "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
-    "compte": "Fintech",
-    "titre": "Fintech startup Moss crowned Europe’s newest unicorn with €30m Series C",
-    "description": "",
-    "source": "Sifted",
-    "source_tier": 1,
-    "url": "https://sifted.eu/articles/moss-unicorn-series-c/",
-    "signal_type": "levee_fonds",
-    "tier": 2,
-    "score": 65,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Source** : https://sifted.eu/articles/moss-unicorn-series-c/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 30.0M EUR (~30.0M€) → Series B+, structuration des processus RH en cours\n🎯 Fenêtre 60j (timing optimal post-Series B)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-08-05",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-08-05",
-    "email_draft": {
-      "subject": "Fintech — votre Series — sur l'évaluation candidats à scale",
-      "body": "Bonjour,\n\nJe viens de voir que Fintech a bouclé une levée de 30.0M EUR (~30.0M€). Bravo pour cette étape.\n\nPost-Series B, c'est le moment où la plupart des scale-ups structurent leur process d'éval candidats. Avant que le volume devienne incontrôlable.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/moss-unicorn-series-c/"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Chief People Officer",
-        "alternatives": [
-          "Head of People",
-          "VP People",
-          "DRH"
-        ],
-        "priorite": 1,
-        "raison": "Décide outils RH stratégiques post-levée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Fintech",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Fintech%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
-      },
-      {
-        "poste": "Head of Talent Acquisition",
-        "alternatives": [
-          "Talent Acquisition Director",
-          "Head of Recruiting"
-        ],
-        "priorite": 2,
-        "raison": "Opérationnel — gère le plan de recrutement massif",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Fintech",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Fintech%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
-      },
-      {
-        "poste": "Head of Hiring",
-        "alternatives": [
-          "Hiring Manager",
-          "Recruitment Director"
-        ],
-        "priorite": 3,
-        "raison": "Sous-décideur — peut tester l'outil rapidement",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Fintech",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Fintech%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
-      }
-    ]
-  },
-  {
     "id": "sig-2026-08-05-c3964585b63d",
-    "date_capture": "2026-08-11",
+    "date_capture": "2026-08-12",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Legaltech Wordsmith",
