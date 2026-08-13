@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-08-05-bbd6be15d743",
-    "date_capture": "2026-08-12",
+    "date_capture": "2026-08-13",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Ils recrutent !\": Le groupe Clav",
@@ -30,7 +30,7 @@
   },
   {
     "id": "sig-2026-07-24-f50ff07e742e",
-    "date_capture": "2026-08-12",
+    "date_capture": "2026-08-13",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Coquelles : Eurotunnel",
@@ -58,59 +58,30 @@
     "contacts_cibles": []
   },
   {
-    "id": "sig-2026-08-09-3ef062dcbb90",
-    "date_capture": "2026-08-12",
-    "vertical": "corporate",
-    "sous_segment": "entreprise",
-    "compte": "Thales",
-    "titre": "Thales va recruter 3 300 personnes en France en 2026",
-    "description": "Thales va recruter 3 300 personnes en France en 2026 stephanelarue.com",
-    "source": "stephanelarue.com (via Google News)",
-    "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWGVCTi1GYWlHTWI5aGRXR0Y0dk1KOEhUQk1Bb3JpbTQ4U2FUMXhzXzlJV01uX2p1QXItUG9GbFBrMGwzMk9TYzMtaWhFSC1yRzFocWRTUXZicE1HMTN6eVVWX05Vb0NfUHhMcklManZtVkdWWHo0aS1NYjlnc2hJTV9GenI?oc=5",
-    "signal_type": "plan_recrutement",
-    "tier": 1,
-    "score": 93,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": null,
-    "action_reco": "Thales : ~3300 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-08-09",
-    "email_draft": {
-      "subject": "Thales — fiabiliser la pré-qualification de vos recrutements",
-      "body": "Bonjour,\n\nJ'ai lu que Thales prépare une campagne de recrutement importante (Thales va recruter 3 300 personnes en France en 2026…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
-      "url_source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWGVCTi1GYWlHTWI5aGRXR0Y0dk1KOEhUQk1Bb3JpbTQ4U2FUMXhzXzlJV01uX2p1QXItUG9GbFBrMGwzMk9TYzMtaWhFSC1yRzFocWRTUXZicE1HMTN6eVVWX05Vb0NfUHhMcklManZtVkdWWHo0aS1NYjlnc2hJTV9GenI?oc=5"
-    },
-    "contacts_cibles": []
-  },
-  {
-    "id": "sig-2026-08-05-c3964585b63d",
-    "date_capture": "2026-08-12",
+    "id": "sig-2026-08-12-f8d88cf1b82a",
+    "date_capture": "2026-08-13",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
-    "compte": "Legaltech Wordsmith",
-    "titre": "Exclusive: Legaltech Wordsmith raises $14m Series B extension from Index, FT Ventures",
+    "compte": "Lovable",
+    "titre": "Lovable raises $400m backed by EU’s Scaleup Fund",
     "description": "",
     "source": "Sifted",
     "source_tier": 1,
-    "url": "https://sifted.eu/articles/wordsmith-14m-series-b-extension/",
+    "url": "https://sifted.eu/articles/lovable-raises-e400m-series-c/",
     "signal_type": "levee_fonds",
-    "tier": 3,
-    "score": 50,
+    "tier": 1,
+    "score": 80,
     "produit_match": [
       "ITS"
     ],
     "owner": "Charles",
-    "action_reco": "📋 **Source** : https://sifted.eu/articles/wordsmith-14m-series-b-extension/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 14.0M USD (~12.9M€) → Series A late, signal mais startup encore early\n📌 À surveiller — relancer dans 3-6 mois quand ils auront recruté 30+\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-08-05",
+    "action_reco": "📋 **Source** : https://sifted.eu/articles/lovable-raises-e400m-series-c/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 400.0M USD (~368.0M€) → scale-up confirmé, plan de recrutement massif sur 12 mois\n🔥 PRIORITÉ — fenêtre 30j (avant que les RH s'organisent)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-08-12",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-08-05",
+    "date_publication": "2026-08-12",
     "email_draft": {
-      "subject": "Legaltech Wordsmith — votre Series — sur l'évaluation candidats à scale",
-      "body": "Bonjour,\n\nJe viens de voir que Legaltech Wordsmith a bouclé une levée de 14.0M USD (~12.9M€). Bravo pour cette étape.\n\nUne levée à cette taille s'accompagne souvent d'un plan de recrutement ambitieux. Anticiper l'outillage évite la dette technique RH.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/wordsmith-14m-series-b-extension/"
+      "subject": "Lovable — votre Series — sur l'évaluation candidats à scale",
+      "body": "Bonjour,\n\nJe viens de voir que Lovable a bouclé une levée de 400.0M USD (~368.0M€). Bravo pour cette étape.\n\nSur les 12 prochains mois, vous allez probablement recruter 100+ profils. C'est exactement le moment où la qualité du process d'évaluation devient un goulot d'étranglement.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/lovable-raises-e400m-series-c/"
     },
     "contacts_cibles": [
       {
@@ -122,8 +93,8 @@
         ],
         "priorite": 1,
         "raison": "Décide outils RH stratégiques post-levée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Legaltech+Wordsmith",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Legaltech%20Wordsmith%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Lovable",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Lovable%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
       },
       {
         "poste": "Head of Talent Acquisition",
@@ -133,8 +104,8 @@
         ],
         "priorite": 2,
         "raison": "Opérationnel — gère le plan de recrutement massif",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Legaltech+Wordsmith",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Legaltech%20Wordsmith%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Lovable",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Lovable%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
       },
       {
         "poste": "Head of Hiring",
@@ -144,8 +115,8 @@
         ],
         "priorite": 3,
         "raison": "Sous-décideur — peut tester l'outil rapidement",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Legaltech+Wordsmith",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Legaltech%20Wordsmith%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Lovable",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Lovable%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
       }
     ]
   }
