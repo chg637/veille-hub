@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-07-24-f50ff07e742e",
-    "date_capture": "2026-08-18",
+    "date_capture": "2026-08-19",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Coquelles : Eurotunnel",
@@ -30,7 +30,7 @@
   },
   {
     "id": "sig-2026-08-05-bbd6be15d743",
-    "date_capture": "2026-08-18",
+    "date_capture": "2026-08-19",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Ils recrutent !\": Le groupe Clav",
@@ -58,8 +58,37 @@
     "contacts_cibles": []
   },
   {
+    "id": "sig-2026-08-18-2f40f7ee4b21",
+    "date_capture": "2026-08-19",
+    "vertical": "corporate",
+    "sous_segment": "entreprise",
+    "compte": "Haute-Garonne - Segula Technologies",
+    "titre": "Haute-Garonne - Segula Technologies veut recruter 100 personnes cette année dans le sud-ouest",
+    "description": "Haute-Garonne - Segula Technologies veut recruter 100 personnes cette année dans le sud-ouest La Lettre M",
+    "source": "La Lettre M (via Google News)",
+    "source_tier": 2,
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQkFFN2RRZ19mbzFRRGx6X2FIeGZTYnNrYWRSa0N4ODgtTllFSGJMNzZ0dGh5b3NJQ25XWENGUFNpMHFPSUVBUEVZa2lMWkRVci1EX3RvOXI4U0VIZjR1UkdSSDBGUDRvSm1CeXF3NWcxdWE0Zm4zb1o2RUotNFFiRmVaMHFDMnNSWjBzTjVCUVphOEUzMHRxRkxmdlJ4ZVVPd0xpTVVZR1pTWEluQm1kYmFZRQ?oc=5",
+    "signal_type": "plan_recrutement",
+    "tier": 1,
+    "score": 93,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": null,
+    "action_reco": "Haute-Garonne - Segula Technologies : ~100 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-08-18",
+    "email_draft": {
+      "subject": "Haute-Garonne - Segula Technologies — fiabiliser la pré-qualification de vos recrutements",
+      "body": "Bonjour,\n\nJ'ai lu que Haute-Garonne - Segula Technologies prépare une campagne de recrutement importante (Haute-Garonne - Segula Technologies veut recruter 100 personnes cette année dans le sud-ou…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
+      "url_source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQkFFN2RRZ19mbzFRRGx6X2FIeGZTYnNrYWRSa0N4ODgtTllFSGJMNzZ0dGh5b3NJQ25XWENGUFNpMHFPSUVBUEVZa2lMWkRVci1EX3RvOXI4U0VIZjR1UkdSSDBGUDRvSm1CeXF3NWcxdWE0Zm4zb1o2RUotNFFiRmVaMHFDMnNSWjBzTjVCUVphOEUzMHRxRkxmdlJ4ZVVPd0xpTVVZR1pTWEluQm1kYmFZRQ?oc=5"
+    },
+    "contacts_cibles": []
+  },
+  {
     "id": "sig-2026-08-12-f8d88cf1b82a",
-    "date_capture": "2026-08-18",
+    "date_capture": "2026-08-19",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Lovable",
