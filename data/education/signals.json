@@ -1,7 +1,132 @@
 [
   {
+    "id": "sig-2026-08-25-94b039482ac6",
+    "date_capture": "2026-08-26",
+    "vertical": "education",
+    "sous_segment": "programme-ia",
+    "compte": "Rentrée",
+    "titre": "Rentrée 2026: les chantiers prioritaires du ministère de l’Éducation nationale",
+    "description": "Lors de sa conférence de presse de rentrée, le ministre de l’Éducation nationale a présenté ses priorités pour l'année scolaire : renforcer les fondamentaux, mieux protéger les élèves et les personnels, lutter contre les fractures de la société et anticiper les grands bouleversements à venir, de la démographie à l’intelligence artificielle.",
+    "source": "Educpros (L'Étudiant)",
+    "source_tier": 1,
+    "url": "https://www.letudiant.fr/educpros/actualite/rentree-2026-les-chantiers-prioritaires-du-ministere-de-l-education-nationale.html",
+    "signal_type": "nouvelle_formation",
+    "tier": 1,
+    "score": 85,
+    "produit_match": [
+      "Pack Education Tosa",
+      "Cert IA"
+    ],
+    "owner": null,
+    "action_reco": "📋 **Signal détecté**\nLors de sa conférence de presse de rentrée, le ministre de l’Éducation nationale a présenté ses priorités pour l'année scolaire : renforcer les fondamentaux, mieux protéger les élèves et les…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme Rentrée. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
+    "deadline_action": "2026-09-02",
+    "status": "new",
+    "date_publication": "2026-08-25",
+    "email_draft": {
+      "subject": "Rentrée — Lors de sa conférence de presse : quelle évaluation prévue ?",
+      "body": "Bonjour,\n\nJ'ai vu votre actualité : « Lors de sa conférence de presse de rentrée, le ministre de l’Éducation nationale a présenté ses priorités pour l'année… ». Beau lancement.\n\nSur ce type de nouveau programme, le timing pour penser le dispositif d'évaluation des compétences est en général la période juste avant la première cohorte — ça permet de cadrer proprement la maquette pédagogique et les outils.\n\nChez Isograd, on opère 2 solutions complémentaires pour un programme comme le vôtre :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital). Argument concret en diplômation, sur le CV et auprès des entreprises partenaires.\n\n2. **ITS** pour héberger les sessions d'examen en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\n3. **Cert IA** — notre badge co-construit avec des écoles partenaires pour les programmes IA. Concrètement, vos étudiants ressortent du programme avec une certification externe sur les compétences IA appliquées. On a une program beta en cours, vous pourriez en faire partie.\n\nDéploiement en 4-6 semaines, budget calibré sur le volume étudiants. 15 minutes pour échanger sur votre cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://www.letudiant.fr/educpros/actualite/rentree-2026-les-chantiers-prioritaires-du-ministere-de-l-education-nationale.html"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Responsable du programme / Directeur(rice) de la formation",
+        "alternatives": [
+          "Coordinateur(rice) pédagogique",
+          "Responsable de filière"
+        ],
+        "priorite": 1,
+        "raison": "Définit le dispositif d'évaluation du nouveau programme",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+du+programme+%2F+Directeur%28rice%29+de+la+formation%22+OR+%22Coordinateur%28rice%29+p%C3%A9dagogique%22+OR+%22Responsable+de+fili%C3%A8re%22&currentCompany=Rentr%C3%A9e",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Rentr%C3%A9e%22%20Responsable%20du%20programme%20/%20Directeur%28rice%29%20de%20la%20formation%20Coordinateur%28rice%29%20p%C3%A9dagogique%20Responsable%20de%20fili%C3%A8re"
+      },
+      {
+        "poste": "Doyen / Directeur(rice) académique",
+        "alternatives": [
+          "VP Pédagogie",
+          "Directeur(rice) des études"
+        ],
+        "priorite": 2,
+        "raison": "Arbitrage sur l'outillage évaluation à l'échelle de l'établissement",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Doyen+%2F+Directeur%28rice%29+acad%C3%A9mique%22+OR+%22VP+P%C3%A9dagogie%22+OR+%22Directeur%28rice%29+des+%C3%A9tudes%22&currentCompany=Rentr%C3%A9e",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Rentr%C3%A9e%22%20Doyen%20/%20Directeur%28rice%29%20acad%C3%A9mique%20VP%20P%C3%A9dagogie%20Directeur%28rice%29%20des%20%C3%A9tudes"
+      },
+      {
+        "poste": "Responsable RNCP / Certifications",
+        "alternatives": [
+          "Référent qualité",
+          "Responsable Qualiopi"
+        ],
+        "priorite": 3,
+        "raison": "Cadrage Qualiopi / preuve d'évaluation pour la certification",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+Certifications%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22+OR+%22Responsable+Qualiopi%22&currentCompany=Rentr%C3%A9e",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Rentr%C3%A9e%22%20Responsable%20RNCP%20/%20Certifications%20R%C3%A9f%C3%A9rent%20qualit%C3%A9%20Responsable%20Qualiopi"
+      }
+    ]
+  },
+  {
+    "id": "sig-2026-08-25-d8c7bf92441f",
+    "date_capture": "2026-08-26",
+    "vertical": "education",
+    "sous_segment": "grande-ecole",
+    "compte": "Mines",
+    "titre": "Mines Nancy : François Alter nommé directeur général de l’école",
+    "description": "Mines Nancy directeur général : François Alter succède à François Rousseau dès septembre 2026. L’article Mines Nancy : François Alter nommé directeur général de l école est apparu en premier sur Planète Grandes Écoles .",
+    "source": "Planète Grandes Écoles",
+    "source_tier": 2,
+    "url": "https://www.planetegrandesecoles.com/mines-nancy-directeur-general-francois-alter",
+    "signal_type": "nomination_dg",
+    "tier": 1,
+    "score": 85,
+    "produit_match": [
+      "Pack Education Tosa"
+    ],
+    "owner": null,
+    "action_reco": "📋 **Signal détecté**\nMines Nancy directeur général : François Alter succède à François Rousseau dès septembre 2026. L’article Mines Nancy : François Alter nommé directeur général de l école est apparu en premier sur…\n\n🎯 **Action à mener**\nNote LinkedIn 100 premiers jours du nouveau DG. Angle « bilan rapide du dispositif certification ». Brief équipe sur les comptes Tosa déjà présents chez Mines.\n\n💡 **Angle pitch ITS/Tosa**\nFenêtre stratégique post-prise de poste : nouveau directeur cherche à poser sa marque. Apport rapide = Tosa pour signal externe + ITS pour structurer la passation.\n\n📅 **Timing**\n30-90 jours après l'annonce. Au-delà, la roadmap est figée.",
+    "deadline_action": "2026-09-02",
+    "status": "new",
+    "date_publication": "2026-08-25",
+    "email_draft": {
+      "subject": "Mines — nouvelle direction : quels chantiers évaluation prévus ?",
+      "body": "Bonjour,\n\nJ'ai noté votre arrivée à la direction chez Mines.\nContexte que j'ai vu passer : « Mines Nancy directeur général : François Alter succède à François Rousseau dès septembre 2026. L’article Mines Nancy : François… ».\n\nFélicitations pour cette prise de poste — belle étape.\n\nJe me permets de vous écrire car beaucoup de directeurs récemment nommés dans le supérieur partagent le même constat à 60-90 jours : besoin de poser rapidement une stratégie claire sur l'évaluation des compétences étudiants — pour répondre aux exigences Qualiopi/RNCP et aux attentes des entreprises partenaires.\n\nChez Isograd, deux solutions utilisées par des écoles comparables :\n\n1. **Tosa** — certification des compétences numériques étudiants (bureautique, code, digital). Argument fort en diplômation, CV, et classements.\n\n2. **ITS** — plateforme d'hébergement d'examens en ligne avec proctoring et banque de questions, opposable en audit.\n\n15 minutes pour vous montrer ce que d'autres directions ont mis en place dans leurs premiers mois ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource de l'info : https://www.planetegrandesecoles.com/mines-nancy-directeur-general-francois-alter"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Le(la) nouveau(elle) directeur(rice) directement",
+        "alternatives": [
+          "Directeur(rice) général(e)",
+          "Présidence"
+        ],
+        "priorite": 1,
+        "raison": "Fenêtre 30-90j post-prise de poste — ouvert aux nouveaux chantiers",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Le%28la%29+nouveau%28elle%29+directeur%28rice%29+directement%22+OR+%22Directeur%28rice%29+g%C3%A9n%C3%A9ral%28e%29%22+OR+%22Pr%C3%A9sidence%22&currentCompany=Mines",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Mines%22%20Le%28la%29%20nouveau%28elle%29%20directeur%28rice%29%20directement%20Directeur%28rice%29%20g%C3%A9n%C3%A9ral%28e%29%20Pr%C3%A9sidence"
+      },
+      {
+        "poste": "Directeur(rice) de cabinet / Adjoint(e)",
+        "alternatives": [
+          "Bras droit",
+          "Chief of Staff"
+        ],
+        "priorite": 2,
+        "raison": "Pré-qualifie les dossiers stratégiques du nouveau directeur",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+de+cabinet+%2F+Adjoint%28e%29%22+OR+%22Bras+droit%22+OR+%22Chief+of+Staff%22&currentCompany=Mines",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Mines%22%20Directeur%28rice%29%20de%20cabinet%20/%20Adjoint%28e%29%20Bras%20droit%20Chief%20of%20Staff"
+      },
+      {
+        "poste": "Directeur(rice) des programmes / Académique",
+        "alternatives": [
+          "Doyen",
+          "VP Pédagogie"
+        ],
+        "priorite": 3,
+        "raison": "Souvent en pleine relecture de la roadmap pédagogique post-nomination",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+des+programmes+%2F+Acad%C3%A9mique%22+OR+%22Doyen%22+OR+%22VP+P%C3%A9dagogie%22&currentCompany=Mines",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Mines%22%20Directeur%28rice%29%20des%20programmes%20/%20Acad%C3%A9mique%20Doyen%20VP%20P%C3%A9dagogie"
+      }
+    ]
+  },
+  {
     "id": "sig-stable-4cc03b95f797",
-    "date_capture": "2026-08-25",
+    "date_capture": "2026-08-26",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "Universite de Technologie de Troyes (UTT)",
@@ -21,7 +146,7 @@
     "action_reco": "📋 **Signal détecté**\nBachelor IA - cursus 3 ans\n\n🎯 **Action à mener**\nA croiser site UTT + LinkedIn avant contact\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-08-25",
+    "date_publication": "2026-08-26",
     "email_draft": {
       "subject": "Universite de Technologie de Troyes (UTT) — Bachelor IA - cursus 3 ans : quelle évaluation prévue ?",
       "body": "Bonjour,\n\nJ'ai vu votre actualité : « Bachelor IA - cursus 3 ans ». Beau lancement.\n\nSur ce type de nouveau programme, le timing pour penser le dispositif d'évaluation des compétences est en général la période juste avant la première cohorte — ça permet de cadrer proprement la maquette pédagogique et les outils.\n\nChez Isograd, on opère 2 solutions complémentaires pour un programme comme le vôtre :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital). Argument concret en diplômation, sur le CV et auprès des entreprises partenaires.\n\n2. **ITS** pour héberger les sessions d'examen en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\n3. **Cert IA** — notre badge co-construit avec des écoles partenaires pour les programmes IA. Concrètement, vos étudiants ressortent du programme avec une certification externe sur les compétences IA appliquées. On a une program beta en cours, vous pourriez en faire partie.\n\nDéploiement en 4-6 semaines, budget calibré sur le volume étudiants. 15 minutes pour échanger sur votre cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://www.letudiant.fr/etudes/lactu-des-formations-de-nouveaux-cursus-en-ia-dans-le-superieur.html"
