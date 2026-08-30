@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-05-19-c8342a26e939",
-    "date_capture": "2026-08-29",
+    "date_capture": "2026-08-30",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "Université Paris-Saclay",
@@ -53,7 +53,7 @@
   },
   {
     "id": "sig-2026-05-11-64ab3dd75a34",
-    "date_capture": "2026-08-29",
+    "date_capture": "2026-08-30",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "NEOMA Business School (Reims)",
@@ -105,7 +105,7 @@
   },
   {
     "id": "sig-2026-08-04-54952321d40f",
-    "date_capture": "2026-08-29",
+    "date_capture": "2026-08-30",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Bezirksregierung Münster",
@@ -122,7 +122,7 @@
     ],
     "owner": "Charles",
     "action_reco": "📋 **Récupérer le DCE complet** sur https://ted.europa.eu/fr/notice/-/detail/537230-2026\n🎯 **Décideur cible** : À enrichir via LinkedIn Sales Nav + site officiel de l'acheteur\n💡 **Angle de valeur** : ITS comme back-end éval intégrable à votre SI : banque de questions paramétrable, exports complets, multi-rôles candidat/admin/OF\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS à mapper via questions de cadrage : Explorance, EvaluationKIT, Sphinx, EvalandGo, ExamSoft, plateformes internes",
-    "deadline_action": "2026-09-05",
+    "deadline_action": "2026-09-06",
     "status": "new",
     "date_publication": "2026-08-04",
     "email_draft": {
@@ -157,7 +157,7 @@
   },
   {
     "id": "sig-2026-08-26-97eb936bf209",
-    "date_capture": "2026-08-29",
+    "date_capture": "2026-08-30",
     "vertical": "ao",
     "sous_segment": "Marché public État / Ministères",
     "compte": "Ministère de l'intérieur",
@@ -209,7 +209,7 @@
   },
   {
     "id": "sig-2026-07-31-5106d8d2ecc7",
-    "date_capture": "2026-08-29",
+    "date_capture": "2026-08-30",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "135 BPM Le Campus du Sport",
@@ -261,7 +261,7 @@
   },
   {
     "id": "sig-2026-07-06-e5fa27b465ce",
-    "date_capture": "2026-08-29",
+    "date_capture": "2026-08-30",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Institut national des langues Luxembourg",
@@ -313,7 +313,7 @@
   },
   {
     "id": "sig-2026-08-10-af87c7f061d8",
-    "date_capture": "2026-08-29",
+    "date_capture": "2026-08-30",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Fondation A DE ROTHSCHILD",
@@ -365,7 +365,7 @@
   },
   {
     "id": "sig-2026-07-29-40a7a3ab4b1f",
-    "date_capture": "2026-08-29",
+    "date_capture": "2026-08-30",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "ACTION LOGEMENT IMMOBILIER",
@@ -417,7 +417,7 @@
   },
   {
     "id": "sig-2026-07-31-47a34b6f12af",
-    "date_capture": "2026-08-29",
+    "date_capture": "2026-08-30",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "SNCB",
@@ -469,7 +469,7 @@
   },
   {
     "id": "sig-2026-07-31-aa042fb5164b",
-    "date_capture": "2026-08-29",
+    "date_capture": "2026-08-30",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "SNCB",
@@ -486,7 +486,7 @@
     ],
     "owner": "Charles",
     "action_reco": "📋 **Récupérer le DCE complet** sur https://ted.europa.eu/fr/notice/-/detail/533416-2026\n🎯 **Décideur cible** : À enrichir via LinkedIn Sales Nav + site officiel de l'acheteur\n💡 **Angle de valeur** : ITS comme plateforme de passation de la certification : banque de questions, proctoring, attestations opposables en audit\n💰 Montant estimé : 798 k€ → enjeu fort, mobiliser direction commerciale\n🥊 Concurrents ITS à mapper via questions de cadrage : Explorance, EvaluationKIT, Sphinx, EvalandGo, ExamSoft, plateformes internes",
-    "deadline_action": "2026-09-05",
+    "deadline_action": "2026-09-06",
     "status": "new",
     "date_publication": "2026-07-31",
     "email_draft": {
@@ -521,7 +521,7 @@
   },
   {
     "id": "sig-2026-07-29-88d5547ae670",
-    "date_capture": "2026-08-29",
+    "date_capture": "2026-08-30",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "KEDGE BUSINESS SCHOOL",
@@ -572,60 +572,8 @@
     ]
   },
   {
-    "id": "sig-2026-07-30-f149a13f9c19",
-    "date_capture": "2026-08-29",
-    "vertical": "ao",
-    "sous_segment": "Marché public — secteur à qualifier",
-    "compte": "EDF SA",
-    "titre": "Marché pour la fourniture d'une solution de digitalisation de PDP et DUERP",
-    "description": "L'objet du marché porte sur la fourniture d'une solution SAAS de digitalisation des PDP et des DUERP. Deux lots sont prévus, et la durée des marchés est de six ans dont quatre ans fermes. EDF SA émet cet avis de marché en son nom et pour le compte de EDF PEI via G2S.",
-    "source": "TED (Tenders Electronic Daily UE)",
-    "source_tier": 1,
-    "url": "https://ted.europa.eu/fr/notice/-/detail/526663-2026",
-    "signal_type": "ao_publie",
-    "tier": 2,
-    "score": 65,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Récupérer le DCE complet** sur https://ted.europa.eu/fr/notice/-/detail/526663-2026\n🎯 **Décideur cible** : À enrichir via LinkedIn Sales Nav + site officiel de l'acheteur\n💡 **Angle de valeur** : ITS : plateforme d'hébergement d'examens (tests recrutement, contrôles, certifications internes) avec correction auto et reporting\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS à mapper via questions de cadrage : Explorance, EvaluationKIT, Sphinx, EvalandGo, ExamSoft, plateformes internes",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-07-30",
-    "email_draft": {
-      "subject": "AO EDF SA — ISOGRAD souhaite candidater",
-      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"Marché pour la fourniture d'une solution de digitalisation de PDP et DUERP\"\nDeadline : à définir\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://ted.europa.eu/fr/notice/-/detail/526663-2026"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Acheteur public référencé sur l'AO",
-        "alternatives": [
-          "RAQ",
-          "Responsable des achats"
-        ],
-        "priorite": 1,
-        "raison": "Référent direct de la consultation",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=EDF+SA",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22EDF%20SA%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
-      },
-      {
-        "poste": "Décideur métier (variable selon segment)",
-        "alternatives": [
-          "Direction des examens (ESR)",
-          "Direction des soins (FPH)",
-          "DRH (Collectivité)"
-        ],
-        "priorite": 2,
-        "raison": "Sponsorise le besoin métier en amont",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=EDF+SA",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22EDF%20SA%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
-      }
-    ]
-  },
-  {
     "id": "sig-2026-07-31-27027bb4ebcd",
-    "date_capture": "2026-08-29",
+    "date_capture": "2026-08-30",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "CNSO Orléans",
@@ -677,7 +625,7 @@
   },
   {
     "id": "sig-2026-08-07-649bc48b0f77",
-    "date_capture": "2026-08-29",
+    "date_capture": "2026-08-30",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Koninklijke Bibliotheek",
@@ -729,7 +677,7 @@
   },
   {
     "id": "sig-2026-08-12-948b31d37a8a",
-    "date_capture": "2026-08-29",
+    "date_capture": "2026-08-30",
     "vertical": "ao",
     "sous_segment": "Marché public OPCO",
     "compte": "OPCO ATLAS",
@@ -781,7 +729,7 @@
   },
   {
     "id": "sig-2026-08-20-2dd46667b71b",
-    "date_capture": "2026-08-29",
+    "date_capture": "2026-08-30",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Ministerie van Infrastructuur en Waterstaat",
@@ -833,7 +781,7 @@
   },
   {
     "id": "sig-2026-08-21-a19c93561a24",
-    "date_capture": "2026-08-29",
+    "date_capture": "2026-08-30",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Direction de la Technique et de l'Innovation",
@@ -885,7 +833,7 @@
   },
   {
     "id": "sig-2026-08-28-5c3c58b2ba0a",
-    "date_capture": "2026-08-29",
+    "date_capture": "2026-08-30",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Provincie Limburg",
@@ -937,7 +885,7 @@
   },
   {
     "id": "sig-2026-07-01-83e1fcfd2a71",
-    "date_capture": "2026-08-29",
+    "date_capture": "2026-08-30",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "Universiteit Hasselt",
@@ -989,7 +937,7 @@
   },
   {
     "id": "sig-2026-07-21-20d868e26f22",
-    "date_capture": "2026-08-29",
+    "date_capture": "2026-08-30",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "CLESENCE",
@@ -1040,8 +988,60 @@
     ]
   },
   {
+    "id": "sig-2026-07-30-f149a13f9c19",
+    "date_capture": "2026-08-30",
+    "vertical": "ao",
+    "sous_segment": "Marché public — secteur à qualifier",
+    "compte": "EDF SA",
+    "titre": "Marché pour la fourniture d'une solution de digitalisation de PDP et DUERP",
+    "description": "L'objet du marché porte sur la fourniture d'une solution SAAS de digitalisation des PDP et des DUERP. Deux lots sont prévus, et la durée des marchés est de six ans dont quatre ans fermes. EDF SA émet cet avis de marché en son nom et pour le compte de EDF PEI via G2S.",
+    "source": "TED (Tenders Electronic Daily UE)",
+    "source_tier": 1,
+    "url": "https://ted.europa.eu/fr/notice/-/detail/526663-2026",
+    "signal_type": "ao_publie",
+    "tier": 3,
+    "score": 57,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Récupérer le DCE complet** sur https://ted.europa.eu/fr/notice/-/detail/526663-2026\n🎯 **Décideur cible** : À enrichir via LinkedIn Sales Nav + site officiel de l'acheteur\n💡 **Angle de valeur** : ITS : plateforme d'hébergement d'examens (tests recrutement, contrôles, certifications internes) avec correction auto et reporting\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS à mapper via questions de cadrage : Explorance, EvaluationKIT, Sphinx, EvalandGo, ExamSoft, plateformes internes",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-07-30",
+    "email_draft": {
+      "subject": "AO EDF SA — ISOGRAD souhaite candidater",
+      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"Marché pour la fourniture d'une solution de digitalisation de PDP et DUERP\"\nDeadline : à définir\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://ted.europa.eu/fr/notice/-/detail/526663-2026"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Acheteur public référencé sur l'AO",
+        "alternatives": [
+          "RAQ",
+          "Responsable des achats"
+        ],
+        "priorite": 1,
+        "raison": "Référent direct de la consultation",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=EDF+SA",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22EDF%20SA%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
+      },
+      {
+        "poste": "Décideur métier (variable selon segment)",
+        "alternatives": [
+          "Direction des examens (ESR)",
+          "Direction des soins (FPH)",
+          "DRH (Collectivité)"
+        ],
+        "priorite": 2,
+        "raison": "Sponsorise le besoin métier en amont",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=EDF+SA",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22EDF%20SA%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-07-09-ccebc011ca7f",
-    "date_capture": "2026-08-29",
+    "date_capture": "2026-08-30",
     "vertical": "ao",
     "sous_segment": "Marché public FPH (Hôpitaux / CHU / AP-HP)",
     "compte": "CHU ROUEN NORMANDIE",
@@ -1093,7 +1093,7 @@
   },
   {
     "id": "sig-2026-07-02-4de320e0aede",
-    "date_capture": "2026-08-29",
+    "date_capture": "2026-08-30",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "AG Digipolis Antwerpen",
@@ -1145,7 +1145,7 @@
   },
   {
     "id": "sig-2026-07-03-939f5f31cac7",
-    "date_capture": "2026-08-29",
+    "date_capture": "2026-08-30",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "Fontys Hogeschool",
