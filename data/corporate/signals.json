@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-08-25-12941c71acca",
-    "date_capture": "2026-09-02",
+    "date_capture": "2026-09-03",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "MilDef",
@@ -30,7 +30,7 @@
   },
   {
     "id": "sig-2026-08-31-acde72738c7b",
-    "date_capture": "2026-09-02",
+    "date_capture": "2026-09-03",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "groupe",
@@ -67,8 +67,71 @@
     ]
   },
   {
+    "id": "sig-2026-09-02-20b59a92e1b5",
+    "date_capture": "2026-09-03",
+    "vertical": "corporate",
+    "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
+    "compte": "Nvidia",
+    "titre": "Nvidia backs Spanish spinout IPronics in $125m Series B",
+    "description": "",
+    "source": "Sifted",
+    "source_tier": 1,
+    "url": "https://sifted.eu/articles/nvidia-backs-spanish-spinout-ipronics-in-125m-series-b/",
+    "signal_type": "levee_fonds",
+    "tier": 1,
+    "score": 80,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Source** : https://sifted.eu/articles/nvidia-backs-spanish-spinout-ipronics-in-125m-series-b/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 125.0M USD (~115.0M€) → scale-up confirmé, plan de recrutement massif sur 12 mois\n🔥 PRIORITÉ — fenêtre 30j (avant que les RH s'organisent)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-09-02",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-09-02",
+    "email_draft": {
+      "subject": "Nvidia — votre Series — sur l'évaluation candidats à scale",
+      "body": "Bonjour,\n\nJe viens de voir que Nvidia a bouclé une levée de 125.0M USD (~115.0M€). Bravo pour cette étape.\n\nSur les 12 prochains mois, vous allez probablement recruter 100+ profils. C'est exactement le moment où la qualité du process d'évaluation devient un goulot d'étranglement.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/nvidia-backs-spanish-spinout-ipronics-in-125m-series-b/"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Chief People Officer",
+        "alternatives": [
+          "Head of People",
+          "VP People",
+          "DRH"
+        ],
+        "priorite": 1,
+        "raison": "Décide outils RH stratégiques post-levée",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Nvidia",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Nvidia%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
+      },
+      {
+        "poste": "Head of Talent Acquisition",
+        "alternatives": [
+          "Talent Acquisition Director",
+          "Head of Recruiting"
+        ],
+        "priorite": 2,
+        "raison": "Opérationnel — gère le plan de recrutement massif",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Nvidia",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Nvidia%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
+      },
+      {
+        "poste": "Head of Hiring",
+        "alternatives": [
+          "Hiring Manager",
+          "Recruitment Director"
+        ],
+        "priorite": 3,
+        "raison": "Sous-décideur — peut tester l'outil rapidement",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Nvidia",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Nvidia%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-09-02-1a85dc37ff6d",
-    "date_capture": "2026-09-02",
+    "date_capture": "2026-09-03",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Femtech Ipremom",
