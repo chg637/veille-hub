@@ -1,7 +1,36 @@
 [
   {
+    "id": "sig-2026-08-25-12941c71acca",
+    "date_capture": "2026-09-05",
+    "vertical": "corporate",
+    "sous_segment": "entreprise",
+    "compte": "MilDef",
+    "titre": "MilDef va recruter 200 personnes cette année, selon son responsable des relations investisseurs",
+    "description": "MilDef va recruter 200 personnes cette année, selon son responsable des relations investisseurs Zonebourse",
+    "source": "Zonebourse (via Google News)",
+    "source_tier": 2,
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQm44UmwzM0sybG9TZ2RhamxtdEVnNlRMVWd3SmJXTThnOS1aVC1vN0lNSnQzeHVwZUVuZVhYM205d1dZSUpHbkpLVUNNSUhjNjVzNnRJckhYVDBqLWlRZDdhZ2JEcThuTTE0SWJ2M0hFMUxpYXNIVUpLUHpCV3RIb01lN05OdlNSZ0QtOVRGcHRTY2xsVzIzMjJrRWdUOWlDVm12cmlfOUdCRWtlMk5GaWFlRnJSbmFwTTZ4X3h5WGJDN185VVNza0FDYTliNGt4QzlSazdWZHlDQW11S1dtZlNzQVJBQ0JmSWVR?oc=5",
+    "signal_type": "plan_recrutement",
+    "tier": 1,
+    "score": 93,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": null,
+    "action_reco": "MilDef : ~200 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-08-25",
+    "email_draft": {
+      "subject": "MilDef — fiabiliser la pré-qualification de vos recrutements",
+      "body": "Bonjour,\n\nJ'ai lu que MilDef prépare une campagne de recrutement importante (MilDef va recruter 200 personnes cette année, selon son responsable des relations investis…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
+      "url_source": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQm44UmwzM0sybG9TZ2RhamxtdEVnNlRMVWd3SmJXTThnOS1aVC1vN0lNSnQzeHVwZUVuZVhYM205d1dZSUpHbkpLVUNNSUhjNjVzNnRJckhYVDBqLWlRZDdhZ2JEcThuTTE0SWJ2M0hFMUxpYXNIVUpLUHpCV3RIb01lN05OdlNSZ0QtOVRGcHRTY2xsVzIzMjJrRWdUOWlDVm12cmlfOUdCRWtlMk5GaWFlRnJSbmFwTTZ4X3h5WGJDN185VVNza0FDYTliNGt4QzlSazdWZHlDQW11S1dtZlNzQVJBQ0JmSWVR?oc=5"
+    },
+    "contacts_cibles": []
+  },
+  {
     "id": "sig-2026-08-31-acde72738c7b",
-    "date_capture": "2026-09-04",
+    "date_capture": "2026-09-05",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "groupe",
@@ -39,7 +68,7 @@
   },
   {
     "id": "sig-2026-09-02-20b59a92e1b5",
-    "date_capture": "2026-09-04",
+    "date_capture": "2026-09-05",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Nvidia",
@@ -102,7 +131,7 @@
   },
   {
     "id": "sig-2026-09-02-1a85dc37ff6d",
-    "date_capture": "2026-09-04",
+    "date_capture": "2026-09-05",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Femtech Ipremom",
