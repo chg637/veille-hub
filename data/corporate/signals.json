@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-09-06-30582502a0a4",
-    "date_capture": "2026-09-10",
+    "date_capture": "2026-09-11",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Verisure",
@@ -30,13 +30,13 @@
   },
   {
     "id": "sig-2026-09-09-242b7c786729",
-    "date_capture": "2026-09-10",
+    "date_capture": "2026-09-11",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "blanchisserie Bulle de linge",
     "titre": "La blanchisserie Bulle de linge va recruter 60 à 70 salariés, France Travail les recevra début octobre",
-    "description": "Chomérac. La blanchisserie Bulle de linge va recruter 60 à 70 salariés, France Travail les recevra début octobre ledauphine.com",
-    "source": "ledauphine.com (via Google News)",
+    "description": "Chomérac. La blanchisserie Bulle de linge va recruter 60 à 70 salariés, France Travail les recevra début octobre Le Dauphiné Libéré",
+    "source": "Le Dauphiné Libéré (via Google News)",
     "source_tier": 2,
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQnJJclNGV0VKNTZmemNYWnF5TmlUVktRLVVWb2JIZG15czg1N0RYVV9jQm0yUlZDcjFpeWFiczNrRzBjcXVaSUh0TEpIaXhOM3BEUGFLUG5menRPMlJSRTNicGhyWFdfeENzdUtmWUxKaVAzdjBXLVdZQjZzcHc0QUhZODc1S29XajJWbGRhWlpwazY1Z2hiWU1qMGRndWFhVjhJMTlnX0JKMUE?oc=5",
     "signal_type": "plan_recrutement",
@@ -58,8 +58,84 @@
     "contacts_cibles": []
   },
   {
+    "id": "sig-2026-09-09-fa3fb35159ff",
+    "date_capture": "2026-09-11",
+    "vertical": "corporate",
+    "sous_segment": "entreprise",
+    "compte": "L’OPPBTP",
+    "titre": "L’OPPBTP nomme son nouveau DRH",
+    "description": "L’OPPBTP nomme son nouveau DRH Batiweb",
+    "source": "Batiweb (via Google News)",
+    "source_tier": 2,
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZnhZc3Q3WGhzV3lTNkxNNmRRaVRsQWxzcndCdzdWaW1Ga2tjVWMzVjJBOVJ4R0c0RHhYVlNFQ1NSRGYwN3dKbVRsVm1NUGwyaWxPNnhqREZTWUJRX3M0WUF5MjFJOVZPRUtTSXFNbldIQ3l4VExFRWdIc2NfanFWamZmcnVNTHBWY2xRRUh4eWI?oc=5",
+    "signal_type": "nomination_chro",
+    "tier": 1,
+    "score": 90,
+    "produit_match": [
+      "ITS",
+      "Tosa Corporate"
+    ],
+    "owner": null,
+    "action_reco": "Fenêtre prise de poste ~30j : InMail/email à la nouvelle DRH (L’OPPBTP) — angle outillage évaluation des compétences (ITS + Tosa).",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-09-09",
+    "email_draft": {
+      "subject": "Félicitations pour votre nomination DRH chez L’OPPBTP",
+      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez L’OPPBTP. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMikAFBVV95cUxNZnhZc3Q3WGhzV3lTNkxNNmRRaVRsQWxzcndCdzdWaW1Ga2tjVWMzVjJBOVJ4R0c0RHhYVlNFQ1NSRGYwN3dKbVRsVm1NUGwyaWxPNnhqREZTWUJRX3M0WUF5MjFJOVZPRUtTSXFNbldIQ3l4VExFRWdIc2NfanFWamZmcnVNTHBWY2xRRUh4eWI?oc=5"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "La personne nommée (cible directe)",
+        "alternatives": [],
+        "priorite": 1,
+        "raison": "Fenêtre 30j post-prise de poste = haute disposition aux nouveaux outils",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22La+personne+nomm%C3%A9e+%28cible+directe%29%22&currentCompany=L%E2%80%99OPPBTP",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22L%E2%80%99OPPBTP%22%20La%20personne%20nomm%C3%A9e%20%28cible%20directe%29"
+      }
+    ]
+  },
+  {
+    "id": "sig-2026-09-10-e3c050496005",
+    "date_capture": "2026-09-11",
+    "vertical": "corporate",
+    "sous_segment": "entreprise",
+    "compte": "Dachser France Maghreb Turquie",
+    "titre": "Philippe Ricard nommé directeur des ressources humaines de Dachser France Maghreb Turquie",
+    "description": "Philippe Ricard nommé directeur des ressources humaines de Dachser France Maghreb Turquie Voxlog",
+    "source": "Voxlog (via Google News)",
+    "source_tier": 2,
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORDBhTl9VTTRfX3NpanhVbTBFUlFfaFJ2aFdmVklTbC0xbWM2SWdvcjNXTFEzTEFkWWhKd1hFNmJIR1hJeFF1LS1sdEdsT2pqX2tJMFYwNFNHVGR4LXZmdDZIZ1JDcFRhUDVIdi1qWklBUGVOdjB0Q2JRbllTUlVtaVBzQ2pWUUJia0U4VklOcFRrS2JKMUJxMVFDQnBKYUpOcVlNbU0ycTJMS0VZcmVDWDJQQzBKVjltQ2VpTk0zLTlDWkw2d0E?oc=5",
+    "signal_type": "nomination_chro",
+    "tier": 1,
+    "score": 90,
+    "produit_match": [
+      "ITS",
+      "Tosa Corporate"
+    ],
+    "owner": null,
+    "action_reco": "Fenêtre prise de poste ~30j : InMail/email à la nouvelle DRH (Dachser France Maghreb Turquie) — angle outillage évaluation des compétences (ITS + Tosa).",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-09-10",
+    "email_draft": {
+      "subject": "Félicitations pour votre nomination DRH chez Dachser France Maghreb Turquie",
+      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez Dachser France Maghreb Turquie. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMixgFBVV95cUxORDBhTl9VTTRfX3NpanhVbTBFUlFfaFJ2aFdmVklTbC0xbWM2SWdvcjNXTFEzTEFkWWhKd1hFNmJIR1hJeFF1LS1sdEdsT2pqX2tJMFYwNFNHVGR4LXZmdDZIZ1JDcFRhUDVIdi1qWklBUGVOdjB0Q2JRbllTUlVtaVBzQ2pWUUJia0U4VklOcFRrS2JKMUJxMVFDQnBKYUpOcVlNbU0ycTJMS0VZcmVDWDJQQzBKVjltQ2VpTk0zLTlDWkw2d0E?oc=5"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "La personne nommée (cible directe)",
+        "alternatives": [],
+        "priorite": 1,
+        "raison": "Fenêtre 30j post-prise de poste = haute disposition aux nouveaux outils",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22La+personne+nomm%C3%A9e+%28cible+directe%29%22&currentCompany=Dachser+France+Maghreb+Turquie",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Dachser%20France%20Maghreb%20Turquie%22%20La%20personne%20nomm%C3%A9e%20%28cible%20directe%29"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-09-09-6fb652a821f9",
-    "date_capture": "2026-09-10",
+    "date_capture": "2026-09-11",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "l'OPPBTP",
@@ -97,7 +173,7 @@
   },
   {
     "id": "sig-2026-09-10-5f411ee957f1",
-    "date_capture": "2026-09-10",
+    "date_capture": "2026-09-11",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Caisse d’Épargne Côte d’Azur",
@@ -105,7 +181,7 @@
     "description": "Nominations - Ifrah Azzimani nommé Directeur des Ressources Humaines de la Caisse d’Épargne Côte d’Azur Petites Affiches",
     "source": "Petites Affiches (via Google News)",
     "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONXlkaExUcUw4UTM4dHF0c1phUjlPbk0tcEhWTlBOS252ZmNmVGJITk9tdWhIemhHYmFrUjZSOHNBQVNKcEdOaUFzd2UzcFVWQWtfU0dlamxxUHpqSGw1NTNlaW1memFHNlIwWnJvRFBpb29aVUh5UkJXWFJWU2o2RTU4YjdDYXIwTXJZcF9nZHRyYWhNZUpQeWEzZUhWVTIwdHc?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVTg1cFhTSUJiSmxhbXdsVGZ3ODRjeW5UTm11bm5EQ1lQZTR5MjlzbHZ4c1htLXFteEhTa2dycUFjSWo5TVQyWFNXQ1o2Qm9LbmFBM2I2Q0l3MjhlZkkzNlpZZmt4NlMwQVM4UGlYU003U0R4TkVrRXVaRWszdkswMWRZc29FLTJSdVNaV09SMVFXYjlVd2lJ?oc=5",
     "signal_type": "nomination_chro",
     "tier": 1,
     "score": 90,
@@ -120,7 +196,7 @@
     "date_publication": "2026-09-10",
     "email_draft": {
       "subject": "Félicitations pour votre nomination DRH chez Caisse d’Épargne Côte d’Azur",
-      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez Caisse d’Épargne Côte d’Azur. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMiogFBVV95cUxONXlkaExUcUw4UTM4dHF0c1phUjlPbk0tcEhWTlBOS252ZmNmVGJITk9tdWhIemhHYmFrUjZSOHNBQVNKcEdOaUFzd2UzcFVWQWtfU0dlamxxUHpqSGw1NTNlaW1memFHNlIwWnJvRFBpb29aVUh5UkJXWFJWU2o2RTU4YjdDYXIwTXJZcF9nZHRyYWhNZUpQeWEzZUhWVTIwdHc?oc=5"
+      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez Caisse d’Épargne Côte d’Azur. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMilwFBVV95cUxOVTg1cFhTSUJiSmxhbXdsVGZ3ODRjeW5UTm11bm5EQ1lQZTR5MjlzbHZ4c1htLXFteEhTa2dycUFjSWo5TVQyWFNXQ1o2Qm9LbmFBM2I2Q0l3MjhlZkkzNlpZZmt4NlMwQVM4UGlYU003U0R4TkVrRXVaRWszdkswMWRZc29FLTJSdVNaV09SMVFXYjlVd2lJ?oc=5"
     },
     "contacts_cibles": [
       {
@@ -135,7 +211,7 @@
   },
   {
     "id": "sig-2026-09-07-6118db90de0f",
-    "date_capture": "2026-09-10",
+    "date_capture": "2026-09-11",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Louis Hachette Group",
@@ -173,7 +249,7 @@
   },
   {
     "id": "sig-2026-09-08-97684469c115",
-    "date_capture": "2026-09-10",
+    "date_capture": "2026-09-11",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Exploration Company",
@@ -236,7 +312,7 @@
   },
   {
     "id": "sig-2026-09-10-57d32c686c48",
-    "date_capture": "2026-09-10",
+    "date_capture": "2026-09-11",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Maddyness)",
     "compte": "Arlequin AI",
@@ -299,7 +375,7 @@
   },
   {
     "id": "sig-2026-09-09-1bb3bbf50156",
-    "date_capture": "2026-09-10",
+    "date_capture": "2026-09-11",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "This",
@@ -362,7 +438,7 @@
   },
   {
     "id": "sig-2026-09-08-e90547a76ec8",
-    "date_capture": "2026-09-10",
+    "date_capture": "2026-09-11",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Exclusive",
