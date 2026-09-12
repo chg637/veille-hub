@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-09-06-30582502a0a4",
-    "date_capture": "2026-09-11",
+    "date_capture": "2026-09-12",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Verisure",
@@ -30,7 +30,7 @@
   },
   {
     "id": "sig-2026-09-09-242b7c786729",
-    "date_capture": "2026-09-11",
+    "date_capture": "2026-09-12",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "blanchisserie Bulle de linge",
@@ -59,7 +59,7 @@
   },
   {
     "id": "sig-2026-09-09-fa3fb35159ff",
-    "date_capture": "2026-09-11",
+    "date_capture": "2026-09-12",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "L’OPPBTP",
@@ -97,7 +97,7 @@
   },
   {
     "id": "sig-2026-09-10-e3c050496005",
-    "date_capture": "2026-09-11",
+    "date_capture": "2026-09-12",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Dachser France Maghreb Turquie",
@@ -134,46 +134,8 @@
     ]
   },
   {
-    "id": "sig-2026-09-09-6fb652a821f9",
-    "date_capture": "2026-09-11",
-    "vertical": "corporate",
-    "sous_segment": "entreprise",
-    "compte": "l'OPPBTP",
-    "titre": "Alexandre Martin est nommé directeur des ressources humaines de l'OPPBTP",
-    "description": "Alexandre Martin est nommé directeur des ressources humaines de l'OPPBTP AEF info",
-    "source": "AEF info (via Google News)",
-    "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQTdyWWx6eDNCNzBnOXotWXhnVUxSbHNDcmNkTUg2Q1ZOZC1uTWdneGUxZ2Q1bWdhSnMzTVFOWFlVdzg4b3VWWUg4N3VNbzhWSmtQTkVaLUJLcGpIWmtkMm84dF9rNVdocnJmX1JiN1NJamNfY1RmekFBREFEWjNoTVFtbjBmM1prM0h0Tm1FSlhBd2FVbDRYVFVqMzg5bUk2eEhERGllQk5ERXBybHc?oc=5",
-    "signal_type": "nomination_chro",
-    "tier": 1,
-    "score": 90,
-    "produit_match": [
-      "ITS",
-      "Tosa Corporate"
-    ],
-    "owner": null,
-    "action_reco": "Fenêtre prise de poste ~30j : InMail/email à la nouvelle DRH (l'OPPBTP) — angle outillage évaluation des compétences (ITS + Tosa).",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-09-09",
-    "email_draft": {
-      "subject": "Félicitations pour votre nomination DRH chez l'OPPBTP",
-      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez l'OPPBTP. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMirgFBVV95cUxNQTdyWWx6eDNCNzBnOXotWXhnVUxSbHNDcmNkTUg2Q1ZOZC1uTWdneGUxZ2Q1bWdhSnMzTVFOWFlVdzg4b3VWWUg4N3VNbzhWSmtQTkVaLUJLcGpIWmtkMm84dF9rNVdocnJmX1JiN1NJamNfY1RmekFBREFEWjNoTVFtbjBmM1prM0h0Tm1FSlhBd2FVbDRYVFVqMzg5bUk2eEhERGllQk5ERXBybHc?oc=5"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "La personne nommée (cible directe)",
-        "alternatives": [],
-        "priorite": 1,
-        "raison": "Fenêtre 30j post-prise de poste = haute disposition aux nouveaux outils",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22La+personne+nomm%C3%A9e+%28cible+directe%29%22&currentCompany=l%27OPPBTP",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22l%27OPPBTP%22%20La%20personne%20nomm%C3%A9e%20%28cible%20directe%29"
-      }
-    ]
-  },
-  {
     "id": "sig-2026-09-10-5f411ee957f1",
-    "date_capture": "2026-09-11",
+    "date_capture": "2026-09-12",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Caisse d’Épargne Côte d’Azur",
@@ -210,8 +172,46 @@
     ]
   },
   {
+    "id": "sig-2026-09-09-6fb652a821f9",
+    "date_capture": "2026-09-12",
+    "vertical": "corporate",
+    "sous_segment": "entreprise",
+    "compte": "l'OPPBTP",
+    "titre": "Alexandre Martin est nommé directeur des ressources humaines de l'OPPBTP",
+    "description": "Alexandre Martin est nommé directeur des ressources humaines de l'OPPBTP AEF info",
+    "source": "AEF info (via Google News)",
+    "source_tier": 2,
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQTdyWWx6eDNCNzBnOXotWXhnVUxSbHNDcmNkTUg2Q1ZOZC1uTWdneGUxZ2Q1bWdhSnMzTVFOWFlVdzg4b3VWWUg4N3VNbzhWSmtQTkVaLUJLcGpIWmtkMm84dF9rNVdocnJmX1JiN1NJamNfY1RmekFBREFEWjNoTVFtbjBmM1prM0h0Tm1FSlhBd2FVbDRYVFVqMzg5bUk2eEhERGllQk5ERXBybHc?oc=5",
+    "signal_type": "nomination_chro",
+    "tier": 1,
+    "score": 90,
+    "produit_match": [
+      "ITS",
+      "Tosa Corporate"
+    ],
+    "owner": null,
+    "action_reco": "Fenêtre prise de poste ~30j : InMail/email à la nouvelle DRH (l'OPPBTP) — angle outillage évaluation des compétences (ITS + Tosa).",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-09-09",
+    "email_draft": {
+      "subject": "Félicitations pour votre nomination DRH chez l'OPPBTP",
+      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez l'OPPBTP. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMirgFBVV95cUxNQTdyWWx6eDNCNzBnOXotWXhnVUxSbHNDcmNkTUg2Q1ZOZC1uTWdneGUxZ2Q1bWdhSnMzTVFOWFlVdzg4b3VWWUg4N3VNbzhWSmtQTkVaLUJLcGpIWmtkMm84dF9rNVdocnJmX1JiN1NJamNfY1RmekFBREFEWjNoTVFtbjBmM1prM0h0Tm1FSlhBd2FVbDRYVFVqMzg5bUk2eEhERGllQk5ERXBybHc?oc=5"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "La personne nommée (cible directe)",
+        "alternatives": [],
+        "priorite": 1,
+        "raison": "Fenêtre 30j post-prise de poste = haute disposition aux nouveaux outils",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22La+personne+nomm%C3%A9e+%28cible+directe%29%22&currentCompany=l%27OPPBTP",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22l%27OPPBTP%22%20La%20personne%20nomm%C3%A9e%20%28cible%20directe%29"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-09-07-6118db90de0f",
-    "date_capture": "2026-09-11",
+    "date_capture": "2026-09-12",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Louis Hachette Group",
@@ -249,7 +249,7 @@
   },
   {
     "id": "sig-2026-09-08-97684469c115",
-    "date_capture": "2026-09-11",
+    "date_capture": "2026-09-12",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Exploration Company",
@@ -312,7 +312,7 @@
   },
   {
     "id": "sig-2026-09-10-57d32c686c48",
-    "date_capture": "2026-09-11",
+    "date_capture": "2026-09-12",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Maddyness)",
     "compte": "Arlequin AI",
@@ -375,7 +375,7 @@
   },
   {
     "id": "sig-2026-09-09-1bb3bbf50156",
-    "date_capture": "2026-09-11",
+    "date_capture": "2026-09-12",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "This",
@@ -433,69 +433,6 @@
         "raison": "Sous-décideur — peut tester l'outil rapidement",
         "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=This",
         "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22This%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
-      }
-    ]
-  },
-  {
-    "id": "sig-2026-09-08-e90547a76ec8",
-    "date_capture": "2026-09-11",
-    "vertical": "corporate",
-    "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
-    "compte": "Exclusive",
-    "titre": "Exclusive: Legaltech Lexroom seals first two M&A deals four months after $50m Series B",
-    "description": "",
-    "source": "Sifted",
-    "source_tier": 1,
-    "url": "https://sifted.eu/articles/exclusive-legaltech-lexroom-seals-first-two-ma-deals-four-months-after-50m-series-b/",
-    "signal_type": "levee_fonds",
-    "tier": 2,
-    "score": 65,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Source** : https://sifted.eu/articles/exclusive-legaltech-lexroom-seals-first-two-ma-deals-four-months-after-50m-series-b/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 50.0M USD (~46.0M€) → Series B+, structuration des processus RH en cours\n🎯 Fenêtre 60j (timing optimal post-Series B)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-09-08",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-09-08",
-    "email_draft": {
-      "subject": "Exclusive — votre Series — sur l'évaluation candidats à scale",
-      "body": "Bonjour,\n\nJe viens de voir que Exclusive a bouclé une levée de 50.0M USD (~46.0M€). Bravo pour cette étape.\n\nPost-Series B, c'est le moment où la plupart des scale-ups structurent leur process d'éval candidats. Avant que le volume devienne incontrôlable.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/exclusive-legaltech-lexroom-seals-first-two-ma-deals-four-months-after-50m-series-b/"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Chief People Officer",
-        "alternatives": [
-          "Head of People",
-          "VP People",
-          "DRH"
-        ],
-        "priorite": 1,
-        "raison": "Décide outils RH stratégiques post-levée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Exclusive",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Exclusive%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
-      },
-      {
-        "poste": "Head of Talent Acquisition",
-        "alternatives": [
-          "Talent Acquisition Director",
-          "Head of Recruiting"
-        ],
-        "priorite": 2,
-        "raison": "Opérationnel — gère le plan de recrutement massif",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Exclusive",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Exclusive%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
-      },
-      {
-        "poste": "Head of Hiring",
-        "alternatives": [
-          "Hiring Manager",
-          "Recruitment Director"
-        ],
-        "priorite": 3,
-        "raison": "Sous-décideur — peut tester l'outil rapidement",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Exclusive",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Exclusive%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
       }
     ]
   }
