@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-09-06-30582502a0a4",
-    "date_capture": "2026-09-14",
+    "date_capture": "2026-09-15",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Verisure",
@@ -30,13 +30,13 @@
   },
   {
     "id": "sig-2026-09-09-242b7c786729",
-    "date_capture": "2026-09-14",
+    "date_capture": "2026-09-15",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "blanchisserie Bulle de linge",
     "titre": "La blanchisserie Bulle de linge va recruter 60 à 70 salariés, France Travail les recevra début octobre",
-    "description": "Chomérac. La blanchisserie Bulle de linge va recruter 60 à 70 salariés, France Travail les recevra début octobre Le Dauphiné Libéré",
-    "source": "Le Dauphiné Libéré (via Google News)",
+    "description": "Chomérac. La blanchisserie Bulle de linge va recruter 60 à 70 salariés, France Travail les recevra début octobre Le Dauphiné",
+    "source": "Le Dauphiné (via Google News)",
     "source_tier": 2,
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQnJJclNGV0VKNTZmemNYWnF5TmlUVktRLVVWb2JIZG15czg1N0RYVV9jQm0yUlZDcjFpeWFiczNrRzBjcXVaSUh0TEpIaXhOM3BEUGFLUG5menRPMlJSRTNicGhyWFdfeENzdUtmWUxKaVAzdjBXLVdZQjZzcHc0QUhZODc1S29XajJWbGRhWlpwazY1Z2hiWU1qMGRndWFhVjhJMTlnX0JKMUE?oc=5",
     "signal_type": "plan_recrutement",
@@ -59,7 +59,7 @@
   },
   {
     "id": "sig-2026-09-01-351bc8d40adf",
-    "date_capture": "2026-09-14",
+    "date_capture": "2026-09-15",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Pitney Bowes",
@@ -88,13 +88,13 @@
   },
   {
     "id": "sig-2026-09-09-fa3fb35159ff",
-    "date_capture": "2026-09-14",
+    "date_capture": "2026-09-15",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "L’OPPBTP",
     "titre": "L’OPPBTP nomme son nouveau DRH",
-    "description": "L’OPPBTP nomme son nouveau DRH batiweb.com",
-    "source": "batiweb.com (via Google News)",
+    "description": "L’OPPBTP nomme son nouveau DRH Batiweb",
+    "source": "Batiweb (via Google News)",
     "source_tier": 2,
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZnhZc3Q3WGhzV3lTNkxNNmRRaVRsQWxzcndCdzdWaW1Ga2tjVWMzVjJBOVJ4R0c0RHhYVlNFQ1NSRGYwN3dKbVRsVm1NUGwyaWxPNnhqREZTWUJRX3M0WUF5MjFJOVZPRUtTSXFNbldIQ3l4VExFRWdIc2NfanFWamZmcnVNTHBWY2xRRUh4eWI?oc=5",
     "signal_type": "nomination_chro",
@@ -125,46 +125,8 @@
     ]
   },
   {
-    "id": "sig-2026-09-10-e3c050496005",
-    "date_capture": "2026-09-14",
-    "vertical": "corporate",
-    "sous_segment": "entreprise",
-    "compte": "Dachser France Maghreb Turquie",
-    "titre": "Philippe Ricard nommé directeur des ressources humaines de Dachser France Maghreb Turquie",
-    "description": "Philippe Ricard nommé directeur des ressources humaines de Dachser France Maghreb Turquie Voxlog",
-    "source": "Voxlog (via Google News)",
-    "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORDBhTl9VTTRfX3NpanhVbTBFUlFfaFJ2aFdmVklTbC0xbWM2SWdvcjNXTFEzTEFkWWhKd1hFNmJIR1hJeFF1LS1sdEdsT2pqX2tJMFYwNFNHVGR4LXZmdDZIZ1JDcFRhUDVIdi1qWklBUGVOdjB0Q2JRbllTUlVtaVBzQ2pWUUJia0U4VklOcFRrS2JKMUJxMVFDQnBKYUpOcVlNbU0ycTJMS0VZcmVDWDJQQzBKVjltQ2VpTk0zLTlDWkw2d0E?oc=5",
-    "signal_type": "nomination_chro",
-    "tier": 1,
-    "score": 90,
-    "produit_match": [
-      "ITS",
-      "Tosa Corporate"
-    ],
-    "owner": null,
-    "action_reco": "Fenêtre prise de poste ~30j : InMail/email à la nouvelle DRH (Dachser France Maghreb Turquie) — angle outillage évaluation des compétences (ITS + Tosa).",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-09-10",
-    "email_draft": {
-      "subject": "Félicitations pour votre nomination DRH chez Dachser France Maghreb Turquie",
-      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez Dachser France Maghreb Turquie. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMixgFBVV95cUxORDBhTl9VTTRfX3NpanhVbTBFUlFfaFJ2aFdmVklTbC0xbWM2SWdvcjNXTFEzTEFkWWhKd1hFNmJIR1hJeFF1LS1sdEdsT2pqX2tJMFYwNFNHVGR4LXZmdDZIZ1JDcFRhUDVIdi1qWklBUGVOdjB0Q2JRbllTUlVtaVBzQ2pWUUJia0U4VklOcFRrS2JKMUJxMVFDQnBKYUpOcVlNbU0ycTJMS0VZcmVDWDJQQzBKVjltQ2VpTk0zLTlDWkw2d0E?oc=5"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "La personne nommée (cible directe)",
-        "alternatives": [],
-        "priorite": 1,
-        "raison": "Fenêtre 30j post-prise de poste = haute disposition aux nouveaux outils",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22La+personne+nomm%C3%A9e+%28cible+directe%29%22&currentCompany=Dachser+France+Maghreb+Turquie",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Dachser%20France%20Maghreb%20Turquie%22%20La%20personne%20nomm%C3%A9e%20%28cible%20directe%29"
-      }
-    ]
-  },
-  {
     "id": "sig-2026-09-10-5f411ee957f1",
-    "date_capture": "2026-09-14",
+    "date_capture": "2026-09-15",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Caisse d’Épargne Côte d’Azur",
@@ -201,65 +163,40 @@
     ]
   },
   {
-    "id": "sig-2026-09-10-57d32c686c48",
-    "date_capture": "2026-09-14",
+    "id": "sig-2026-09-15-e607ad36453e",
+    "date_capture": "2026-09-15",
     "vertical": "corporate",
-    "sous_segment": "Scale-up / Levée Series B+ (Maddyness)",
-    "compte": "Arlequin AI",
-    "titre": "Analyse de données : la start-up Arlequin AI lève 28 millions d'euros",
-    "description": "L’article Analyse de données : la start-up Arlequin AI lève 28 millions d&#039;euros est apparu en premier sur Maddyness - Le média pour comprendre l&#039;économie de demain .",
-    "source": "Maddyness",
-    "source_tier": 1,
-    "url": "https://www.maddyness.com/2026/09/10/analyse-de-donnees-la-start-up-arlequin-ai-leve-28-millions-deuros/",
-    "signal_type": "levee_fonds",
-    "tier": 2,
-    "score": 65,
+    "sous_segment": "entreprise",
+    "compte": "Valeo",
+    "titre": "Magali Castano nommée DRH de Valeo",
+    "description": "Magali Castano nommée DRH de Valeo DECIDEURS MAGAZINE",
+    "source": "DECIDEURS MAGAZINE (via Google News)",
+    "source_tier": 2,
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWmpjRVVBWnR1elQ0OW04X3ZRTDhreEtOSWtsZGpSN2x4VmhFZ2VSdXRMUzZHSUJlcENFOC1lVnU1SmVPRHd0aU5neGFDbVhlcWh5aTJhMkJTX2JKaXB5cmJXd1o1N3Zyel9sR1FJX2h5WmhYNFd0N1JDWXlNQ0ZtNXhvWHd2dWRIOUJjV1ZpVWcwTUFXa3lXY1QyUlZCMEpQUnc?oc=5",
+    "signal_type": "nomination_chro",
+    "tier": 1,
+    "score": 90,
     "produit_match": [
-      "ITS"
+      "ITS",
+      "Tosa Corporate"
     ],
-    "owner": "Charles",
-    "action_reco": "📋 **Source** : https://www.maddyness.com/2026/09/10/analyse-de-donnees-la-start-up-arlequin-ai-leve-28-millions-deuros/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 28.0M EUR (~28.0M€) → Series B+, structuration des processus RH en cours\n🎯 Fenêtre 60j (timing optimal post-Series B)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-09-10",
+    "owner": null,
+    "action_reco": "Fenêtre prise de poste ~30j : InMail/email à la nouvelle DRH (Valeo) — angle outillage évaluation des compétences (ITS + Tosa).",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-09-10",
+    "date_publication": "2026-09-15",
     "email_draft": {
-      "subject": "Arlequin AI — votre Series — sur l'évaluation candidats à scale",
-      "body": "Bonjour,\n\nJe viens de voir que Arlequin AI a bouclé une levée de 28.0M EUR (~28.0M€). Bravo pour cette étape.\n\nPost-Series B, c'est le moment où la plupart des scale-ups structurent leur process d'éval candidats. Avant que le volume devienne incontrôlable.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://www.maddyness.com/2026/09/10/analyse-de-donnees-la-start-up-arlequin-ai-leve-28-millions-deuros/"
+      "subject": "Félicitations pour votre nomination DRH chez Valeo",
+      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez Valeo. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMiogFBVV95cUxOWmpjRVVBWnR1elQ0OW04X3ZRTDhreEtOSWtsZGpSN2x4VmhFZ2VSdXRMUzZHSUJlcENFOC1lVnU1SmVPRHd0aU5neGFDbVhlcWh5aTJhMkJTX2JKaXB5cmJXd1o1N3Zyel9sR1FJX2h5WmhYNFd0N1JDWXlNQ0ZtNXhvWHd2dWRIOUJjV1ZpVWcwTUFXa3lXY1QyUlZCMEpQUnc?oc=5"
     },
     "contacts_cibles": [
       {
-        "poste": "Chief People Officer",
-        "alternatives": [
-          "Head of People",
-          "VP People",
-          "DRH"
-        ],
+        "poste": "La personne nommée (cible directe)",
+        "alternatives": [],
         "priorite": 1,
-        "raison": "Décide outils RH stratégiques post-levée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Arlequin+AI",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Arlequin%20AI%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
-      },
-      {
-        "poste": "Head of Talent Acquisition",
-        "alternatives": [
-          "Talent Acquisition Director",
-          "Head of Recruiting"
-        ],
-        "priorite": 2,
-        "raison": "Opérationnel — gère le plan de recrutement massif",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Arlequin+AI",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Arlequin%20AI%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
-      },
-      {
-        "poste": "Head of Hiring",
-        "alternatives": [
-          "Hiring Manager",
-          "Recruitment Director"
-        ],
-        "priorite": 3,
-        "raison": "Sous-décideur — peut tester l'outil rapidement",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Arlequin+AI",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Arlequin%20AI%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
+        "raison": "Fenêtre 30j post-prise de poste = haute disposition aux nouveaux outils",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22La+personne+nomm%C3%A9e+%28cible+directe%29%22&currentCompany=Valeo",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Valeo%22%20La%20personne%20nomm%C3%A9e%20%28cible%20directe%29"
       }
     ]
   }
