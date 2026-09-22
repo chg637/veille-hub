@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-09-07-df7456f396a1",
-    "date_capture": "2026-09-21",
+    "date_capture": "2026-09-22",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Verisure",
@@ -30,13 +30,13 @@
   },
   {
     "id": "sig-2026-09-09-242b7c786729",
-    "date_capture": "2026-09-21",
+    "date_capture": "2026-09-22",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "blanchisserie Bulle de linge",
     "titre": "La blanchisserie Bulle de linge va recruter 60 à 70 salariés, France Travail les recevra début octobre",
-    "description": "Chomérac. La blanchisserie Bulle de linge va recruter 60 à 70 salariés, France Travail les recevra début octobre ledauphine.com",
-    "source": "ledauphine.com (via Google News)",
+    "description": "Chomérac. La blanchisserie Bulle de linge va recruter 60 à 70 salariés, France Travail les recevra début octobre Le Dauphiné Libéré",
+    "source": "Le Dauphiné Libéré (via Google News)",
     "source_tier": 2,
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQnJJclNGV0VKNTZmemNYWnF5TmlUVktRLVVWb2JIZG15czg1N0RYVV9jQm0yUlZDcjFpeWFiczNrRzBjcXVaSUh0TEpIaXhOM3BEUGFLUG5menRPMlJSRTNicGhyWFdfeENzdUtmWUxKaVAzdjBXLVdZQjZzcHc0QUhZODc1S29XajJWbGRhWlpwazY1Z2hiWU1qMGRndWFhVjhJMTlnX0JKMUE?oc=5",
     "signal_type": "plan_recrutement",
@@ -59,7 +59,7 @@
   },
   {
     "id": "sig-2026-09-09-fa3fb35159ff",
-    "date_capture": "2026-09-21",
+    "date_capture": "2026-09-22",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "L’OPPBTP",
@@ -97,7 +97,7 @@
   },
   {
     "id": "sig-2026-09-10-5f411ee957f1",
-    "date_capture": "2026-09-21",
+    "date_capture": "2026-09-22",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Caisse d’Épargne Côte d’Azur",
@@ -135,7 +135,7 @@
   },
   {
     "id": "sig-2026-09-15-e607ad36453e",
-    "date_capture": "2026-09-21",
+    "date_capture": "2026-09-22",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Valeo",
@@ -172,8 +172,71 @@
     ]
   },
   {
+    "id": "sig-2026-09-22-baccfec4cc93",
+    "date_capture": "2026-09-22",
+    "vertical": "corporate",
+    "sous_segment": "Scale-up / Levée Series B+ (Maddyness)",
+    "compte": "HighLife",
+    "titre": "Cardiologie: HighLife lève près de 80 millions d'euros",
+    "description": "L’article Cardiologie: HighLife lève près de 80 millions d&#039;euros est apparu en premier sur Maddyness - Le média pour comprendre l&#039;économie de demain .",
+    "source": "Maddyness",
+    "source_tier": 1,
+    "url": "https://www.maddyness.com/2026/09/22/cardiologie-highlife-leve-pres-de-80-millions-deuros/",
+    "signal_type": "levee_fonds",
+    "tier": 1,
+    "score": 80,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Source** : https://www.maddyness.com/2026/09/22/cardiologie-highlife-leve-pres-de-80-millions-deuros/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 80.0M EUR (~80.0M€) → scale-up confirmé, plan de recrutement massif sur 12 mois\n🔥 PRIORITÉ — fenêtre 30j (avant que les RH s'organisent)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-09-22",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-09-22",
+    "email_draft": {
+      "subject": "HighLife — votre Series — sur l'évaluation candidats à scale",
+      "body": "Bonjour,\n\nJe viens de voir que HighLife a bouclé une levée de 80.0M EUR (~80.0M€). Bravo pour cette étape.\n\nSur les 12 prochains mois, vous allez probablement recruter 100+ profils. C'est exactement le moment où la qualité du process d'évaluation devient un goulot d'étranglement.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://www.maddyness.com/2026/09/22/cardiologie-highlife-leve-pres-de-80-millions-deuros/"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Chief People Officer",
+        "alternatives": [
+          "Head of People",
+          "VP People",
+          "DRH"
+        ],
+        "priorite": 1,
+        "raison": "Décide outils RH stratégiques post-levée",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=HighLife",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22HighLife%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
+      },
+      {
+        "poste": "Head of Talent Acquisition",
+        "alternatives": [
+          "Talent Acquisition Director",
+          "Head of Recruiting"
+        ],
+        "priorite": 2,
+        "raison": "Opérationnel — gère le plan de recrutement massif",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=HighLife",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22HighLife%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
+      },
+      {
+        "poste": "Head of Hiring",
+        "alternatives": [
+          "Hiring Manager",
+          "Recruitment Director"
+        ],
+        "priorite": 3,
+        "raison": "Sous-décideur — peut tester l'outil rapidement",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=HighLife",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22HighLife%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-09-17-42e5e61ef277",
-    "date_capture": "2026-09-21",
+    "date_capture": "2026-09-22",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Scaleup",
@@ -236,7 +299,7 @@
   },
   {
     "id": "sig-2026-09-15-ef149943acfc",
-    "date_capture": "2026-09-21",
+    "date_capture": "2026-09-22",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Exein",
@@ -294,132 +357,6 @@
         "raison": "Sous-décideur — peut tester l'outil rapidement",
         "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Exein",
         "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Exein%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
-      }
-    ]
-  },
-  {
-    "id": "sig-2026-09-15-184c2ed39abf",
-    "date_capture": "2026-09-21",
-    "vertical": "corporate",
-    "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
-    "compte": "Samsung",
-    "titre": "Samsung and EU Scaleup Fund back efficient AI startup Euclyd in €200m Series A",
-    "description": "",
-    "source": "Sifted",
-    "source_tier": 1,
-    "url": "https://sifted.eu/articles/euclyd-efficient-ai-series-a/",
-    "signal_type": "levee_fonds",
-    "tier": 1,
-    "score": 80,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Source** : https://sifted.eu/articles/euclyd-efficient-ai-series-a/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 200.0M EUR (~200.0M€) → scale-up confirmé, plan de recrutement massif sur 12 mois\n🔥 PRIORITÉ — fenêtre 30j (avant que les RH s'organisent)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-09-15",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-09-15",
-    "email_draft": {
-      "subject": "Samsung — votre Series — sur l'évaluation candidats à scale",
-      "body": "Bonjour,\n\nJe viens de voir que Samsung a bouclé une levée de 200.0M EUR (~200.0M€). Bravo pour cette étape.\n\nSur les 12 prochains mois, vous allez probablement recruter 100+ profils. C'est exactement le moment où la qualité du process d'évaluation devient un goulot d'étranglement.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/euclyd-efficient-ai-series-a/"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Chief People Officer",
-        "alternatives": [
-          "Head of People",
-          "VP People",
-          "DRH"
-        ],
-        "priorite": 1,
-        "raison": "Décide outils RH stratégiques post-levée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Samsung",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Samsung%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
-      },
-      {
-        "poste": "Head of Talent Acquisition",
-        "alternatives": [
-          "Talent Acquisition Director",
-          "Head of Recruiting"
-        ],
-        "priorite": 2,
-        "raison": "Opérationnel — gère le plan de recrutement massif",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Samsung",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Samsung%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
-      },
-      {
-        "poste": "Head of Hiring",
-        "alternatives": [
-          "Hiring Manager",
-          "Recruitment Director"
-        ],
-        "priorite": 3,
-        "raison": "Sous-décideur — peut tester l'outil rapidement",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Samsung",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Samsung%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
-      }
-    ]
-  },
-  {
-    "id": "sig-2026-09-16-9ee61aae6bf8",
-    "date_capture": "2026-09-21",
-    "vertical": "corporate",
-    "sous_segment": "Scale-up / Levée Series B+ (Maddyness)",
-    "compte": "Hackuity",
-    "titre": "Hackuity lève 19 millions de dollars pour contrer les attaques IA",
-    "description": "L’article Hackuity lève 19 millions de dollars pour contrer les attaques IA est apparu en premier sur Maddyness - Le média pour comprendre l&#039;économie de demain .",
-    "source": "Maddyness",
-    "source_tier": 1,
-    "url": "https://www.maddyness.com/2026/09/16/hackuity-leve-19-millions-de-dollars-pour-contrer-les-attaques-ia/",
-    "signal_type": "levee_fonds",
-    "tier": 3,
-    "score": 50,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Source** : https://www.maddyness.com/2026/09/16/hackuity-leve-19-millions-de-dollars-pour-contrer-les-attaques-ia/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 19.0M USD (~17.5M€) → Series A late, signal mais startup encore early\n📌 À surveiller — relancer dans 3-6 mois quand ils auront recruté 30+\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-09-16",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-09-16",
-    "email_draft": {
-      "subject": "Hackuity — votre Series — sur l'évaluation candidats à scale",
-      "body": "Bonjour,\n\nJe viens de voir que Hackuity a bouclé une levée de 19.0M USD (~17.5M€). Bravo pour cette étape.\n\nUne levée à cette taille s'accompagne souvent d'un plan de recrutement ambitieux. Anticiper l'outillage évite la dette technique RH.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://www.maddyness.com/2026/09/16/hackuity-leve-19-millions-de-dollars-pour-contrer-les-attaques-ia/"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Chief People Officer",
-        "alternatives": [
-          "Head of People",
-          "VP People",
-          "DRH"
-        ],
-        "priorite": 1,
-        "raison": "Décide outils RH stratégiques post-levée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Hackuity",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Hackuity%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
-      },
-      {
-        "poste": "Head of Talent Acquisition",
-        "alternatives": [
-          "Talent Acquisition Director",
-          "Head of Recruiting"
-        ],
-        "priorite": 2,
-        "raison": "Opérationnel — gère le plan de recrutement massif",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Hackuity",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Hackuity%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
-      },
-      {
-        "poste": "Head of Hiring",
-        "alternatives": [
-          "Hiring Manager",
-          "Recruitment Director"
-        ],
-        "priorite": 3,
-        "raison": "Sous-décideur — peut tester l'outil rapidement",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Hackuity",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Hackuity%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
       }
     ]
   }
