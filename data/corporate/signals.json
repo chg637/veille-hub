@@ -1,42 +1,13 @@
 [
   {
-    "id": "sig-2026-09-07-df7456f396a1",
-    "date_capture": "2026-09-22",
-    "vertical": "corporate",
-    "sous_segment": "entreprise",
-    "compte": "Verisure",
-    "titre": "Verisure va recruter 60 Experts Sécurité en Occitanie d’ici fin 2026",
-    "description": "Verisure va recruter 60 Experts Sécurité en Occitanie d’ici fin 2026 Entreprises Occitanie",
-    "source": "Entreprises Occitanie (via Google News)",
-    "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNemFRazdMOWY2LUR1TnFOUER6WnR2SGxUeFJUNkpxcmNQd1dHcDNZQVNRV09WdWl5YzU5Q1NqRTNoM3lkc0xVdFBlbDVXQnM4TFg3Vm9nRzJFUVhYQXpuY0o0XzdhenpnRnBpRHVvazVrZ3VIZ3FLbHF1ZWJkcm9GaTJmUnlqT19BR3YzeDhLUFV6b2VnRGN4R1hiOV81RGlXRUdyZkRfUWJsQ0RHeXFnT1ZCMzJES1k?oc=5",
-    "signal_type": "plan_recrutement",
-    "tier": 1,
-    "score": 93,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": null,
-    "action_reco": "Verisure : ~60 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-09-07",
-    "email_draft": {
-      "subject": "Verisure — fiabiliser la pré-qualification de vos recrutements",
-      "body": "Bonjour,\n\nJ'ai lu que Verisure prépare une campagne de recrutement importante (Verisure va recruter 60 Experts Sécurité en Occitanie d’ici fin 2026…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
-      "url_source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNemFRazdMOWY2LUR1TnFOUER6WnR2SGxUeFJUNkpxcmNQd1dHcDNZQVNRV09WdWl5YzU5Q1NqRTNoM3lkc0xVdFBlbDVXQnM4TFg3Vm9nRzJFUVhYQXpuY0o0XzdhenpnRnBpRHVvazVrZ3VIZ3FLbHF1ZWJkcm9GaTJmUnlqT19BR3YzeDhLUFV6b2VnRGN4R1hiOV81RGlXRUdyZkRfUWJsQ0RHeXFnT1ZCMzJES1k?oc=5"
-    },
-    "contacts_cibles": []
-  },
-  {
     "id": "sig-2026-09-09-242b7c786729",
-    "date_capture": "2026-09-22",
+    "date_capture": "2026-09-23",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "blanchisserie Bulle de linge",
     "titre": "La blanchisserie Bulle de linge va recruter 60 à 70 salariés, France Travail les recevra début octobre",
-    "description": "Chomérac. La blanchisserie Bulle de linge va recruter 60 à 70 salariés, France Travail les recevra début octobre Le Dauphiné Libéré",
-    "source": "Le Dauphiné Libéré (via Google News)",
+    "description": "Chomérac. La blanchisserie Bulle de linge va recruter 60 à 70 salariés, France Travail les recevra début octobre ledauphine.com",
+    "source": "ledauphine.com (via Google News)",
     "source_tier": 2,
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQnJJclNGV0VKNTZmemNYWnF5TmlUVktRLVVWb2JIZG15czg1N0RYVV9jQm0yUlZDcjFpeWFiczNrRzBjcXVaSUh0TEpIaXhOM3BEUGFLUG5menRPMlJSRTNicGhyWFdfeENzdUtmWUxKaVAzdjBXLVdZQjZzcHc0QUhZODc1S29XajJWbGRhWlpwazY1Z2hiWU1qMGRndWFhVjhJMTlnX0JKMUE?oc=5",
     "signal_type": "plan_recrutement",
@@ -59,7 +30,7 @@
   },
   {
     "id": "sig-2026-09-09-fa3fb35159ff",
-    "date_capture": "2026-09-22",
+    "date_capture": "2026-09-23",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "L’OPPBTP",
@@ -97,7 +68,7 @@
   },
   {
     "id": "sig-2026-09-10-5f411ee957f1",
-    "date_capture": "2026-09-22",
+    "date_capture": "2026-09-23",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Caisse d’Épargne Côte d’Azur",
@@ -135,13 +106,13 @@
   },
   {
     "id": "sig-2026-09-15-e607ad36453e",
-    "date_capture": "2026-09-22",
+    "date_capture": "2026-09-23",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Valeo",
     "titre": "Magali Castano nommée DRH de Valeo",
-    "description": "Magali Castano nommée DRH de Valeo DECIDEURS MAGAZINE",
-    "source": "DECIDEURS MAGAZINE (via Google News)",
+    "description": "Magali Castano nommée DRH de Valeo Decideurs Magazine",
+    "source": "Decideurs Magazine (via Google News)",
     "source_tier": 2,
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWmpjRVVBWnR1elQ0OW04X3ZRTDhreEtOSWtsZGpSN2x4VmhFZ2VSdXRMUzZHSUJlcENFOC1lVnU1SmVPRHd0aU5neGFDbVhlcWh5aTJhMkJTX2JKaXB5cmJXd1o1N3Zyel9sR1FJX2h5WmhYNFd0N1JDWXlNQ0ZtNXhvWHd2dWRIOUJjV1ZpVWcwTUFXa3lXY1QyUlZCMEpQUnc?oc=5",
     "signal_type": "nomination_chro",
@@ -173,7 +144,7 @@
   },
   {
     "id": "sig-2026-09-22-baccfec4cc93",
-    "date_capture": "2026-09-22",
+    "date_capture": "2026-09-23",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Maddyness)",
     "compte": "HighLife",
@@ -235,8 +206,134 @@
     ]
   },
   {
+    "id": "sig-2026-09-23-918de7ba808c",
+    "date_capture": "2026-09-23",
+    "vertical": "corporate",
+    "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
+    "compte": "Connect Ventures",
+    "titre": "Exclusive: Connect Ventures raises $55m in first close of fifth fund to chase deeptech founders",
+    "description": "",
+    "source": "Sifted",
+    "source_tier": 1,
+    "url": "https://sifted.eu/articles/connect-ventures-55-million-fund-deeptech-founders/",
+    "signal_type": "levee_fonds",
+    "tier": 1,
+    "score": 80,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Source** : https://sifted.eu/articles/connect-ventures-55-million-fund-deeptech-founders/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 55.0M USD (~50.6M€) → scale-up confirmé, plan de recrutement massif sur 12 mois\n🔥 PRIORITÉ — fenêtre 30j (avant que les RH s'organisent)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-09-23",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-09-23",
+    "email_draft": {
+      "subject": "Connect Ventures — votre Series — sur l'évaluation candidats à scale",
+      "body": "Bonjour,\n\nJe viens de voir que Connect Ventures a bouclé une levée de 55.0M USD (~50.6M€). Bravo pour cette étape.\n\nSur les 12 prochains mois, vous allez probablement recruter 100+ profils. C'est exactement le moment où la qualité du process d'évaluation devient un goulot d'étranglement.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/connect-ventures-55-million-fund-deeptech-founders/"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Chief People Officer",
+        "alternatives": [
+          "Head of People",
+          "VP People",
+          "DRH"
+        ],
+        "priorite": 1,
+        "raison": "Décide outils RH stratégiques post-levée",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Connect+Ventures",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Connect%20Ventures%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
+      },
+      {
+        "poste": "Head of Talent Acquisition",
+        "alternatives": [
+          "Talent Acquisition Director",
+          "Head of Recruiting"
+        ],
+        "priorite": 2,
+        "raison": "Opérationnel — gère le plan de recrutement massif",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Connect+Ventures",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Connect%20Ventures%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
+      },
+      {
+        "poste": "Head of Hiring",
+        "alternatives": [
+          "Hiring Manager",
+          "Recruitment Director"
+        ],
+        "priorite": 3,
+        "raison": "Sous-décideur — peut tester l'outil rapidement",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Connect+Ventures",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Connect%20Ventures%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
+      }
+    ]
+  },
+  {
+    "id": "sig-2026-09-22-92d4100a0d61",
+    "date_capture": "2026-09-23",
+    "vertical": "corporate",
+    "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
+    "compte": "Verda",
+    "titre": "Cloud startup Verda raises $189m in funding round led by Emergence Capital",
+    "description": "",
+    "source": "Sifted",
+    "source_tier": 1,
+    "url": "https://sifted.eu/articles/verda-datacrunch-funding-round-emergence-ventures/",
+    "signal_type": "levee_fonds",
+    "tier": 1,
+    "score": 80,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Source** : https://sifted.eu/articles/verda-datacrunch-funding-round-emergence-ventures/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 189.0M USD (~173.9M€) → scale-up confirmé, plan de recrutement massif sur 12 mois\n🔥 PRIORITÉ — fenêtre 30j (avant que les RH s'organisent)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-09-22",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-09-22",
+    "email_draft": {
+      "subject": "Verda — votre Series — sur l'évaluation candidats à scale",
+      "body": "Bonjour,\n\nJe viens de voir que Verda a bouclé une levée de 189.0M USD (~173.9M€). Bravo pour cette étape.\n\nSur les 12 prochains mois, vous allez probablement recruter 100+ profils. C'est exactement le moment où la qualité du process d'évaluation devient un goulot d'étranglement.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/verda-datacrunch-funding-round-emergence-ventures/"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Chief People Officer",
+        "alternatives": [
+          "Head of People",
+          "VP People",
+          "DRH"
+        ],
+        "priorite": 1,
+        "raison": "Décide outils RH stratégiques post-levée",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Verda",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Verda%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
+      },
+      {
+        "poste": "Head of Talent Acquisition",
+        "alternatives": [
+          "Talent Acquisition Director",
+          "Head of Recruiting"
+        ],
+        "priorite": 2,
+        "raison": "Opérationnel — gère le plan de recrutement massif",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Verda",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Verda%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
+      },
+      {
+        "poste": "Head of Hiring",
+        "alternatives": [
+          "Hiring Manager",
+          "Recruitment Director"
+        ],
+        "priorite": 3,
+        "raison": "Sous-décideur — peut tester l'outil rapidement",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Verda",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Verda%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-09-17-42e5e61ef277",
-    "date_capture": "2026-09-22",
+    "date_capture": "2026-09-23",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Scaleup",
@@ -294,69 +391,6 @@
         "raison": "Sous-décideur — peut tester l'outil rapidement",
         "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Scaleup",
         "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Scaleup%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
-      }
-    ]
-  },
-  {
-    "id": "sig-2026-09-15-ef149943acfc",
-    "date_capture": "2026-09-22",
-    "vertical": "corporate",
-    "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
-    "compte": "Exein",
-    "titre": "Exein raises $270m to fight AI hackers, doubles valuation",
-    "description": "",
-    "source": "Sifted",
-    "source_tier": 1,
-    "url": "https://sifted.eu/articles/exein-funding-round-ai-hack-cybersecurity/",
-    "signal_type": "levee_fonds",
-    "tier": 1,
-    "score": 80,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Source** : https://sifted.eu/articles/exein-funding-round-ai-hack-cybersecurity/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 270.0M USD (~248.4M€) → scale-up confirmé, plan de recrutement massif sur 12 mois\n🔥 PRIORITÉ — fenêtre 30j (avant que les RH s'organisent)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-09-15",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-09-15",
-    "email_draft": {
-      "subject": "Exein — votre Series — sur l'évaluation candidats à scale",
-      "body": "Bonjour,\n\nJe viens de voir que Exein a bouclé une levée de 270.0M USD (~248.4M€). Bravo pour cette étape.\n\nSur les 12 prochains mois, vous allez probablement recruter 100+ profils. C'est exactement le moment où la qualité du process d'évaluation devient un goulot d'étranglement.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/exein-funding-round-ai-hack-cybersecurity/"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Chief People Officer",
-        "alternatives": [
-          "Head of People",
-          "VP People",
-          "DRH"
-        ],
-        "priorite": 1,
-        "raison": "Décide outils RH stratégiques post-levée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Exein",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Exein%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
-      },
-      {
-        "poste": "Head of Talent Acquisition",
-        "alternatives": [
-          "Talent Acquisition Director",
-          "Head of Recruiting"
-        ],
-        "priorite": 2,
-        "raison": "Opérationnel — gère le plan de recrutement massif",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Exein",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Exein%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
-      },
-      {
-        "poste": "Head of Hiring",
-        "alternatives": [
-          "Hiring Manager",
-          "Recruitment Director"
-        ],
-        "priorite": 3,
-        "raison": "Sous-décideur — peut tester l'outil rapidement",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Exein",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Exein%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
       }
     ]
   }
