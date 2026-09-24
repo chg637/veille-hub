@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-09-20-4be174267d3e",
-    "date_capture": "2026-09-23",
+    "date_capture": "2026-09-24",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "Jeanjean",
@@ -18,7 +18,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nNommé directeur de l’ESCP fin août, Thomas Jeanjean détaille sa feuille de route pour l'école de commerce parisienne. Le nouveau directeur entend notamment réussir le lancement de la School of…\n\n🎯 **Action à mener**\nNote LinkedIn 100 premiers jours du nouveau DG. Angle « bilan rapide du dispositif certification ». Brief équipe sur les comptes Tosa déjà présents chez Jeanjean.\n\n💡 **Angle pitch ITS/Tosa**\nFenêtre stratégique post-prise de poste : nouveau directeur cherche à poser sa marque. Apport rapide = Tosa pour signal externe + ITS pour structurer la passation.\n\n📅 **Timing**\n30-90 jours après l'annonce. Au-delà, la roadmap est figée.",
-    "deadline_action": "2026-09-30",
+    "deadline_action": "2026-10-01",
     "status": "new",
     "date_publication": "2026-09-20",
     "email_draft": {
@@ -63,7 +63,7 @@
   },
   {
     "id": "sig-2026-09-10-0b7e4dc6b879",
-    "date_capture": "2026-09-23",
+    "date_capture": "2026-09-24",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "Vassy",
@@ -80,7 +80,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nDans sa conférence de rentrée, Luis Vassy a présenté un \"point d’étape\" de sa stratégie développée depuis son arrivée à la tête de Sciences po. Il compte notamment sur l’augmentation du nombre…\n\n🎯 **Action à mener**\nNote LinkedIn 100 premiers jours du nouveau DG. Angle « bilan rapide du dispositif certification ». Brief équipe sur les comptes Tosa déjà présents chez Vassy.\n\n💡 **Angle pitch ITS/Tosa**\nFenêtre stratégique post-prise de poste : nouveau directeur cherche à poser sa marque. Apport rapide = Tosa pour signal externe + ITS pour structurer la passation.\n\n📅 **Timing**\n30-90 jours après l'annonce. Au-delà, la roadmap est figée.",
-    "deadline_action": "2026-09-30",
+    "deadline_action": "2026-10-01",
     "status": "new",
     "date_publication": "2026-09-10",
     "email_draft": {
@@ -125,7 +125,7 @@
   },
   {
     "id": "sig-2026-09-11-e8f0dd270971",
-    "date_capture": "2026-09-23",
+    "date_capture": "2026-09-24",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "Métiers",
@@ -143,7 +143,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nAvec le lancement d’un programme national d’orientation et de découverte des métiers, le gouvernement entend faire mieux connaître la diversité des professions du vivant. L’objectif est de développer…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme Métiers. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-09-30",
+    "deadline_action": "2026-10-01",
     "status": "new",
     "date_publication": "2026-09-11",
     "email_draft": {
@@ -187,8 +187,194 @@
     ]
   },
   {
+    "id": "sig-2026-09-24-71e0e50c1b30",
+    "date_capture": "2026-09-24",
+    "vertical": "education",
+    "sous_segment": "grande-ecole",
+    "compte": "Workday",
+    "titre": "Workday France : Noémie Sadik nommée directrice générale",
+    "description": "Workday France nomme Noémie Sadik directrice générale, avec un plan de 200 M€ sur 3 ans à piloter. L’article Workday France : Noémie Sadik nommée directrice générale est apparu en premier sur Planète Grandes Écoles .",
+    "source": "Planète Grandes Écoles",
+    "source_tier": 2,
+    "url": "https://www.planetegrandesecoles.com/workday-france-noemie-sadik-directrice-generale",
+    "signal_type": "nomination_dg",
+    "tier": 1,
+    "score": 85,
+    "produit_match": [
+      "Pack Education Tosa"
+    ],
+    "owner": null,
+    "action_reco": "📋 **Signal détecté**\nWorkday France nomme Noémie Sadik directrice générale, avec un plan de 200 M€ sur 3 ans à piloter. L’article Workday France : Noémie Sadik nommée directrice générale est apparu en premier sur Planète…\n\n🎯 **Action à mener**\nNote LinkedIn 100 premiers jours du nouveau DG. Angle « bilan rapide du dispositif certification ». Brief équipe sur les comptes Tosa déjà présents chez Workday.\n\n💡 **Angle pitch ITS/Tosa**\nFenêtre stratégique post-prise de poste : nouveau directeur cherche à poser sa marque. Apport rapide = Tosa pour signal externe + ITS pour structurer la passation.\n\n📅 **Timing**\n30-90 jours après l'annonce. Au-delà, la roadmap est figée.",
+    "deadline_action": "2026-10-01",
+    "status": "new",
+    "date_publication": "2026-09-24",
+    "email_draft": {
+      "subject": "Workday — nouvelle direction : quels chantiers évaluation prévus ?",
+      "body": "Bonjour,\n\nJ'ai noté votre arrivée à la direction chez Workday.\nContexte que j'ai vu passer : « Workday France nomme Noémie Sadik directrice générale, avec un plan de 200 M€ sur 3 ans à piloter. L’article Workday France … ».\n\nFélicitations pour cette prise de poste — belle étape.\n\nJe me permets de vous écrire car beaucoup de directeurs récemment nommés dans le supérieur partagent le même constat à 60-90 jours : besoin de poser rapidement une stratégie claire sur l'évaluation des compétences étudiants — pour répondre aux exigences Qualiopi/RNCP et aux attentes des entreprises partenaires.\n\nChez Isograd, deux solutions utilisées par des écoles comparables :\n\n1. **Tosa** — certification des compétences numériques étudiants (bureautique, code, digital). Argument fort en diplômation, CV, et classements.\n\n2. **ITS** — plateforme d'hébergement d'examens en ligne avec proctoring et banque de questions, opposable en audit.\n\n15 minutes pour vous montrer ce que d'autres directions ont mis en place dans leurs premiers mois ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource de l'info : https://www.planetegrandesecoles.com/workday-france-noemie-sadik-directrice-generale"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Le(la) nouveau(elle) directeur(rice) directement",
+        "alternatives": [
+          "Directeur(rice) général(e)",
+          "Présidence"
+        ],
+        "priorite": 1,
+        "raison": "Fenêtre 30-90j post-prise de poste — ouvert aux nouveaux chantiers",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Le%28la%29+nouveau%28elle%29+directeur%28rice%29+directement%22+OR+%22Directeur%28rice%29+g%C3%A9n%C3%A9ral%28e%29%22+OR+%22Pr%C3%A9sidence%22&currentCompany=Workday",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Workday%22%20Le%28la%29%20nouveau%28elle%29%20directeur%28rice%29%20directement%20Directeur%28rice%29%20g%C3%A9n%C3%A9ral%28e%29%20Pr%C3%A9sidence"
+      },
+      {
+        "poste": "Directeur(rice) de cabinet / Adjoint(e)",
+        "alternatives": [
+          "Bras droit",
+          "Chief of Staff"
+        ],
+        "priorite": 2,
+        "raison": "Pré-qualifie les dossiers stratégiques du nouveau directeur",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+de+cabinet+%2F+Adjoint%28e%29%22+OR+%22Bras+droit%22+OR+%22Chief+of+Staff%22&currentCompany=Workday",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Workday%22%20Directeur%28rice%29%20de%20cabinet%20/%20Adjoint%28e%29%20Bras%20droit%20Chief%20of%20Staff"
+      },
+      {
+        "poste": "Directeur(rice) des programmes / Académique",
+        "alternatives": [
+          "Doyen",
+          "VP Pédagogie"
+        ],
+        "priorite": 3,
+        "raison": "Souvent en pleine relecture de la roadmap pédagogique post-nomination",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+des+programmes+%2F+Acad%C3%A9mique%22+OR+%22Doyen%22+OR+%22VP+P%C3%A9dagogie%22&currentCompany=Workday",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Workday%22%20Directeur%28rice%29%20des%20programmes%20/%20Acad%C3%A9mique%20Doyen%20VP%20P%C3%A9dagogie"
+      }
+    ]
+  },
+  {
+    "id": "sig-2026-09-23-78cc07747c91",
+    "date_capture": "2026-09-24",
+    "vertical": "education",
+    "sous_segment": "grande-ecole",
+    "compte": "Centrale Lille",
+    "titre": "Jérôme Fortin nommé directeur de l’ENSCL, l’école de chimie de Centrale Lille",
+    "description": "Directeur de l'ENSCL : Jérôme Fortin succède à Rose-Noëlle Vannier et détaille ses priorités. L’article Jérôme Fortin nommé directeur de l ENSCL, l école de chimie de Centrale Lille est apparu en premier sur Planète Grandes Écoles .",
+    "source": "Planète Grandes Écoles",
+    "source_tier": 2,
+    "url": "https://www.planetegrandesecoles.com/jerome-fortin-directeur-enscl",
+    "signal_type": "nomination_dg",
+    "tier": 1,
+    "score": 85,
+    "produit_match": [
+      "Pack Education Tosa"
+    ],
+    "owner": null,
+    "action_reco": "📋 **Signal détecté**\nDirecteur de l'ENSCL : Jérôme Fortin succède à Rose-Noëlle Vannier et détaille ses priorités. L’article Jérôme Fortin nommé directeur de l ENSCL, l école de chimie de Centrale Lille est apparu en…\n\n🎯 **Action à mener**\nNote LinkedIn 100 premiers jours du nouveau DG. Angle « bilan rapide du dispositif certification ». Brief équipe sur les comptes Tosa déjà présents chez Centrale Lille.\n\n💡 **Angle pitch ITS/Tosa**\nFenêtre stratégique post-prise de poste : nouveau directeur cherche à poser sa marque. Apport rapide = Tosa pour signal externe + ITS pour structurer la passation.\n\n📅 **Timing**\n30-90 jours après l'annonce. Au-delà, la roadmap est figée.",
+    "deadline_action": "2026-10-01",
+    "status": "new",
+    "date_publication": "2026-09-23",
+    "email_draft": {
+      "subject": "Centrale Lille — nouvelle direction : quels chantiers évaluation prévus ?",
+      "body": "Bonjour,\n\nJ'ai noté votre arrivée à la direction chez Centrale Lille.\nContexte que j'ai vu passer : « Directeur de l'ENSCL : Jérôme Fortin succède à Rose-Noëlle Vannier et détaille ses priorités. L’article Jérôme Fortin nommé… ».\n\nFélicitations pour cette prise de poste — belle étape.\n\nJe me permets de vous écrire car beaucoup de directeurs récemment nommés dans le supérieur partagent le même constat à 60-90 jours : besoin de poser rapidement une stratégie claire sur l'évaluation des compétences étudiants — pour répondre aux exigences Qualiopi/RNCP et aux attentes des entreprises partenaires.\n\nChez Isograd, deux solutions utilisées par des écoles comparables :\n\n1. **Tosa** — certification des compétences numériques étudiants (bureautique, code, digital). Argument fort en diplômation, CV, et classements.\n\n2. **ITS** — plateforme d'hébergement d'examens en ligne avec proctoring et banque de questions, opposable en audit.\n\n15 minutes pour vous montrer ce que d'autres directions ont mis en place dans leurs premiers mois ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource de l'info : https://www.planetegrandesecoles.com/jerome-fortin-directeur-enscl"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Le(la) nouveau(elle) directeur(rice) directement",
+        "alternatives": [
+          "Directeur(rice) général(e)",
+          "Présidence"
+        ],
+        "priorite": 1,
+        "raison": "Fenêtre 30-90j post-prise de poste — ouvert aux nouveaux chantiers",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Le%28la%29+nouveau%28elle%29+directeur%28rice%29+directement%22+OR+%22Directeur%28rice%29+g%C3%A9n%C3%A9ral%28e%29%22+OR+%22Pr%C3%A9sidence%22&currentCompany=Centrale+Lille",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Centrale%20Lille%22%20Le%28la%29%20nouveau%28elle%29%20directeur%28rice%29%20directement%20Directeur%28rice%29%20g%C3%A9n%C3%A9ral%28e%29%20Pr%C3%A9sidence"
+      },
+      {
+        "poste": "Directeur(rice) de cabinet / Adjoint(e)",
+        "alternatives": [
+          "Bras droit",
+          "Chief of Staff"
+        ],
+        "priorite": 2,
+        "raison": "Pré-qualifie les dossiers stratégiques du nouveau directeur",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+de+cabinet+%2F+Adjoint%28e%29%22+OR+%22Bras+droit%22+OR+%22Chief+of+Staff%22&currentCompany=Centrale+Lille",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Centrale%20Lille%22%20Directeur%28rice%29%20de%20cabinet%20/%20Adjoint%28e%29%20Bras%20droit%20Chief%20of%20Staff"
+      },
+      {
+        "poste": "Directeur(rice) des programmes / Académique",
+        "alternatives": [
+          "Doyen",
+          "VP Pédagogie"
+        ],
+        "priorite": 3,
+        "raison": "Souvent en pleine relecture de la roadmap pédagogique post-nomination",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+des+programmes+%2F+Acad%C3%A9mique%22+OR+%22Doyen%22+OR+%22VP+P%C3%A9dagogie%22&currentCompany=Centrale+Lille",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Centrale%20Lille%22%20Directeur%28rice%29%20des%20programmes%20/%20Acad%C3%A9mique%20Doyen%20VP%20P%C3%A9dagogie"
+      }
+    ]
+  },
+  {
+    "id": "sig-2026-09-23-d4dec66f3956",
+    "date_capture": "2026-09-24",
+    "vertical": "education",
+    "sous_segment": "grande-ecole",
+    "compte": "ISEG",
+    "titre": "ISEG : Guillaume Devianne nommé directeur général, Dina Brassart directrice générale adjointe",
+    "description": "ISEG directeur général : Guillaume Devianne succède à Adrienne Jablanczy, avec Dina Brassart en adjointe. L’article ISEG : Guillaume Devianne nommé directeur général, Dina Brassart directrice générale adjointe est apparu en premier sur Planète Grandes Écoles .",
+    "source": "Planète Grandes Écoles",
+    "source_tier": 2,
+    "url": "https://www.planetegrandesecoles.com/iseg-directeur-general",
+    "signal_type": "nomination_dg",
+    "tier": 1,
+    "score": 85,
+    "produit_match": [
+      "Pack Education Tosa"
+    ],
+    "owner": null,
+    "action_reco": "📋 **Signal détecté**\nISEG directeur général : Guillaume Devianne succède à Adrienne Jablanczy, avec Dina Brassart en adjointe. L’article ISEG : Guillaume Devianne nommé directeur général, Dina Brassart directrice…\n\n🎯 **Action à mener**\nNote LinkedIn 100 premiers jours du nouveau DG. Angle « bilan rapide du dispositif certification ». Brief équipe sur les comptes Tosa déjà présents chez ISEG.\n\n💡 **Angle pitch ITS/Tosa**\nFenêtre stratégique post-prise de poste : nouveau directeur cherche à poser sa marque. Apport rapide = Tosa pour signal externe + ITS pour structurer la passation.\n\n📅 **Timing**\n30-90 jours après l'annonce. Au-delà, la roadmap est figée.",
+    "deadline_action": "2026-10-01",
+    "status": "new",
+    "date_publication": "2026-09-23",
+    "email_draft": {
+      "subject": "ISEG — nouvelle direction : quels chantiers évaluation prévus ?",
+      "body": "Bonjour,\n\nJ'ai noté votre arrivée à la direction chez ISEG.\nContexte que j'ai vu passer : « ISEG directeur général : Guillaume Devianne succède à Adrienne Jablanczy, avec Dina Brassart en adjointe. L’article ISEG … ».\n\nFélicitations pour cette prise de poste — belle étape.\n\nJe me permets de vous écrire car beaucoup de directeurs récemment nommés dans le supérieur partagent le même constat à 60-90 jours : besoin de poser rapidement une stratégie claire sur l'évaluation des compétences étudiants — pour répondre aux exigences Qualiopi/RNCP et aux attentes des entreprises partenaires.\n\nChez Isograd, deux solutions utilisées par des écoles comparables :\n\n1. **Tosa** — certification des compétences numériques étudiants (bureautique, code, digital). Argument fort en diplômation, CV, et classements.\n\n2. **ITS** — plateforme d'hébergement d'examens en ligne avec proctoring et banque de questions, opposable en audit.\n\n15 minutes pour vous montrer ce que d'autres directions ont mis en place dans leurs premiers mois ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource de l'info : https://www.planetegrandesecoles.com/iseg-directeur-general"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Le(la) nouveau(elle) directeur(rice) directement",
+        "alternatives": [
+          "Directeur(rice) général(e)",
+          "Présidence"
+        ],
+        "priorite": 1,
+        "raison": "Fenêtre 30-90j post-prise de poste — ouvert aux nouveaux chantiers",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Le%28la%29+nouveau%28elle%29+directeur%28rice%29+directement%22+OR+%22Directeur%28rice%29+g%C3%A9n%C3%A9ral%28e%29%22+OR+%22Pr%C3%A9sidence%22&currentCompany=ISEG",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ISEG%22%20Le%28la%29%20nouveau%28elle%29%20directeur%28rice%29%20directement%20Directeur%28rice%29%20g%C3%A9n%C3%A9ral%28e%29%20Pr%C3%A9sidence"
+      },
+      {
+        "poste": "Directeur(rice) de cabinet / Adjoint(e)",
+        "alternatives": [
+          "Bras droit",
+          "Chief of Staff"
+        ],
+        "priorite": 2,
+        "raison": "Pré-qualifie les dossiers stratégiques du nouveau directeur",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+de+cabinet+%2F+Adjoint%28e%29%22+OR+%22Bras+droit%22+OR+%22Chief+of+Staff%22&currentCompany=ISEG",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ISEG%22%20Directeur%28rice%29%20de%20cabinet%20/%20Adjoint%28e%29%20Bras%20droit%20Chief%20of%20Staff"
+      },
+      {
+        "poste": "Directeur(rice) des programmes / Académique",
+        "alternatives": [
+          "Doyen",
+          "VP Pédagogie"
+        ],
+        "priorite": 3,
+        "raison": "Souvent en pleine relecture de la roadmap pédagogique post-nomination",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+des+programmes+%2F+Acad%C3%A9mique%22+OR+%22Doyen%22+OR+%22VP+P%C3%A9dagogie%22&currentCompany=ISEG",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ISEG%22%20Directeur%28rice%29%20des%20programmes%20/%20Acad%C3%A9mique%20Doyen%20VP%20P%C3%A9dagogie"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-09-23-0b4ea7b033f3",
-    "date_capture": "2026-09-23",
+    "date_capture": "2026-09-24",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "Bouygues Construction",
@@ -205,7 +391,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nClotilde Solier, diplômée NEOMA, nommée directrice financière de Bouygues Construction. L’article Clotilde Solier nommée directrice financière de Bouygues Construction est apparu en premier sur…\n\n🎯 **Action à mener**\nNote LinkedIn 100 premiers jours du nouveau DG. Angle « bilan rapide du dispositif certification ». Brief équipe sur les comptes Tosa déjà présents chez Bouygues Construction.\n\n💡 **Angle pitch ITS/Tosa**\nFenêtre stratégique post-prise de poste : nouveau directeur cherche à poser sa marque. Apport rapide = Tosa pour signal externe + ITS pour structurer la passation.\n\n📅 **Timing**\n30-90 jours après l'annonce. Au-delà, la roadmap est figée.",
-    "deadline_action": "2026-09-30",
+    "deadline_action": "2026-10-01",
     "status": "new",
     "date_publication": "2026-09-23",
     "email_draft": {
@@ -250,7 +436,7 @@
   },
   {
     "id": "sig-2026-09-16-25311d0e2985",
-    "date_capture": "2026-09-23",
+    "date_capture": "2026-09-24",
     "vertical": "education",
     "sous_segment": "programme-ia",
     "compte": "IA… François Thérin",
@@ -267,7 +453,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nArrivé à la tête d’ICN au lendemain du 120e anniversaire de la business school, François Thérin annonce le lancement d’un nouveau Bachelor of Science &#38; Arts in Business qui ouvrira sur les campus…\n\n🎯 **Action à mener**\nNote LinkedIn 100 premiers jours du nouveau DG. Angle « bilan rapide du dispositif certification ». Brief équipe sur les comptes Tosa déjà présents chez IA… François Thérin.\n\n💡 **Angle pitch ITS/Tosa**\nFenêtre stratégique post-prise de poste : nouveau directeur cherche à poser sa marque. Apport rapide = Tosa pour signal externe + ITS pour structurer la passation.\n\n📅 **Timing**\n30-90 jours après l'annonce. Au-delà, la roadmap est figée.",
-    "deadline_action": "2026-09-30",
+    "deadline_action": "2026-10-01",
     "status": "new",
     "date_publication": "2026-09-16",
     "email_draft": {
@@ -312,7 +498,7 @@
   },
   {
     "id": "sig-2026-09-16-018b9ce56057",
-    "date_capture": "2026-09-23",
+    "date_capture": "2026-09-24",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "NEOMA",
@@ -329,7 +515,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nNEOMA Business School fait évoluer la direction de son Programme Grande École. En cette rentrée 2026, Barbara Giraud prend la tête du PGE de l&#8217;école, succédant à Imen Mejri, qui occupait ce…\n\n🎯 **Action à mener**\nNote LinkedIn 100 premiers jours du nouveau DG. Angle « bilan rapide du dispositif certification ». Brief équipe sur les comptes Tosa déjà présents chez NEOMA.\n\n💡 **Angle pitch ITS/Tosa**\nFenêtre stratégique post-prise de poste : nouveau directeur cherche à poser sa marque. Apport rapide = Tosa pour signal externe + ITS pour structurer la passation.\n\n📅 **Timing**\n30-90 jours après l'annonce. Au-delà, la roadmap est figée.",
-    "deadline_action": "2026-09-30",
+    "deadline_action": "2026-10-01",
     "status": "new",
     "date_publication": "2026-09-16",
     "email_draft": {
@@ -374,7 +560,7 @@
   },
   {
     "id": "sig-2026-09-10-ba708a9963cd",
-    "date_capture": "2026-09-23",
+    "date_capture": "2026-09-24",
     "vertical": "education",
     "sous_segment": "programme-ia",
     "compte": "IMT-BS",
@@ -391,7 +577,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nInstitut Mines-Télécom Business School confie la direction de son Programme Grande École à Philippe Castelnau. Présent au sein de l’établissement depuis vingt ans, l’enseignant-chercheur prend les…\n\n🎯 **Action à mener**\nNote LinkedIn 100 premiers jours du nouveau DG. Angle « bilan rapide du dispositif certification ». Brief équipe sur les comptes Tosa déjà présents chez IMT-BS.\n\n💡 **Angle pitch ITS/Tosa**\nFenêtre stratégique post-prise de poste : nouveau directeur cherche à poser sa marque. Apport rapide = Tosa pour signal externe + ITS pour structurer la passation.\n\n📅 **Timing**\n30-90 jours après l'annonce. Au-delà, la roadmap est figée.",
-    "deadline_action": "2026-09-30",
+    "deadline_action": "2026-10-01",
     "status": "new",
     "date_publication": "2026-09-10",
     "email_draft": {
@@ -436,7 +622,7 @@
   },
   {
     "id": "sig-2026-09-23-e6ef2ca695c3",
-    "date_capture": "2026-09-23",
+    "date_capture": "2026-09-24",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "Rentrée",
@@ -454,7 +640,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nVous connaissiez l’IÉSEG comme un leader de la formation post bac&#160;? En cette rentrée 2026, l’école entend ajouter une corde à son arc en devenant «&#160;le leader de la formation tout au long de…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme Rentrée. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-09-30",
+    "deadline_action": "2026-10-01",
     "status": "new",
     "date_publication": "2026-09-23",
     "email_draft": {
@@ -499,7 +685,7 @@
   },
   {
     "id": "sig-2026-09-22-b48d35faf012",
-    "date_capture": "2026-09-23",
+    "date_capture": "2026-09-24",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "MBS",
@@ -517,7 +703,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nMBS institut franco-chinois à Chengdu : nouveau partenariat avec SWUFE, 250 étudiants dès 2026. L’article MBS crée un institut franco-chinois : un nouveau partenariat avec SWUFE à Chengdu est apparu…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme MBS. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-09-30",
+    "deadline_action": "2026-10-01",
     "status": "new",
     "date_publication": "2026-09-22",
     "email_draft": {
@@ -561,8 +747,134 @@
     ]
   },
   {
+    "id": "sig-2026-09-24-c7d0122871a7",
+    "date_capture": "2026-09-24",
+    "vertical": "education",
+    "sous_segment": "grande-ecole",
+    "compte": "Bien choisir son bureau professionnel quand on",
+    "titre": "Bien choisir son bureau professionnel quand on lance son activité",
+    "description": "Lorsqu’on démarre son activité, le bureau devient souvent le centre de l’organisation interne. Comment faire un choix raisonnable en matière de mobilier de bureau quand on se met à son compte sans connaître exactement ses besoins ? L’objectif n’est pas de concevoir un bureau parfait, mais plutôt un bureau modulable, qui s’adapte à votre activité, [&#8230;] Cet article Bien choisir son bureau profe",
+    "source": "Business Cool",
+    "source_tier": 2,
+    "url": "https://business-cool.com/entreprendre/bien-choisir-son-bureau-professionnel-quand-on-lance-son-activite/",
+    "signal_type": "nouvelle_formation",
+    "tier": 1,
+    "score": 80,
+    "produit_match": [
+      "Pack Education Tosa",
+      "Cert IA"
+    ],
+    "owner": null,
+    "action_reco": "📋 **Signal détecté**\nLorsqu’on démarre son activité, le bureau devient souvent le centre de l’organisation interne. Comment faire un choix raisonnable en matière de mobilier de bureau quand on se met à son compte sans…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme Bien choisir son bureau professionnel quand on. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
+    "deadline_action": "2026-10-01",
+    "status": "new",
+    "date_publication": "2026-09-24",
+    "email_draft": {
+      "subject": "Bien choisir son bureau professionnel quand on — Lorsqu’on démarre son activité, le bureau : quelle évaluation prévue ?",
+      "body": "Bonjour,\n\nJ'ai vu votre actualité : « Lorsqu’on démarre son activité, le bureau devient souvent le centre de l’organisation interne. Comment faire un choix… ». Beau lancement.\n\nSur ce type de nouveau programme, le timing pour penser le dispositif d'évaluation des compétences est en général la période juste avant la première cohorte — ça permet de cadrer proprement la maquette pédagogique et les outils.\n\nChez Isograd, on opère 2 solutions complémentaires pour un programme comme le vôtre :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital). Argument concret en diplômation, sur le CV et auprès des entreprises partenaires.\n\n2. **ITS** pour héberger les sessions d'examen en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\nDéploiement en 4-6 semaines, budget calibré sur le volume étudiants. 15 minutes pour échanger sur votre cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://business-cool.com/entreprendre/bien-choisir-son-bureau-professionnel-quand-on-lance-son-activite/"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Responsable du programme / Directeur(rice) de la formation",
+        "alternatives": [
+          "Coordinateur(rice) pédagogique",
+          "Responsable de filière"
+        ],
+        "priorite": 1,
+        "raison": "Définit le dispositif d'évaluation du nouveau programme",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+du+programme+%2F+Directeur%28rice%29+de+la+formation%22+OR+%22Coordinateur%28rice%29+p%C3%A9dagogique%22+OR+%22Responsable+de+fili%C3%A8re%22&currentCompany=Bien+choisir+son+bureau+professionnel+quand+on",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Bien%20choisir%20son%20bureau%20professionnel%20quand%20on%22%20Responsable%20du%20programme%20/%20Directeur%28rice%29%20de%20la%20formation%20Coordinateur%28rice%29%20p%C3%A9dagogique%20Responsable%20de%20fili%C3%A8re"
+      },
+      {
+        "poste": "Doyen / Directeur(rice) académique",
+        "alternatives": [
+          "VP Pédagogie",
+          "Directeur(rice) des études"
+        ],
+        "priorite": 2,
+        "raison": "Arbitrage sur l'outillage évaluation à l'échelle de l'établissement",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Doyen+%2F+Directeur%28rice%29+acad%C3%A9mique%22+OR+%22VP+P%C3%A9dagogie%22+OR+%22Directeur%28rice%29+des+%C3%A9tudes%22&currentCompany=Bien+choisir+son+bureau+professionnel+quand+on",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Bien%20choisir%20son%20bureau%20professionnel%20quand%20on%22%20Doyen%20/%20Directeur%28rice%29%20acad%C3%A9mique%20VP%20P%C3%A9dagogie%20Directeur%28rice%29%20des%20%C3%A9tudes"
+      },
+      {
+        "poste": "Responsable RNCP / Certifications",
+        "alternatives": [
+          "Référent qualité",
+          "Responsable Qualiopi"
+        ],
+        "priorite": 3,
+        "raison": "Cadrage Qualiopi / preuve d'évaluation pour la certification",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+Certifications%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22+OR+%22Responsable+Qualiopi%22&currentCompany=Bien+choisir+son+bureau+professionnel+quand+on",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Bien%20choisir%20son%20bureau%20professionnel%20quand%20on%22%20Responsable%20RNCP%20/%20Certifications%20R%C3%A9f%C3%A9rent%20qualit%C3%A9%20Responsable%20Qualiopi"
+      }
+    ]
+  },
+  {
+    "id": "sig-2026-09-23-119c6416057c",
+    "date_capture": "2026-09-24",
+    "vertical": "education",
+    "sous_segment": "grande-ecole",
+    "compte": "Concours",
+    "titre": "Concours ACCÈS : les changements annoncés pour la rentrée 2027",
+    "description": "Le Concours ACCÈS fait évoluer son modèle. Après une session 2026 qui a réuni plus de 5 000 candidats en post-bac, le concours commun à l’ESDES, l’ESSCA et l’IÉSEG va revoir ses modalités de sélection. Principal changement annoncé : les épreuves écrites vont laisser leur place à une sélection sur dossier pour les candidats post-bac. [&#8230;] Cet article Concours ACCÈS : les changements annoncés p",
+    "source": "Business Cool",
+    "source_tier": 2,
+    "url": "https://business-cool.com/actualites/actu-ecoles/concours-acces-les-changements-annonces-pour-la-rentree-2027/",
+    "signal_type": "nouvelle_formation",
+    "tier": 1,
+    "score": 80,
+    "produit_match": [
+      "Pack Education Tosa",
+      "Cert IA"
+    ],
+    "owner": null,
+    "action_reco": "📋 **Signal détecté**\nLe Concours ACCÈS fait évoluer son modèle. Après une session 2026 qui a réuni plus de 5 000 candidats en post-bac, le concours commun à l’ESDES, l’ESSCA et l’IÉSEG va revoir ses modalités de…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme Concours. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
+    "deadline_action": "2026-10-01",
+    "status": "new",
+    "date_publication": "2026-09-23",
+    "email_draft": {
+      "subject": "Concours — Le Concours ACCÈS fait évoluer son : quelle évaluation prévue ?",
+      "body": "Bonjour,\n\nJ'ai vu votre actualité : « Le Concours ACCÈS fait évoluer son modèle. Après une session 2026 qui a réuni plus de 5 000 candidats en post-bac, le… ». Beau lancement.\n\nSur ce type de nouveau programme, le timing pour penser le dispositif d'évaluation des compétences est en général la période juste avant la première cohorte — ça permet de cadrer proprement la maquette pédagogique et les outils.\n\nChez Isograd, on opère 2 solutions complémentaires pour un programme comme le vôtre :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital). Argument concret en diplômation, sur le CV et auprès des entreprises partenaires.\n\n2. **ITS** pour héberger les sessions d'examen en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\nDéploiement en 4-6 semaines, budget calibré sur le volume étudiants. 15 minutes pour échanger sur votre cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://business-cool.com/actualites/actu-ecoles/concours-acces-les-changements-annonces-pour-la-rentree-2027/"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Responsable du programme / Directeur(rice) de la formation",
+        "alternatives": [
+          "Coordinateur(rice) pédagogique",
+          "Responsable de filière"
+        ],
+        "priorite": 1,
+        "raison": "Définit le dispositif d'évaluation du nouveau programme",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+du+programme+%2F+Directeur%28rice%29+de+la+formation%22+OR+%22Coordinateur%28rice%29+p%C3%A9dagogique%22+OR+%22Responsable+de+fili%C3%A8re%22&currentCompany=Concours",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Concours%22%20Responsable%20du%20programme%20/%20Directeur%28rice%29%20de%20la%20formation%20Coordinateur%28rice%29%20p%C3%A9dagogique%20Responsable%20de%20fili%C3%A8re"
+      },
+      {
+        "poste": "Doyen / Directeur(rice) académique",
+        "alternatives": [
+          "VP Pédagogie",
+          "Directeur(rice) des études"
+        ],
+        "priorite": 2,
+        "raison": "Arbitrage sur l'outillage évaluation à l'échelle de l'établissement",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Doyen+%2F+Directeur%28rice%29+acad%C3%A9mique%22+OR+%22VP+P%C3%A9dagogie%22+OR+%22Directeur%28rice%29+des+%C3%A9tudes%22&currentCompany=Concours",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Concours%22%20Doyen%20/%20Directeur%28rice%29%20acad%C3%A9mique%20VP%20P%C3%A9dagogie%20Directeur%28rice%29%20des%20%C3%A9tudes"
+      },
+      {
+        "poste": "Responsable RNCP / Certifications",
+        "alternatives": [
+          "Référent qualité",
+          "Responsable Qualiopi"
+        ],
+        "priorite": 3,
+        "raison": "Cadrage Qualiopi / preuve d'évaluation pour la certification",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+Certifications%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22+OR+%22Responsable+Qualiopi%22&currentCompany=Concours",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Concours%22%20Responsable%20RNCP%20/%20Certifications%20R%C3%A9f%C3%A9rent%20qualit%C3%A9%20Responsable%20Qualiopi"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-09-22-fc13ec2bd85a",
-    "date_capture": "2026-09-23",
+    "date_capture": "2026-09-24",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "Changement d’identité pour SKEMA qui",
@@ -580,7 +892,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\n« SKEMA ne laisse personne indifférent », observe Alice Guilon en dévoilant à la presse et à ses partenaires le changement d’identité de la business school qu’elle dirige depuis 2009. Le nouveau logo…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme Changement d’identité pour SKEMA qui. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-09-30",
+    "deadline_action": "2026-10-01",
     "status": "new",
     "date_publication": "2026-09-22",
     "email_draft": {
@@ -625,7 +937,7 @@
   },
   {
     "id": "sig-2026-09-17-f7d0e93d93a2",
-    "date_capture": "2026-09-23",
+    "date_capture": "2026-09-24",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "Audencia",
@@ -643,7 +955,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nCe jeudi 17 septembre marque l’inauguration du nouveau campus d’Audencia à Barcelone et la rentrée de ses premiers étudiants. Développé en collaboration avec ESCI-UPF (Escola Superior de Comerç…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme Audencia. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-09-30",
+    "deadline_action": "2026-10-01",
     "status": "new",
     "date_publication": "2026-09-17",
     "email_draft": {
@@ -688,7 +1000,7 @@
   },
   {
     "id": "sig-stable-4cc03b95f797",
-    "date_capture": "2026-09-23",
+    "date_capture": "2026-09-24",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "Universite de Technologie de Troyes (UTT)",
@@ -708,7 +1020,7 @@
     "action_reco": "📋 **Signal détecté**\nBachelor IA - cursus 3 ans\n\n🎯 **Action à mener**\nA croiser site UTT + LinkedIn avant contact\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-09-23",
+    "date_publication": "2026-09-24",
     "email_draft": {
       "subject": "Universite de Technologie de Troyes (UTT) — Bachelor IA - cursus 3 ans : quelle évaluation prévue ?",
       "body": "Bonjour,\n\nJ'ai vu votre actualité : « Bachelor IA - cursus 3 ans ». Beau lancement.\n\nSur ce type de nouveau programme, le timing pour penser le dispositif d'évaluation des compétences est en général la période juste avant la première cohorte — ça permet de cadrer proprement la maquette pédagogique et les outils.\n\nChez Isograd, on opère 2 solutions complémentaires pour un programme comme le vôtre :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital). Argument concret en diplômation, sur le CV et auprès des entreprises partenaires.\n\n2. **ITS** pour héberger les sessions d'examen en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\n3. **Cert IA** — notre badge co-construit avec des écoles partenaires pour les programmes IA. Concrètement, vos étudiants ressortent du programme avec une certification externe sur les compétences IA appliquées. On a une program beta en cours, vous pourriez en faire partie.\n\nDéploiement en 4-6 semaines, budget calibré sur le volume étudiants. 15 minutes pour échanger sur votre cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://www.letudiant.fr/etudes/lactu-des-formations-de-nouveaux-cursus-en-ia-dans-le-superieur.html"
