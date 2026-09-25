@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-05-19-c8342a26e939",
-    "date_capture": "2026-09-24",
+    "date_capture": "2026-09-25",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "Université Paris-Saclay",
@@ -53,7 +53,7 @@
   },
   {
     "id": "sig-2026-05-11-64ab3dd75a34",
-    "date_capture": "2026-09-24",
+    "date_capture": "2026-09-25",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "NEOMA Business School (Reims)",
@@ -104,8 +104,60 @@
     ]
   },
   {
+    "id": "sig-2026-09-24-142805489ff0",
+    "date_capture": "2026-09-25",
+    "vertical": "ao",
+    "sous_segment": "Marché public — secteur à qualifier",
+    "compte": "SERVICE PUBLIC FÉDÉRAL STRATÉGIE ET APPUI",
+    "titre": "Belgique – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – ACHAT ET IMPLÉMENTATION D’UNE PLATEFORME DE TESTS ONLINE CONTENANT DES QUESTIONNAIRES DE ",
+    "description": "[CPV 72000000] ACHAT ET IMPLÉMENTATION D’UNE PLATEFORME DE TESTS ONLINE CONTENANT DES QUESTIONNAIRES DE PERSONNALITÉ ET LA MISE À DISPOSITION D’OUTILS DE FORMATION À L’INTERPRÉTATION ET À L’UTILISATION DES RAPPORTS",
+    "source": "TED (via Radar AO)",
+    "source_tier": 1,
+    "url": "https://ted.europa.eu/fr/notice/-/detail/657207-2026",
+    "signal_type": "ao_publie",
+    "tier": 1,
+    "score": 80,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Récupérer le DCE complet** sur https://ted.europa.eu/fr/notice/-/detail/657207-2026\n🎯 **Décideur cible** : À enrichir via LinkedIn Sales Nav + site officiel de l'acheteur\n💡 **Angle de valeur** : ITS comme plateforme d'évaluation : sécurité examens, RGPD UE, accessibilité RGAA, intégration LMS/ERP\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS à mapper via questions de cadrage : Explorance, EvaluationKIT, Sphinx, EvalandGo, ExamSoft, plateformes internes\n⏰ Deadline : 2026-10-05 → calculer J-jours et caler les ressources dès maintenant.",
+    "deadline_action": "2026-10-05",
+    "status": "new",
+    "date_publication": "2026-09-24",
+    "email_draft": {
+      "subject": "AO SERVICE PUBLIC FÉDÉRAL STRATÉGIE ET APPUI — ISOGRAD souhaite candidater",
+      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"Belgique – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – ACHAT ET IMPLÉMENTATION D’UNE PLATEFORME DE TESTS ONLINE CONTENANT DES QUESTIONNAIRES DE PERSONNALITÉ ET LA MISE À DISPOSITION D’OUTILS DE FORMATION À L’INTERPRÉTATION ET À L’UTILISATION DES RAPPORTS\"\nDeadline : 2026-10-05\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://ted.europa.eu/fr/notice/-/detail/657207-2026"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Acheteur public référencé sur l'AO",
+        "alternatives": [
+          "RAQ",
+          "Responsable des achats"
+        ],
+        "priorite": 1,
+        "raison": "Référent direct de la consultation",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=SERVICE+PUBLIC+F%C3%89D%C3%89RAL+STRAT%C3%89GIE+ET+APPUI",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22SERVICE%20PUBLIC%20F%C3%89D%C3%89RAL%20STRAT%C3%89GIE%20ET%20APPUI%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
+      },
+      {
+        "poste": "Décideur métier (variable selon segment)",
+        "alternatives": [
+          "Direction des examens (ESR)",
+          "Direction des soins (FPH)",
+          "DRH (Collectivité)"
+        ],
+        "priorite": 2,
+        "raison": "Sponsorise le besoin métier en amont",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=SERVICE+PUBLIC+F%C3%89D%C3%89RAL+STRAT%C3%89GIE+ET+APPUI",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22SERVICE%20PUBLIC%20F%C3%89D%C3%89RAL%20STRAT%C3%89GIE%20ET%20APPUI%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-09-14-77966d87823c",
-    "date_capture": "2026-09-24",
+    "date_capture": "2026-09-25",
     "vertical": "ao",
     "sous_segment": "Marché public FPH (Hôpitaux / CHU / AP-HP)",
     "compte": "European Insurance and Occupational Pensions Authority / Agency for Support for BEREC (BEREC Office) / Circular Bio-based Europe Joint Undertaking / Clean Aviation Joint Undertaking / Clean Hydrogen Joint Undertaking / European Agency for Safety and Health at Work (EU-OSHA) / European Banking Authority / European Centre for Disease Prevention and Control / European Centre for the Development of Vocational Training / European Chemicals Agency / European Cybersecurity Industrial, Technology and Research Competence Centre / European Defence Agency / European Fisheries Control Agency (EFCA) / European Foundation for the Improvement of Living and Working Conditions / European High-Performance Computing Joint Undertaking / European Institute for Gender Equality / European Institute of Innovation and Technology / European Labour Authority (ELA) / European Securities and Markets Authority / European Training Foundation (ETF) / European Union Agency For Law Enforcement Training / European Union Agency for Fundamental Rights / European Union Agency for Law Enforcement Cooperation / European Union Agency for the Cooperation of Energy Regulators / Global Health EDCTP3 Joint Undertaking / SESAR3 Joint Undertaking / Single Resolution Board (SRB)",
@@ -157,7 +209,7 @@
   },
   {
     "id": "sig-2026-09-05-8f261ead7a80",
-    "date_capture": "2026-09-24",
+    "date_capture": "2026-09-25",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "Université de Strasbourg",
@@ -209,7 +261,7 @@
   },
   {
     "id": "sig-2026-09-08-78d545c063b8",
-    "date_capture": "2026-09-24",
+    "date_capture": "2026-09-25",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Gemeente Den Helder",
@@ -261,7 +313,7 @@
   },
   {
     "id": "sig-2026-09-16-b8ac508ca276",
-    "date_capture": "2026-09-24",
+    "date_capture": "2026-09-25",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Veiligheidsregio Midden- en West-Brabant",
@@ -313,7 +365,7 @@
   },
   {
     "id": "sig-2026-09-07-1aeb8cd8507f",
-    "date_capture": "2026-09-24",
+    "date_capture": "2026-09-25",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "Université de Strasbourg",
@@ -364,8 +416,60 @@
     ]
   },
   {
+    "id": "sig-2026-09-24-dcb4f5852ff0",
+    "date_capture": "2026-09-25",
+    "vertical": "ao",
+    "sous_segment": "Marché public ESR (Enseignement Supérieur)",
+    "compte": "Université d'Artois",
+    "titre": "France – Services de certification – Tests de type TOEIC",
+    "description": "[CPV 79132000] Tests de type TOEIC",
+    "source": "TED (via Radar AO)",
+    "source_tier": 1,
+    "url": "https://ted.europa.eu/fr/notice/-/detail/657680-2026",
+    "signal_type": "ao_publie",
+    "tier": 2,
+    "score": 72,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Récupérer le DCE complet** sur https://ted.europa.eu/fr/notice/-/detail/657680-2026\n🎯 **Décideur cible** : Direction des examens + VP Pédagogie + DSI (vérifier organigramme via site officiel + LinkedIn Sales Nav)\n💡 **Angle de valeur** : ITS comme plateforme de passation de la certification : banque de questions, proctoring, attestations opposables en audit\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS probables : Explorance (cas Neoma), EvaluationKIT, Bluepulse, Aurion (ERP scolarité), ExamSoft, Pearson VUE, Caveon\n⏰ Deadline : 2026-10-26 → calculer J-jours et caler les ressources dès maintenant.",
+    "deadline_action": "2026-10-26",
+    "status": "new",
+    "date_publication": "2026-09-24",
+    "email_draft": {
+      "subject": "AO Université d'Artois — ISOGRAD souhaite candidater",
+      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"France – Services de certification – Tests de type TOEIC\"\nDeadline : 2026-10-26\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://ted.europa.eu/fr/notice/-/detail/657680-2026"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Acheteur public référencé sur l'AO",
+        "alternatives": [
+          "RAQ",
+          "Responsable des achats"
+        ],
+        "priorite": 1,
+        "raison": "Référent direct de la consultation",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=Universit%C3%A9+d%27Artois",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Universit%C3%A9%20d%27Artois%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
+      },
+      {
+        "poste": "Décideur métier (variable selon segment)",
+        "alternatives": [
+          "Direction des examens (ESR)",
+          "Direction des soins (FPH)",
+          "DRH (Collectivité)"
+        ],
+        "priorite": 2,
+        "raison": "Sponsorise le besoin métier en amont",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=Universit%C3%A9+d%27Artois",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Universit%C3%A9%20d%27Artois%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-09-09-dd6858cf97cd",
-    "date_capture": "2026-09-24",
+    "date_capture": "2026-09-25",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Lycee Des Metiers Pablo Neruda",
@@ -417,7 +521,7 @@
   },
   {
     "id": "sig-2026-09-20-f86de3691156",
-    "date_capture": "2026-09-24",
+    "date_capture": "2026-09-25",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "CNIEG (Caisse Nationale des Industries Electriques et Gazières)",
@@ -469,7 +573,7 @@
   },
   {
     "id": "sig-2026-09-03-2b742b689c79",
-    "date_capture": "2026-09-24",
+    "date_capture": "2026-09-25",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "Stichting Hogeschool van Arnhem en Nijmegen",
@@ -521,7 +625,7 @@
   },
   {
     "id": "sig-2026-09-18-2960d9304510",
-    "date_capture": "2026-09-24",
+    "date_capture": "2026-09-25",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "CEFTA Secretariat",
@@ -572,8 +676,60 @@
     ]
   },
   {
+    "id": "sig-2026-09-24-68cb96821192",
+    "date_capture": "2026-09-25",
+    "vertical": "ao",
+    "sous_segment": "Marché public — secteur à qualifier",
+    "compte": "European Union Intellectual Property Office",
+    "titre": "Espagne – Conseil en affaires et en gestion et services connexes – List of vendors for the provision of independent and on-hand expertise on specialised services in the field of intellectual property ",
+    "description": "[CPV 79400000] Relevant services might include, but are not limited to: • Drafting comparative or gap analysis on TM legislation or TM guidelines • Drafting amendments to TM legislation and/or TM guidelines • Act as an IP expert and provide training during workshops or seminars related to TM • Drafting documents (studies, factsheets etc.) related to accession to International TM treaties • Compilation of relevan",
+    "source": "TED (via Radar AO)",
+    "source_tier": 1,
+    "url": "https://ted.europa.eu/fr/notice/-/detail/657499-2026",
+    "signal_type": "ao_publie",
+    "tier": 2,
+    "score": 67,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Récupérer le DCE complet** sur https://ted.europa.eu/fr/notice/-/detail/657499-2026\n🎯 **Décideur cible** : À enrichir via LinkedIn Sales Nav + site officiel de l'acheteur\n💡 **Angle de valeur** : ITS : plateforme d'hébergement d'examens (tests recrutement, contrôles, certifications internes) avec correction auto et reporting\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS à mapper via questions de cadrage : Explorance, EvaluationKIT, Sphinx, EvalandGo, ExamSoft, plateformes internes\n⏰ Deadline : 2028-01-17 → calculer J-jours et caler les ressources dès maintenant.",
+    "deadline_action": "2028-01-17",
+    "status": "new",
+    "date_publication": "2026-09-24",
+    "email_draft": {
+      "subject": "AO European Union Intellectual Property Office — ISOGRAD souhaite candidater",
+      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"Espagne – Conseil en affaires et en gestion et services connexes – List of vendors for the provision of independent and on-hand expertise on specialised services in the field of intellectual property rights\"\nDeadline : 2028-01-17\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://ted.europa.eu/fr/notice/-/detail/657499-2026"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Acheteur public référencé sur l'AO",
+        "alternatives": [
+          "RAQ",
+          "Responsable des achats"
+        ],
+        "priorite": 1,
+        "raison": "Référent direct de la consultation",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=European+Union+Intellectual+Property+Office",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22European%20Union%20Intellectual%20Property%20Office%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
+      },
+      {
+        "poste": "Décideur métier (variable selon segment)",
+        "alternatives": [
+          "Direction des examens (ESR)",
+          "Direction des soins (FPH)",
+          "DRH (Collectivité)"
+        ],
+        "priorite": 2,
+        "raison": "Sponsorise le besoin métier en amont",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=European+Union+Intellectual+Property+Office",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22European%20Union%20Intellectual%20Property%20Office%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-08-28-5c3c58b2ba0a",
-    "date_capture": "2026-09-24",
+    "date_capture": "2026-09-25",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Provincie Limburg",
@@ -625,7 +781,7 @@
   },
   {
     "id": "sig-2026-08-31-f9061b6fbd22",
-    "date_capture": "2026-09-24",
+    "date_capture": "2026-09-25",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "ENSAM",
@@ -677,7 +833,7 @@
   },
   {
     "id": "sig-2026-08-31-898e3b440306",
-    "date_capture": "2026-09-24",
+    "date_capture": "2026-09-25",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "ENSAM",
@@ -729,7 +885,7 @@
   },
   {
     "id": "sig-2026-09-01-1b2767693db5",
-    "date_capture": "2026-09-24",
+    "date_capture": "2026-09-25",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Provincie Gelderland",
@@ -781,7 +937,7 @@
   },
   {
     "id": "sig-2026-09-03-127903395bdd",
-    "date_capture": "2026-09-24",
+    "date_capture": "2026-09-25",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Stichting Xpect013",
@@ -833,7 +989,7 @@
   },
   {
     "id": "sig-2026-09-08-cf9039dbbf49",
-    "date_capture": "2026-09-24",
+    "date_capture": "2026-09-25",
     "vertical": "ao",
     "sous_segment": "Marché public Collectivité",
     "compte": "Région Occitanie",
@@ -885,7 +1041,7 @@
   },
   {
     "id": "sig-2026-09-09-6aae6e227469",
-    "date_capture": "2026-09-24",
+    "date_capture": "2026-09-25",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "De Dienst voor het kadaster en de openbare registers (het Kadaster)",
@@ -937,7 +1093,7 @@
   },
   {
     "id": "sig-2026-09-09-00a33ffef8b9",
-    "date_capture": "2026-09-24",
+    "date_capture": "2026-09-25",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Stichting Amsterdam UMC",
@@ -989,7 +1145,7 @@
   },
   {
     "id": "sig-2026-09-14-f7d51d8598dc",
-    "date_capture": "2026-09-24",
+    "date_capture": "2026-09-25",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "CNRS Délégation Provence et Corse",
@@ -1041,7 +1197,7 @@
   },
   {
     "id": "sig-2026-09-22-32b2e25c8e9f",
-    "date_capture": "2026-09-24",
+    "date_capture": "2026-09-25",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "BELGOPROCESS NV",
@@ -1093,7 +1249,7 @@
   },
   {
     "id": "sig-2026-09-24-37d876ff4bb1",
-    "date_capture": "2026-09-24",
+    "date_capture": "2026-09-25",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "Université d'Artois",
@@ -1145,7 +1301,7 @@
   },
   {
     "id": "sig-2026-08-30-42306ab7d371",
-    "date_capture": "2026-09-24",
+    "date_capture": "2026-09-25",
     "vertical": "ao",
     "sous_segment": "Marché public OPCO",
     "compte": "OPCO 2i - Direction Appui aux branches et action prospective",
@@ -1197,7 +1353,7 @@
   },
   {
     "id": "sig-2026-07-29-40a7a3ab4b1f",
-    "date_capture": "2026-09-24",
+    "date_capture": "2026-09-25",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "ACTION LOGEMENT IMMOBILIER",
@@ -1249,7 +1405,7 @@
   },
   {
     "id": "sig-2026-07-29-88d5547ae670",
-    "date_capture": "2026-09-24",
+    "date_capture": "2026-09-25",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "KEDGE BUSINESS SCHOOL",
@@ -1301,7 +1457,7 @@
   },
   {
     "id": "sig-2026-07-31-5106d8d2ecc7",
-    "date_capture": "2026-09-24",
+    "date_capture": "2026-09-25",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "135 BPM Le Campus du Sport",
@@ -1353,7 +1509,7 @@
   },
   {
     "id": "sig-2026-08-20-2dd46667b71b",
-    "date_capture": "2026-09-24",
+    "date_capture": "2026-09-25",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Ministerie van Infrastructuur en Waterstaat",
@@ -1405,7 +1561,7 @@
   },
   {
     "id": "sig-2026-08-21-a19c93561a24",
-    "date_capture": "2026-09-24",
+    "date_capture": "2026-09-25",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Direction de la Technique et de l'Innovation",
@@ -1456,60 +1612,8 @@
     ]
   },
   {
-    "id": "sig-2026-09-21-95799ffdf2b0",
-    "date_capture": "2026-09-24",
-    "vertical": "ao",
-    "sous_segment": "Marché public — secteur à qualifier",
-    "compte": "EIT RawMaterials GmbH",
-    "titre": "Allemagne – Fournisseurs de services applicatifs – Learning Management System for European Raw Materials Academy and European Advanced Materials Academy",
-    "description": "[CPV 72416000] The procurement concerns the provision, implementation and hosting of a scalable, cloud-based Learning Management System for EIT RawMaterials, including course delivery, learner management and reporting, certification, and integration with the central course catalogue. For further details reference is made to the service description.",
-    "source": "TED (via Radar AO)",
-    "source_tier": 1,
-    "url": "https://ted.europa.eu/fr/notice/-/detail/648040-2026",
-    "signal_type": "ao_publie",
-    "tier": 3,
-    "score": 57,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Récupérer le DCE complet** sur https://ted.europa.eu/fr/notice/-/detail/648040-2026\n🎯 **Décideur cible** : À enrichir via LinkedIn Sales Nav + site officiel de l'acheteur\n💡 **Angle de valeur** : ITS en SaaS multi-tenant : déploiement 4-6 semaines, scalable, zéro infra à maintenir côté acheteur\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS à mapper via questions de cadrage : Explorance, EvaluationKIT, Sphinx, EvalandGo, ExamSoft, plateformes internes\n⏰ Deadline : 2026-09-24 → calculer J-jours et caler les ressources dès maintenant.",
-    "deadline_action": "2026-09-24",
-    "status": "new",
-    "date_publication": "2026-09-21",
-    "email_draft": {
-      "subject": "AO EIT RawMaterials GmbH — ISOGRAD souhaite candidater",
-      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"Allemagne – Fournisseurs de services applicatifs – Learning Management System for European Raw Materials Academy and European Advanced Materials Academy\"\nDeadline : 2026-09-24\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://ted.europa.eu/fr/notice/-/detail/648040-2026"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Acheteur public référencé sur l'AO",
-        "alternatives": [
-          "RAQ",
-          "Responsable des achats"
-        ],
-        "priorite": 1,
-        "raison": "Référent direct de la consultation",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=EIT+RawMaterials+GmbH",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22EIT%20RawMaterials%20GmbH%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
-      },
-      {
-        "poste": "Décideur métier (variable selon segment)",
-        "alternatives": [
-          "Direction des examens (ESR)",
-          "Direction des soins (FPH)",
-          "DRH (Collectivité)"
-        ],
-        "priorite": 2,
-        "raison": "Sponsorise le besoin métier en amont",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=EIT+RawMaterials+GmbH",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22EIT%20RawMaterials%20GmbH%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
-      }
-    ]
-  },
-  {
     "id": "sig-2026-09-21-968d2a000b1f",
-    "date_capture": "2026-09-24",
+    "date_capture": "2026-09-25",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Fondation A DE ROTHSCHILD",
@@ -1561,7 +1665,7 @@
   },
   {
     "id": "sig-2026-07-31-47a34b6f12af",
-    "date_capture": "2026-09-24",
+    "date_capture": "2026-09-25",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "SNCB",
@@ -1613,7 +1717,7 @@
   },
   {
     "id": "sig-2026-07-30-f149a13f9c19",
-    "date_capture": "2026-09-24",
+    "date_capture": "2026-09-25",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "EDF SA",
@@ -1665,7 +1769,7 @@
   },
   {
     "id": "sig-2026-07-31-27027bb4ebcd",
-    "date_capture": "2026-09-24",
+    "date_capture": "2026-09-25",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "CNSO Orléans",
@@ -1717,7 +1821,7 @@
   },
   {
     "id": "sig-2026-08-07-649bc48b0f77",
-    "date_capture": "2026-09-24",
+    "date_capture": "2026-09-25",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Koninklijke Bibliotheek",
@@ -1768,36 +1872,60 @@
     ]
   },
   {
-    "id": "sig-2026-08-25-e3887e3ebdd5",
-    "date_capture": "2026-09-24",
+    "id": "sig-2026-09-21-95799ffdf2b0",
+    "date_capture": "2026-09-25",
     "vertical": "ao",
-    "sous_segment": "Marché public ESR (Enseignement Supérieur)",
-    "compte": "Fontys Hogeschool",
-    "titre": "Aankondiging van vrijwillige transparantie: Softwareomgeving voor reken- en simulatietoepassingen",
-    "description": "De opdracht betreft de levering van een campusbrede softwareomgeving voor reken- en simulatietoepassingen (MATLAB/Simulink), inclusief bijbehorende functionaliteiten, toolboxes, ondersteuning en updates ten behoeve van onderwijs en toegepast onderzoek. Fontys hecht groot belang aan de beginselen van het aanbestedingsrecht, waaronder non-discriminatie, gelijke behandeling, transparantie en proporti",
-    "source": "TED (Tenders Electronic Daily UE)",
+    "sous_segment": "Marché public — secteur à qualifier",
+    "compte": "EIT RawMaterials GmbH",
+    "titre": "Allemagne – Fournisseurs de services applicatifs – Learning Management System for European Raw Materials Academy and European Advanced Materials Academy",
+    "description": "[CPV 72416000] The procurement concerns the provision, implementation and hosting of a scalable, cloud-based Learning Management System for EIT RawMaterials, including course delivery, learner management and reporting, certification, and integration with the central course catalogue. For further details reference is made to the service description.",
+    "source": "TED (via Radar AO)",
     "source_tier": 1,
-    "url": "https://ted.europa.eu/fr/notice/-/detail/584324-2026",
-    "signal_type": "ao_attribue",
+    "url": "https://ted.europa.eu/fr/notice/-/detail/648040-2026",
+    "signal_type": "ao_publie",
     "tier": 3,
-    "score": 35,
+    "score": 42,
     "produit_match": [
       "ITS"
     ],
     "owner": "Charles",
-    "action_reco": "Attribution en cours chez Fontys Hogeschool — pas d'AO à chasser. Intel marché : identifier le fournisseur retenu (veille concurrentielle) et noter le compte pour la fenêtre de renouvellement.",
-    "deadline_action": null,
+    "action_reco": "📋 **Récupérer le DCE complet** sur https://ted.europa.eu/fr/notice/-/detail/648040-2026\n🎯 **Décideur cible** : À enrichir via LinkedIn Sales Nav + site officiel de l'acheteur\n💡 **Angle de valeur** : ITS en SaaS multi-tenant : déploiement 4-6 semaines, scalable, zéro infra à maintenir côté acheteur\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS à mapper via questions de cadrage : Explorance, EvaluationKIT, Sphinx, EvalandGo, ExamSoft, plateformes internes\n⏰ Deadline : 2026-09-24 → calculer J-jours et caler les ressources dès maintenant.",
+    "deadline_action": "2026-09-24",
     "status": "new",
-    "date_publication": "2026-08-25",
+    "date_publication": "2026-09-21",
     "email_draft": {
-      "subject": "AO Fontys Hogeschool — ISOGRAD souhaite candidater",
-      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"Aankondiging van vrijwillige transparantie: Softwareomgeving voor reken- en simulatietoepassingen\"\nDeadline : à définir\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://ted.europa.eu/fr/notice/-/detail/584324-2026"
+      "subject": "AO EIT RawMaterials GmbH — ISOGRAD souhaite candidater",
+      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"Allemagne – Fournisseurs de services applicatifs – Learning Management System for European Raw Materials Academy and European Advanced Materials Academy\"\nDeadline : 2026-09-24\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://ted.europa.eu/fr/notice/-/detail/648040-2026"
     },
-    "contacts_cibles": []
+    "contacts_cibles": [
+      {
+        "poste": "Acheteur public référencé sur l'AO",
+        "alternatives": [
+          "RAQ",
+          "Responsable des achats"
+        ],
+        "priorite": 1,
+        "raison": "Référent direct de la consultation",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=EIT+RawMaterials+GmbH",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22EIT%20RawMaterials%20GmbH%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
+      },
+      {
+        "poste": "Décideur métier (variable selon segment)",
+        "alternatives": [
+          "Direction des examens (ESR)",
+          "Direction des soins (FPH)",
+          "DRH (Collectivité)"
+        ],
+        "priorite": 2,
+        "raison": "Sponsorise le besoin métier en amont",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=EIT+RawMaterials+GmbH",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22EIT%20RawMaterials%20GmbH%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
+      }
+    ]
   },
   {
     "id": "sig-2026-09-09-7032431dcd17",
-    "date_capture": "2026-09-24",
+    "date_capture": "2026-09-25",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "Stichting Hogeschool van Arnhem en Nijmegen",
@@ -1820,6 +1948,34 @@
     "email_draft": {
       "subject": "AO Stichting Hogeschool van Arnhem en Nijmegen — ISOGRAD souhaite candidater",
       "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"Aankondiging vrijwillige transparantie - Voorziening Inleveren en Beoordelen\"\nDeadline : à définir\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://ted.europa.eu/fr/notice/-/detail/619600-2026"
+    },
+    "contacts_cibles": []
+  },
+  {
+    "id": "sig-2026-08-25-e3887e3ebdd5",
+    "date_capture": "2026-09-25",
+    "vertical": "ao",
+    "sous_segment": "Marché public ESR (Enseignement Supérieur)",
+    "compte": "Fontys Hogeschool",
+    "titre": "Aankondiging van vrijwillige transparantie: Softwareomgeving voor reken- en simulatietoepassingen",
+    "description": "De opdracht betreft de levering van een campusbrede softwareomgeving voor reken- en simulatietoepassingen (MATLAB/Simulink), inclusief bijbehorende functionaliteiten, toolboxes, ondersteuning en updates ten behoeve van onderwijs en toegepast onderzoek. Fontys hecht groot belang aan de beginselen van het aanbestedingsrecht, waaronder non-discriminatie, gelijke behandeling, transparantie en proporti",
+    "source": "TED (Tenders Electronic Daily UE)",
+    "source_tier": 1,
+    "url": "https://ted.europa.eu/fr/notice/-/detail/584324-2026",
+    "signal_type": "ao_attribue",
+    "tier": 3,
+    "score": 27,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "Attribution en cours chez Fontys Hogeschool — pas d'AO à chasser. Intel marché : identifier le fournisseur retenu (veille concurrentielle) et noter le compte pour la fenêtre de renouvellement.",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-08-25",
+    "email_draft": {
+      "subject": "AO Fontys Hogeschool — ISOGRAD souhaite candidater",
+      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"Aankondiging van vrijwillige transparantie: Softwareomgeving voor reken- en simulatietoepassingen\"\nDeadline : à définir\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://ted.europa.eu/fr/notice/-/detail/584324-2026"
     },
     "contacts_cibles": []
   }
