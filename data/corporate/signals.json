@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-09-09-242b7c786729",
-    "date_capture": "2026-09-29",
+    "date_capture": "2026-09-30",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "blanchisserie Bulle de linge",
@@ -29,8 +29,46 @@
     "contacts_cibles": []
   },
   {
+    "id": "sig-2026-09-29-e646e389e073",
+    "date_capture": "2026-09-30",
+    "vertical": "corporate",
+    "sous_segment": "entreprise",
+    "compte": "Scania France",
+    "titre": "Corentin Alpha nommé DRH de Scania France",
+    "description": "Corentin Alpha nommé DRH de Scania France Autoactu.com",
+    "source": "Autoactu.com (via Google News)",
+    "source_tier": 2,
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd1BVRXRLc0dZbkZmMWRzNDFMN01rVGF4NHFNdlRKTC1jVk1ZMS13NjlwYUhVSW9QeFZXQmhvazZKSGItQTRERy1Xd2V5VTlzaEFUbHNURlFVd3BSWXQ0eTQ2RGRxNW9hYjQtVkJ3dEpyUmt0MkJBM3FkZ2lIN1Y2TEtRUQ?oc=5",
+    "signal_type": "nomination_chro",
+    "tier": 1,
+    "score": 90,
+    "produit_match": [
+      "ITS",
+      "Tosa Corporate"
+    ],
+    "owner": null,
+    "action_reco": "Fenêtre prise de poste ~30j : InMail/email à la nouvelle DRH (Scania France) — angle outillage évaluation des compétences (ITS + Tosa).",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-09-29",
+    "email_draft": {
+      "subject": "Félicitations pour votre nomination DRH chez Scania France",
+      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez Scania France. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMigwFBVV95cUxNd1BVRXRLc0dZbkZmMWRzNDFMN01rVGF4NHFNdlRKTC1jVk1ZMS13NjlwYUhVSW9QeFZXQmhvazZKSGItQTRERy1Xd2V5VTlzaEFUbHNURlFVd3BSWXQ0eTQ2RGRxNW9hYjQtVkJ3dEpyUmt0MkJBM3FkZ2lIN1Y2TEtRUQ?oc=5"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "La personne nommée (cible directe)",
+        "alternatives": [],
+        "priorite": 1,
+        "raison": "Fenêtre 30j post-prise de poste = haute disposition aux nouveaux outils",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22La+personne+nomm%C3%A9e+%28cible+directe%29%22&currentCompany=Scania+France",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Scania%20France%22%20La%20personne%20nomm%C3%A9e%20%28cible%20directe%29"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-09-25-5c5644be2cdd",
-    "date_capture": "2026-09-29",
+    "date_capture": "2026-09-30",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Schindler",
@@ -67,90 +105,14 @@
     ]
   },
   {
-    "id": "sig-2026-09-10-5f411ee957f1",
-    "date_capture": "2026-09-29",
-    "vertical": "corporate",
-    "sous_segment": "entreprise",
-    "compte": "Caisse d’Épargne Côte d’Azur",
-    "titre": "Nominations - Ifrah Azzimani nommé Directeur des Ressources Humaines de la Caisse d’Épargne Côte d’Azur",
-    "description": "Nominations - Ifrah Azzimani nommé Directeur des Ressources Humaines de la Caisse d’Épargne Côte d’Azur Petites Affiches",
-    "source": "Petites Affiches (via Google News)",
-    "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVTg1cFhTSUJiSmxhbXdsVGZ3ODRjeW5UTm11bm5EQ1lQZTR5MjlzbHZ4c1htLXFteEhTa2dycUFjSWo5TVQyWFNXQ1o2Qm9LbmFBM2I2Q0l3MjhlZkkzNlpZZmt4NlMwQVM4UGlYU003U0R4TkVrRXVaRWszdkswMWRZc29FLTJSdVNaV09SMVFXYjlVd2lJ?oc=5",
-    "signal_type": "nomination_chro",
-    "tier": 1,
-    "score": 90,
-    "produit_match": [
-      "ITS",
-      "Tosa Corporate"
-    ],
-    "owner": null,
-    "action_reco": "Fenêtre prise de poste ~30j : InMail/email à la nouvelle DRH (Caisse d’Épargne Côte d’Azur) — angle outillage évaluation des compétences (ITS + Tosa).",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-09-10",
-    "email_draft": {
-      "subject": "Félicitations pour votre nomination DRH chez Caisse d’Épargne Côte d’Azur",
-      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez Caisse d’Épargne Côte d’Azur. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMilwFBVV95cUxOVTg1cFhTSUJiSmxhbXdsVGZ3ODRjeW5UTm11bm5EQ1lQZTR5MjlzbHZ4c1htLXFteEhTa2dycUFjSWo5TVQyWFNXQ1o2Qm9LbmFBM2I2Q0l3MjhlZkkzNlpZZmt4NlMwQVM4UGlYU003U0R4TkVrRXVaRWszdkswMWRZc29FLTJSdVNaV09SMVFXYjlVd2lJ?oc=5"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "La personne nommée (cible directe)",
-        "alternatives": [],
-        "priorite": 1,
-        "raison": "Fenêtre 30j post-prise de poste = haute disposition aux nouveaux outils",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22La+personne+nomm%C3%A9e+%28cible+directe%29%22&currentCompany=Caisse+d%E2%80%99%C3%89pargne+C%C3%B4te+d%E2%80%99Azur",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Caisse%20d%E2%80%99%C3%89pargne%20C%C3%B4te%20d%E2%80%99Azur%22%20La%20personne%20nomm%C3%A9e%20%28cible%20directe%29"
-      }
-    ]
-  },
-  {
-    "id": "sig-2026-09-29-e646e389e073",
-    "date_capture": "2026-09-29",
-    "vertical": "corporate",
-    "sous_segment": "entreprise",
-    "compte": "Scania France",
-    "titre": "Corentin Alpha nommé DRH de Scania France",
-    "description": "Corentin Alpha nommé DRH de Scania France Le Journal du Poids Lourd",
-    "source": "Le Journal du Poids Lourd (via Google News)",
-    "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTmdFTjl0SHJqaG01TmVYc0hfR3QyYXhzMUxlS2Nob0llS01TcDkySVJoamVJUFg1OFJBQVdJOXRaMmRIa0FaSTQzbHYyOXVnTzFXcjZncXBsQUx2ekgxN1RPckpNbFE4TlhpWHRmYzJ4cUdORU8wdjcwWHlqRjRQZDNQZ0lvRXBUaGNlNUF2Q0o3QQ?oc=5",
-    "signal_type": "nomination_chro",
-    "tier": 1,
-    "score": 90,
-    "produit_match": [
-      "ITS",
-      "Tosa Corporate"
-    ],
-    "owner": null,
-    "action_reco": "Fenêtre prise de poste ~30j : InMail/email à la nouvelle DRH (Scania France) — angle outillage évaluation des compétences (ITS + Tosa).",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-09-29",
-    "email_draft": {
-      "subject": "Félicitations pour votre nomination DRH chez Scania France",
-      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez Scania France. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMikgFBVV95cUxPTmdFTjl0SHJqaG01TmVYc0hfR3QyYXhzMUxlS2Nob0llS01TcDkySVJoamVJUFg1OFJBQVdJOXRaMmRIa0FaSTQzbHYyOXVnTzFXcjZncXBsQUx2ekgxN1RPckpNbFE4TlhpWHRmYzJ4cUdORU8wdjcwWHlqRjRQZDNQZ0lvRXBUaGNlNUF2Q0o3QQ?oc=5"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "La personne nommée (cible directe)",
-        "alternatives": [],
-        "priorite": 1,
-        "raison": "Fenêtre 30j post-prise de poste = haute disposition aux nouveaux outils",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22La+personne+nomm%C3%A9e+%28cible+directe%29%22&currentCompany=Scania+France",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Scania%20France%22%20La%20personne%20nomm%C3%A9e%20%28cible%20directe%29"
-      }
-    ]
-  },
-  {
     "id": "sig-2026-09-15-e607ad36453e",
-    "date_capture": "2026-09-29",
+    "date_capture": "2026-09-30",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Valeo",
     "titre": "Magali Castano nommée DRH de Valeo",
-    "description": "Magali Castano nommée DRH de Valeo decideurs-magazine.com",
-    "source": "decideurs-magazine.com (via Google News)",
+    "description": "Magali Castano nommée DRH de Valeo Decideurs Magazine",
+    "source": "Decideurs Magazine (via Google News)",
     "source_tier": 2,
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWmpjRVVBWnR1elQ0OW04X3ZRTDhreEtOSWtsZGpSN2x4VmhFZ2VSdXRMUzZHSUJlcENFOC1lVnU1SmVPRHd0aU5neGFDbVhlcWh5aTJhMkJTX2JKaXB5cmJXd1o1N3Zyel9sR1FJX2h5WmhYNFd0N1JDWXlNQ0ZtNXhvWHd2dWRIOUJjV1ZpVWcwTUFXa3lXY1QyUlZCMEpQUnc?oc=5",
     "signal_type": "nomination_chro",
@@ -182,7 +144,7 @@
   },
   {
     "id": "sig-2026-09-23-66189bddb55a",
-    "date_capture": "2026-09-29",
+    "date_capture": "2026-09-30",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "gouvernement",
