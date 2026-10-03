@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-09-09-242b7c786729",
-    "date_capture": "2026-10-02",
+    "date_capture": "2026-10-03",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "blanchisserie Bulle de linge",
@@ -30,7 +30,7 @@
   },
   {
     "id": "sig-2026-09-30-abfb3ba9d66a",
-    "date_capture": "2026-10-02",
+    "date_capture": "2026-10-03",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "DoorDash ouvre un bureau à Hyderabad et",
@@ -59,7 +59,7 @@
   },
   {
     "id": "sig-2026-10-02-31eede220762",
-    "date_capture": "2026-10-02",
+    "date_capture": "2026-10-03",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "SNCB",
@@ -88,7 +88,7 @@
   },
   {
     "id": "sig-2026-09-29-e646e389e073",
-    "date_capture": "2026-10-02",
+    "date_capture": "2026-10-03",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Scania France",
@@ -126,7 +126,7 @@
   },
   {
     "id": "sig-2026-09-25-5c5644be2cdd",
-    "date_capture": "2026-10-02",
+    "date_capture": "2026-10-03",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Schindler",
@@ -164,13 +164,13 @@
   },
   {
     "id": "sig-2026-09-15-e607ad36453e",
-    "date_capture": "2026-10-02",
+    "date_capture": "2026-10-03",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Valeo",
     "titre": "Magali Castano nommée DRH de Valeo",
-    "description": "Magali Castano nommée DRH de Valeo Décideurs Magazine",
-    "source": "Décideurs Magazine (via Google News)",
+    "description": "Magali Castano nommée DRH de Valeo decideurs-magazine.com",
+    "source": "decideurs-magazine.com (via Google News)",
     "source_tier": 2,
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWmpjRVVBWnR1elQ0OW04X3ZRTDhreEtOSWtsZGpSN2x4VmhFZ2VSdXRMUzZHSUJlcENFOC1lVnU1SmVPRHd0aU5neGFDbVhlcWh5aTJhMkJTX2JKaXB5cmJXd1o1N3Zyel9sR1FJX2h5WmhYNFd0N1JDWXlNQ0ZtNXhvWHd2dWRIOUJjV1ZpVWcwTUFXa3lXY1QyUlZCMEpQUnc?oc=5",
     "signal_type": "nomination_chro",
@@ -202,7 +202,7 @@
   },
   {
     "id": "sig-2026-09-23-66189bddb55a",
-    "date_capture": "2026-10-02",
+    "date_capture": "2026-10-03",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "gouvernement",
@@ -232,7 +232,7 @@
   },
   {
     "id": "sig-2026-10-01-7e006702054b",
-    "date_capture": "2026-10-02",
+    "date_capture": "2026-10-03",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Dig Ventures",
