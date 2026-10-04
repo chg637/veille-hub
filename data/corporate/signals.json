@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-09-09-242b7c786729",
-    "date_capture": "2026-10-03",
+    "date_capture": "2026-10-04",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "blanchisserie Bulle de linge",
@@ -30,7 +30,7 @@
   },
   {
     "id": "sig-2026-09-30-abfb3ba9d66a",
-    "date_capture": "2026-10-03",
+    "date_capture": "2026-10-04",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "DoorDash ouvre un bureau à Hyderabad et",
@@ -58,8 +58,37 @@
     "contacts_cibles": []
   },
   {
+    "id": "sig-2026-10-02-b3e6794b5be9",
+    "date_capture": "2026-10-04",
+    "vertical": "corporate",
+    "sous_segment": "entreprise",
+    "compte": "Amazon",
+    "titre": "Amazon recrute dans les Hauts-de-France : 2 700 postes à pourvoir dans la région",
+    "description": "Amazon recrute dans les Hauts-de-France : 2 700 postes à pourvoir dans la région Actu.fr",
+    "source": "Actu.fr (via Google News)",
+    "source_tier": 2,
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLWM0STFBLUlaN0JRdWVTZENnbk1mZXhoLXlSakxoQ3pSbmVDaUMyQjFUcGpEWGlZR2xPaVhEek81aFlxNnBIQ1A5enNfeE9EQTlSeVFfX2tWb3lkSElFSjZJSnhRUjFyQTJtMTZwRU5STmlOR2ozcS1wNmN0ajFETFY3TEg5Snc1OVRJV05QV29aUGRYY012dTlINXd2aHRKcFNZR0dfcHVZeDZlZDU1eVN0NFlBdWs?oc=5",
+    "signal_type": "plan_recrutement",
+    "tier": 1,
+    "score": 93,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": null,
+    "action_reco": "Amazon : ~2700 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-10-02",
+    "email_draft": {
+      "subject": "Amazon — fiabiliser la pré-qualification de vos recrutements",
+      "body": "Bonjour,\n\nJ'ai lu que Amazon prépare une campagne de recrutement importante (Amazon recrute dans les Hauts-de-France : 2 700 postes à pourvoir dans la région…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
+      "url_source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLWM0STFBLUlaN0JRdWVTZENnbk1mZXhoLXlSakxoQ3pSbmVDaUMyQjFUcGpEWGlZR2xPaVhEek81aFlxNnBIQ1A5enNfeE9EQTlSeVFfX2tWb3lkSElFSjZJSnhRUjFyQTJtMTZwRU5STmlOR2ozcS1wNmN0ajFETFY3TEg5Snc1OVRJV05QV29aUGRYY012dTlINXd2aHRKcFNZR0dfcHVZeDZlZDU1eVN0NFlBdWs?oc=5"
+    },
+    "contacts_cibles": []
+  },
+  {
     "id": "sig-2026-10-02-31eede220762",
-    "date_capture": "2026-10-03",
+    "date_capture": "2026-10-04",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "SNCB",
@@ -88,15 +117,15 @@
   },
   {
     "id": "sig-2026-09-29-e646e389e073",
-    "date_capture": "2026-10-03",
+    "date_capture": "2026-10-04",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Scania France",
     "titre": "Corentin Alpha nommé DRH de Scania France",
-    "description": "Corentin Alpha nommé DRH de Scania France Autoactu.com",
-    "source": "Autoactu.com (via Google News)",
+    "description": "Corentin Alpha nommé DRH de Scania France Le Journal du Poids Lourd",
+    "source": "Le Journal du Poids Lourd (via Google News)",
     "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd1BVRXRLc0dZbkZmMWRzNDFMN01rVGF4NHFNdlRKTC1jVk1ZMS13NjlwYUhVSW9QeFZXQmhvazZKSGItQTRERy1Xd2V5VTlzaEFUbHNURlFVd3BSWXQ0eTQ2RGRxNW9hYjQtVkJ3dEpyUmt0MkJBM3FkZ2lIN1Y2TEtRUQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTmdFTjl0SHJqaG01TmVYc0hfR3QyYXhzMUxlS2Nob0llS01TcDkySVJoamVJUFg1OFJBQVdJOXRaMmRIa0FaSTQzbHYyOXVnTzFXcjZncXBsQUx2ekgxN1RPckpNbFE4TlhpWHRmYzJ4cUdORU8wdjcwWHlqRjRQZDNQZ0lvRXBUaGNlNUF2Q0o3QQ?oc=5",
     "signal_type": "nomination_chro",
     "tier": 1,
     "score": 90,
@@ -111,7 +140,7 @@
     "date_publication": "2026-09-29",
     "email_draft": {
       "subject": "Félicitations pour votre nomination DRH chez Scania France",
-      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez Scania France. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMigwFBVV95cUxNd1BVRXRLc0dZbkZmMWRzNDFMN01rVGF4NHFNdlRKTC1jVk1ZMS13NjlwYUhVSW9QeFZXQmhvazZKSGItQTRERy1Xd2V5VTlzaEFUbHNURlFVd3BSWXQ0eTQ2RGRxNW9hYjQtVkJ3dEpyUmt0MkJBM3FkZ2lIN1Y2TEtRUQ?oc=5"
+      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez Scania France. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMikgFBVV95cUxPTmdFTjl0SHJqaG01TmVYc0hfR3QyYXhzMUxlS2Nob0llS01TcDkySVJoamVJUFg1OFJBQVdJOXRaMmRIa0FaSTQzbHYyOXVnTzFXcjZncXBsQUx2ekgxN1RPckpNbFE4TlhpWHRmYzJ4cUdORU8wdjcwWHlqRjRQZDNQZ0lvRXBUaGNlNUF2Q0o3QQ?oc=5"
     },
     "contacts_cibles": [
       {
@@ -126,7 +155,7 @@
   },
   {
     "id": "sig-2026-09-25-5c5644be2cdd",
-    "date_capture": "2026-10-03",
+    "date_capture": "2026-10-04",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Schindler",
@@ -164,13 +193,13 @@
   },
   {
     "id": "sig-2026-09-15-e607ad36453e",
-    "date_capture": "2026-10-03",
+    "date_capture": "2026-10-04",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Valeo",
     "titre": "Magali Castano nommée DRH de Valeo",
-    "description": "Magali Castano nommée DRH de Valeo decideurs-magazine.com",
-    "source": "decideurs-magazine.com (via Google News)",
+    "description": "Magali Castano nommée DRH de Valeo Décideurs Magazine",
+    "source": "Décideurs Magazine (via Google News)",
     "source_tier": 2,
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWmpjRVVBWnR1elQ0OW04X3ZRTDhreEtOSWtsZGpSN2x4VmhFZ2VSdXRMUzZHSUJlcENFOC1lVnU1SmVPRHd0aU5neGFDbVhlcWh5aTJhMkJTX2JKaXB5cmJXd1o1N3Zyel9sR1FJX2h5WmhYNFd0N1JDWXlNQ0ZtNXhvWHd2dWRIOUJjV1ZpVWcwTUFXa3lXY1QyUlZCMEpQUnc?oc=5",
     "signal_type": "nomination_chro",
@@ -202,7 +231,7 @@
   },
   {
     "id": "sig-2026-09-23-66189bddb55a",
-    "date_capture": "2026-10-03",
+    "date_capture": "2026-10-04",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "gouvernement",
@@ -232,7 +261,7 @@
   },
   {
     "id": "sig-2026-10-01-7e006702054b",
-    "date_capture": "2026-10-03",
+    "date_capture": "2026-10-04",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Dig Ventures",
