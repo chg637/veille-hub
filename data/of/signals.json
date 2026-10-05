@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "id": "sig-2026-10-05-82c228a7202f",
+    "date_capture": "2026-10-05",
+    "vertical": "of",
+    "sous_segment": "organisme-formation",
+    "compte": "Auditeurs",
+    "titre": "Auditeurs Days : une 2ème édition placée sous le signe de la V10 de Qualiopi !",
+    "description": "Les Auditeurs Days reviennent pour une deuxième édition. Cet événement virtuel dédié au métier d&#8217;auditeur sera l&#8217;occasion de revenir sur les dernières actualités de qualiopi. Nous vous donnons rendez-vous du 12 au 15 octobre pour trois webinaires inédits offrant un éclairage sur le quotidien des auditeurs indépendants et des certificateurs, ainsi que les enjeux de leur profession ! &#1",
+    "source": "Digiformag",
+    "source_tier": 2,
+    "url": "https://www.digiformag.com/auditeurs-days-une-2eme-edition-placee-sous-le-signe-de-la-v10-de-qualiopi/",
+    "signal_type": "qualiopi",
+    "tier": 2,
+    "score": 65,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": null,
+    "action_reco": "Auditeurs : actualité Qualiopi — angle « preuve de qualité d'évaluation » avec Tosa/ITS en appui du référentiel.",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-10-05",
+    "email_draft": null,
+    "contacts_cibles": []
+  }
+]
