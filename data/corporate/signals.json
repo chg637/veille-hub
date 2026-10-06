@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-09-09-242b7c786729",
-    "date_capture": "2026-10-05",
+    "date_capture": "2026-10-06",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "blanchisserie Bulle de linge",
@@ -30,7 +30,7 @@
   },
   {
     "id": "sig-2026-10-02-b3e6794b5be9",
-    "date_capture": "2026-10-05",
+    "date_capture": "2026-10-06",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Amazon",
@@ -59,7 +59,7 @@
   },
   {
     "id": "sig-2026-10-02-31eede220762",
-    "date_capture": "2026-10-05",
+    "date_capture": "2026-10-06",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "SNCB",
@@ -88,7 +88,7 @@
   },
   {
     "id": "sig-2026-09-29-e646e389e073",
-    "date_capture": "2026-10-05",
+    "date_capture": "2026-10-06",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Scania France",
@@ -126,7 +126,7 @@
   },
   {
     "id": "sig-2026-09-25-5c5644be2cdd",
-    "date_capture": "2026-10-05",
+    "date_capture": "2026-10-06",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Schindler",
@@ -163,46 +163,8 @@
     ]
   },
   {
-    "id": "sig-2026-09-15-e607ad36453e",
-    "date_capture": "2026-10-05",
-    "vertical": "corporate",
-    "sous_segment": "entreprise",
-    "compte": "Valeo",
-    "titre": "Magali Castano nommée DRH de Valeo",
-    "description": "Magali Castano nommée DRH de Valeo Décideurs Magazine",
-    "source": "Décideurs Magazine (via Google News)",
-    "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWmpjRVVBWnR1elQ0OW04X3ZRTDhreEtOSWtsZGpSN2x4VmhFZ2VSdXRMUzZHSUJlcENFOC1lVnU1SmVPRHd0aU5neGFDbVhlcWh5aTJhMkJTX2JKaXB5cmJXd1o1N3Zyel9sR1FJX2h5WmhYNFd0N1JDWXlNQ0ZtNXhvWHd2dWRIOUJjV1ZpVWcwTUFXa3lXY1QyUlZCMEpQUnc?oc=5",
-    "signal_type": "nomination_chro",
-    "tier": 1,
-    "score": 90,
-    "produit_match": [
-      "ITS",
-      "Tosa Corporate"
-    ],
-    "owner": null,
-    "action_reco": "Fenêtre prise de poste ~30j : InMail/email à la nouvelle DRH (Valeo) — angle outillage évaluation des compétences (ITS + Tosa).",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-09-15",
-    "email_draft": {
-      "subject": "Félicitations pour votre nomination DRH chez Valeo",
-      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez Valeo. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMiogFBVV95cUxOWmpjRVVBWnR1elQ0OW04X3ZRTDhreEtOSWtsZGpSN2x4VmhFZ2VSdXRMUzZHSUJlcENFOC1lVnU1SmVPRHd0aU5neGFDbVhlcWh5aTJhMkJTX2JKaXB5cmJXd1o1N3Zyel9sR1FJX2h5WmhYNFd0N1JDWXlNQ0ZtNXhvWHd2dWRIOUJjV1ZpVWcwTUFXa3lXY1QyUlZCMEpQUnc?oc=5"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "La personne nommée (cible directe)",
-        "alternatives": [],
-        "priorite": 1,
-        "raison": "Fenêtre 30j post-prise de poste = haute disposition aux nouveaux outils",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22La+personne+nomm%C3%A9e+%28cible+directe%29%22&currentCompany=Valeo",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Valeo%22%20La%20personne%20nomm%C3%A9e%20%28cible%20directe%29"
-      }
-    ]
-  },
-  {
     "id": "sig-2026-09-23-66189bddb55a",
-    "date_capture": "2026-10-05",
+    "date_capture": "2026-10-06",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "gouvernement",
@@ -232,7 +194,7 @@
   },
   {
     "id": "sig-2026-10-05-a948efd894cc",
-    "date_capture": "2026-10-05",
+    "date_capture": "2026-10-06",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Why",
@@ -295,7 +257,7 @@
   },
   {
     "id": "sig-2026-10-01-7e006702054b",
-    "date_capture": "2026-10-05",
+    "date_capture": "2026-10-06",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Dig Ventures",
@@ -353,6 +315,195 @@
         "raison": "Sous-décideur — peut tester l'outil rapidement",
         "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Dig+Ventures",
         "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Dig%20Ventures%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
+      }
+    ]
+  },
+  {
+    "id": "sig-2026-10-06-9d2860b02214",
+    "date_capture": "2026-10-06",
+    "vertical": "corporate",
+    "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
+    "compte": "Hadrian",
+    "titre": "Exclusive: Hadrian raises $40m as AI cyberattacks accelerate",
+    "description": "",
+    "source": "Sifted",
+    "source_tier": 1,
+    "url": "https://sifted.eu/articles/hadrian-ai-funding-round-cyber-security/",
+    "signal_type": "levee_fonds",
+    "tier": 2,
+    "score": 65,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Source** : https://sifted.eu/articles/hadrian-ai-funding-round-cyber-security/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 40.0M USD (~36.8M€) → Series B+, structuration des processus RH en cours\n🎯 Fenêtre 60j (timing optimal post-Series B)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-10-06",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-10-06",
+    "email_draft": {
+      "subject": "Hadrian — votre Series — sur l'évaluation candidats à scale",
+      "body": "Bonjour,\n\nJe viens de voir que Hadrian a bouclé une levée de 40.0M USD (~36.8M€). Bravo pour cette étape.\n\nPost-Series B, c'est le moment où la plupart des scale-ups structurent leur process d'éval candidats. Avant que le volume devienne incontrôlable.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/hadrian-ai-funding-round-cyber-security/"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Chief People Officer",
+        "alternatives": [
+          "Head of People",
+          "VP People",
+          "DRH"
+        ],
+        "priorite": 1,
+        "raison": "Décide outils RH stratégiques post-levée",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Hadrian",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Hadrian%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
+      },
+      {
+        "poste": "Head of Talent Acquisition",
+        "alternatives": [
+          "Talent Acquisition Director",
+          "Head of Recruiting"
+        ],
+        "priorite": 2,
+        "raison": "Opérationnel — gère le plan de recrutement massif",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Hadrian",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Hadrian%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
+      },
+      {
+        "poste": "Head of Hiring",
+        "alternatives": [
+          "Hiring Manager",
+          "Recruitment Director"
+        ],
+        "priorite": 3,
+        "raison": "Sous-décideur — peut tester l'outil rapidement",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Hadrian",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Hadrian%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
+      }
+    ]
+  },
+  {
+    "id": "sig-2026-10-06-23ef1d67dcc9",
+    "date_capture": "2026-10-06",
+    "vertical": "corporate",
+    "sous_segment": "Scale-up / Levée Series B+ (Maddyness)",
+    "compte": "Vocca",
+    "titre": "Vocca boucle sa série A de 20 millions de dollars avec les fondateurs d’Alan et de Datadog",
+    "description": "L’article Vocca boucle sa série A de 20 millions de dollars avec les fondateurs d’Alan et de Datadog est apparu en premier sur Maddyness - Le média pour comprendre l&#039;économie de demain .",
+    "source": "Maddyness",
+    "source_tier": 1,
+    "url": "https://www.maddyness.com/2026/10/06/vocca-boucle-sa-serie-a-de-20-millions-de-dollars-avec-les-fondateurs-dalan-et-de-datadog/",
+    "signal_type": "levee_fonds",
+    "tier": 3,
+    "score": 50,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Source** : https://www.maddyness.com/2026/10/06/vocca-boucle-sa-serie-a-de-20-millions-de-dollars-avec-les-fondateurs-dalan-et-de-datadog/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 20.0M USD (~18.4M€) → Series A late, signal mais startup encore early\n📌 À surveiller — relancer dans 3-6 mois quand ils auront recruté 30+\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-10-06",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-10-06",
+    "email_draft": {
+      "subject": "Vocca — votre Series — sur l'évaluation candidats à scale",
+      "body": "Bonjour,\n\nJe viens de voir que Vocca a bouclé une levée de 20.0M USD (~18.4M€). Bravo pour cette étape.\n\nUne levée à cette taille s'accompagne souvent d'un plan de recrutement ambitieux. Anticiper l'outillage évite la dette technique RH.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://www.maddyness.com/2026/10/06/vocca-boucle-sa-serie-a-de-20-millions-de-dollars-avec-les-fondateurs-dalan-et-de-datadog/"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Chief People Officer",
+        "alternatives": [
+          "Head of People",
+          "VP People",
+          "DRH"
+        ],
+        "priorite": 1,
+        "raison": "Décide outils RH stratégiques post-levée",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Vocca",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Vocca%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
+      },
+      {
+        "poste": "Head of Talent Acquisition",
+        "alternatives": [
+          "Talent Acquisition Director",
+          "Head of Recruiting"
+        ],
+        "priorite": 2,
+        "raison": "Opérationnel — gère le plan de recrutement massif",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Vocca",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Vocca%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
+      },
+      {
+        "poste": "Head of Hiring",
+        "alternatives": [
+          "Hiring Manager",
+          "Recruitment Director"
+        ],
+        "priorite": 3,
+        "raison": "Sous-décideur — peut tester l'outil rapidement",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Vocca",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Vocca%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
+      }
+    ]
+  },
+  {
+    "id": "sig-2026-10-06-6f142001eb9f",
+    "date_capture": "2026-10-06",
+    "vertical": "corporate",
+    "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
+    "compte": "Vocca",
+    "titre": "Voice AI startup Vocca raises $20m to automate patient phone calls",
+    "description": "",
+    "source": "Sifted",
+    "source_tier": 1,
+    "url": "https://sifted.eu/articles/vocca-voice-ai-healthtech-series-a/",
+    "signal_type": "levee_fonds",
+    "tier": 3,
+    "score": 50,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Source** : https://sifted.eu/articles/vocca-voice-ai-healthtech-series-a/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 20.0M USD (~18.4M€) → Series A late, signal mais startup encore early\n📌 À surveiller — relancer dans 3-6 mois quand ils auront recruté 30+\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-10-06",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-10-06",
+    "email_draft": {
+      "subject": "Vocca — votre Series — sur l'évaluation candidats à scale",
+      "body": "Bonjour,\n\nJe viens de voir que Vocca a bouclé une levée de 20.0M USD (~18.4M€). Bravo pour cette étape.\n\nUne levée à cette taille s'accompagne souvent d'un plan de recrutement ambitieux. Anticiper l'outillage évite la dette technique RH.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/vocca-voice-ai-healthtech-series-a/"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Chief People Officer",
+        "alternatives": [
+          "Head of People",
+          "VP People",
+          "DRH"
+        ],
+        "priorite": 1,
+        "raison": "Décide outils RH stratégiques post-levée",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Vocca",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Vocca%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
+      },
+      {
+        "poste": "Head of Talent Acquisition",
+        "alternatives": [
+          "Talent Acquisition Director",
+          "Head of Recruiting"
+        ],
+        "priorite": 2,
+        "raison": "Opérationnel — gère le plan de recrutement massif",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Vocca",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Vocca%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
+      },
+      {
+        "poste": "Head of Hiring",
+        "alternatives": [
+          "Hiring Manager",
+          "Recruitment Director"
+        ],
+        "priorite": 3,
+        "raison": "Sous-décideur — peut tester l'outil rapidement",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Vocca",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Vocca%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
       }
     ]
   }

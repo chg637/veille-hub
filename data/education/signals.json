@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-10-02-bcb2123550a9",
-    "date_capture": "2026-10-05",
+    "date_capture": "2026-10-06",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "Accréditation",
@@ -19,7 +19,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nL’article De nouveaux membres viennent enrichir le comité Accréditation est apparu en premier sur Conférence des grandes écoles .\n\n🎯 **Action à mener**\nEmail au responsable maquette + pitch « Pack Edu Tosa = preuve mesurable compétences digitales pour le dossier accréditation ». Joindre 2 cas pairs. RDV sous 14j.\n\n💡 **Angle pitch ITS/Tosa**\nTosa = preuve opposable de la qualité d'évaluation des compétences (audit Qualiopi, France Compétences). Doublement du signal extérieur dans la promotion du programme labellisé.\n\n📅 **Timing**\n3 mois post-annonce — fenêtre de capitalisation médiatique encore active.",
-    "deadline_action": "2026-10-12",
+    "deadline_action": "2026-10-13",
     "status": "new",
     "date_publication": "2026-10-02",
     "email_draft": {
@@ -66,7 +66,7 @@
   },
   {
     "id": "sig-2026-09-28-4b0a92c726de",
-    "date_capture": "2026-10-05",
+    "date_capture": "2026-10-06",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "MBS",
@@ -83,7 +83,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nMohamed Afennich, nommé directeur général de Montpellier Business School (MBS) en novembre dernier, a donné sa première conférence de presse, jeudi 24 septembre. L'occasion pour lui de revenir sur…\n\n🎯 **Action à mener**\nNote LinkedIn 100 premiers jours du nouveau DG. Angle « bilan rapide du dispositif certification ». Brief équipe sur les comptes Tosa déjà présents chez MBS.\n\n💡 **Angle pitch ITS/Tosa**\nFenêtre stratégique post-prise de poste : nouveau directeur cherche à poser sa marque. Apport rapide = Tosa pour signal externe + ITS pour structurer la passation.\n\n📅 **Timing**\n30-90 jours après l'annonce. Au-delà, la roadmap est figée.",
-    "deadline_action": "2026-10-12",
+    "deadline_action": "2026-10-13",
     "status": "new",
     "date_publication": "2026-09-28",
     "email_draft": {
@@ -127,78 +127,16 @@
     ]
   },
   {
-    "id": "sig-2026-10-02-1ac59dce4e46",
-    "date_capture": "2026-10-05",
+    "id": "sig-2026-10-05-58a56808d3a6",
+    "date_capture": "2026-10-06",
     "vertical": "education",
     "sous_segment": "grande-ecole",
-    "compte": "ESIEE-IT",
-    "titre": "Nathalie Patrat, nouvelle Directrice Générale d’ESIEE-IT",
-    "description": "Directrice générale ESIEE-IT : Nathalie Patrat succède à Philippe Haïk depuis le 28 septembre 2026. L’article Nathalie Patrat, nouvelle Directrice Générale d ESIEE-IT est apparu en premier sur Planète Grandes Écoles .",
-    "source": "Planète Grandes Écoles",
+    "compte": "TBS Education",
+    "titre": "TBS Education inaugure son campus parisien et dévoile ses chiffres de rentrée",
+    "description": "La semaine passée, TBS Education a tenu sur son campus parisien une conférence de presse de rentrée en marge de l’inauguration de sa nouvelle implantation. Si l’école est présente depuis 20 ans dans la capitale, elle parachève aujourd’hui les travaux de son nouveau campus au cœur du 15e arrondissement, dans un ancien lycée technique acquis [&#8230;] Cet article TBS Education inaugure son campus pa",
+    "source": "Business Cool",
     "source_tier": 2,
-    "url": "https://www.planetegrandesecoles.com/directrice-generale-esiee-it-nathalie-patrat",
-    "signal_type": "nomination_dg",
-    "tier": 1,
-    "score": 85,
-    "produit_match": [
-      "Pack Education Tosa"
-    ],
-    "owner": null,
-    "action_reco": "📋 **Signal détecté**\nDirectrice générale ESIEE-IT : Nathalie Patrat succède à Philippe Haïk depuis le 28 septembre 2026. L’article Nathalie Patrat, nouvelle Directrice Générale d ESIEE-IT est apparu en premier sur…\n\n🎯 **Action à mener**\nNote LinkedIn 100 premiers jours du nouveau DG. Angle « bilan rapide du dispositif certification ». Brief équipe sur les comptes Tosa déjà présents chez ESIEE-IT.\n\n💡 **Angle pitch ITS/Tosa**\nFenêtre stratégique post-prise de poste : nouveau directeur cherche à poser sa marque. Apport rapide = Tosa pour signal externe + ITS pour structurer la passation.\n\n📅 **Timing**\n30-90 jours après l'annonce. Au-delà, la roadmap est figée.",
-    "deadline_action": "2026-10-12",
-    "status": "new",
-    "date_publication": "2026-10-02",
-    "email_draft": {
-      "subject": "ESIEE-IT — nouvelle direction : quels chantiers évaluation prévus ?",
-      "body": "Bonjour,\n\nJ'ai noté votre arrivée à la direction chez ESIEE-IT.\nContexte que j'ai vu passer : « Directrice générale ESIEE-IT : Nathalie Patrat succède à Philippe Haïk depuis le 28 septembre 2026. L’article Nathalie Patrat… ».\n\nFélicitations pour cette prise de poste — belle étape.\n\nJe me permets de vous écrire car beaucoup de directeurs récemment nommés dans le supérieur partagent le même constat à 60-90 jours : besoin de poser rapidement une stratégie claire sur l'évaluation des compétences étudiants — pour répondre aux exigences Qualiopi/RNCP et aux attentes des entreprises partenaires.\n\nChez Isograd, deux solutions utilisées par des écoles comparables :\n\n1. **Tosa** — certification des compétences numériques étudiants (bureautique, code, digital). Argument fort en diplômation, CV, et classements.\n\n2. **ITS** — plateforme d'hébergement d'examens en ligne avec proctoring et banque de questions, opposable en audit.\n\n15 minutes pour vous montrer ce que d'autres directions ont mis en place dans leurs premiers mois ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource de l'info : https://www.planetegrandesecoles.com/directrice-generale-esiee-it-nathalie-patrat"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Le(la) nouveau(elle) directeur(rice) directement",
-        "alternatives": [
-          "Directeur(rice) général(e)",
-          "Présidence"
-        ],
-        "priorite": 1,
-        "raison": "Fenêtre 30-90j post-prise de poste — ouvert aux nouveaux chantiers",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Le%28la%29+nouveau%28elle%29+directeur%28rice%29+directement%22+OR+%22Directeur%28rice%29+g%C3%A9n%C3%A9ral%28e%29%22+OR+%22Pr%C3%A9sidence%22&currentCompany=ESIEE-IT",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ESIEE-IT%22%20Le%28la%29%20nouveau%28elle%29%20directeur%28rice%29%20directement%20Directeur%28rice%29%20g%C3%A9n%C3%A9ral%28e%29%20Pr%C3%A9sidence"
-      },
-      {
-        "poste": "Directeur(rice) de cabinet / Adjoint(e)",
-        "alternatives": [
-          "Bras droit",
-          "Chief of Staff"
-        ],
-        "priorite": 2,
-        "raison": "Pré-qualifie les dossiers stratégiques du nouveau directeur",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+de+cabinet+%2F+Adjoint%28e%29%22+OR+%22Bras+droit%22+OR+%22Chief+of+Staff%22&currentCompany=ESIEE-IT",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ESIEE-IT%22%20Directeur%28rice%29%20de%20cabinet%20/%20Adjoint%28e%29%20Bras%20droit%20Chief%20of%20Staff"
-      },
-      {
-        "poste": "Directeur(rice) des programmes / Académique",
-        "alternatives": [
-          "Doyen",
-          "VP Pédagogie"
-        ],
-        "priorite": 3,
-        "raison": "Souvent en pleine relecture de la roadmap pédagogique post-nomination",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+des+programmes+%2F+Acad%C3%A9mique%22+OR+%22Doyen%22+OR+%22VP+P%C3%A9dagogie%22&currentCompany=ESIEE-IT",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ESIEE-IT%22%20Directeur%28rice%29%20des%20programmes%20/%20Acad%C3%A9mique%20Doyen%20VP%20P%C3%A9dagogie"
-      }
-    ]
-  },
-  {
-    "id": "sig-2026-09-30-77f159702889",
-    "date_capture": "2026-10-05",
-    "vertical": "education",
-    "sous_segment": "grande-ecole",
-    "compte": "ICN",
-    "titre": "Rentrée 2026 d’ICN : les infos à retenir !",
-    "description": "Rentrée 2026 d'ICN : François Thérin, le nouveau DG de l'école dévoile toutes les nouveautés à venir, avec en fil rouge la méthode ATMx L’article Rentrée 2026 d’ICN : les infos à retenir ! est apparu en premier sur Monde des grandes écoles et universités .",
-    "source": "Monde des Grandes Écoles",
-    "source_tier": 2,
-    "url": "https://www.mondedesgrandesecoles.fr/rentree-2026-dicn-les-infos-a-retenir/",
+    "url": "https://business-cool.com/actualites/actu-ecoles/tbs-education-inaugure-campus-paris/",
     "signal_type": "nouvelle_formation",
     "tier": 1,
     "score": 80,
@@ -207,13 +145,13 @@
       "Cert IA"
     ],
     "owner": null,
-    "action_reco": "📋 **Signal détecté**\nRentrée 2026 d'ICN : François Thérin, le nouveau DG de l'école dévoile toutes les nouveautés à venir, avec en fil rouge la méthode ATMx L’article Rentrée 2026 d’ICN : les infos à retenir ! est apparu…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme ICN. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-10-12",
+    "action_reco": "📋 **Signal détecté**\nLa semaine passée, TBS Education a tenu sur son campus parisien une conférence de presse de rentrée en marge de l’inauguration de sa nouvelle implantation. Si l’école est présente depuis 20 ans dans…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme TBS Education. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
+    "deadline_action": "2026-10-13",
     "status": "new",
-    "date_publication": "2026-09-30",
+    "date_publication": "2026-10-05",
     "email_draft": {
-      "subject": "ICN — Rentrée 2026 d'ICN : François Thérin : quelle évaluation prévue ?",
-      "body": "Bonjour,\n\nJ'ai vu votre actualité : « Rentrée 2026 d'ICN : François Thérin, le nouveau DG de l'école dévoile toutes les nouveautés à venir, avec en fil rouge… ». Beau lancement.\n\nSur ce type de nouveau programme, le timing pour penser le dispositif d'évaluation des compétences est en général la période juste avant la première cohorte — ça permet de cadrer proprement la maquette pédagogique et les outils.\n\nChez Isograd, on opère 2 solutions complémentaires pour un programme comme le vôtre :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital). Argument concret en diplômation, sur le CV et auprès des entreprises partenaires.\n\n2. **ITS** pour héberger les sessions d'examen en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\nDéploiement en 4-6 semaines, budget calibré sur le volume étudiants. 15 minutes pour échanger sur votre cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://www.mondedesgrandesecoles.fr/rentree-2026-dicn-les-infos-a-retenir/"
+      "subject": "TBS Education — La semaine passée, TBS Education a : quelle évaluation prévue ?",
+      "body": "Bonjour,\n\nJ'ai vu votre actualité : « La semaine passée, TBS Education a tenu sur son campus parisien une conférence de presse de rentrée en marge de… ». Beau lancement.\n\nSur ce type de nouveau programme, le timing pour penser le dispositif d'évaluation des compétences est en général la période juste avant la première cohorte — ça permet de cadrer proprement la maquette pédagogique et les outils.\n\nChez Isograd, on opère 2 solutions complémentaires pour un programme comme le vôtre :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital). Argument concret en diplômation, sur le CV et auprès des entreprises partenaires.\n\n2. **ITS** pour héberger les sessions d'examen en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\nDéploiement en 4-6 semaines, budget calibré sur le volume étudiants. 15 minutes pour échanger sur votre cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://business-cool.com/actualites/actu-ecoles/tbs-education-inaugure-campus-paris/"
     },
     "contacts_cibles": [
       {
@@ -224,8 +162,8 @@
         ],
         "priorite": 1,
         "raison": "Définit le dispositif d'évaluation du nouveau programme",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+du+programme+%2F+Directeur%28rice%29+de+la+formation%22+OR+%22Coordinateur%28rice%29+p%C3%A9dagogique%22+OR+%22Responsable+de+fili%C3%A8re%22&currentCompany=ICN",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ICN%22%20Responsable%20du%20programme%20/%20Directeur%28rice%29%20de%20la%20formation%20Coordinateur%28rice%29%20p%C3%A9dagogique%20Responsable%20de%20fili%C3%A8re"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+du+programme+%2F+Directeur%28rice%29+de+la+formation%22+OR+%22Coordinateur%28rice%29+p%C3%A9dagogique%22+OR+%22Responsable+de+fili%C3%A8re%22&currentCompany=TBS+Education",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22TBS%20Education%22%20Responsable%20du%20programme%20/%20Directeur%28rice%29%20de%20la%20formation%20Coordinateur%28rice%29%20p%C3%A9dagogique%20Responsable%20de%20fili%C3%A8re"
       },
       {
         "poste": "Doyen / Directeur(rice) académique",
@@ -235,8 +173,8 @@
         ],
         "priorite": 2,
         "raison": "Arbitrage sur l'outillage évaluation à l'échelle de l'établissement",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Doyen+%2F+Directeur%28rice%29+acad%C3%A9mique%22+OR+%22VP+P%C3%A9dagogie%22+OR+%22Directeur%28rice%29+des+%C3%A9tudes%22&currentCompany=ICN",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ICN%22%20Doyen%20/%20Directeur%28rice%29%20acad%C3%A9mique%20VP%20P%C3%A9dagogie%20Directeur%28rice%29%20des%20%C3%A9tudes"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Doyen+%2F+Directeur%28rice%29+acad%C3%A9mique%22+OR+%22VP+P%C3%A9dagogie%22+OR+%22Directeur%28rice%29+des+%C3%A9tudes%22&currentCompany=TBS+Education",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22TBS%20Education%22%20Doyen%20/%20Directeur%28rice%29%20acad%C3%A9mique%20VP%20P%C3%A9dagogie%20Directeur%28rice%29%20des%20%C3%A9tudes"
       },
       {
         "poste": "Responsable RNCP / Certifications",
@@ -246,77 +184,14 @@
         ],
         "priorite": 3,
         "raison": "Cadrage Qualiopi / preuve d'évaluation pour la certification",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+Certifications%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22+OR+%22Responsable+Qualiopi%22&currentCompany=ICN",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ICN%22%20Responsable%20RNCP%20/%20Certifications%20R%C3%A9f%C3%A9rent%20qualit%C3%A9%20Responsable%20Qualiopi"
-      }
-    ]
-  },
-  {
-    "id": "sig-2026-10-02-1686932ef1c0",
-    "date_capture": "2026-10-05",
-    "vertical": "education",
-    "sous_segment": "grande-ecole",
-    "compte": "AMU",
-    "titre": "Campus des transitions industrielles : AMU lance son hub de décarbonation à Marseille",
-    "description": "Campus des transitions industrielles : AMU lance à Polytech Marseille son hub de décarbonation avec des nouveautés ! L’article Campus des transitions industrielles : AMU lance son hub de décarbonation à Marseille est apparu en premier sur Planète Grandes Écoles .",
-    "source": "Planète Grandes Écoles",
-    "source_tier": 2,
-    "url": "https://www.planetegrandesecoles.com/campus-transitions-industrielles-amu",
-    "signal_type": "nouvelle_formation",
-    "tier": 1,
-    "score": 80,
-    "produit_match": [
-      "Pack Education Tosa",
-      "Cert IA"
-    ],
-    "owner": null,
-    "action_reco": "📋 **Signal détecté**\nCampus des transitions industrielles : AMU lance à Polytech Marseille son hub de décarbonation avec des nouveautés ! L’article Campus des transitions industrielles : AMU lance son hub de…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme AMU. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-10-12",
-    "status": "new",
-    "date_publication": "2026-10-02",
-    "email_draft": {
-      "subject": "AMU — Campus des transitions industrielles : AMU : quelle évaluation prévue ?",
-      "body": "Bonjour,\n\nJ'ai vu votre actualité : « Campus des transitions industrielles : AMU lance à Polytech Marseille son hub de décarbonation avec des nouveautés !… ». Beau lancement.\n\nSur ce type de nouveau programme, le timing pour penser le dispositif d'évaluation des compétences est en général la période juste avant la première cohorte — ça permet de cadrer proprement la maquette pédagogique et les outils.\n\nChez Isograd, on opère 2 solutions complémentaires pour un programme comme le vôtre :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital). Argument concret en diplômation, sur le CV et auprès des entreprises partenaires.\n\n2. **ITS** pour héberger les sessions d'examen en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\nDéploiement en 4-6 semaines, budget calibré sur le volume étudiants. 15 minutes pour échanger sur votre cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://www.planetegrandesecoles.com/campus-transitions-industrielles-amu"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Responsable du programme / Directeur(rice) de la formation",
-        "alternatives": [
-          "Coordinateur(rice) pédagogique",
-          "Responsable de filière"
-        ],
-        "priorite": 1,
-        "raison": "Définit le dispositif d'évaluation du nouveau programme",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+du+programme+%2F+Directeur%28rice%29+de+la+formation%22+OR+%22Coordinateur%28rice%29+p%C3%A9dagogique%22+OR+%22Responsable+de+fili%C3%A8re%22&currentCompany=AMU",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22AMU%22%20Responsable%20du%20programme%20/%20Directeur%28rice%29%20de%20la%20formation%20Coordinateur%28rice%29%20p%C3%A9dagogique%20Responsable%20de%20fili%C3%A8re"
-      },
-      {
-        "poste": "Doyen / Directeur(rice) académique",
-        "alternatives": [
-          "VP Pédagogie",
-          "Directeur(rice) des études"
-        ],
-        "priorite": 2,
-        "raison": "Arbitrage sur l'outillage évaluation à l'échelle de l'établissement",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Doyen+%2F+Directeur%28rice%29+acad%C3%A9mique%22+OR+%22VP+P%C3%A9dagogie%22+OR+%22Directeur%28rice%29+des+%C3%A9tudes%22&currentCompany=AMU",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22AMU%22%20Doyen%20/%20Directeur%28rice%29%20acad%C3%A9mique%20VP%20P%C3%A9dagogie%20Directeur%28rice%29%20des%20%C3%A9tudes"
-      },
-      {
-        "poste": "Responsable RNCP / Certifications",
-        "alternatives": [
-          "Référent qualité",
-          "Responsable Qualiopi"
-        ],
-        "priorite": 3,
-        "raison": "Cadrage Qualiopi / preuve d'évaluation pour la certification",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+Certifications%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22+OR+%22Responsable+Qualiopi%22&currentCompany=AMU",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22AMU%22%20Responsable%20RNCP%20/%20Certifications%20R%C3%A9f%C3%A9rent%20qualit%C3%A9%20Responsable%20Qualiopi"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+Certifications%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22+OR+%22Responsable+Qualiopi%22&currentCompany=TBS+Education",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22TBS%20Education%22%20Responsable%20RNCP%20/%20Certifications%20R%C3%A9f%C3%A9rent%20qualit%C3%A9%20Responsable%20Qualiopi"
       }
     ]
   },
   {
     "id": "sig-2026-10-05-cd3314948600",
-    "date_capture": "2026-10-05",
+    "date_capture": "2026-10-06",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "Rennes",
@@ -334,7 +209,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nRennes School of Business a réuni 2 500 étudiants de ses programmes Bachelor, Grande École et Master à l’occasion de sa rentrée 2026. Pour la deuxième année consécutive, l’école mise notamment sur…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme Rennes. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-10-12",
+    "deadline_action": "2026-10-13",
     "status": "new",
     "date_publication": "2026-10-05",
     "email_draft": {
@@ -379,7 +254,7 @@
   },
   {
     "id": "sig-2026-09-24-c7d0122871a7",
-    "date_capture": "2026-10-05",
+    "date_capture": "2026-10-06",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "Bien choisir son bureau professionnel quand on",
@@ -397,7 +272,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nLorsqu’on démarre son activité, le bureau devient souvent le centre de l’organisation interne. Comment faire un choix raisonnable en matière de mobilier de bureau quand on se met à son compte sans…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme Bien choisir son bureau professionnel quand on. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-10-12",
+    "deadline_action": "2026-10-13",
     "status": "new",
     "date_publication": "2026-09-24",
     "email_draft": {
@@ -442,7 +317,7 @@
   },
   {
     "id": "sig-2026-09-23-119c6416057c",
-    "date_capture": "2026-10-05",
+    "date_capture": "2026-10-06",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "Concours",
@@ -460,7 +335,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nLe Concours ACCÈS fait évoluer son modèle. Après une session 2026 qui a réuni plus de 5 000 candidats en post-bac, le concours commun à l’ESDES, l’ESSCA et l’IÉSEG va revoir ses modalités de…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme Concours. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-10-12",
+    "deadline_action": "2026-10-13",
     "status": "new",
     "date_publication": "2026-09-23",
     "email_draft": {
@@ -505,7 +380,7 @@
   },
   {
     "id": "sig-2026-09-22-fc13ec2bd85a",
-    "date_capture": "2026-10-05",
+    "date_capture": "2026-10-06",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "Changement d’identité pour SKEMA qui",
@@ -523,7 +398,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\n« SKEMA ne laisse personne indifférent », observe Alice Guilon en dévoilant à la presse et à ses partenaires le changement d’identité de la business school qu’elle dirige depuis 2009. Le nouveau logo…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme Changement d’identité pour SKEMA qui. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-10-12",
+    "deadline_action": "2026-10-13",
     "status": "new",
     "date_publication": "2026-09-22",
     "email_draft": {
@@ -568,7 +443,7 @@
   },
   {
     "id": "sig-stable-4cc03b95f797",
-    "date_capture": "2026-10-05",
+    "date_capture": "2026-10-06",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "Universite de Technologie de Troyes (UTT)",
@@ -588,7 +463,7 @@
     "action_reco": "📋 **Signal détecté**\nBachelor IA - cursus 3 ans\n\n🎯 **Action à mener**\nA croiser site UTT + LinkedIn avant contact\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-10-05",
+    "date_publication": "2026-10-06",
     "email_draft": {
       "subject": "Universite de Technologie de Troyes (UTT) — Bachelor IA - cursus 3 ans : quelle évaluation prévue ?",
       "body": "Bonjour,\n\nJ'ai vu votre actualité : « Bachelor IA - cursus 3 ans ». Beau lancement.\n\nSur ce type de nouveau programme, le timing pour penser le dispositif d'évaluation des compétences est en général la période juste avant la première cohorte — ça permet de cadrer proprement la maquette pédagogique et les outils.\n\nChez Isograd, on opère 2 solutions complémentaires pour un programme comme le vôtre :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital). Argument concret en diplômation, sur le CV et auprès des entreprises partenaires.\n\n2. **ITS** pour héberger les sessions d'examen en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\n3. **Cert IA** — notre badge co-construit avec des écoles partenaires pour les programmes IA. Concrètement, vos étudiants ressortent du programme avec une certification externe sur les compétences IA appliquées. On a une program beta en cours, vous pourriez en faire partie.\n\nDéploiement en 4-6 semaines, budget calibré sur le volume étudiants. 15 minutes pour échanger sur votre cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://www.letudiant.fr/etudes/lactu-des-formations-de-nouveaux-cursus-en-ia-dans-le-superieur.html"
