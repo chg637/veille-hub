@@ -1,12 +1,12 @@
 [
   {
-    "id": "sig-2026-10-01-925c9f1ce4bd",
-    "date_capture": "2026-10-08",
+    "id": "sig-2026-10-01-4f64b68c4b7c",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
-    "compte": "ECOLE DE L'AIR ET DE L'ESPACE",
+    "compte": "ECOLE CENTRALE DE MARSEILLE",
     "titre": "Nouvelle fiche RNCP42813 — Expert en cybersécurité des systèmes complexes pour l’industrie et la Défense (MS)",
-    "description": "Expert en cybersécurité des systèmes complexes pour l’industrie et la Défense (MS). Type :  (Niveau 7). Enregistrement sur demande. Décision du 2026-10-01. Certificateur(s) : ECOLE DE L'AIR ET DE L'ESPACE, ECOLE CENTRALE DE MARSEILLE.",
+    "description": "Expert en cybersécurité des systèmes complexes pour l’industrie et la Défense (MS). Type :  (Niveau 7). Enregistrement sur demande. Décision du 2026-10-01. Certificateur(s) : ECOLE CENTRALE DE MARSEILLE, ECOLE DE L'AIR ET DE L'ESPACE.",
     "source": "France Compétences",
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42813/",
@@ -22,7 +22,7 @@
     "status": "new",
     "date_publication": "2026-10-01",
     "email_draft": {
-      "subject": "ECOLE DE L'AIR ET DE L'ESPACE — Expert en cybersécurité des systèmes complexes : comment vous outillez la passation ?",
+      "subject": "ECOLE CENTRALE DE MARSEILLE — Expert en cybersécurité des systèmes complexes : comment vous outillez la passation ?",
       "body": "Bonjour,\n\nJ'ai noté votre actualité : « Expert en cybersécurité des systèmes complexes pour l’industrie et la Défense (MS) ».\n\nSur une nouvelle fiche RNCP/RS, deux sujets pèsent vite côté opérationnel : la passation d'épreuves à scale, et la traçabilité des résultats (audit Qualiopi, contrôle France Compétences).\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens sur laquelle vous déposez VOS propres épreuves (théoriques, pratiques, comportementales) et qui prend en charge :\n\n- Banque de questions structurée par bloc de compétences (alignée sur votre fiche RNCP)\n- Surveillance à distance (proctoring) avec preuves opposables\n- Correction automatique + rapports candidat/admin\n- Traçabilité complète des sessions, exportable pour audit\n- Génération automatique des attestations et duplicatas\n\nAvantage : vous gardez la main pédagogique sur le contenu et vous déléguez l'infrastructure de passation. Déploiement 4-6 semaines pour ouvrir la 1re session.\n\n20 minutes pour vous montrer comment ça tourne chez un certificateur de taille comparable ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource : https://www.francecompetences.fr/recherche/rncp/42813/"
     },
     "contacts_cibles": [
@@ -35,8 +35,8 @@
         ],
         "priorite": 1,
         "raison": "Pilote la déclaration et l'animation de la fiche déposée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=ECOLE+DE+L%27AIR+ET+DE+L%27ESPACE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ECOLE%20DE%20L%27AIR%20ET%20DE%20L%27ESPACE%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=ECOLE+CENTRALE+DE+MARSEILLE",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ECOLE%20CENTRALE%20DE%20MARSEILLE%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
       },
       {
         "poste": "Directeur(rice) qualité / Responsable Qualiopi",
@@ -46,8 +46,8 @@
         ],
         "priorite": 2,
         "raison": "Garant de la traçabilité et de l'opposabilité en audit",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=ECOLE+DE+L%27AIR+ET+DE+L%27ESPACE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ECOLE%20DE%20L%27AIR%20ET%20DE%20L%27ESPACE%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=ECOLE+CENTRALE+DE+MARSEILLE",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ECOLE%20CENTRALE%20DE%20MARSEILLE%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
       },
       {
         "poste": "Directeur(rice) pédagogique / Responsable ingénierie",
@@ -57,14 +57,14 @@
         ],
         "priorite": 3,
         "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=ECOLE+DE+L%27AIR+ET+DE+L%27ESPACE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ECOLE%20DE%20L%27AIR%20ET%20DE%20L%27ESPACE%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=ECOLE+CENTRALE+DE+MARSEILLE",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ECOLE%20CENTRALE%20DE%20MARSEILLE%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
       }
     ]
   },
   {
     "id": "sig-2026-10-01-796dd1f13b11",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "AFORP FORMATION (CFAI)",
@@ -127,7 +127,7 @@
   },
   {
     "id": "sig-2026-10-01-76eff57ff915",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "EPITECH ECOLE INFORMATIQUE NOUV TECHNO",
@@ -190,7 +190,7 @@
   },
   {
     "id": "sig-2026-10-01-958aab645081",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "ESSCA",
@@ -253,7 +253,7 @@
   },
   {
     "id": "sig-2026-10-01-f9b68ca85dae",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "AFORP FORMATION (CFAI)",
@@ -316,7 +316,7 @@
   },
   {
     "id": "sig-2026-10-01-7f2b372fc733",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "CCI FRANCE",
@@ -379,7 +379,7 @@
   },
   {
     "id": "sig-2026-10-01-690b8ab90cf5",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "ECOLE HAUTES ETUDES EN SANTE PUBLIQUE",
@@ -442,7 +442,7 @@
   },
   {
     "id": "sig-2026-10-01-6555a6e32669",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "CESI",
@@ -505,7 +505,7 @@
   },
   {
     "id": "sig-2026-10-01-b90a305daf57",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "INSTITUT DU MARAIS - CHARLEMAGNE - POLLES",
@@ -568,7 +568,7 @@
   },
   {
     "id": "sig-2026-10-01-eabca9a32d77",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "INSTITUT DE MANAGEMENT COMMERCIAL",
@@ -631,7 +631,7 @@
   },
   {
     "id": "sig-2026-10-01-603c9ebcf128",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "EC NAT SUP BORDEAUX SCIENCES AGRO",
@@ -694,7 +694,7 @@
   },
   {
     "id": "sig-2026-10-01-bd0cace1a87b",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "NEOMA BUSINESS SCHOOL",
@@ -757,7 +757,7 @@
   },
   {
     "id": "sig-2026-10-01-9d1279303845",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "OPENCLASSROOMS",
@@ -820,7 +820,7 @@
   },
   {
     "id": "sig-2026-10-01-2f83456c375b",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "CONSEILS EN GESTION DE PATRIMOINE CERTIFIES",
@@ -883,7 +883,7 @@
   },
   {
     "id": "sig-2026-10-01-77e055095f65",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "UNION DES INDUSTRIES ET DES METIERS DE LA METALLURGIE (UIMM)",
@@ -946,7 +946,7 @@
   },
   {
     "id": "sig-2026-10-01-e0a886489d24",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "ECOLE SUP LIBRE SCIENC COM APPLIQUEES",
@@ -1009,7 +1009,7 @@
   },
   {
     "id": "sig-2026-10-01-16b7651af96b",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "MJM GRAPHIC DESIGN PARIS",
@@ -1072,12 +1072,12 @@
   },
   {
     "id": "sig-2026-10-01-b84dbca41300",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "HETIC",
     "titre": "Nouvelle fiche RNCP42868 — Expert en cybersécurité",
-    "description": "Expert en cybersécurité. Type :  (Niveau 7). Enregistrement sur demande. Décision du 2026-10-01. Certificateur(s) : HETIC, ESGCV, PSTB-PARIS SCHOOL OF TECHNOLOGY & BUSINESS EN ABREGE P.S.T.B.",
+    "description": "Expert en cybersécurité. Type :  (Niveau 7). Enregistrement sur demande. Décision du 2026-10-01. Certificateur(s) : HETIC, PSTB-PARIS SCHOOL OF TECHNOLOGY & BUSINESS EN ABREGE P.S.T.B, ESGCV.",
     "source": "France Compétences",
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42868/",
@@ -1135,7 +1135,7 @@
   },
   {
     "id": "sig-2026-10-01-6f820f83eda8",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "INSTITUT SUPERIEUR DU DROIT",
@@ -1198,7 +1198,7 @@
   },
   {
     "id": "sig-2026-10-01-08978ab9634f",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "ESGCV",
@@ -1261,7 +1261,7 @@
   },
   {
     "id": "sig-2026-10-01-89c5fb538df3",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "INSTITUT SUPERIEUR D'INFORMATIQUE ET DE MANAGEMENT DE L'INFORMATION",
@@ -1324,7 +1324,7 @@
   },
   {
     "id": "sig-2026-10-01-b956e39b2716",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "INSTITUT SUPERIEUR D'INFORMATIQUE ET DE MANAGEMENT DE L'INFORMATION",
@@ -1387,7 +1387,7 @@
   },
   {
     "id": "sig-2026-10-01-2b059b1c506b",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "SCIENCES-U LYON",
@@ -1450,7 +1450,7 @@
   },
   {
     "id": "sig-2026-10-01-3d04ed0a8f72",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "CFA INSTA",
@@ -1513,7 +1513,7 @@
   },
   {
     "id": "sig-2026-10-01-8c34f1de12aa",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 5",
     "compte": "NOUVEL R FORMATION",
@@ -1576,7 +1576,7 @@
   },
   {
     "id": "sig-2026-10-01-03f68330b501",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 5",
     "compte": "ASS FRANC FORMAT ETUDE CURATELLE TUTELLE",
@@ -1639,7 +1639,7 @@
   },
   {
     "id": "sig-2026-10-01-680adf494203",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 5",
     "compte": "UNIVERSITE CLAUDE BERNARD LYON 1",
@@ -1702,7 +1702,7 @@
   },
   {
     "id": "sig-2026-10-01-df7a63977ccf",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 5",
     "compte": "OPENCLASSROOMS",
@@ -1765,7 +1765,7 @@
   },
   {
     "id": "sig-2026-10-01-a099d0505b99",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 3",
     "compte": "UNION DES INDUSTRIES ET DES METIERS DE LA METALLURGIE (UIMM)",
@@ -1828,7 +1828,7 @@
   },
   {
     "id": "sig-2026-10-01-1573c5c700e4",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 5",
     "compte": "EPITECH ECOLE INFORMATIQUE NOUV TECHNO",
@@ -1891,7 +1891,7 @@
   },
   {
     "id": "sig-2026-10-01-9433fb60af2d",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 4",
     "compte": "GIP FORMATION TOUT AU LONG DE LA VIE",
@@ -1954,7 +1954,7 @@
   },
   {
     "id": "sig-2026-10-01-6e52c3a1c89e",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 4",
     "compte": "INST DE FORMATION COMMERCIALE PERMANENTE",
@@ -2017,7 +2017,7 @@
   },
   {
     "id": "sig-2026-10-01-54e70b554f59",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche",
     "compte": "GROUPE DES ECOLES NATIONALES D ECONOMIE ET STATISTIQUE",
@@ -2080,7 +2080,7 @@
   },
   {
     "id": "sig-2026-10-01-b6ecce4bbbc8",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche",
     "compte": "UP N PRO",
@@ -2143,7 +2143,7 @@
   },
   {
     "id": "sig-2026-10-01-21d5efa8d81a",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche",
     "compte": "AIRBUS OPERATIONS",
@@ -2206,7 +2206,7 @@
   },
   {
     "id": "sig-2026-10-01-3cb13bd6da71",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche",
     "compte": "BUREAU VERITAS EXPLOITATION",
@@ -2269,7 +2269,7 @@
   },
   {
     "id": "sig-2026-10-01-0c26ae25e25f",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche",
     "compte": "ALYRA",
@@ -2332,7 +2332,7 @@
   },
   {
     "id": "sig-2026-10-01-ac002a690606",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche",
     "compte": "STEPHANIE DELOUMEAUX",
@@ -2395,7 +2395,7 @@
   },
   {
     "id": "sig-2026-10-01-f28ba8a1fafa",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche",
     "compte": "FORMALISA INSTITUT",
@@ -2458,7 +2458,7 @@
   },
   {
     "id": "sig-2026-10-01-0f81aaaaf5a5",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche",
     "compte": "FORMALISA INSTITUT",
@@ -2521,7 +2521,7 @@
   },
   {
     "id": "sig-2026-10-01-eb1aca42c89a",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche",
     "compte": "FORMALISA INSTITUT",
@@ -2584,7 +2584,7 @@
   },
   {
     "id": "sig-2026-10-01-058f81a27f8c",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche",
     "compte": "WEB ASSOCIATION BERGERAC",
@@ -2646,13 +2646,13 @@
     ]
   },
   {
-    "id": "sig-2026-10-01-580fc67112cf",
-    "date_capture": "2026-10-08",
+    "id": "sig-2026-10-01-5cf2b417e5e1",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche",
-    "compte": "HVC PREMIUM",
+    "compte": "ADEVET",
     "titre": "Nouvelle fiche RS7768 — Optimiser la pratique vétérinaire en intégrant l’intelligence artificielle et le no-code",
-    "description": "Optimiser la pratique vétérinaire en intégrant l’intelligence artificielle et le no-code. Type :  (). Enregistrement sur demande. Décision du 2026-10-01. Certificateur(s) : HVC PREMIUM, ADEVET.",
+    "description": "Optimiser la pratique vétérinaire en intégrant l’intelligence artificielle et le no-code. Type :  (). Enregistrement sur demande. Décision du 2026-10-01. Certificateur(s) : ADEVET, HVC PREMIUM.",
     "source": "France Compétences",
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rs/7768/",
@@ -2668,7 +2668,7 @@
     "status": "new",
     "date_publication": "2026-10-01",
     "email_draft": {
-      "subject": "HVC PREMIUM — Optimiser la pratique vétérinaire en intégrant : comment vous outillez la passation ?",
+      "subject": "ADEVET — Optimiser la pratique vétérinaire en intégrant : comment vous outillez la passation ?",
       "body": "Bonjour,\n\nJ'ai noté votre actualité : « Optimiser la pratique vétérinaire en intégrant l’intelligence artificielle et le no-code ».\n\nSur une nouvelle fiche RNCP/RS, deux sujets pèsent vite côté opérationnel : la passation d'épreuves à scale, et la traçabilité des résultats (audit Qualiopi, contrôle France Compétences).\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens sur laquelle vous déposez VOS propres épreuves (théoriques, pratiques, comportementales) et qui prend en charge :\n\n- Banque de questions structurée par bloc de compétences (alignée sur votre fiche RNCP)\n- Surveillance à distance (proctoring) avec preuves opposables\n- Correction automatique + rapports candidat/admin\n- Traçabilité complète des sessions, exportable pour audit\n- Génération automatique des attestations et duplicatas\n\nAvantage : vous gardez la main pédagogique sur le contenu et vous déléguez l'infrastructure de passation. Déploiement 4-6 semaines pour ouvrir la 1re session.\n\n20 minutes pour vous montrer comment ça tourne chez un certificateur de taille comparable ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource : https://www.francecompetences.fr/recherche/rs/7768/"
     },
     "contacts_cibles": [
@@ -2681,8 +2681,8 @@
         ],
         "priorite": 1,
         "raison": "Pilote la déclaration et l'animation de la fiche déposée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=HVC+PREMIUM",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22HVC%20PREMIUM%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=ADEVET",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ADEVET%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
       },
       {
         "poste": "Directeur(rice) qualité / Responsable Qualiopi",
@@ -2692,8 +2692,8 @@
         ],
         "priorite": 2,
         "raison": "Garant de la traçabilité et de l'opposabilité en audit",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=HVC+PREMIUM",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22HVC%20PREMIUM%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=ADEVET",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ADEVET%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
       },
       {
         "poste": "Directeur(rice) pédagogique / Responsable ingénierie",
@@ -2703,14 +2703,14 @@
         ],
         "priorite": 3,
         "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=HVC+PREMIUM",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22HVC%20PREMIUM%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=ADEVET",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ADEVET%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
       }
     ]
   },
   {
     "id": "sig-2026-10-01-d9254b88bf33",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche",
     "compte": "CMA FRANCE",
@@ -2773,7 +2773,7 @@
   },
   {
     "id": "sig-2026-10-01-9c3039676070",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 6",
     "compte": "U C A N S S",
@@ -2836,7 +2836,7 @@
   },
   {
     "id": "sig-2026-10-01-d08eb8d204cb",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 6",
     "compte": "ASS NAT FORMATION ET RECHER POUR ALTERNA",
@@ -2899,7 +2899,7 @@
   },
   {
     "id": "sig-2026-10-01-bfbbfa8c502f",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 7",
     "compte": "ESGCV",
@@ -2962,7 +2962,7 @@
   },
   {
     "id": "sig-2026-10-01-eda29df2a9a4",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 6",
     "compte": "ATELIER MASTERCAST",
@@ -3025,7 +3025,7 @@
   },
   {
     "id": "sig-2026-10-01-1d97f001008f",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 7",
     "compte": "CFAI DIAFOR",
@@ -3087,13 +3087,13 @@
     ]
   },
   {
-    "id": "sig-2026-10-01-b48d9b77574e",
-    "date_capture": "2026-10-08",
+    "id": "sig-2026-10-01-d7b7e31ad41f",
+    "date_capture": "2026-10-09",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 7",
-    "compte": "FERRANDI-CCI PARIS ILE DE FRANCE",
+    "compte": "INSTITUT NATIONAL DES SCIENCES ET INDUSTRIES DU VIVANT ET DE L'ENVIRONNEMENT (AGROPARISTECH)",
     "titre": "Nouvelle fiche RNCP42845 — Chef de projet conception et développement culinaire en industrie (MS)",
-    "description": "Chef de projet conception et développement culinaire en industrie (MS). Type :  (Niveau 7). Enregistrement sur demande. Décision du 2026-10-01. Certificateur(s) : FERRANDI-CCI PARIS ILE DE FRANCE, INSTITUT NATIONAL DES SCIENCES ET INDUSTRIES DU VIVANT ET DE L'ENVIRONNEMENT (AGROPARISTECH).",
+    "description": "Chef de projet conception et développement culinaire en industrie (MS). Type :  (Niveau 7). Enregistrement sur demande. Décision du 2026-10-01. Certificateur(s) : INSTITUT NATIONAL DES SCIENCES ET INDUSTRIES DU VIVANT ET DE L'ENVIRONNEMENT (AGROPARISTECH), FERRANDI-CCI PARIS ILE DE FRANCE.",
     "source": "France Compétences",
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42845/",
@@ -3109,7 +3109,7 @@
     "status": "new",
     "date_publication": "2026-10-01",
     "email_draft": {
-      "subject": "FERRANDI-CCI PARIS ILE DE FRANCE — Chef de projet conception et développement : comment vous outillez la passation ?",
+      "subject": "INSTITUT NATIONAL DES SCIENCES ET INDUSTRIES DU VIVANT ET DE L'ENVIRONNEMENT (AGROPARISTECH) — Chef de projet conception et développement : comment vous outillez la passation ?",
       "body": "Bonjour,\n\nJ'ai noté votre actualité : « Chef de projet conception et développement culinaire en industrie (MS) ».\n\nSur une nouvelle fiche RNCP/RS, deux sujets pèsent vite côté opérationnel : la passation d'épreuves à scale, et la traçabilité des résultats (audit Qualiopi, contrôle France Compétences).\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens sur laquelle vous déposez VOS propres épreuves (théoriques, pratiques, comportementales) et qui prend en charge :\n\n- Banque de questions structurée par bloc de compétences (alignée sur votre fiche RNCP)\n- Surveillance à distance (proctoring) avec preuves opposables\n- Correction automatique + rapports candidat/admin\n- Traçabilité complète des sessions, exportable pour audit\n- Génération automatique des attestations et duplicatas\n\nAvantage : vous gardez la main pédagogique sur le contenu et vous déléguez l'infrastructure de passation. Déploiement 4-6 semaines pour ouvrir la 1re session.\n\n20 minutes pour vous montrer comment ça tourne chez un certificateur de taille comparable ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource : https://www.francecompetences.fr/recherche/rncp/42845/"
     },
     "contacts_cibles": [
@@ -3122,8 +3122,8 @@
         ],
         "priorite": 1,
         "raison": "Pilote la déclaration et l'animation de la fiche déposée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=FERRANDI-CCI+PARIS+ILE+DE+FRANCE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22FERRANDI-CCI%20PARIS%20ILE%20DE%20FRANCE%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=INSTITUT+NATIONAL+DES+SCIENCES+ET+INDUSTRIES+DU+VIVANT+ET+DE+L%27ENVIRONNEMENT+%28AGROPARISTECH%29",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22INSTITUT%20NATIONAL%20DES%20SCIENCES%20ET%20INDUSTRIES%20DU%20VIVANT%20ET%20DE%20L%27ENVIRONNEMENT%20%28AGROPARISTECH%29%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
       },
       {
         "poste": "Directeur(rice) qualité / Responsable Qualiopi",
@@ -3133,8 +3133,8 @@
         ],
         "priorite": 2,
         "raison": "Garant de la traçabilité et de l'opposabilité en audit",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=FERRANDI-CCI+PARIS+ILE+DE+FRANCE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22FERRANDI-CCI%20PARIS%20ILE%20DE%20FRANCE%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=INSTITUT+NATIONAL+DES+SCIENCES+ET+INDUSTRIES+DU+VIVANT+ET+DE+L%27ENVIRONNEMENT+%28AGROPARISTECH%29",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22INSTITUT%20NATIONAL%20DES%20SCIENCES%20ET%20INDUSTRIES%20DU%20VIVANT%20ET%20DE%20L%27ENVIRONNEMENT%20%28AGROPARISTECH%29%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
       },
       {
         "poste": "Directeur(rice) pédagogique / Responsable ingénierie",
@@ -3144,8 +3144,8 @@
         ],
         "priorite": 3,
         "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=FERRANDI-CCI+PARIS+ILE+DE+FRANCE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22FERRANDI-CCI%20PARIS%20ILE%20DE%20FRANCE%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=INSTITUT+NATIONAL+DES+SCIENCES+ET+INDUSTRIES+DU+VIVANT+ET+DE+L%27ENVIRONNEMENT+%28AGROPARISTECH%29",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22INSTITUT%20NATIONAL%20DES%20SCIENCES%20ET%20INDUSTRIES%20DU%20VIVANT%20ET%20DE%20L%27ENVIRONNEMENT%20%28AGROPARISTECH%29%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
       }
     ]
   }

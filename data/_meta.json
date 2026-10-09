@@ -1,10 +1,10 @@
 {
-  "last_run_utc": "2026-10-08T12:29:38+00:00",
-  "last_run_iso": "2026-10-08T12:29:38Z",
-  "total_signals": 101,
+  "last_run_utc": "2026-10-09T12:21:33+00:00",
+  "last_run_iso": "2026-10-09T12:21:33Z",
+  "total_signals": 97,
   "scrapers": {
     "education.radar_hebdo_tosa": 1,
-    "education.presse_sup": 5,
+    "education.presse_sup": 4,
     "ao.ao_curated": 2,
     "ao.boamp_direct": 2,
     "ao.ted_europe": 22,
@@ -14,9 +14,9 @@
     "ao.profils_place.esr_global": 0,
     "ao.profils_place.fph_sante": 0,
     "education.cge": 1,
-    "corporate.levees_rss": 6,
+    "corporate.levees_rss": 4,
     "corporate.signaux_marche_rh": 0,
-    "corporate.google_news_rh": 7,
+    "corporate.google_news_rh": 6,
     "of.levees_edtech": 0,
     "of.presse_of": 1,
     "of.france_competences": 50

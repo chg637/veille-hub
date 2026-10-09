@@ -1,36 +1,7 @@
 [
   {
-    "id": "sig-2026-09-09-242b7c786729",
-    "date_capture": "2026-10-08",
-    "vertical": "corporate",
-    "sous_segment": "entreprise",
-    "compte": "blanchisserie Bulle de linge",
-    "titre": "La blanchisserie Bulle de linge va recruter 60 à 70 salariés, France Travail les recevra début octobre",
-    "description": "Chomérac. La blanchisserie Bulle de linge va recruter 60 à 70 salariés, France Travail les recevra début octobre Le Dauphiné Libéré",
-    "source": "Le Dauphiné Libéré (via Google News)",
-    "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQnJJclNGV0VKNTZmemNYWnF5TmlUVktRLVVWb2JIZG15czg1N0RYVV9jQm0yUlZDcjFpeWFiczNrRzBjcXVaSUh0TEpIaXhOM3BEUGFLUG5menRPMlJSRTNicGhyWFdfeENzdUtmWUxKaVAzdjBXLVdZQjZzcHc0QUhZODc1S29XajJWbGRhWlpwazY1Z2hiWU1qMGRndWFhVjhJMTlnX0JKMUE?oc=5",
-    "signal_type": "plan_recrutement",
-    "tier": 1,
-    "score": 93,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": null,
-    "action_reco": "blanchisserie Bulle de linge : ~70 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-09-09",
-    "email_draft": {
-      "subject": "blanchisserie Bulle de linge — fiabiliser la pré-qualification de vos recrutements",
-      "body": "Bonjour,\n\nJ'ai lu que blanchisserie Bulle de linge prépare une campagne de recrutement importante (La blanchisserie Bulle de linge va recruter 60 à 70 salariés, France Travail les recevra d…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
-      "url_source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQnJJclNGV0VKNTZmemNYWnF5TmlUVktRLVVWb2JIZG15czg1N0RYVV9jQm0yUlZDcjFpeWFiczNrRzBjcXVaSUh0TEpIaXhOM3BEUGFLUG5menRPMlJSRTNicGhyWFdfeENzdUtmWUxKaVAzdjBXLVdZQjZzcHc0QUhZODc1S29XajJWbGRhWlpwazY1Z2hiWU1qMGRndWFhVjhJMTlnX0JKMUE?oc=5"
-    },
-    "contacts_cibles": []
-  },
-  {
     "id": "sig-2026-10-02-31eede220762",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "SNCB",
@@ -59,15 +30,15 @@
   },
   {
     "id": "sig-2026-09-29-e646e389e073",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Scania France",
     "titre": "Corentin Alpha nommé DRH de Scania France",
-    "description": "Corentin Alpha nommé DRH de Scania France Autoactu.com",
-    "source": "Autoactu.com (via Google News)",
+    "description": "Corentin Alpha nommé DRH de Scania France Le Journal du Poids Lourd",
+    "source": "Le Journal du Poids Lourd (via Google News)",
     "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd1BVRXRLc0dZbkZmMWRzNDFMN01rVGF4NHFNdlRKTC1jVk1ZMS13NjlwYUhVSW9QeFZXQmhvazZKSGItQTRERy1Xd2V5VTlzaEFUbHNURlFVd3BSWXQ0eTQ2RGRxNW9hYjQtVkJ3dEpyUmt0MkJBM3FkZ2lIN1Y2TEtRUQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTmdFTjl0SHJqaG01TmVYc0hfR3QyYXhzMUxlS2Nob0llS01TcDkySVJoamVJUFg1OFJBQVdJOXRaMmRIa0FaSTQzbHYyOXVnTzFXcjZncXBsQUx2ekgxN1RPckpNbFE4TlhpWHRmYzJ4cUdORU8wdjcwWHlqRjRQZDNQZ0lvRXBUaGNlNUF2Q0o3QQ?oc=5",
     "signal_type": "nomination_chro",
     "tier": 1,
     "score": 90,
@@ -82,7 +53,7 @@
     "date_publication": "2026-09-29",
     "email_draft": {
       "subject": "Félicitations pour votre nomination DRH chez Scania France",
-      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez Scania France. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMigwFBVV95cUxNd1BVRXRLc0dZbkZmMWRzNDFMN01rVGF4NHFNdlRKTC1jVk1ZMS13NjlwYUhVSW9QeFZXQmhvazZKSGItQTRERy1Xd2V5VTlzaEFUbHNURlFVd3BSWXQ0eTQ2RGRxNW9hYjQtVkJ3dEpyUmt0MkJBM3FkZ2lIN1Y2TEtRUQ?oc=5"
+      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez Scania France. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMikgFBVV95cUxPTmdFTjl0SHJqaG01TmVYc0hfR3QyYXhzMUxlS2Nob0llS01TcDkySVJoamVJUFg1OFJBQVdJOXRaMmRIa0FaSTQzbHYyOXVnTzFXcjZncXBsQUx2ekgxN1RPckpNbFE4TlhpWHRmYzJ4cUdORU8wdjcwWHlqRjRQZDNQZ0lvRXBUaGNlNUF2Q0o3QQ?oc=5"
     },
     "contacts_cibles": [
       {
@@ -97,7 +68,7 @@
   },
   {
     "id": "sig-2026-09-25-5c5644be2cdd",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Schindler",
@@ -135,7 +106,7 @@
   },
   {
     "id": "sig-2026-10-07-c2faeb60f71b",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Haropa Port",
@@ -173,7 +144,7 @@
   },
   {
     "id": "sig-2026-09-23-66189bddb55a",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "gouvernement",
@@ -203,7 +174,7 @@
   },
   {
     "id": "sig-2026-10-06-029e57c88370",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Anthropic",
@@ -233,7 +204,7 @@
   },
   {
     "id": "sig-2026-10-08-42baaf440f83",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Yazen",
@@ -296,7 +267,7 @@
   },
   {
     "id": "sig-2026-10-06-770f90c341e5",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Spiko",
@@ -358,71 +329,8 @@
     ]
   },
   {
-    "id": "sig-2026-10-05-a948efd894cc",
-    "date_capture": "2026-10-08",
-    "vertical": "corporate",
-    "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
-    "compte": "Why",
-    "titre": "Why a $100m Series B startup decided to test the LSE’s new private market",
-    "description": "",
-    "source": "Sifted",
-    "source_tier": 1,
-    "url": "https://sifted.eu/articles/veremark-pisces/",
-    "signal_type": "levee_fonds",
-    "tier": 1,
-    "score": 80,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Source** : https://sifted.eu/articles/veremark-pisces/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 100.0M USD (~92.0M€) → scale-up confirmé, plan de recrutement massif sur 12 mois\n🔥 PRIORITÉ — fenêtre 30j (avant que les RH s'organisent)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-10-05",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-10-05",
-    "email_draft": {
-      "subject": "Why — votre Series — sur l'évaluation candidats à scale",
-      "body": "Bonjour,\n\nJe viens de voir que Why a bouclé une levée de 100.0M USD (~92.0M€). Bravo pour cette étape.\n\nSur les 12 prochains mois, vous allez probablement recruter 100+ profils. C'est exactement le moment où la qualité du process d'évaluation devient un goulot d'étranglement.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/veremark-pisces/"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Chief People Officer",
-        "alternatives": [
-          "Head of People",
-          "VP People",
-          "DRH"
-        ],
-        "priorite": 1,
-        "raison": "Décide outils RH stratégiques post-levée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Why",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Why%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
-      },
-      {
-        "poste": "Head of Talent Acquisition",
-        "alternatives": [
-          "Talent Acquisition Director",
-          "Head of Recruiting"
-        ],
-        "priorite": 2,
-        "raison": "Opérationnel — gère le plan de recrutement massif",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Why",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Why%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
-      },
-      {
-        "poste": "Head of Hiring",
-        "alternatives": [
-          "Hiring Manager",
-          "Recruitment Director"
-        ],
-        "priorite": 3,
-        "raison": "Sous-décideur — peut tester l'outil rapidement",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Why",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Why%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
-      }
-    ]
-  },
-  {
     "id": "sig-2026-10-07-4e81d81c3ccb",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Owkin",
@@ -484,71 +392,8 @@
     ]
   },
   {
-    "id": "sig-2026-10-06-9d2860b02214",
-    "date_capture": "2026-10-08",
-    "vertical": "corporate",
-    "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
-    "compte": "Hadrian",
-    "titre": "Exclusive: Hadrian raises $40m as AI cyberattacks accelerate",
-    "description": "",
-    "source": "Sifted",
-    "source_tier": 1,
-    "url": "https://sifted.eu/articles/hadrian-ai-funding-round-cyber-security/",
-    "signal_type": "levee_fonds",
-    "tier": 2,
-    "score": 65,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Source** : https://sifted.eu/articles/hadrian-ai-funding-round-cyber-security/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 40.0M USD (~36.8M€) → Series B+, structuration des processus RH en cours\n🎯 Fenêtre 60j (timing optimal post-Series B)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-10-06",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-10-06",
-    "email_draft": {
-      "subject": "Hadrian — votre Series — sur l'évaluation candidats à scale",
-      "body": "Bonjour,\n\nJe viens de voir que Hadrian a bouclé une levée de 40.0M USD (~36.8M€). Bravo pour cette étape.\n\nPost-Series B, c'est le moment où la plupart des scale-ups structurent leur process d'éval candidats. Avant que le volume devienne incontrôlable.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/hadrian-ai-funding-round-cyber-security/"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Chief People Officer",
-        "alternatives": [
-          "Head of People",
-          "VP People",
-          "DRH"
-        ],
-        "priorite": 1,
-        "raison": "Décide outils RH stratégiques post-levée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Hadrian",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Hadrian%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
-      },
-      {
-        "poste": "Head of Talent Acquisition",
-        "alternatives": [
-          "Talent Acquisition Director",
-          "Head of Recruiting"
-        ],
-        "priorite": 2,
-        "raison": "Opérationnel — gère le plan de recrutement massif",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Hadrian",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Hadrian%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
-      },
-      {
-        "poste": "Head of Hiring",
-        "alternatives": [
-          "Hiring Manager",
-          "Recruitment Director"
-        ],
-        "priorite": 3,
-        "raison": "Sous-décideur — peut tester l'outil rapidement",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Hadrian",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Hadrian%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
-      }
-    ]
-  },
-  {
     "id": "sig-2026-10-06-6f142001eb9f",
-    "date_capture": "2026-10-08",
+    "date_capture": "2026-10-09",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Vocca",
