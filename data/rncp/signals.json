@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-10-01-4f64b68c4b7c",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "ECOLE CENTRALE DE MARSEILLE",
@@ -12,7 +12,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42813/",
     "signal_type": "rncp_open",
     "tier": 1,
-    "score": 88,
+    "score": 82,
     "produit_match": [
       "ITS"
     ],
@@ -64,7 +64,7 @@
   },
   {
     "id": "sig-2026-10-01-796dd1f13b11",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "AFORP FORMATION (CFAI)",
@@ -75,7 +75,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42822/",
     "signal_type": "rncp_open",
     "tier": 1,
-    "score": 88,
+    "score": 82,
     "produit_match": [
       "ITS"
     ],
@@ -127,7 +127,7 @@
   },
   {
     "id": "sig-2026-10-01-76eff57ff915",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "EPITECH ECOLE INFORMATIQUE NOUV TECHNO",
@@ -138,7 +138,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42823/",
     "signal_type": "rncp_open",
     "tier": 1,
-    "score": 88,
+    "score": 82,
     "produit_match": [
       "ITS"
     ],
@@ -190,7 +190,7 @@
   },
   {
     "id": "sig-2026-10-01-958aab645081",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "ESSCA",
@@ -201,7 +201,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42826/",
     "signal_type": "rncp_open",
     "tier": 1,
-    "score": 88,
+    "score": 82,
     "produit_match": [
       "ITS"
     ],
@@ -253,7 +253,7 @@
   },
   {
     "id": "sig-2026-10-01-f9b68ca85dae",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "AFORP FORMATION (CFAI)",
@@ -264,7 +264,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42829/",
     "signal_type": "rncp_open",
     "tier": 1,
-    "score": 88,
+    "score": 82,
     "produit_match": [
       "ITS"
     ],
@@ -316,7 +316,7 @@
   },
   {
     "id": "sig-2026-10-01-7f2b372fc733",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "CCI FRANCE",
@@ -327,7 +327,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42831/",
     "signal_type": "rncp_open",
     "tier": 1,
-    "score": 88,
+    "score": 82,
     "produit_match": [
       "ITS"
     ],
@@ -379,7 +379,7 @@
   },
   {
     "id": "sig-2026-10-01-690b8ab90cf5",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "ECOLE HAUTES ETUDES EN SANTE PUBLIQUE",
@@ -390,7 +390,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42832/",
     "signal_type": "rncp_open",
     "tier": 1,
-    "score": 88,
+    "score": 82,
     "produit_match": [
       "ITS"
     ],
@@ -442,7 +442,7 @@
   },
   {
     "id": "sig-2026-10-01-6555a6e32669",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "CESI",
@@ -453,7 +453,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42837/",
     "signal_type": "rncp_open",
     "tier": 1,
-    "score": 88,
+    "score": 82,
     "produit_match": [
       "ITS"
     ],
@@ -505,7 +505,7 @@
   },
   {
     "id": "sig-2026-10-01-b90a305daf57",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "INSTITUT DU MARAIS - CHARLEMAGNE - POLLES",
@@ -516,7 +516,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42841/",
     "signal_type": "rncp_open",
     "tier": 1,
-    "score": 88,
+    "score": 82,
     "produit_match": [
       "ITS"
     ],
@@ -568,7 +568,7 @@
   },
   {
     "id": "sig-2026-10-01-eabca9a32d77",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "INSTITUT DE MANAGEMENT COMMERCIAL",
@@ -579,7 +579,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42852/",
     "signal_type": "rncp_open",
     "tier": 1,
-    "score": 88,
+    "score": 82,
     "produit_match": [
       "ITS"
     ],
@@ -631,7 +631,7 @@
   },
   {
     "id": "sig-2026-10-01-603c9ebcf128",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "EC NAT SUP BORDEAUX SCIENCES AGRO",
@@ -642,7 +642,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42855/",
     "signal_type": "rncp_open",
     "tier": 1,
-    "score": 88,
+    "score": 82,
     "produit_match": [
       "ITS"
     ],
@@ -694,7 +694,7 @@
   },
   {
     "id": "sig-2026-10-01-bd0cace1a87b",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "NEOMA BUSINESS SCHOOL",
@@ -705,7 +705,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42857/",
     "signal_type": "rncp_open",
     "tier": 1,
-    "score": 88,
+    "score": 82,
     "produit_match": [
       "ITS"
     ],
@@ -757,7 +757,7 @@
   },
   {
     "id": "sig-2026-10-01-9d1279303845",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "OPENCLASSROOMS",
@@ -768,7 +768,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42858/",
     "signal_type": "rncp_open",
     "tier": 1,
-    "score": 88,
+    "score": 82,
     "produit_match": [
       "ITS"
     ],
@@ -820,7 +820,7 @@
   },
   {
     "id": "sig-2026-10-01-684bbf34e436",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "CGPC DEVELOPPEMENT",
@@ -831,7 +831,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42859/",
     "signal_type": "rncp_open",
     "tier": 1,
-    "score": 88,
+    "score": 82,
     "produit_match": [
       "ITS"
     ],
@@ -883,7 +883,7 @@
   },
   {
     "id": "sig-2026-10-01-77e055095f65",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "UNION DES INDUSTRIES ET DES METIERS DE LA METALLURGIE (UIMM)",
@@ -894,7 +894,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42862/",
     "signal_type": "rncp_open",
     "tier": 1,
-    "score": 88,
+    "score": 82,
     "produit_match": [
       "ITS"
     ],
@@ -946,7 +946,7 @@
   },
   {
     "id": "sig-2026-10-01-e0a886489d24",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "ECOLE SUP LIBRE SCIENC COM APPLIQUEES",
@@ -957,7 +957,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42863/",
     "signal_type": "rncp_open",
     "tier": 1,
-    "score": 88,
+    "score": 82,
     "produit_match": [
       "ITS"
     ],
@@ -1009,7 +1009,7 @@
   },
   {
     "id": "sig-2026-10-01-16b7651af96b",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "MJM GRAPHIC DESIGN PARIS",
@@ -1020,7 +1020,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42864/",
     "signal_type": "rncp_open",
     "tier": 1,
-    "score": 88,
+    "score": 82,
     "produit_match": [
       "ITS"
     ],
@@ -1072,7 +1072,7 @@
   },
   {
     "id": "sig-2026-10-01-b84dbca41300",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "HETIC",
@@ -1083,7 +1083,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42868/",
     "signal_type": "rncp_open",
     "tier": 1,
-    "score": 88,
+    "score": 82,
     "produit_match": [
       "ITS"
     ],
@@ -1135,7 +1135,7 @@
   },
   {
     "id": "sig-2026-10-01-6f820f83eda8",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "INSTITUT SUPERIEUR DU DROIT",
@@ -1146,7 +1146,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42874/",
     "signal_type": "rncp_open",
     "tier": 1,
-    "score": 88,
+    "score": 82,
     "produit_match": [
       "ITS"
     ],
@@ -1198,7 +1198,7 @@
   },
   {
     "id": "sig-2026-10-01-08978ab9634f",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "ESGCV",
@@ -1209,7 +1209,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42877/",
     "signal_type": "rncp_open",
     "tier": 1,
-    "score": 88,
+    "score": 82,
     "produit_match": [
       "ITS"
     ],
@@ -1261,7 +1261,7 @@
   },
   {
     "id": "sig-2026-10-01-89c5fb538df3",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "INSTITUT SUPERIEUR D'INFORMATIQUE ET DE MANAGEMENT DE L'INFORMATION",
@@ -1272,7 +1272,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42878/",
     "signal_type": "rncp_open",
     "tier": 1,
-    "score": 88,
+    "score": 82,
     "produit_match": [
       "ITS"
     ],
@@ -1324,7 +1324,7 @@
   },
   {
     "id": "sig-2026-10-01-b956e39b2716",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "INSTITUT SUPERIEUR D'INFORMATIQUE ET DE MANAGEMENT DE L'INFORMATION",
@@ -1335,7 +1335,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42880/",
     "signal_type": "rncp_open",
     "tier": 1,
-    "score": 88,
+    "score": 82,
     "produit_match": [
       "ITS"
     ],
@@ -1387,7 +1387,7 @@
   },
   {
     "id": "sig-2026-10-01-2b059b1c506b",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "SCIENCES-U LYON",
@@ -1398,7 +1398,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42881/",
     "signal_type": "rncp_open",
     "tier": 1,
-    "score": 88,
+    "score": 82,
     "produit_match": [
       "ITS"
     ],
@@ -1450,7 +1450,7 @@
   },
   {
     "id": "sig-2026-10-01-3d04ed0a8f72",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "CFA INSTA",
@@ -1461,7 +1461,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42887/",
     "signal_type": "rncp_open",
     "tier": 1,
-    "score": 88,
+    "score": 82,
     "produit_match": [
       "ITS"
     ],
@@ -1513,7 +1513,7 @@
   },
   {
     "id": "sig-2026-10-01-8c34f1de12aa",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 5",
     "compte": "NOUVEL R FORMATION",
@@ -1523,8 +1523,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42819/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
+    "tier": 2,
+    "score": 77,
     "produit_match": [
       "ITS"
     ],
@@ -1576,7 +1576,7 @@
   },
   {
     "id": "sig-2026-10-01-b9848feb3ff5",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 5",
     "compte": "UNAFOR",
@@ -1586,8 +1586,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42828/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
+    "tier": 2,
+    "score": 77,
     "produit_match": [
       "ITS"
     ],
@@ -1639,7 +1639,7 @@
   },
   {
     "id": "sig-2026-10-01-680adf494203",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 5",
     "compte": "UNIVERSITE CLAUDE BERNARD LYON 1",
@@ -1649,8 +1649,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42839/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
+    "tier": 2,
+    "score": 77,
     "produit_match": [
       "ITS"
     ],
@@ -1702,7 +1702,7 @@
   },
   {
     "id": "sig-2026-10-01-df7a63977ccf",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 5",
     "compte": "OPENCLASSROOMS",
@@ -1712,8 +1712,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42853/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
+    "tier": 2,
+    "score": 77,
     "produit_match": [
       "ITS"
     ],
@@ -1765,7 +1765,7 @@
   },
   {
     "id": "sig-2026-10-01-a099d0505b99",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 3",
     "compte": "UNION DES INDUSTRIES ET DES METIERS DE LA METALLURGIE (UIMM)",
@@ -1775,8 +1775,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42860/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
+    "tier": 2,
+    "score": 77,
     "produit_match": [
       "ITS"
     ],
@@ -1828,7 +1828,7 @@
   },
   {
     "id": "sig-2026-10-01-1573c5c700e4",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 5",
     "compte": "EPITECH ECOLE INFORMATIQUE NOUV TECHNO",
@@ -1838,8 +1838,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42870/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
+    "tier": 2,
+    "score": 77,
     "produit_match": [
       "ITS"
     ],
@@ -1891,7 +1891,7 @@
   },
   {
     "id": "sig-2026-10-01-9433fb60af2d",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 4",
     "compte": "GIP FORMATION TOUT AU LONG DE LA VIE",
@@ -1901,8 +1901,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42876/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
+    "tier": 2,
+    "score": 77,
     "produit_match": [
       "ITS"
     ],
@@ -1954,7 +1954,7 @@
   },
   {
     "id": "sig-2026-10-01-6e52c3a1c89e",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 4",
     "compte": "INST DE FORMATION COMMERCIALE PERMANENTE",
@@ -1964,8 +1964,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42879/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
+    "tier": 2,
+    "score": 77,
     "produit_match": [
       "ITS"
     ],
@@ -2017,7 +2017,7 @@
   },
   {
     "id": "sig-2026-10-01-54e70b554f59",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche",
     "compte": "GROUPE DES ECOLES NATIONALES D ECONOMIE ET STATISTIQUE",
@@ -2027,8 +2027,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rs/7717/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
+    "tier": 2,
+    "score": 77,
     "produit_match": [
       "ITS"
     ],
@@ -2080,7 +2080,7 @@
   },
   {
     "id": "sig-2026-10-01-b6ecce4bbbc8",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche",
     "compte": "UP N PRO",
@@ -2090,8 +2090,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rs/7736/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
+    "tier": 2,
+    "score": 77,
     "produit_match": [
       "ITS"
     ],
@@ -2143,7 +2143,7 @@
   },
   {
     "id": "sig-2026-10-01-21d5efa8d81a",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche",
     "compte": "AIRBUS OPERATIONS",
@@ -2153,8 +2153,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rs/7741/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
+    "tier": 2,
+    "score": 77,
     "produit_match": [
       "ITS"
     ],
@@ -2206,7 +2206,7 @@
   },
   {
     "id": "sig-2026-10-01-3cb13bd6da71",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche",
     "compte": "BUREAU VERITAS EXPLOITATION",
@@ -2216,8 +2216,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rs/7742/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
+    "tier": 2,
+    "score": 77,
     "produit_match": [
       "ITS"
     ],
@@ -2269,7 +2269,7 @@
   },
   {
     "id": "sig-2026-10-01-0c26ae25e25f",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche",
     "compte": "ALYRA",
@@ -2279,8 +2279,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rs/7746/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
+    "tier": 2,
+    "score": 77,
     "produit_match": [
       "ITS"
     ],
@@ -2332,7 +2332,7 @@
   },
   {
     "id": "sig-2026-10-01-ac002a690606",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche",
     "compte": "STEPHANIE DELOUMEAUX",
@@ -2342,8 +2342,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rs/7750/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
+    "tier": 2,
+    "score": 77,
     "produit_match": [
       "ITS"
     ],
@@ -2395,7 +2395,7 @@
   },
   {
     "id": "sig-2026-10-01-f28ba8a1fafa",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche",
     "compte": "FORMALISA INSTITUT",
@@ -2405,8 +2405,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rs/7758/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
+    "tier": 2,
+    "score": 77,
     "produit_match": [
       "ITS"
     ],
@@ -2458,7 +2458,7 @@
   },
   {
     "id": "sig-2026-10-01-0f81aaaaf5a5",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche",
     "compte": "FORMALISA INSTITUT",
@@ -2468,8 +2468,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rs/7759/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
+    "tier": 2,
+    "score": 77,
     "produit_match": [
       "ITS"
     ],
@@ -2521,7 +2521,7 @@
   },
   {
     "id": "sig-2026-10-01-eb1aca42c89a",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche",
     "compte": "FORMALISA INSTITUT",
@@ -2531,8 +2531,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rs/7760/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
+    "tier": 2,
+    "score": 77,
     "produit_match": [
       "ITS"
     ],
@@ -2584,7 +2584,7 @@
   },
   {
     "id": "sig-2026-10-01-058f81a27f8c",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche",
     "compte": "WEB ASSOCIATION BERGERAC",
@@ -2594,8 +2594,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rs/7766/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
+    "tier": 2,
+    "score": 77,
     "produit_match": [
       "ITS"
     ],
@@ -2647,7 +2647,7 @@
   },
   {
     "id": "sig-2026-10-01-580fc67112cf",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche",
     "compte": "HVC PREMIUM",
@@ -2657,8 +2657,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rs/7768/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
+    "tier": 2,
+    "score": 77,
     "produit_match": [
       "ITS"
     ],
@@ -2710,7 +2710,7 @@
   },
   {
     "id": "sig-2026-10-01-d9254b88bf33",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche",
     "compte": "CMA FRANCE",
@@ -2720,8 +2720,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rs/7770/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
+    "tier": 2,
+    "score": 77,
     "produit_match": [
       "ITS"
     ],
@@ -2773,7 +2773,7 @@
   },
   {
     "id": "sig-2026-10-01-9c3039676070",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 6",
     "compte": "U C A N S S",
@@ -2784,7 +2784,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42821/",
     "signal_type": "rncp_open",
     "tier": 2,
-    "score": 72,
+    "score": 66,
     "produit_match": [
       "ITS"
     ],
@@ -2836,7 +2836,7 @@
   },
   {
     "id": "sig-2026-10-01-d08eb8d204cb",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 6",
     "compte": "ASS NAT FORMATION ET RECHER POUR ALTERNA",
@@ -2847,7 +2847,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42824/",
     "signal_type": "rncp_open",
     "tier": 2,
-    "score": 72,
+    "score": 66,
     "produit_match": [
       "ITS"
     ],
@@ -2899,7 +2899,7 @@
   },
   {
     "id": "sig-2026-10-01-bfbbfa8c502f",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 7",
     "compte": "ESGCV",
@@ -2910,7 +2910,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42835/",
     "signal_type": "rncp_open",
     "tier": 2,
-    "score": 72,
+    "score": 66,
     "produit_match": [
       "ITS"
     ],
@@ -2962,7 +2962,7 @@
   },
   {
     "id": "sig-2026-10-01-eda29df2a9a4",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 6",
     "compte": "ATELIER MASTERCAST",
@@ -2973,7 +2973,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42838/",
     "signal_type": "rncp_open",
     "tier": 2,
-    "score": 72,
+    "score": 66,
     "produit_match": [
       "ITS"
     ],
@@ -3025,7 +3025,7 @@
   },
   {
     "id": "sig-2026-10-01-1d97f001008f",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 7",
     "compte": "CFAI DIAFOR",
@@ -3036,7 +3036,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42844/",
     "signal_type": "rncp_open",
     "tier": 2,
-    "score": 72,
+    "score": 66,
     "produit_match": [
       "ITS"
     ],
@@ -3088,7 +3088,7 @@
   },
   {
     "id": "sig-2026-10-01-d7b7e31ad41f",
-    "date_capture": "2026-10-11",
+    "date_capture": "2026-10-12",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 7",
     "compte": "INSTITUT NATIONAL DES SCIENCES ET INDUSTRIES DU VIVANT ET DE L'ENVIRONNEMENT (AGROPARISTECH)",
@@ -3099,7 +3099,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42845/",
     "signal_type": "rncp_open",
     "tier": 2,
-    "score": 72,
+    "score": 66,
     "produit_match": [
       "ITS"
     ],
