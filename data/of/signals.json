@@ -1,7 +1,32 @@
 [
   {
+    "id": "sig-2026-10-13-38f430f68b42",
+    "date_capture": "2026-10-14",
+    "vertical": "of",
+    "sous_segment": "organisme-formation",
+    "compte": "Qualiopi",
+    "titre": "Qualiopi et ludopédagogie : comment prouver qu’un jeu fait réellement apprendre ?",
+    "description": "Intégrer le jeu en formation ne suffit pas pour Qualiopi. Découvrez comment transformer vos mécaniques ludopédagogiques en preuves d’évaluation conformes. L’article Qualiopi et ludopédagogie : comment prouver qu’un jeu fait réellement apprendre ? est apparu en premier sur Digiformag .",
+    "source": "Digiformag",
+    "source_tier": 2,
+    "url": "https://www.digiformag.com/qualiopi-et-ludopedagogie-comment-prouver-quun-jeu-fait-reellement-apprendre/",
+    "signal_type": "qualiopi",
+    "tier": 2,
+    "score": 65,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": null,
+    "action_reco": "Qualiopi : actualité Qualiopi — angle « preuve de qualité d'évaluation » avec Tosa/ITS en appui du référentiel.",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-10-13",
+    "email_draft": null,
+    "contacts_cibles": []
+  },
+  {
     "id": "sig-2026-10-05-82c228a7202f",
-    "date_capture": "2026-10-13",
+    "date_capture": "2026-10-14",
     "vertical": "of",
     "sous_segment": "organisme-formation",
     "compte": "Auditeurs",
