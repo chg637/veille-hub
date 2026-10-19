@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-10-12-ba049e14b804",
-    "date_capture": "2026-10-18",
+    "date_capture": "2026-10-19",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Amazon",
@@ -30,7 +30,7 @@
   },
   {
     "id": "sig-2026-10-02-31eede220762",
-    "date_capture": "2026-10-18",
+    "date_capture": "2026-10-19",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "SNCB",
@@ -59,7 +59,7 @@
   },
   {
     "id": "sig-2026-09-29-e646e389e073",
-    "date_capture": "2026-10-18",
+    "date_capture": "2026-10-19",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Scania France",
@@ -97,7 +97,7 @@
   },
   {
     "id": "sig-2026-10-07-c2faeb60f71b",
-    "date_capture": "2026-10-18",
+    "date_capture": "2026-10-19",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Haropa Port",
@@ -134,8 +134,46 @@
     ]
   },
   {
+    "id": "sig-2026-10-19-36deb0f62159",
+    "date_capture": "2026-10-19",
+    "vertical": "corporate",
+    "sous_segment": "entreprise",
+    "compte": "Julius Baer",
+    "titre": "Julius Baer nomme Francis Hoefman à la tête des RH",
+    "description": "Julius Baer nomme Francis Hoefman à la tête des RH agefi.com",
+    "source": "agefi.com (via Google News)",
+    "source_tier": 2,
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYVNlOW1ENlhfSmZsVHVwOXYwYnZZRDlGTmRMY3lnbktwaEZvMmpXTVBZcTRvSmdzRlVsUXhVOXdMX085UnVJTjl2SEpTN2V5LU5oaExkc1ZCNDlXYXRIaWV5MTlvR3VxUmFlUUFXWU9OVi1MY0JJQmJuRlJfaDFCVGwtYUJnUmdYWEdoQmNqVXFNaHBaZWVXZ3g5N1hVaVRSUl9BN19lellpUmxJRThr?oc=5",
+    "signal_type": "nomination_chro",
+    "tier": 1,
+    "score": 90,
+    "produit_match": [
+      "ITS",
+      "Tosa Corporate"
+    ],
+    "owner": null,
+    "action_reco": "Fenêtre prise de poste ~30j : InMail/email à la nouvelle DRH (Julius Baer) — angle outillage évaluation des compétences (ITS + Tosa).",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-10-19",
+    "email_draft": {
+      "subject": "Félicitations pour votre nomination DRH chez Julius Baer",
+      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez Julius Baer. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMirwFBVV95cUxQYVNlOW1ENlhfSmZsVHVwOXYwYnZZRDlGTmRMY3lnbktwaEZvMmpXTVBZcTRvSmdzRlVsUXhVOXdMX085UnVJTjl2SEpTN2V5LU5oaExkc1ZCNDlXYXRIaWV5MTlvR3VxUmFlUUFXWU9OVi1MY0JJQmJuRlJfaDFCVGwtYUJnUmdYWEdoQmNqVXFNaHBaZWVXZ3g5N1hVaVRSUl9BN19lellpUmxJRThr?oc=5"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "La personne nommée (cible directe)",
+        "alternatives": [],
+        "priorite": 1,
+        "raison": "Fenêtre 30j post-prise de poste = haute disposition aux nouveaux outils",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22La+personne+nomm%C3%A9e+%28cible+directe%29%22&currentCompany=Julius+Baer",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Julius%20Baer%22%20La%20personne%20nomm%C3%A9e%20%28cible%20directe%29"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-09-23-66189bddb55a",
-    "date_capture": "2026-10-18",
+    "date_capture": "2026-10-19",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "gouvernement",
@@ -165,7 +203,7 @@
   },
   {
     "id": "sig-2026-10-15-711c8e520795",
-    "date_capture": "2026-10-18",
+    "date_capture": "2026-10-19",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Exclusive",
