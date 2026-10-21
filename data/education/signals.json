@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-10-02-bcb2123550a9",
-    "date_capture": "2026-10-20",
+    "date_capture": "2026-10-21",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "Accréditation",
@@ -19,7 +19,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nL’article De nouveaux membres viennent enrichir le comité Accréditation est apparu en premier sur Conférence des grandes écoles .\n\n🎯 **Action à mener**\nEmail au responsable maquette + pitch « Pack Edu Tosa = preuve mesurable compétences digitales pour le dossier accréditation ». Joindre 2 cas pairs. RDV sous 14j.\n\n💡 **Angle pitch ITS/Tosa**\nTosa = preuve opposable de la qualité d'évaluation des compétences (audit Qualiopi, France Compétences). Doublement du signal extérieur dans la promotion du programme labellisé.\n\n📅 **Timing**\n3 mois post-annonce — fenêtre de capitalisation médiatique encore active.",
-    "deadline_action": "2026-10-27",
+    "deadline_action": "2026-10-28",
     "status": "new",
     "date_publication": "2026-10-02",
     "email_draft": {
@@ -66,7 +66,7 @@
   },
   {
     "id": "sig-2026-10-08-6370b389a3b4",
-    "date_capture": "2026-10-20",
+    "date_capture": "2026-10-21",
     "vertical": "education",
     "sous_segment": "programme-ia",
     "compte": "SKEMA",
@@ -84,7 +84,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nChristophe Germain, Vice-Dean en charge des Schools de SKEMA Business School, prend la présidence du European Advisory Council de l’AACSB pour un mandat d’un an. Une nomination qui place le dirigeant…\n\n🎯 **Action à mener**\nEmail au responsable maquette + pitch « Pack Edu Tosa = preuve mesurable compétences digitales pour le dossier accréditation ». Joindre 2 cas pairs. RDV sous 14j.\n\n💡 **Angle pitch ITS/Tosa**\nTosa = preuve opposable de la qualité d'évaluation des compétences (audit Qualiopi, France Compétences). Doublement du signal extérieur dans la promotion du programme labellisé.\n\n📅 **Timing**\n3 mois post-annonce — fenêtre de capitalisation médiatique encore active.",
-    "deadline_action": "2026-10-27",
+    "deadline_action": "2026-10-28",
     "status": "new",
     "date_publication": "2026-10-08",
     "email_draft": {
@@ -130,16 +130,16 @@
     ]
   },
   {
-    "id": "sig-2026-10-19-91c2da0cf3fb",
-    "date_capture": "2026-10-20",
+    "id": "sig-2026-10-20-e71eb063ba75",
+    "date_capture": "2026-10-21",
     "vertical": "education",
-    "sous_segment": "grande-ecole",
-    "compte": "Écoles",
-    "titre": "Écoles d’ingénieurs : les signaux d’alerte de la CDEFI pour la rentrée 2026",
-    "description": "Écoles d'ingénieurs : la CDEFI alerte sur les candidatures, l'insertion et le budget 2027. L’article Écoles d ingénieurs : les signaux d alerte de la CDEFI pour la rentrée 2026 est apparu en premier sur Planète Grandes Écoles .",
-    "source": "Planète Grandes Écoles",
+    "sous_segment": "programme-ia",
+    "compte": "OMNES Education",
+    "titre": "OMNES Education inaugure un nouveau campus de 6 500 m² à Marseille",
+    "description": "Le groupe OMNES Education inaugure un nouveau campus à Marseille, dans le quartier de la Porte d’Aix. Avec 6 500 m², cinq écoles réunies et 1 100 étudiants accueillis, ce nouvel espace mise sur la collaboration entre les disciplines, l’intelligence artificielle et le bien-être étudiant. L&#8217;objectif est aussi de renforcer les liens entre les formations [&#8230;] Cet article OMNES Education ina",
+    "source": "Business Cool",
     "source_tier": 2,
-    "url": "https://www.planetegrandesecoles.com/ecoles-ingenieurs-rentree-cdefi",
+    "url": "https://business-cool.com/actualites/actu-ecoles/omnes-education-inaugure-un-nouveau-campus-de-6-500-m%c2%b2-a-marseille/",
     "signal_type": "nouvelle_formation",
     "tier": 1,
     "score": 80,
@@ -148,13 +148,13 @@
       "Cert IA"
     ],
     "owner": null,
-    "action_reco": "📋 **Signal détecté**\nÉcoles d'ingénieurs : la CDEFI alerte sur les candidatures, l'insertion et le budget 2027. L’article Écoles d ingénieurs : les signaux d alerte de la CDEFI pour la rentrée 2026 est apparu en premier…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme Écoles. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-10-27",
+    "action_reco": "📋 **Signal détecté**\nLe groupe OMNES Education inaugure un nouveau campus à Marseille, dans le quartier de la Porte d’Aix. Avec 6 500 m², cinq écoles réunies et 1 100 étudiants accueillis, ce nouvel espace mise sur la…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme OMNES Education. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
+    "deadline_action": "2026-10-28",
     "status": "new",
-    "date_publication": "2026-10-19",
+    "date_publication": "2026-10-20",
     "email_draft": {
-      "subject": "Écoles — Écoles d'ingénieurs : la CDEFI alerte : quelle évaluation prévue ?",
-      "body": "Bonjour,\n\nJ'ai vu votre actualité : « Écoles d'ingénieurs : la CDEFI alerte sur les candidatures, l'insertion et le budget 2027. L’article Écoles d… ». Beau lancement.\n\nSur ce type de nouveau programme, le timing pour penser le dispositif d'évaluation des compétences est en général la période juste avant la première cohorte — ça permet de cadrer proprement la maquette pédagogique et les outils.\n\nChez Isograd, on opère 2 solutions complémentaires pour un programme comme le vôtre :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital). Argument concret en diplômation, sur le CV et auprès des entreprises partenaires.\n\n2. **ITS** pour héberger les sessions d'examen en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\nDéploiement en 4-6 semaines, budget calibré sur le volume étudiants. 15 minutes pour échanger sur votre cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://www.planetegrandesecoles.com/ecoles-ingenieurs-rentree-cdefi"
+      "subject": "OMNES Education — Le groupe OMNES Education inaugure un : quelle évaluation prévue ?",
+      "body": "Bonjour,\n\nJ'ai vu votre actualité : « Le groupe OMNES Education inaugure un nouveau campus à Marseille, dans le quartier de la Porte d’Aix. Avec 6 500 m²… ». Beau lancement.\n\nSur ce type de nouveau programme, le timing pour penser le dispositif d'évaluation des compétences est en général la période juste avant la première cohorte — ça permet de cadrer proprement la maquette pédagogique et les outils.\n\nChez Isograd, on opère 2 solutions complémentaires pour un programme comme le vôtre :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital). Argument concret en diplômation, sur le CV et auprès des entreprises partenaires.\n\n2. **ITS** pour héberger les sessions d'examen en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\n3. **Cert IA** — notre badge co-construit avec des écoles partenaires pour les programmes IA. Concrètement, vos étudiants ressortent du programme avec une certification externe sur les compétences IA appliquées. On a une program beta en cours, vous pourriez en faire partie.\n\nDéploiement en 4-6 semaines, budget calibré sur le volume étudiants. 15 minutes pour échanger sur votre cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://business-cool.com/actualites/actu-ecoles/omnes-education-inaugure-un-nouveau-campus-de-6-500-m%c2%b2-a-marseille/"
     },
     "contacts_cibles": [
       {
@@ -165,8 +165,8 @@
         ],
         "priorite": 1,
         "raison": "Définit le dispositif d'évaluation du nouveau programme",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+du+programme+%2F+Directeur%28rice%29+de+la+formation%22+OR+%22Coordinateur%28rice%29+p%C3%A9dagogique%22+OR+%22Responsable+de+fili%C3%A8re%22&currentCompany=%C3%89coles",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22%C3%89coles%22%20Responsable%20du%20programme%20/%20Directeur%28rice%29%20de%20la%20formation%20Coordinateur%28rice%29%20p%C3%A9dagogique%20Responsable%20de%20fili%C3%A8re"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+du+programme+%2F+Directeur%28rice%29+de+la+formation%22+OR+%22Coordinateur%28rice%29+p%C3%A9dagogique%22+OR+%22Responsable+de+fili%C3%A8re%22&currentCompany=OMNES+Education",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22OMNES%20Education%22%20Responsable%20du%20programme%20/%20Directeur%28rice%29%20de%20la%20formation%20Coordinateur%28rice%29%20p%C3%A9dagogique%20Responsable%20de%20fili%C3%A8re"
       },
       {
         "poste": "Doyen / Directeur(rice) académique",
@@ -176,8 +176,8 @@
         ],
         "priorite": 2,
         "raison": "Arbitrage sur l'outillage évaluation à l'échelle de l'établissement",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Doyen+%2F+Directeur%28rice%29+acad%C3%A9mique%22+OR+%22VP+P%C3%A9dagogie%22+OR+%22Directeur%28rice%29+des+%C3%A9tudes%22&currentCompany=%C3%89coles",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22%C3%89coles%22%20Doyen%20/%20Directeur%28rice%29%20acad%C3%A9mique%20VP%20P%C3%A9dagogie%20Directeur%28rice%29%20des%20%C3%A9tudes"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Doyen+%2F+Directeur%28rice%29+acad%C3%A9mique%22+OR+%22VP+P%C3%A9dagogie%22+OR+%22Directeur%28rice%29+des+%C3%A9tudes%22&currentCompany=OMNES+Education",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22OMNES%20Education%22%20Doyen%20/%20Directeur%28rice%29%20acad%C3%A9mique%20VP%20P%C3%A9dagogie%20Directeur%28rice%29%20des%20%C3%A9tudes"
       },
       {
         "poste": "Responsable RNCP / Certifications",
@@ -187,14 +187,14 @@
         ],
         "priorite": 3,
         "raison": "Cadrage Qualiopi / preuve d'évaluation pour la certification",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+Certifications%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22+OR+%22Responsable+Qualiopi%22&currentCompany=%C3%89coles",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22%C3%89coles%22%20Responsable%20RNCP%20/%20Certifications%20R%C3%A9f%C3%A9rent%20qualit%C3%A9%20Responsable%20Qualiopi"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+Certifications%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22+OR+%22Responsable+Qualiopi%22&currentCompany=OMNES+Education",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22OMNES%20Education%22%20Responsable%20RNCP%20/%20Certifications%20R%C3%A9f%C3%A9rent%20qualit%C3%A9%20Responsable%20Qualiopi"
       }
     ]
   },
   {
     "id": "sig-2026-10-19-d8d32b0343d1",
-    "date_capture": "2026-10-20",
+    "date_capture": "2026-10-21",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "BSB",
@@ -212,7 +212,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nBSB (Burgundy School of Business) s&#8217;associe à TTA, The Trusted Agency, et à Laurent Combalbert, ancien négociateur du RAID, pour lancer la School of Négo. Présentée comme la première école…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme BSB. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-10-27",
+    "deadline_action": "2026-10-28",
     "status": "new",
     "date_publication": "2026-10-19",
     "email_draft": {
@@ -257,7 +257,7 @@
   },
   {
     "id": "sig-stable-4cc03b95f797",
-    "date_capture": "2026-10-20",
+    "date_capture": "2026-10-21",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "Universite de Technologie de Troyes (UTT)",
@@ -277,7 +277,7 @@
     "action_reco": "📋 **Signal détecté**\nBachelor IA - cursus 3 ans\n\n🎯 **Action à mener**\nA croiser site UTT + LinkedIn avant contact\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-10-20",
+    "date_publication": "2026-10-21",
     "email_draft": {
       "subject": "Universite de Technologie de Troyes (UTT) — Bachelor IA - cursus 3 ans : quelle évaluation prévue ?",
       "body": "Bonjour,\n\nJ'ai vu votre actualité : « Bachelor IA - cursus 3 ans ». Beau lancement.\n\nSur ce type de nouveau programme, le timing pour penser le dispositif d'évaluation des compétences est en général la période juste avant la première cohorte — ça permet de cadrer proprement la maquette pédagogique et les outils.\n\nChez Isograd, on opère 2 solutions complémentaires pour un programme comme le vôtre :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital). Argument concret en diplômation, sur le CV et auprès des entreprises partenaires.\n\n2. **ITS** pour héberger les sessions d'examen en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\n3. **Cert IA** — notre badge co-construit avec des écoles partenaires pour les programmes IA. Concrètement, vos étudiants ressortent du programme avec une certification externe sur les compétences IA appliquées. On a une program beta en cours, vous pourriez en faire partie.\n\nDéploiement en 4-6 semaines, budget calibré sur le volume étudiants. 15 minutes pour échanger sur votre cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://www.letudiant.fr/etudes/lactu-des-formations-de-nouveaux-cursus-en-ia-dans-le-superieur.html"
