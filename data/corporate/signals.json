@@ -1,36 +1,7 @@
 [
   {
-    "id": "sig-2026-10-20-003d8d683d12",
-    "date_capture": "2026-10-21",
-    "vertical": "corporate",
-    "sous_segment": "entreprise",
-    "compte": "Amazon",
-    "titre": "Amazon va recruter plus de 300 000 salariés pour la période des fêtes, une première hausse des embauches en trois ans",
-    "description": "Amazon va recruter plus de 300 000 salariés pour la période des fêtes, une première hausse des embauches en trois ans Zonebourse Suisse",
-    "source": "Zonebourse Suisse (via Google News)",
-    "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNckI2dmtLZXJ3UEdPRlpNZW9fVzdPMEQ2amtidG1vUHB4SVVmd1NkTmg4TTRRbDg3VDR0OXh5ZVFQUmpfS3cyUlJ3a28xYjZWOXJfMEZHbnhhcE9SbTFhS19kclJ0TU41ZHdpenZ6ZVBtTERvQW1PckpwR3h0aTNrR3dCMGNjZm5vMXZsN0xxQmYwRkJfMWdBeGEtZ3ZBYVpNZWlhM2l3ZEdLZUY2T3pCcTVVcmJTYnJPMDBDcWZQbkxnV05kaXNKVzZrbFp1UzVCekNIWnp4R1JUUXdMRnFyaE8wdThmTkdSLVBXUHFsdw?oc=5",
-    "signal_type": "plan_recrutement",
-    "tier": 1,
-    "score": 93,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": null,
-    "action_reco": "Amazon : ~300000 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-10-20",
-    "email_draft": {
-      "subject": "Amazon — fiabiliser la pré-qualification de vos recrutements",
-      "body": "Bonjour,\n\nJ'ai lu que Amazon prépare une campagne de recrutement importante (Amazon va recruter plus de 300 000 salariés pour la période des fêtes, une première hausse…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
-      "url_source": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNckI2dmtLZXJ3UEdPRlpNZW9fVzdPMEQ2amtidG1vUHB4SVVmd1NkTmg4TTRRbDg3VDR0OXh5ZVFQUmpfS3cyUlJ3a28xYjZWOXJfMEZHbnhhcE9SbTFhS19kclJ0TU41ZHdpenZ6ZVBtTERvQW1PckpwR3h0aTNrR3dCMGNjZm5vMXZsN0xxQmYwRkJfMWdBeGEtZ3ZBYVpNZWlhM2l3ZEdLZUY2T3pCcTVVcmJTYnJPMDBDcWZQbkxnV05kaXNKVzZrbFp1UzVCekNIWnp4R1JUUXdMRnFyaE8wdThmTkdSLVBXUHFsdw?oc=5"
-    },
-    "contacts_cibles": []
-  },
-  {
     "id": "sig-2026-10-20-94825e282107",
-    "date_capture": "2026-10-21",
+    "date_capture": "2026-10-22",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Amazon.com",
@@ -58,8 +29,37 @@
     "contacts_cibles": []
   },
   {
+    "id": "sig-2026-10-20-003d8d683d12",
+    "date_capture": "2026-10-22",
+    "vertical": "corporate",
+    "sous_segment": "entreprise",
+    "compte": "Amazon",
+    "titre": "Amazon va recruter plus de 300 000 salariés pour la période des fêtes, une première hausse des embauches en trois ans",
+    "description": "Amazon va recruter plus de 300 000 salariés pour la période des fêtes, une première hausse des embauches en trois ans Zonebourse Suisse",
+    "source": "Zonebourse Suisse (via Google News)",
+    "source_tier": 2,
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNckI2dmtLZXJ3UEdPRlpNZW9fVzdPMEQ2amtidG1vUHB4SVVmd1NkTmg4TTRRbDg3VDR0OXh5ZVFQUmpfS3cyUlJ3a28xYjZWOXJfMEZHbnhhcE9SbTFhS19kclJ0TU41ZHdpenZ6ZVBtTERvQW1PckpwR3h0aTNrR3dCMGNjZm5vMXZsN0xxQmYwRkJfMWdBeGEtZ3ZBYVpNZWlhM2l3ZEdLZUY2T3pCcTVVcmJTYnJPMDBDcWZQbkxnV05kaXNKVzZrbFp1UzVCekNIWnp4R1JUUXdMRnFyaE8wdThmTkdSLVBXUHFsdw?oc=5",
+    "signal_type": "plan_recrutement",
+    "tier": 1,
+    "score": 93,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": null,
+    "action_reco": "Amazon : ~300000 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-10-20",
+    "email_draft": {
+      "subject": "Amazon — fiabiliser la pré-qualification de vos recrutements",
+      "body": "Bonjour,\n\nJ'ai lu que Amazon prépare une campagne de recrutement importante (Amazon va recruter plus de 300 000 salariés pour la période des fêtes, une première hausse…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
+      "url_source": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNckI2dmtLZXJ3UEdPRlpNZW9fVzdPMEQ2amtidG1vUHB4SVVmd1NkTmg4TTRRbDg3VDR0OXh5ZVFQUmpfS3cyUlJ3a28xYjZWOXJfMEZHbnhhcE9SbTFhS19kclJ0TU41ZHdpenZ6ZVBtTERvQW1PckpwR3h0aTNrR3dCMGNjZm5vMXZsN0xxQmYwRkJfMWdBeGEtZ3ZBYVpNZWlhM2l3ZEdLZUY2T3pCcTVVcmJTYnJPMDBDcWZQbkxnV05kaXNKVzZrbFp1UzVCekNIWnp4R1JUUXdMRnFyaE8wdThmTkdSLVBXUHFsdw?oc=5"
+    },
+    "contacts_cibles": []
+  },
+  {
     "id": "sig-2026-10-02-31eede220762",
-    "date_capture": "2026-10-21",
+    "date_capture": "2026-10-22",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "SNCB",
@@ -88,7 +88,7 @@
   },
   {
     "id": "sig-2026-10-07-c2faeb60f71b",
-    "date_capture": "2026-10-21",
+    "date_capture": "2026-10-22",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Haropa Port",
@@ -126,7 +126,7 @@
   },
   {
     "id": "sig-2026-10-19-36deb0f62159",
-    "date_capture": "2026-10-21",
+    "date_capture": "2026-10-22",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Julius Baer",
@@ -164,7 +164,7 @@
   },
   {
     "id": "sig-2026-09-23-66189bddb55a",
-    "date_capture": "2026-10-21",
+    "date_capture": "2026-10-22",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "gouvernement",
@@ -194,7 +194,7 @@
   },
   {
     "id": "sig-2026-10-21-4b225fe72c12",
-    "date_capture": "2026-10-21",
+    "date_capture": "2026-10-22",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Maddyness)",
     "compte": "Pigment",
@@ -256,8 +256,71 @@
     ]
   },
   {
+    "id": "sig-2026-10-21-8111104240ba",
+    "date_capture": "2026-10-22",
+    "vertical": "corporate",
+    "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
+    "compte": "Legora",
+    "titre": "Legora raises fresh $550m at $8.8bn valuation",
+    "description": "",
+    "source": "Sifted",
+    "source_tier": 1,
+    "url": "https://sifted.eu/articles/legora-funding-round-series-e-legal-tech/",
+    "signal_type": "levee_fonds",
+    "tier": 1,
+    "score": 80,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Source** : https://sifted.eu/articles/legora-funding-round-series-e-legal-tech/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 550.0M USD (~506.0M€) → scale-up confirmé, plan de recrutement massif sur 12 mois\n🔥 PRIORITÉ — fenêtre 30j (avant que les RH s'organisent)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-10-21",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-10-21",
+    "email_draft": {
+      "subject": "Legora — votre Series — sur l'évaluation candidats à scale",
+      "body": "Bonjour,\n\nJe viens de voir que Legora a bouclé une levée de 550.0M USD (~506.0M€). Bravo pour cette étape.\n\nSur les 12 prochains mois, vous allez probablement recruter 100+ profils. C'est exactement le moment où la qualité du process d'évaluation devient un goulot d'étranglement.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/legora-funding-round-series-e-legal-tech/"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Chief People Officer",
+        "alternatives": [
+          "Head of People",
+          "VP People",
+          "DRH"
+        ],
+        "priorite": 1,
+        "raison": "Décide outils RH stratégiques post-levée",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Legora",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Legora%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
+      },
+      {
+        "poste": "Head of Talent Acquisition",
+        "alternatives": [
+          "Talent Acquisition Director",
+          "Head of Recruiting"
+        ],
+        "priorite": 2,
+        "raison": "Opérationnel — gère le plan de recrutement massif",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Legora",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Legora%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
+      },
+      {
+        "poste": "Head of Hiring",
+        "alternatives": [
+          "Hiring Manager",
+          "Recruitment Director"
+        ],
+        "priorite": 3,
+        "raison": "Sous-décideur — peut tester l'outil rapidement",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Legora",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Legora%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-10-21-4daf258aa536",
-    "date_capture": "2026-10-21",
+    "date_capture": "2026-10-22",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Pigment",
@@ -319,71 +382,8 @@
     ]
   },
   {
-    "id": "sig-2026-10-15-711c8e520795",
-    "date_capture": "2026-10-21",
-    "vertical": "corporate",
-    "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
-    "compte": "Exclusive",
-    "titre": "Exclusive: Accel set to lead DeepMind alum’s $60m round",
-    "description": "",
-    "source": "Sifted",
-    "source_tier": 1,
-    "url": "https://sifted.eu/articles/accel-deepmind-researcher-60m/",
-    "signal_type": "levee_fonds",
-    "tier": 1,
-    "score": 80,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Source** : https://sifted.eu/articles/accel-deepmind-researcher-60m/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 60.0M USD (~55.2M€) → scale-up confirmé, plan de recrutement massif sur 12 mois\n🔥 PRIORITÉ — fenêtre 30j (avant que les RH s'organisent)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-10-15",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-10-15",
-    "email_draft": {
-      "subject": "Exclusive — votre Series — sur l'évaluation candidats à scale",
-      "body": "Bonjour,\n\nJe viens de voir que Exclusive a bouclé une levée de 60.0M USD (~55.2M€). Bravo pour cette étape.\n\nSur les 12 prochains mois, vous allez probablement recruter 100+ profils. C'est exactement le moment où la qualité du process d'évaluation devient un goulot d'étranglement.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/accel-deepmind-researcher-60m/"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Chief People Officer",
-        "alternatives": [
-          "Head of People",
-          "VP People",
-          "DRH"
-        ],
-        "priorite": 1,
-        "raison": "Décide outils RH stratégiques post-levée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Exclusive",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Exclusive%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
-      },
-      {
-        "poste": "Head of Talent Acquisition",
-        "alternatives": [
-          "Talent Acquisition Director",
-          "Head of Recruiting"
-        ],
-        "priorite": 2,
-        "raison": "Opérationnel — gère le plan de recrutement massif",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Exclusive",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Exclusive%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
-      },
-      {
-        "poste": "Head of Hiring",
-        "alternatives": [
-          "Hiring Manager",
-          "Recruitment Director"
-        ],
-        "priorite": 3,
-        "raison": "Sous-décideur — peut tester l'outil rapidement",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Exclusive",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Exclusive%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
-      }
-    ]
-  },
-  {
     "id": "sig-2026-10-21-bfe7c4156144",
-    "date_capture": "2026-10-21",
+    "date_capture": "2026-10-22",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Photon Bridge",
