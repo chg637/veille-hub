@@ -1,36 +1,7 @@
 [
   {
-    "id": "sig-2026-10-20-94825e282107",
-    "date_capture": "2026-10-22",
-    "vertical": "corporate",
-    "sous_segment": "entreprise",
-    "compte": "Amazon.com",
-    "titre": "Amazon.com va recruter plus de 300 000 personnes aux États-Unis pendant la période des fêtes",
-    "description": "Amazon.com va recruter plus de 300 000 personnes aux États-Unis pendant la période des fêtes Zonebourse",
-    "source": "Zonebourse (via Google News)",
-    "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRTc2S1ZMQkl1MHo2MHRRZlZ5cmZrd2trcXRWWHVyYTdpTGxxdy1oZmFRNFN2TjctMFZScEVfdmczMmtYV203VWFFUVRaQkFReEhlcDJBR09qcl9qMy1SZTdjNG1feC0yQ0hMSGRhRG5xbTBBV3MwekZXMDFfTEVzdV9nT1pMOGJOaWY0ZUh2N2pwU1hSTGd1M21ISzcwemdCbVZ3WS15dkJTVkpNb2tuRnNpbktfdEt1SXF3clB4OXJiQXJsclg0d1ZBTExrZFJYU201Zk95cEszTDZDZ3JXWHJUYUt4dm13?oc=5",
-    "signal_type": "plan_recrutement",
-    "tier": 1,
-    "score": 93,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": null,
-    "action_reco": "Amazon.com : ~300000 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-10-20",
-    "email_draft": {
-      "subject": "Amazon.com — fiabiliser la pré-qualification de vos recrutements",
-      "body": "Bonjour,\n\nJ'ai lu que Amazon.com prépare une campagne de recrutement importante (Amazon.com va recruter plus de 300 000 personnes aux États-Unis pendant la période des fêt…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
-      "url_source": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRTc2S1ZMQkl1MHo2MHRRZlZ5cmZrd2trcXRWWHVyYTdpTGxxdy1oZmFRNFN2TjctMFZScEVfdmczMmtYV203VWFFUVRaQkFReEhlcDJBR09qcl9qMy1SZTdjNG1feC0yQ0hMSGRhRG5xbTBBV3MwekZXMDFfTEVzdV9nT1pMOGJOaWY0ZUh2N2pwU1hSTGd1M21ISzcwemdCbVZ3WS15dkJTVkpNb2tuRnNpbktfdEt1SXF3clB4OXJiQXJsclg0d1ZBTExrZFJYU201Zk95cEszTDZDZ3JXWHJUYUt4dm13?oc=5"
-    },
-    "contacts_cibles": []
-  },
-  {
     "id": "sig-2026-10-20-003d8d683d12",
-    "date_capture": "2026-10-22",
+    "date_capture": "2026-10-23",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Amazon",
@@ -58,8 +29,37 @@
     "contacts_cibles": []
   },
   {
+    "id": "sig-2026-10-20-94825e282107",
+    "date_capture": "2026-10-23",
+    "vertical": "corporate",
+    "sous_segment": "entreprise",
+    "compte": "Amazon.com",
+    "titre": "Amazon.com va recruter plus de 300 000 personnes aux États-Unis pendant la période des fêtes",
+    "description": "Amazon.com va recruter plus de 300 000 personnes aux États-Unis pendant la période des fêtes Zonebourse",
+    "source": "Zonebourse (via Google News)",
+    "source_tier": 2,
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRTc2S1ZMQkl1MHo2MHRRZlZ5cmZrd2trcXRWWHVyYTdpTGxxdy1oZmFRNFN2TjctMFZScEVfdmczMmtYV203VWFFUVRaQkFReEhlcDJBR09qcl9qMy1SZTdjNG1feC0yQ0hMSGRhRG5xbTBBV3MwekZXMDFfTEVzdV9nT1pMOGJOaWY0ZUh2N2pwU1hSTGd1M21ISzcwemdCbVZ3WS15dkJTVkpNb2tuRnNpbktfdEt1SXF3clB4OXJiQXJsclg0d1ZBTExrZFJYU201Zk95cEszTDZDZ3JXWHJUYUt4dm13?oc=5",
+    "signal_type": "plan_recrutement",
+    "tier": 1,
+    "score": 93,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": null,
+    "action_reco": "Amazon.com : ~300000 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-10-20",
+    "email_draft": {
+      "subject": "Amazon.com — fiabiliser la pré-qualification de vos recrutements",
+      "body": "Bonjour,\n\nJ'ai lu que Amazon.com prépare une campagne de recrutement importante (Amazon.com va recruter plus de 300 000 personnes aux États-Unis pendant la période des fêt…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
+      "url_source": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRTc2S1ZMQkl1MHo2MHRRZlZ5cmZrd2trcXRWWHVyYTdpTGxxdy1oZmFRNFN2TjctMFZScEVfdmczMmtYV203VWFFUVRaQkFReEhlcDJBR09qcl9qMy1SZTdjNG1feC0yQ0hMSGRhRG5xbTBBV3MwekZXMDFfTEVzdV9nT1pMOGJOaWY0ZUh2N2pwU1hSTGd1M21ISzcwemdCbVZ3WS15dkJTVkpNb2tuRnNpbktfdEt1SXF3clB4OXJiQXJsclg0d1ZBTExrZFJYU201Zk95cEszTDZDZ3JXWHJUYUt4dm13?oc=5"
+    },
+    "contacts_cibles": []
+  },
+  {
     "id": "sig-2026-10-02-31eede220762",
-    "date_capture": "2026-10-22",
+    "date_capture": "2026-10-23",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "SNCB",
@@ -88,7 +88,7 @@
   },
   {
     "id": "sig-2026-10-07-c2faeb60f71b",
-    "date_capture": "2026-10-22",
+    "date_capture": "2026-10-23",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Haropa Port",
@@ -126,7 +126,7 @@
   },
   {
     "id": "sig-2026-10-19-36deb0f62159",
-    "date_capture": "2026-10-22",
+    "date_capture": "2026-10-23",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Julius Baer",
@@ -164,7 +164,7 @@
   },
   {
     "id": "sig-2026-09-23-66189bddb55a",
-    "date_capture": "2026-10-22",
+    "date_capture": "2026-10-23",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "gouvernement",
@@ -193,71 +193,8 @@
     "contacts_cibles": []
   },
   {
-    "id": "sig-2026-10-21-4b225fe72c12",
-    "date_capture": "2026-10-22",
-    "vertical": "corporate",
-    "sous_segment": "Scale-up / Levée Series B+ (Maddyness)",
-    "compte": "Pigment",
-    "titre": "Pigment lève 250 millions de dollars avec Nvidia au tour de table",
-    "description": "L’article Pigment lève 250 millions de dollars avec Nvidia au tour de table est apparu en premier sur Maddyness - Le média pour comprendre l&#039;économie de demain .",
-    "source": "Maddyness",
-    "source_tier": 1,
-    "url": "https://www.maddyness.com/2026/10/21/pigment-leve-250-millions-de-dollars-avec-nvidia-au-tour-de-table/",
-    "signal_type": "levee_fonds",
-    "tier": 1,
-    "score": 80,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Source** : https://www.maddyness.com/2026/10/21/pigment-leve-250-millions-de-dollars-avec-nvidia-au-tour-de-table/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 250.0M USD (~230.0M€) → scale-up confirmé, plan de recrutement massif sur 12 mois\n🔥 PRIORITÉ — fenêtre 30j (avant que les RH s'organisent)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-10-21",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-10-21",
-    "email_draft": {
-      "subject": "Pigment — votre Series — sur l'évaluation candidats à scale",
-      "body": "Bonjour,\n\nJe viens de voir que Pigment a bouclé une levée de 250.0M USD (~230.0M€). Bravo pour cette étape.\n\nSur les 12 prochains mois, vous allez probablement recruter 100+ profils. C'est exactement le moment où la qualité du process d'évaluation devient un goulot d'étranglement.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://www.maddyness.com/2026/10/21/pigment-leve-250-millions-de-dollars-avec-nvidia-au-tour-de-table/"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Chief People Officer",
-        "alternatives": [
-          "Head of People",
-          "VP People",
-          "DRH"
-        ],
-        "priorite": 1,
-        "raison": "Décide outils RH stratégiques post-levée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Pigment",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Pigment%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
-      },
-      {
-        "poste": "Head of Talent Acquisition",
-        "alternatives": [
-          "Talent Acquisition Director",
-          "Head of Recruiting"
-        ],
-        "priorite": 2,
-        "raison": "Opérationnel — gère le plan de recrutement massif",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Pigment",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Pigment%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
-      },
-      {
-        "poste": "Head of Hiring",
-        "alternatives": [
-          "Hiring Manager",
-          "Recruitment Director"
-        ],
-        "priorite": 3,
-        "raison": "Sous-décideur — peut tester l'outil rapidement",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Pigment",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Pigment%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
-      }
-    ]
-  },
-  {
     "id": "sig-2026-10-21-8111104240ba",
-    "date_capture": "2026-10-22",
+    "date_capture": "2026-10-23",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Legora",
@@ -320,7 +257,7 @@
   },
   {
     "id": "sig-2026-10-21-4daf258aa536",
-    "date_capture": "2026-10-22",
+    "date_capture": "2026-10-23",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Pigment",
@@ -383,7 +320,7 @@
   },
   {
     "id": "sig-2026-10-21-bfe7c4156144",
-    "date_capture": "2026-10-22",
+    "date_capture": "2026-10-23",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Photon Bridge",
