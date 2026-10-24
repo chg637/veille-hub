@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-10-02-bcb2123550a9",
-    "date_capture": "2026-10-23",
+    "date_capture": "2026-10-24",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "Accréditation",
@@ -19,7 +19,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nL’article De nouveaux membres viennent enrichir le comité Accréditation est apparu en premier sur Conférence des grandes écoles .\n\n🎯 **Action à mener**\nEmail au responsable maquette + pitch « Pack Edu Tosa = preuve mesurable compétences digitales pour le dossier accréditation ». Joindre 2 cas pairs. RDV sous 14j.\n\n💡 **Angle pitch ITS/Tosa**\nTosa = preuve opposable de la qualité d'évaluation des compétences (audit Qualiopi, France Compétences). Doublement du signal extérieur dans la promotion du programme labellisé.\n\n📅 **Timing**\n3 mois post-annonce — fenêtre de capitalisation médiatique encore active.",
-    "deadline_action": "2026-10-30",
+    "deadline_action": "2026-10-31",
     "status": "new",
     "date_publication": "2026-10-02",
     "email_draft": {
@@ -65,70 +65,8 @@
     ]
   },
   {
-    "id": "sig-2026-10-21-cdc69d92a5bc",
-    "date_capture": "2026-10-23",
-    "vertical": "education",
-    "sous_segment": "grande-ecole",
-    "compte": "IGENSIA",
-    "titre": "IGENSIA School of Business : Anne-Charlotte Olczyk nommée directrice",
-    "description": "IGENSIA School of Business : Anne-Charlotte Olczyk prend la direction de l'école créée en 2026. L’article IGENSIA School of Business : Anne-Charlotte Olczyk nommée directrice est apparu en premier sur Planète Grandes Écoles .",
-    "source": "Planète Grandes Écoles",
-    "source_tier": 2,
-    "url": "https://www.planetegrandesecoles.com/igensia-school-of-business-directrice",
-    "signal_type": "nomination_dg",
-    "tier": 1,
-    "score": 85,
-    "produit_match": [
-      "Pack Education Tosa"
-    ],
-    "owner": null,
-    "action_reco": "📋 **Signal détecté**\nIGENSIA School of Business : Anne-Charlotte Olczyk prend la direction de l'école créée en 2026. L’article IGENSIA School of Business : Anne-Charlotte Olczyk nommée directrice est apparu en premier…\n\n🎯 **Action à mener**\nNote LinkedIn 100 premiers jours du nouveau DG. Angle « bilan rapide du dispositif certification ». Brief équipe sur les comptes Tosa déjà présents chez IGENSIA.\n\n💡 **Angle pitch ITS/Tosa**\nFenêtre stratégique post-prise de poste : nouveau directeur cherche à poser sa marque. Apport rapide = Tosa pour signal externe + ITS pour structurer la passation.\n\n📅 **Timing**\n30-90 jours après l'annonce. Au-delà, la roadmap est figée.",
-    "deadline_action": "2026-10-30",
-    "status": "new",
-    "date_publication": "2026-10-21",
-    "email_draft": {
-      "subject": "IGENSIA — nouvelle direction : quels chantiers évaluation prévus ?",
-      "body": "Bonjour,\n\nJ'ai noté votre arrivée à la direction chez IGENSIA.\nContexte que j'ai vu passer : « IGENSIA School of Business : Anne-Charlotte Olczyk prend la direction de l'école créée en 2026. L’article IGENSIA School of… ».\n\nFélicitations pour cette prise de poste — belle étape.\n\nJe me permets de vous écrire car beaucoup de directeurs récemment nommés dans le supérieur partagent le même constat à 60-90 jours : besoin de poser rapidement une stratégie claire sur l'évaluation des compétences étudiants — pour répondre aux exigences Qualiopi/RNCP et aux attentes des entreprises partenaires.\n\nChez Isograd, deux solutions utilisées par des écoles comparables :\n\n1. **Tosa** — certification des compétences numériques étudiants (bureautique, code, digital). Argument fort en diplômation, CV, et classements.\n\n2. **ITS** — plateforme d'hébergement d'examens en ligne avec proctoring et banque de questions, opposable en audit.\n\n15 minutes pour vous montrer ce que d'autres directions ont mis en place dans leurs premiers mois ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource de l'info : https://www.planetegrandesecoles.com/igensia-school-of-business-directrice"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Le(la) nouveau(elle) directeur(rice) directement",
-        "alternatives": [
-          "Directeur(rice) général(e)",
-          "Présidence"
-        ],
-        "priorite": 1,
-        "raison": "Fenêtre 30-90j post-prise de poste — ouvert aux nouveaux chantiers",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Le%28la%29+nouveau%28elle%29+directeur%28rice%29+directement%22+OR+%22Directeur%28rice%29+g%C3%A9n%C3%A9ral%28e%29%22+OR+%22Pr%C3%A9sidence%22&currentCompany=IGENSIA",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22IGENSIA%22%20Le%28la%29%20nouveau%28elle%29%20directeur%28rice%29%20directement%20Directeur%28rice%29%20g%C3%A9n%C3%A9ral%28e%29%20Pr%C3%A9sidence"
-      },
-      {
-        "poste": "Directeur(rice) de cabinet / Adjoint(e)",
-        "alternatives": [
-          "Bras droit",
-          "Chief of Staff"
-        ],
-        "priorite": 2,
-        "raison": "Pré-qualifie les dossiers stratégiques du nouveau directeur",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+de+cabinet+%2F+Adjoint%28e%29%22+OR+%22Bras+droit%22+OR+%22Chief+of+Staff%22&currentCompany=IGENSIA",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22IGENSIA%22%20Directeur%28rice%29%20de%20cabinet%20/%20Adjoint%28e%29%20Bras%20droit%20Chief%20of%20Staff"
-      },
-      {
-        "poste": "Directeur(rice) des programmes / Académique",
-        "alternatives": [
-          "Doyen",
-          "VP Pédagogie"
-        ],
-        "priorite": 3,
-        "raison": "Souvent en pleine relecture de la roadmap pédagogique post-nomination",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+des+programmes+%2F+Acad%C3%A9mique%22+OR+%22Doyen%22+OR+%22VP+P%C3%A9dagogie%22&currentCompany=IGENSIA",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22IGENSIA%22%20Directeur%28rice%29%20des%20programmes%20/%20Acad%C3%A9mique%20Doyen%20VP%20P%C3%A9dagogie"
-      }
-    ]
-  },
-  {
     "id": "sig-2026-10-21-a1764f297ba1",
-    "date_capture": "2026-10-23",
+    "date_capture": "2026-10-24",
     "vertical": "education",
     "sous_segment": "programme-ia",
     "compte": "KEDGE",
@@ -146,7 +84,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nKEDGE renforce son corps professoral avec l&#8217;arrivée de 22 nouveaux enseignants-chercheurs qui ont intégré la Faculté de la business school à la rentrée 2026. Issus de huit nationalités…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme KEDGE. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-10-30",
+    "deadline_action": "2026-10-31",
     "status": "new",
     "date_publication": "2026-10-21",
     "email_draft": {
@@ -191,7 +129,7 @@
   },
   {
     "id": "sig-2026-10-20-e71eb063ba75",
-    "date_capture": "2026-10-23",
+    "date_capture": "2026-10-24",
     "vertical": "education",
     "sous_segment": "programme-ia",
     "compte": "OMNES Education",
@@ -209,7 +147,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nLe groupe OMNES Education inaugure un nouveau campus à Marseille, dans le quartier de la Porte d’Aix. Avec 6 500 m², cinq écoles réunies et 1 100 étudiants accueillis, ce nouvel espace mise sur la…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme OMNES Education. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-10-30",
+    "deadline_action": "2026-10-31",
     "status": "new",
     "date_publication": "2026-10-20",
     "email_draft": {
@@ -254,7 +192,7 @@
   },
   {
     "id": "sig-2026-10-19-d8d32b0343d1",
-    "date_capture": "2026-10-23",
+    "date_capture": "2026-10-24",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "BSB",
@@ -272,7 +210,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nBSB (Burgundy School of Business) s&#8217;associe à TTA, The Trusted Agency, et à Laurent Combalbert, ancien négociateur du RAID, pour lancer la School of Négo. Présentée comme la première école…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme BSB. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-10-30",
+    "deadline_action": "2026-10-31",
     "status": "new",
     "date_publication": "2026-10-19",
     "email_draft": {
@@ -317,7 +255,7 @@
   },
   {
     "id": "sig-stable-4cc03b95f797",
-    "date_capture": "2026-10-23",
+    "date_capture": "2026-10-24",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "Universite de Technologie de Troyes (UTT)",
@@ -337,7 +275,7 @@
     "action_reco": "📋 **Signal détecté**\nBachelor IA - cursus 3 ans\n\n🎯 **Action à mener**\nA croiser site UTT + LinkedIn avant contact\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-10-23",
+    "date_publication": "2026-10-24",
     "email_draft": {
       "subject": "Universite de Technologie de Troyes (UTT) — Bachelor IA - cursus 3 ans : quelle évaluation prévue ?",
       "body": "Bonjour,\n\nJ'ai vu votre actualité : « Bachelor IA - cursus 3 ans ». Beau lancement.\n\nSur ce type de nouveau programme, le timing pour penser le dispositif d'évaluation des compétences est en général la période juste avant la première cohorte — ça permet de cadrer proprement la maquette pédagogique et les outils.\n\nChez Isograd, on opère 2 solutions complémentaires pour un programme comme le vôtre :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital). Argument concret en diplômation, sur le CV et auprès des entreprises partenaires.\n\n2. **ITS** pour héberger les sessions d'examen en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\n3. **Cert IA** — notre badge co-construit avec des écoles partenaires pour les programmes IA. Concrètement, vos étudiants ressortent du programme avec une certification externe sur les compétences IA appliquées. On a une program beta en cours, vous pourriez en faire partie.\n\nDéploiement en 4-6 semaines, budget calibré sur le volume étudiants. 15 minutes pour échanger sur votre cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://www.letudiant.fr/etudes/lactu-des-formations-de-nouveaux-cursus-en-ia-dans-le-superieur.html"
