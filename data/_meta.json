@@ -1,13 +1,13 @@
 {
-  "last_run_utc": "2026-10-24T10:03:33+00:00",
-  "last_run_iso": "2026-10-24T10:03:33Z",
-  "total_signals": 104,
+  "last_run_utc": "2026-10-25T10:24:34+00:00",
+  "last_run_iso": "2026-10-25T10:24:34Z",
+  "total_signals": 103,
   "scrapers": {
     "education.radar_hebdo_tosa": 1,
     "education.presse_sup": 3,
     "ao.ao_curated": 2,
     "ao.boamp_direct": 3,
-    "ao.ted_europe": 29,
+    "ao.ted_europe": 28,
     "ao.france_marches": 0,
     "ao.seed_from_radar": 4,
     "ao.maximilien_idf": 0,
