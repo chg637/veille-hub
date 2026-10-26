@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-10-02-bcb2123550a9",
-    "date_capture": "2026-10-25",
+    "date_capture": "2026-10-26",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "Accréditation",
@@ -19,7 +19,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nL’article De nouveaux membres viennent enrichir le comité Accréditation est apparu en premier sur Conférence des grandes écoles .\n\n🎯 **Action à mener**\nEmail au responsable maquette + pitch « Pack Edu Tosa = preuve mesurable compétences digitales pour le dossier accréditation ». Joindre 2 cas pairs. RDV sous 14j.\n\n💡 **Angle pitch ITS/Tosa**\nTosa = preuve opposable de la qualité d'évaluation des compétences (audit Qualiopi, France Compétences). Doublement du signal extérieur dans la promotion du programme labellisé.\n\n📅 **Timing**\n3 mois post-annonce — fenêtre de capitalisation médiatique encore active.",
-    "deadline_action": "2026-11-01",
+    "deadline_action": "2026-11-02",
     "status": "new",
     "date_publication": "2026-10-02",
     "email_draft": {
@@ -65,8 +65,71 @@
     ]
   },
   {
+    "id": "sig-2026-10-26-e70772f46e1a",
+    "date_capture": "2026-10-26",
+    "vertical": "education",
+    "sous_segment": "grande-ecole",
+    "compte": "Emlyon",
+    "titre": "Emlyon ouvre une école de tech sur son campus parisien",
+    "description": "Après l'intégration d'une école interdisciplinaire à Londres, emlyon lance une école de tech sur son campus parisien. L'école de commerce annonce ainsi sa mutation en \"Global management and tech university\", lors d’une conférence de presse, mardi 13 octobre.",
+    "source": "Educpros (L'Étudiant)",
+    "source_tier": 1,
+    "url": "https://www.letudiant.fr/educpros/actualite/emlyon-ouvre-une-ecole-de-tech-sur-son-campus-parisien.html",
+    "signal_type": "nouvelle_formation",
+    "tier": 1,
+    "score": 85,
+    "produit_match": [
+      "Pack Education Tosa",
+      "Cert IA"
+    ],
+    "owner": null,
+    "action_reco": "📋 **Signal détecté**\nAprès l'intégration d'une école interdisciplinaire à Londres, emlyon lance une école de tech sur son campus parisien. L'école de commerce annonce ainsi sa mutation en \"Global management and tech…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme Emlyon. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
+    "deadline_action": "2026-11-02",
+    "status": "new",
+    "date_publication": "2026-10-26",
+    "email_draft": {
+      "subject": "Emlyon — Après l'intégration d'une école interdisciplinaire à : quelle évaluation prévue ?",
+      "body": "Bonjour,\n\nJ'ai vu votre actualité : « Après l'intégration d'une école interdisciplinaire à Londres, emlyon lance une école de tech sur son campus parisien… ». Beau lancement.\n\nSur ce type de nouveau programme, le timing pour penser le dispositif d'évaluation des compétences est en général la période juste avant la première cohorte — ça permet de cadrer proprement la maquette pédagogique et les outils.\n\nChez Isograd, on opère 2 solutions complémentaires pour un programme comme le vôtre :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital). Argument concret en diplômation, sur le CV et auprès des entreprises partenaires.\n\n2. **ITS** pour héberger les sessions d'examen en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\nDéploiement en 4-6 semaines, budget calibré sur le volume étudiants. 15 minutes pour échanger sur votre cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://www.letudiant.fr/educpros/actualite/emlyon-ouvre-une-ecole-de-tech-sur-son-campus-parisien.html"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Responsable du programme / Directeur(rice) de la formation",
+        "alternatives": [
+          "Coordinateur(rice) pédagogique",
+          "Responsable de filière"
+        ],
+        "priorite": 1,
+        "raison": "Définit le dispositif d'évaluation du nouveau programme",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+du+programme+%2F+Directeur%28rice%29+de+la+formation%22+OR+%22Coordinateur%28rice%29+p%C3%A9dagogique%22+OR+%22Responsable+de+fili%C3%A8re%22&currentCompany=Emlyon",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Emlyon%22%20Responsable%20du%20programme%20/%20Directeur%28rice%29%20de%20la%20formation%20Coordinateur%28rice%29%20p%C3%A9dagogique%20Responsable%20de%20fili%C3%A8re"
+      },
+      {
+        "poste": "Doyen / Directeur(rice) académique",
+        "alternatives": [
+          "VP Pédagogie",
+          "Directeur(rice) des études"
+        ],
+        "priorite": 2,
+        "raison": "Arbitrage sur l'outillage évaluation à l'échelle de l'établissement",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Doyen+%2F+Directeur%28rice%29+acad%C3%A9mique%22+OR+%22VP+P%C3%A9dagogie%22+OR+%22Directeur%28rice%29+des+%C3%A9tudes%22&currentCompany=Emlyon",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Emlyon%22%20Doyen%20/%20Directeur%28rice%29%20acad%C3%A9mique%20VP%20P%C3%A9dagogie%20Directeur%28rice%29%20des%20%C3%A9tudes"
+      },
+      {
+        "poste": "Responsable RNCP / Certifications",
+        "alternatives": [
+          "Référent qualité",
+          "Responsable Qualiopi"
+        ],
+        "priorite": 3,
+        "raison": "Cadrage Qualiopi / preuve d'évaluation pour la certification",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+Certifications%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22+OR+%22Responsable+Qualiopi%22&currentCompany=Emlyon",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Emlyon%22%20Responsable%20RNCP%20/%20Certifications%20R%C3%A9f%C3%A9rent%20qualit%C3%A9%20Responsable%20Qualiopi"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-10-21-a1764f297ba1",
-    "date_capture": "2026-10-25",
+    "date_capture": "2026-10-26",
     "vertical": "education",
     "sous_segment": "programme-ia",
     "compte": "KEDGE",
@@ -84,7 +147,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nKEDGE renforce son corps professoral avec l&#8217;arrivée de 22 nouveaux enseignants-chercheurs qui ont intégré la Faculté de la business school à la rentrée 2026. Issus de huit nationalités…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme KEDGE. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-11-01",
+    "deadline_action": "2026-11-02",
     "status": "new",
     "date_publication": "2026-10-21",
     "email_draft": {
@@ -129,7 +192,7 @@
   },
   {
     "id": "sig-2026-10-20-e71eb063ba75",
-    "date_capture": "2026-10-25",
+    "date_capture": "2026-10-26",
     "vertical": "education",
     "sous_segment": "programme-ia",
     "compte": "OMNES Education",
@@ -147,7 +210,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nLe groupe OMNES Education inaugure un nouveau campus à Marseille, dans le quartier de la Porte d’Aix. Avec 6 500 m², cinq écoles réunies et 1 100 étudiants accueillis, ce nouvel espace mise sur la…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme OMNES Education. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-11-01",
+    "deadline_action": "2026-11-02",
     "status": "new",
     "date_publication": "2026-10-20",
     "email_draft": {
@@ -192,7 +255,7 @@
   },
   {
     "id": "sig-2026-10-19-d8d32b0343d1",
-    "date_capture": "2026-10-25",
+    "date_capture": "2026-10-26",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "BSB",
@@ -210,7 +273,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nBSB (Burgundy School of Business) s&#8217;associe à TTA, The Trusted Agency, et à Laurent Combalbert, ancien négociateur du RAID, pour lancer la School of Négo. Présentée comme la première école…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme BSB. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-11-01",
+    "deadline_action": "2026-11-02",
     "status": "new",
     "date_publication": "2026-10-19",
     "email_draft": {
@@ -255,7 +318,7 @@
   },
   {
     "id": "sig-stable-4cc03b95f797",
-    "date_capture": "2026-10-25",
+    "date_capture": "2026-10-26",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "Universite de Technologie de Troyes (UTT)",
@@ -275,7 +338,7 @@
     "action_reco": "📋 **Signal détecté**\nBachelor IA - cursus 3 ans\n\n🎯 **Action à mener**\nA croiser site UTT + LinkedIn avant contact\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-10-25",
+    "date_publication": "2026-10-26",
     "email_draft": {
       "subject": "Universite de Technologie de Troyes (UTT) — Bachelor IA - cursus 3 ans : quelle évaluation prévue ?",
       "body": "Bonjour,\n\nJ'ai vu votre actualité : « Bachelor IA - cursus 3 ans ». Beau lancement.\n\nSur ce type de nouveau programme, le timing pour penser le dispositif d'évaluation des compétences est en général la période juste avant la première cohorte — ça permet de cadrer proprement la maquette pédagogique et les outils.\n\nChez Isograd, on opère 2 solutions complémentaires pour un programme comme le vôtre :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital). Argument concret en diplômation, sur le CV et auprès des entreprises partenaires.\n\n2. **ITS** pour héberger les sessions d'examen en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\n3. **Cert IA** — notre badge co-construit avec des écoles partenaires pour les programmes IA. Concrètement, vos étudiants ressortent du programme avec une certification externe sur les compétences IA appliquées. On a une program beta en cours, vous pourriez en faire partie.\n\nDéploiement en 4-6 semaines, budget calibré sur le volume étudiants. 15 minutes pour échanger sur votre cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://www.letudiant.fr/etudes/lactu-des-formations-de-nouveaux-cursus-en-ia-dans-le-superieur.html"

@@ -1,44 +1,15 @@
 [
   {
-    "id": "sig-2026-09-30-abfb3ba9d66a",
-    "date_capture": "2026-10-25",
-    "vertical": "corporate",
-    "sous_segment": "entreprise",
-    "compte": "DoorDash ouvre un bureau à Hyderabad et",
-    "titre": "DoorDash ouvre un bureau à Hyderabad et prévoit de recruter 3 000 personnes en Inde.",
-    "description": "DoorDash ouvre un bureau à Hyderabad et prévoit de recruter 3 000 personnes en Inde. Quartz en Français",
-    "source": "Quartz en Français (via Google News)",
-    "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lTDFpYlByWTVrYWNOelVlQVpnbWZ2a19uWl9qUmExZzYzbmZjNXVIWFIweWktdlRHRVBFalZZVTlsN1N6MENEWmN6Rk1sYTZ2dVZqcjhiRkJ3NUZCQk5iamNaYUJIS3VldXRVN1VpNFppR1Azd0dj?oc=5",
-    "signal_type": "plan_recrutement",
-    "tier": 1,
-    "score": 93,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": null,
-    "action_reco": "DoorDash ouvre un bureau à Hyderabad et : ~3000 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-09-30",
-    "email_draft": {
-      "subject": "DoorDash ouvre un bureau à Hyderabad et — fiabiliser la pré-qualification de vos recrutements",
-      "body": "Bonjour,\n\nJ'ai lu que DoorDash ouvre un bureau à Hyderabad et prépare une campagne de recrutement importante (DoorDash ouvre un bureau à Hyderabad et prévoit de recruter 3 000 personnes en Inde.…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
-      "url_source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lTDFpYlByWTVrYWNOelVlQVpnbWZ2a19uWl9qUmExZzYzbmZjNXVIWFIweWktdlRHRVBFalZZVTlsN1N6MENEWmN6Rk1sYTZ2dVZqcjhiRkJ3NUZCQk5iamNaYUJIS3VldXRVN1VpNFppR1Azd0dj?oc=5"
-    },
-    "contacts_cibles": []
-  },
-  {
     "id": "sig-2026-10-20-94825e282107",
-    "date_capture": "2026-10-25",
+    "date_capture": "2026-10-26",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Amazon.com",
     "titre": "Amazon.com va recruter plus de 300 000 personnes aux États-Unis pendant la période des fêtes",
-    "description": "Amazon.com va recruter plus de 300 000 personnes aux États-Unis pendant la période des fêtes Zonebourse",
-    "source": "Zonebourse (via Google News)",
+    "description": "Amazon.com va recruter plus de 300 000 personnes aux États-Unis pendant la période des fêtes Zonebourse Suisse",
+    "source": "Zonebourse Suisse (via Google News)",
     "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRTc2S1ZMQkl1MHo2MHRRZlZ5cmZrd2trcXRWWHVyYTdpTGxxdy1oZmFRNFN2TjctMFZScEVfdmczMmtYV203VWFFUVRaQkFReEhlcDJBR09qcl9qMy1SZTdjNG1feC0yQ0hMSGRhRG5xbTBBV3MwekZXMDFfTEVzdV9nT1pMOGJOaWY0ZUh2N2pwU1hSTGd1M21ISzcwemdCbVZ3WS15dkJTVkpNb2tuRnNpbktfdEt1SXF3clB4OXJiQXJsclg0d1ZBTExrZFJYU201Zk95cEszTDZDZ3JXWHJUYUt4dm13?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMkU5UURENnFsdy1BRno2WmttTWdSa25IamtaenQtOWRCamVISTk0RjNxWnJmVzZUTXVnanE1MU9obmhjSmI2NzBJeV9sWnBqcFV6MnlPTlhWc2o0bnJ5aFZGb3JKVld1RjhUbUU0blctZ2xTVTNrUUx2RW4yck5aOHFrOWFYVWFSN2JvWklpZHR1TnNKZGhyY3MxdFJsUGVqdXdUMmJ2TExnSUJzSGhzQkQwZTlSdDJiazhseXpXQU9BT2pOU1hvV3k3MG9kMWlkUWhrelp6UW1XWVBCaHhrajlFUlR1ems?oc=5",
     "signal_type": "plan_recrutement",
     "tier": 1,
     "score": 93,
@@ -53,13 +24,13 @@
     "email_draft": {
       "subject": "Amazon.com — fiabiliser la pré-qualification de vos recrutements",
       "body": "Bonjour,\n\nJ'ai lu que Amazon.com prépare une campagne de recrutement importante (Amazon.com va recruter plus de 300 000 personnes aux États-Unis pendant la période des fêt…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
-      "url_source": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRTc2S1ZMQkl1MHo2MHRRZlZ5cmZrd2trcXRWWHVyYTdpTGxxdy1oZmFRNFN2TjctMFZScEVfdmczMmtYV203VWFFUVRaQkFReEhlcDJBR09qcl9qMy1SZTdjNG1feC0yQ0hMSGRhRG5xbTBBV3MwekZXMDFfTEVzdV9nT1pMOGJOaWY0ZUh2N2pwU1hSTGd1M21ISzcwemdCbVZ3WS15dkJTVkpNb2tuRnNpbktfdEt1SXF3clB4OXJiQXJsclg0d1ZBTExrZFJYU201Zk95cEszTDZDZ3JXWHJUYUt4dm13?oc=5"
+      "url_source": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMkU5UURENnFsdy1BRno2WmttTWdSa25IamtaenQtOWRCamVISTk0RjNxWnJmVzZUTXVnanE1MU9obmhjSmI2NzBJeV9sWnBqcFV6MnlPTlhWc2o0bnJ5aFZGb3JKVld1RjhUbUU0blctZ2xTVTNrUUx2RW4yck5aOHFrOWFYVWFSN2JvWklpZHR1TnNKZGhyY3MxdFJsUGVqdXdUMmJ2TExnSUJzSGhzQkQwZTlSdDJiazhseXpXQU9BT2pOU1hvV3k3MG9kMWlkUWhrelp6UW1XWVBCaHhrajlFUlR1ems?oc=5"
     },
     "contacts_cibles": []
   },
   {
     "id": "sig-2026-10-20-003d8d683d12",
-    "date_capture": "2026-10-25",
+    "date_capture": "2026-10-26",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Amazon",
@@ -87,8 +58,37 @@
     "contacts_cibles": []
   },
   {
+    "id": "sig-2026-09-30-abfb3ba9d66a",
+    "date_capture": "2026-10-26",
+    "vertical": "corporate",
+    "sous_segment": "entreprise",
+    "compte": "DoorDash ouvre un bureau à Hyderabad et",
+    "titre": "DoorDash ouvre un bureau à Hyderabad et prévoit de recruter 3 000 personnes en Inde.",
+    "description": "DoorDash ouvre un bureau à Hyderabad et prévoit de recruter 3 000 personnes en Inde. Quartz en Français",
+    "source": "Quartz en Français (via Google News)",
+    "source_tier": 2,
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lTDFpYlByWTVrYWNOelVlQVpnbWZ2a19uWl9qUmExZzYzbmZjNXVIWFIweWktdlRHRVBFalZZVTlsN1N6MENEWmN6Rk1sYTZ2dVZqcjhiRkJ3NUZCQk5iamNaYUJIS3VldXRVN1VpNFppR1Azd0dj?oc=5",
+    "signal_type": "plan_recrutement",
+    "tier": 1,
+    "score": 93,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": null,
+    "action_reco": "DoorDash ouvre un bureau à Hyderabad et : ~3000 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-09-30",
+    "email_draft": {
+      "subject": "DoorDash ouvre un bureau à Hyderabad et — fiabiliser la pré-qualification de vos recrutements",
+      "body": "Bonjour,\n\nJ'ai lu que DoorDash ouvre un bureau à Hyderabad et prépare une campagne de recrutement importante (DoorDash ouvre un bureau à Hyderabad et prévoit de recruter 3 000 personnes en Inde.…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
+      "url_source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lTDFpYlByWTVrYWNOelVlQVpnbWZ2a19uWl9qUmExZzYzbmZjNXVIWFIweWktdlRHRVBFalZZVTlsN1N6MENEWmN6Rk1sYTZ2dVZqcjhiRkJ3NUZCQk5iamNaYUJIS3VldXRVN1VpNFppR1Azd0dj?oc=5"
+    },
+    "contacts_cibles": []
+  },
+  {
     "id": "sig-2026-10-02-31eede220762",
-    "date_capture": "2026-10-25",
+    "date_capture": "2026-10-26",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "SNCB",
@@ -117,7 +117,7 @@
   },
   {
     "id": "sig-2026-10-07-c2faeb60f71b",
-    "date_capture": "2026-10-25",
+    "date_capture": "2026-10-26",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Haropa Port",
@@ -154,8 +154,46 @@
     ]
   },
   {
+    "id": "sig-2026-10-19-36deb0f62159",
+    "date_capture": "2026-10-26",
+    "vertical": "corporate",
+    "sous_segment": "entreprise",
+    "compte": "Julius Baer",
+    "titre": "Julius Baer nomme Francis Hoefman à la tête des RH",
+    "description": "Julius Baer nomme Francis Hoefman à la tête des RH agefi.com",
+    "source": "agefi.com (via Google News)",
+    "source_tier": 2,
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYVNlOW1ENlhfSmZsVHVwOXYwYnZZRDlGTmRMY3lnbktwaEZvMmpXTVBZcTRvSmdzRlVsUXhVOXdMX085UnVJTjl2SEpTN2V5LU5oaExkc1ZCNDlXYXRIaWV5MTlvR3VxUmFlUUFXWU9OVi1MY0JJQmJuRlJfaDFCVGwtYUJnUmdYWEdoQmNqVXFNaHBaZWVXZ3g5N1hVaVRSUl9BN19lellpUmxJRThr?oc=5",
+    "signal_type": "nomination_chro",
+    "tier": 1,
+    "score": 90,
+    "produit_match": [
+      "ITS",
+      "Tosa Corporate"
+    ],
+    "owner": null,
+    "action_reco": "Fenêtre prise de poste ~30j : InMail/email à la nouvelle DRH (Julius Baer) — angle outillage évaluation des compétences (ITS + Tosa).",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-10-19",
+    "email_draft": {
+      "subject": "Félicitations pour votre nomination DRH chez Julius Baer",
+      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez Julius Baer. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMirwFBVV95cUxQYVNlOW1ENlhfSmZsVHVwOXYwYnZZRDlGTmRMY3lnbktwaEZvMmpXTVBZcTRvSmdzRlVsUXhVOXdMX085UnVJTjl2SEpTN2V5LU5oaExkc1ZCNDlXYXRIaWV5MTlvR3VxUmFlUUFXWU9OVi1MY0JJQmJuRlJfaDFCVGwtYUJnUmdYWEdoQmNqVXFNaHBaZWVXZ3g5N1hVaVRSUl9BN19lellpUmxJRThr?oc=5"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "La personne nommée (cible directe)",
+        "alternatives": [],
+        "priorite": 1,
+        "raison": "Fenêtre 30j post-prise de poste = haute disposition aux nouveaux outils",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22La+personne+nomm%C3%A9e+%28cible+directe%29%22&currentCompany=Julius+Baer",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Julius%20Baer%22%20La%20personne%20nomm%C3%A9e%20%28cible%20directe%29"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-09-23-66189bddb55a",
-    "date_capture": "2026-10-25",
+    "date_capture": "2026-10-26",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "gouvernement",
@@ -185,7 +223,7 @@
   },
   {
     "id": "sig-2026-10-21-8111104240ba",
-    "date_capture": "2026-10-25",
+    "date_capture": "2026-10-26",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Legora",
@@ -248,7 +286,7 @@
   },
   {
     "id": "sig-2026-10-21-4daf258aa536",
-    "date_capture": "2026-10-25",
+    "date_capture": "2026-10-26",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Pigment",
@@ -306,69 +344,6 @@
         "raison": "Sous-décideur — peut tester l'outil rapidement",
         "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Pigment",
         "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Pigment%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
-      }
-    ]
-  },
-  {
-    "id": "sig-2026-10-21-bfe7c4156144",
-    "date_capture": "2026-10-25",
-    "vertical": "corporate",
-    "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
-    "compte": "Photon Bridge",
-    "titre": "Exclusive: Photon Bridge raises €10m to build laser devices that connect AI chips",
-    "description": "",
-    "source": "Sifted",
-    "source_tier": 1,
-    "url": "https://sifted.eu/articles/photon-bridge-laser-device-ai-chips-seed-round/",
-    "signal_type": "levee_fonds",
-    "tier": 3,
-    "score": 50,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Source** : https://sifted.eu/articles/photon-bridge-laser-device-ai-chips-seed-round/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 10.0M EUR (~10.0M€) → Series A late, signal mais startup encore early\n📌 À surveiller — relancer dans 3-6 mois quand ils auront recruté 30+\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-10-21",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-10-21",
-    "email_draft": {
-      "subject": "Photon Bridge — votre Series — sur l'évaluation candidats à scale",
-      "body": "Bonjour,\n\nJe viens de voir que Photon Bridge a bouclé une levée de 10.0M EUR (~10.0M€). Bravo pour cette étape.\n\nUne levée à cette taille s'accompagne souvent d'un plan de recrutement ambitieux. Anticiper l'outillage évite la dette technique RH.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/photon-bridge-laser-device-ai-chips-seed-round/"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Chief People Officer",
-        "alternatives": [
-          "Head of People",
-          "VP People",
-          "DRH"
-        ],
-        "priorite": 1,
-        "raison": "Décide outils RH stratégiques post-levée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Photon+Bridge",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Photon%20Bridge%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
-      },
-      {
-        "poste": "Head of Talent Acquisition",
-        "alternatives": [
-          "Talent Acquisition Director",
-          "Head of Recruiting"
-        ],
-        "priorite": 2,
-        "raison": "Opérationnel — gère le plan de recrutement massif",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Photon+Bridge",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Photon%20Bridge%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
-      },
-      {
-        "poste": "Head of Hiring",
-        "alternatives": [
-          "Hiring Manager",
-          "Recruitment Director"
-        ],
-        "priorite": 3,
-        "raison": "Sous-décideur — peut tester l'outil rapidement",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Photon+Bridge",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Photon%20Bridge%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
       }
     ]
   }
