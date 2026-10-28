@@ -1,15 +1,15 @@
 [
   {
     "id": "sig-2026-10-20-94825e282107",
-    "date_capture": "2026-10-27",
+    "date_capture": "2026-10-28",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Amazon.com",
     "titre": "Amazon.com va recruter plus de 300 000 personnes aux États-Unis pendant la période des fêtes",
-    "description": "Amazon.com va recruter plus de 300 000 personnes aux États-Unis pendant la période des fêtes Zonebourse Suisse",
-    "source": "Zonebourse Suisse (via Google News)",
+    "description": "Amazon.com va recruter plus de 300 000 personnes aux États-Unis pendant la période des fêtes Zonebourse",
+    "source": "Zonebourse (via Google News)",
     "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMkU5UURENnFsdy1BRno2WmttTWdSa25IamtaenQtOWRCamVISTk0RjNxWnJmVzZUTXVnanE1MU9obmhjSmI2NzBJeV9sWnBqcFV6MnlPTlhWc2o0bnJ5aFZGb3JKVld1RjhUbUU0blctZ2xTVTNrUUx2RW4yck5aOHFrOWFYVWFSN2JvWklpZHR1TnNKZGhyY3MxdFJsUGVqdXdUMmJ2TExnSUJzSGhzQkQwZTlSdDJiazhseXpXQU9BT2pOU1hvV3k3MG9kMWlkUWhrelp6UW1XWVBCaHhrajlFUlR1ems?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRTc2S1ZMQkl1MHo2MHRRZlZ5cmZrd2trcXRWWHVyYTdpTGxxdy1oZmFRNFN2TjctMFZScEVfdmczMmtYV203VWFFUVRaQkFReEhlcDJBR09qcl9qMy1SZTdjNG1feC0yQ0hMSGRhRG5xbTBBV3MwekZXMDFfTEVzdV9nT1pMOGJOaWY0ZUh2N2pwU1hSTGd1M21ISzcwemdCbVZ3WS15dkJTVkpNb2tuRnNpbktfdEt1SXF3clB4OXJiQXJsclg0d1ZBTExrZFJYU201Zk95cEszTDZDZ3JXWHJUYUt4dm13?oc=5",
     "signal_type": "plan_recrutement",
     "tier": 1,
     "score": 93,
@@ -24,13 +24,13 @@
     "email_draft": {
       "subject": "Amazon.com — fiabiliser la pré-qualification de vos recrutements",
       "body": "Bonjour,\n\nJ'ai lu que Amazon.com prépare une campagne de recrutement importante (Amazon.com va recruter plus de 300 000 personnes aux États-Unis pendant la période des fêt…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
-      "url_source": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMkU5UURENnFsdy1BRno2WmttTWdSa25IamtaenQtOWRCamVISTk0RjNxWnJmVzZUTXVnanE1MU9obmhjSmI2NzBJeV9sWnBqcFV6MnlPTlhWc2o0bnJ5aFZGb3JKVld1RjhUbUU0blctZ2xTVTNrUUx2RW4yck5aOHFrOWFYVWFSN2JvWklpZHR1TnNKZGhyY3MxdFJsUGVqdXdUMmJ2TExnSUJzSGhzQkQwZTlSdDJiazhseXpXQU9BT2pOU1hvV3k3MG9kMWlkUWhrelp6UW1XWVBCaHhrajlFUlR1ems?oc=5"
+      "url_source": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRTc2S1ZMQkl1MHo2MHRRZlZ5cmZrd2trcXRWWHVyYTdpTGxxdy1oZmFRNFN2TjctMFZScEVfdmczMmtYV203VWFFUVRaQkFReEhlcDJBR09qcl9qMy1SZTdjNG1feC0yQ0hMSGRhRG5xbTBBV3MwekZXMDFfTEVzdV9nT1pMOGJOaWY0ZUh2N2pwU1hSTGd1M21ISzcwemdCbVZ3WS15dkJTVkpNb2tuRnNpbktfdEt1SXF3clB4OXJiQXJsclg0d1ZBTExrZFJYU201Zk95cEszTDZDZ3JXWHJUYUt4dm13?oc=5"
     },
     "contacts_cibles": []
   },
   {
     "id": "sig-2026-09-30-abfb3ba9d66a",
-    "date_capture": "2026-10-27",
+    "date_capture": "2026-10-28",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "DoorDash ouvre un bureau à Hyderabad et",
@@ -59,15 +59,15 @@
   },
   {
     "id": "sig-2026-10-20-003d8d683d12",
-    "date_capture": "2026-10-27",
+    "date_capture": "2026-10-28",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Amazon",
     "titre": "Amazon va recruter plus de 300 000 salariés pour la période des fêtes, une première hausse des embauches en trois ans",
-    "description": "Amazon va recruter plus de 300 000 salariés pour la période des fêtes, une première hausse des embauches en trois ans Zonebourse Suisse",
-    "source": "Zonebourse Suisse (via Google News)",
+    "description": "Amazon va recruter plus de 300 000 salariés pour la période des fêtes, une première hausse des embauches en trois ans Zonebourse",
+    "source": "Zonebourse (via Google News)",
     "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNckI2dmtLZXJ3UEdPRlpNZW9fVzdPMEQ2amtidG1vUHB4SVVmd1NkTmg4TTRRbDg3VDR0OXh5ZVFQUmpfS3cyUlJ3a28xYjZWOXJfMEZHbnhhcE9SbTFhS19kclJ0TU41ZHdpenZ6ZVBtTERvQW1PckpwR3h0aTNrR3dCMGNjZm5vMXZsN0xxQmYwRkJfMWdBeGEtZ3ZBYVpNZWlhM2l3ZEdLZUY2T3pCcTVVcmJTYnJPMDBDcWZQbkxnV05kaXNKVzZrbFp1UzVCekNIWnp4R1JUUXdMRnFyaE8wdThmTkdSLVBXUHFsdw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMDhZbHVYV190Y3pVOU54aFBNMVFGVThwdjJRRnFWVTNUNkZ1cERDYzFDanlMNktoTjg0bzJsYXladjdjX0V6a3M4UFdmYmU3REFvdlBpR1EzWEZtLTZWZ253TzJ4NUpRdWFibHBnZnRQTGNMM3dYTmRtdS0zXzNSRTIyM3dCYWFfZjg2dGZnRUdQX21Hb0JwQms2OEl2TVUwUnJBVUZobTJPeEZXZnpodGlsR1VJUE9DWUtBbWhXaWlubnA3elJHSDd0Ull2NHg4LVZtRU9QdG1fTWhNN0ZpY0VGMGowU0xPdnQzV1h2VjI?oc=5",
     "signal_type": "plan_recrutement",
     "tier": 1,
     "score": 93,
@@ -82,13 +82,13 @@
     "email_draft": {
       "subject": "Amazon — fiabiliser la pré-qualification de vos recrutements",
       "body": "Bonjour,\n\nJ'ai lu que Amazon prépare une campagne de recrutement importante (Amazon va recruter plus de 300 000 salariés pour la période des fêtes, une première hausse…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
-      "url_source": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNckI2dmtLZXJ3UEdPRlpNZW9fVzdPMEQ2amtidG1vUHB4SVVmd1NkTmg4TTRRbDg3VDR0OXh5ZVFQUmpfS3cyUlJ3a28xYjZWOXJfMEZHbnhhcE9SbTFhS19kclJ0TU41ZHdpenZ6ZVBtTERvQW1PckpwR3h0aTNrR3dCMGNjZm5vMXZsN0xxQmYwRkJfMWdBeGEtZ3ZBYVpNZWlhM2l3ZEdLZUY2T3pCcTVVcmJTYnJPMDBDcWZQbkxnV05kaXNKVzZrbFp1UzVCekNIWnp4R1JUUXdMRnFyaE8wdThmTkdSLVBXUHFsdw?oc=5"
+      "url_source": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMDhZbHVYV190Y3pVOU54aFBNMVFGVThwdjJRRnFWVTNUNkZ1cERDYzFDanlMNktoTjg0bzJsYXladjdjX0V6a3M4UFdmYmU3REFvdlBpR1EzWEZtLTZWZ253TzJ4NUpRdWFibHBnZnRQTGNMM3dYTmRtdS0zXzNSRTIyM3dCYWFfZjg2dGZnRUdQX21Hb0JwQms2OEl2TVUwUnJBVUZobTJPeEZXZnpodGlsR1VJUE9DWUtBbWhXaWlubnA3elJHSDd0Ull2NHg4LVZtRU9QdG1fTWhNN0ZpY0VGMGowU0xPdnQzV1h2VjI?oc=5"
     },
     "contacts_cibles": []
   },
   {
     "id": "sig-2026-10-02-31eede220762",
-    "date_capture": "2026-10-27",
+    "date_capture": "2026-10-28",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "SNCB",
@@ -116,16 +116,16 @@
     "contacts_cibles": []
   },
   {
-    "id": "sig-2026-10-07-c2faeb60f71b",
-    "date_capture": "2026-10-27",
+    "id": "sig-2026-10-27-d09dd663468a",
+    "date_capture": "2026-10-28",
     "vertical": "corporate",
     "sous_segment": "entreprise",
-    "compte": "Haropa Port",
-    "titre": "Haropa Port nomme quatre nouveaux directeurs et reconduit Benoît Rochet au poste de président du directoire",
-    "description": "Haropa Port nomme quatre nouveaux directeurs et reconduit Benoît Rochet au poste de président du directoire Ouest-France",
-    "source": "Ouest-France (via Google News)",
+    "compte": "groupe au 1er décembre 2026",
+    "titre": "Crédit Agricole : Richard Bouligny nommé directeur des ressources humaines du groupe au 1er décembre 2026",
+    "description": "Crédit Agricole : Richard Bouligny nommé directeur des ressources humaines du groupe au 1er décembre 2026 Idéal Investisseur",
+    "source": "Idéal Investisseur (via Google News)",
     "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPMG1VUnlndlpLb3ppRWZzaGJMeUUyakV3cDJZTHM4MG5FbW5MR1ZIT2lQOGxFY29ONDNEanBhUTFwS3ZMT253NksyUkRrSlFtM0lLX0pueWFmdXBxYTZVRXZkUVgtUmRGX2F4SERhRkY5ajVNTWs2cTRkWnJaWk1WYl9JNkIxRmE3SmtuQXlPTlk0TDg5QWNBLTRFeFJia3dKaVJsbXJDX1BoamVMZDFnd3h0Xzk1OUpfekVQcTZuMTVNNTBrMmJMdUZCT1VWNzBLMllHU19XTFlSeXBGZlg5Smo5NkdhWGtiQ1VWZGlod2thZW5NZlFoTVBEX1BsMTVzaHFFQlA2UWhTMXlHRGdSLWIwSWhKaG5D?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNakN6VXg3XzBWRW1NTFozRTNQbHN1azhOTmttTE9qZEV2UVVLd3ZQWjFZQXQ2REdpeUtRckY3TFdVZk5fbDl2MVVSR3REcXpVdFdWN3FrVWZpTm5Wb3BQTkdiSzdjLXBHUDBEZVRVTElRRE1JYjVKV1RjVWpyWk92OVdRLVYxVENhcmJtUDE4MDVpdTFTelV2dHhRT3ljX0lMM2ZUNHlZVE1XMGJobjJTa0ZxckdsNThHa3VSV0NPc0VxOGZPQm1jSTlzYXFFazFmeVk1cGxLWXBEcUU4eXZGUk5PSUNBcU9TTXpOSVJtYw?oc=5",
     "signal_type": "nomination_chro",
     "tier": 1,
     "score": 90,
@@ -134,13 +134,13 @@
       "Tosa Corporate"
     ],
     "owner": null,
-    "action_reco": "Fenêtre prise de poste ~30j : InMail/email à la nouvelle DRH (Haropa Port) — angle outillage évaluation des compétences (ITS + Tosa).",
+    "action_reco": "Fenêtre prise de poste ~30j : InMail/email à la nouvelle DRH (groupe au 1er décembre 2026) — angle outillage évaluation des compétences (ITS + Tosa).",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-10-07",
+    "date_publication": "2026-10-27",
     "email_draft": {
-      "subject": "Félicitations pour votre nomination DRH chez Haropa Port",
-      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez Haropa Port. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMimAJBVV95cUxPMG1VUnlndlpLb3ppRWZzaGJMeUUyakV3cDJZTHM4MG5FbW5MR1ZIT2lQOGxFY29ONDNEanBhUTFwS3ZMT253NksyUkRrSlFtM0lLX0pueWFmdXBxYTZVRXZkUVgtUmRGX2F4SERhRkY5ajVNTWs2cTRkWnJaWk1WYl9JNkIxRmE3SmtuQXlPTlk0TDg5QWNBLTRFeFJia3dKaVJsbXJDX1BoamVMZDFnd3h0Xzk1OUpfekVQcTZuMTVNNTBrMmJMdUZCT1VWNzBLMllHU19XTFlSeXBGZlg5Smo5NkdhWGtiQ1VWZGlod2thZW5NZlFoTVBEX1BsMTVzaHFFQlA2UWhTMXlHRGdSLWIwSWhKaG5D?oc=5"
+      "subject": "Félicitations pour votre nomination DRH chez groupe au 1er décembre 2026",
+      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez groupe au 1er décembre 2026. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMi7wFBVV95cUxNakN6VXg3XzBWRW1NTFozRTNQbHN1azhOTmttTE9qZEV2UVVLd3ZQWjFZQXQ2REdpeUtRckY3TFdVZk5fbDl2MVVSR3REcXpVdFdWN3FrVWZpTm5Wb3BQTkdiSzdjLXBHUDBEZVRVTElRRE1JYjVKV1RjVWpyWk92OVdRLVYxVENhcmJtUDE4MDVpdTFTelV2dHhRT3ljX0lMM2ZUNHlZVE1XMGJobjJTa0ZxckdsNThHa3VSV0NPc0VxOGZPQm1jSTlzYXFFazFmeVk1cGxLWXBEcUU4eXZGUk5PSUNBcU9TTXpOSVJtYw?oc=5"
     },
     "contacts_cibles": [
       {
@@ -148,52 +148,14 @@
         "alternatives": [],
         "priorite": 1,
         "raison": "Fenêtre 30j post-prise de poste = haute disposition aux nouveaux outils",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22La+personne+nomm%C3%A9e+%28cible+directe%29%22&currentCompany=Haropa+Port",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Haropa%20Port%22%20La%20personne%20nomm%C3%A9e%20%28cible%20directe%29"
-      }
-    ]
-  },
-  {
-    "id": "sig-2026-10-19-36deb0f62159",
-    "date_capture": "2026-10-27",
-    "vertical": "corporate",
-    "sous_segment": "entreprise",
-    "compte": "Julius Baer",
-    "titre": "Julius Baer nomme Francis Hoefman à la tête des RH",
-    "description": "Julius Baer nomme Francis Hoefman à la tête des RH agefi.com",
-    "source": "agefi.com (via Google News)",
-    "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYVNlOW1ENlhfSmZsVHVwOXYwYnZZRDlGTmRMY3lnbktwaEZvMmpXTVBZcTRvSmdzRlVsUXhVOXdMX085UnVJTjl2SEpTN2V5LU5oaExkc1ZCNDlXYXRIaWV5MTlvR3VxUmFlUUFXWU9OVi1MY0JJQmJuRlJfaDFCVGwtYUJnUmdYWEdoQmNqVXFNaHBaZWVXZ3g5N1hVaVRSUl9BN19lellpUmxJRThr?oc=5",
-    "signal_type": "nomination_chro",
-    "tier": 1,
-    "score": 90,
-    "produit_match": [
-      "ITS",
-      "Tosa Corporate"
-    ],
-    "owner": null,
-    "action_reco": "Fenêtre prise de poste ~30j : InMail/email à la nouvelle DRH (Julius Baer) — angle outillage évaluation des compétences (ITS + Tosa).",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-10-19",
-    "email_draft": {
-      "subject": "Félicitations pour votre nomination DRH chez Julius Baer",
-      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez Julius Baer. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMirwFBVV95cUxQYVNlOW1ENlhfSmZsVHVwOXYwYnZZRDlGTmRMY3lnbktwaEZvMmpXTVBZcTRvSmdzRlVsUXhVOXdMX085UnVJTjl2SEpTN2V5LU5oaExkc1ZCNDlXYXRIaWV5MTlvR3VxUmFlUUFXWU9OVi1MY0JJQmJuRlJfaDFCVGwtYUJnUmdYWEdoQmNqVXFNaHBaZWVXZ3g5N1hVaVRSUl9BN19lellpUmxJRThr?oc=5"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "La personne nommée (cible directe)",
-        "alternatives": [],
-        "priorite": 1,
-        "raison": "Fenêtre 30j post-prise de poste = haute disposition aux nouveaux outils",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22La+personne+nomm%C3%A9e+%28cible+directe%29%22&currentCompany=Julius+Baer",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Julius%20Baer%22%20La%20personne%20nomm%C3%A9e%20%28cible%20directe%29"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22La+personne+nomm%C3%A9e+%28cible+directe%29%22&currentCompany=groupe+au+1er+d%C3%A9cembre+2026",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22groupe%20au%201er%20d%C3%A9cembre%202026%22%20La%20personne%20nomm%C3%A9e%20%28cible%20directe%29"
       }
     ]
   },
   {
     "id": "sig-2026-09-23-66189bddb55a",
-    "date_capture": "2026-10-27",
+    "date_capture": "2026-10-28",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "gouvernement",
@@ -220,5 +182,68 @@
       "url_source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPejJOTy05V3FMRW5SNWozQXlDRm1pMVdKWWZMUS12QTFtLVktMDVyYXpQLTMzU2tSOVBnUHd6b0M2eFF1WnBJNnVRV281MFlZdmJIbDk2UDNHZFExUll1YXhRdWxPbFZJaEpweWtqRVZOS2dubjVaSUxFVlpKaG1aS1MzeWM3djNqSFdrZnFkVkJOSTJ2UUlpVXdfcVZjcm1FX3l2X1NlRXdLUU82U3d0WdIBtAFBVV95cUxPWU1VVHpyYThrcDBRWTluV2trNm01MFpBS2R1SnNiWXdLWHMwZUZ6QjJ1cHhyTjhfQ2RBUmJOR1ZIYUhWbGdiV0stNGEtLWpGX0hmeWYzX3pHZ2U0NHV1OXFqYzJaXy1ERnpnVUFZQ0pnbmVQZFpaVjFhWWMyVm5TX0ZaNkJYZUtLbFVIcHp5UmRPb3hTc2RqYVNDRjhEeElKbEgzdjRid0dwOWZFMVJjVGpVM2E?oc=5"
     },
     "contacts_cibles": []
+  },
+  {
+    "id": "sig-2026-10-27-78bb627a5b56",
+    "date_capture": "2026-10-28",
+    "vertical": "corporate",
+    "sous_segment": "Scale-up / Levée Series B+ (Maddyness)",
+    "compte": "Combinator",
+    "titre": "Deux Français passés par Y Combinator lèvent 32 millions de dollars pour leur moteur de recherche médical dopé à l’IA",
+    "description": "L’article Deux Français passés par Y Combinator lèvent 32 millions de dollars pour leur moteur de recherche médical dopé à l’IA est apparu en premier sur Maddyness - Le média pour comprendre l&#039;économie de demain .",
+    "source": "Maddyness",
+    "source_tier": 1,
+    "url": "https://www.maddyness.com/2026/10/27/deux-francais-passes-par-y-combinator-levent-32-millions-de-dollars-pour-leur-moteur-de-recherche-medical-dope-a-lia/",
+    "signal_type": "levee_fonds",
+    "tier": 2,
+    "score": 65,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Source** : https://www.maddyness.com/2026/10/27/deux-francais-passes-par-y-combinator-levent-32-millions-de-dollars-pour-leur-moteur-de-recherche-medical-dope-a-lia/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 32.0M USD (~29.4M€) → Series B+, structuration des processus RH en cours\n🎯 Fenêtre 60j (timing optimal post-Series B)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-10-27",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-10-27",
+    "email_draft": {
+      "subject": "Combinator — votre Series — sur l'évaluation candidats à scale",
+      "body": "Bonjour,\n\nJe viens de voir que Combinator a bouclé une levée de 32.0M USD (~29.4M€). Bravo pour cette étape.\n\nPost-Series B, c'est le moment où la plupart des scale-ups structurent leur process d'éval candidats. Avant que le volume devienne incontrôlable.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://www.maddyness.com/2026/10/27/deux-francais-passes-par-y-combinator-levent-32-millions-de-dollars-pour-leur-moteur-de-recherche-medical-dope-a-lia/"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Chief People Officer",
+        "alternatives": [
+          "Head of People",
+          "VP People",
+          "DRH"
+        ],
+        "priorite": 1,
+        "raison": "Décide outils RH stratégiques post-levée",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Combinator",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Combinator%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
+      },
+      {
+        "poste": "Head of Talent Acquisition",
+        "alternatives": [
+          "Talent Acquisition Director",
+          "Head of Recruiting"
+        ],
+        "priorite": 2,
+        "raison": "Opérationnel — gère le plan de recrutement massif",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Combinator",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Combinator%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
+      },
+      {
+        "poste": "Head of Hiring",
+        "alternatives": [
+          "Hiring Manager",
+          "Recruitment Director"
+        ],
+        "priorite": 3,
+        "raison": "Sous-décideur — peut tester l'outil rapidement",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Combinator",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Combinator%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
+      }
+    ]
   }
 ]
