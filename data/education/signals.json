@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-10-02-bcb2123550a9",
-    "date_capture": "2026-10-29",
+    "date_capture": "2026-10-30",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "Accréditation",
@@ -19,7 +19,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nL’article De nouveaux membres viennent enrichir le comité Accréditation est apparu en premier sur Conférence des grandes écoles .\n\n🎯 **Action à mener**\nEmail au responsable maquette + pitch « Pack Edu Tosa = preuve mesurable compétences digitales pour le dossier accréditation ». Joindre 2 cas pairs. RDV sous 14j.\n\n💡 **Angle pitch ITS/Tosa**\nTosa = preuve opposable de la qualité d'évaluation des compétences (audit Qualiopi, France Compétences). Doublement du signal extérieur dans la promotion du programme labellisé.\n\n📅 **Timing**\n3 mois post-annonce — fenêtre de capitalisation médiatique encore active.",
-    "deadline_action": "2026-11-05",
+    "deadline_action": "2026-11-06",
     "status": "new",
     "date_publication": "2026-10-02",
     "email_draft": {
@@ -66,7 +66,7 @@
   },
   {
     "id": "sig-2026-10-26-e70772f46e1a",
-    "date_capture": "2026-10-29",
+    "date_capture": "2026-10-30",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "Emlyon",
@@ -84,7 +84,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nAprès l'intégration d'une école interdisciplinaire à Londres, emlyon lance une école de tech sur son campus parisien. L'école de commerce annonce ainsi sa mutation en \"Global management and tech…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme Emlyon. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-11-05",
+    "deadline_action": "2026-11-06",
     "status": "new",
     "date_publication": "2026-10-26",
     "email_draft": {
@@ -129,12 +129,12 @@
   },
   {
     "id": "sig-2026-10-29-cd81eb8776e6",
-    "date_capture": "2026-10-29",
+    "date_capture": "2026-10-30",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "Département",
     "titre": "Département Génie Civil de l’École des Ponts : Anne Chevallier nommée présidente",
-    "description": "Dans un secteur de la construction où les métiers sont appelés à évoluer en profondeur, l’École nationale des ponts et chaussées (ENPC), aussi appelée École des Ponts, change la présidence de son département Génie Civil et Construction (GCC). Anne Chevallier, ingénieure-architecte et ancienne élève du département, remplace Bernard Vaudeville, qui présidait cette entité depuis 1999. [&#8230;] L’art",
+    "description": "Département Génie Civil de l’École des Ponts : Anne Chevallier succède à Bernard Vaudeville. L’article Département Génie Civil de l’École des Ponts : Anne Chevallier nommée présidente est apparu en premier sur Planète Grandes Écoles .",
     "source": "Planète Grandes Écoles",
     "source_tier": 2,
     "url": "https://www.planetegrandesecoles.com/ecole-des-ponts-genie-civil-presidente-departement",
@@ -145,13 +145,13 @@
       "Pack Education Tosa"
     ],
     "owner": null,
-    "action_reco": "📋 **Signal détecté**\nDans un secteur de la construction où les métiers sont appelés à évoluer en profondeur, l’École nationale des ponts et chaussées (ENPC), aussi appelée École des Ponts, change la présidence de son…\n\n🎯 **Action à mener**\nNote LinkedIn 100 premiers jours du nouveau DG. Angle « bilan rapide du dispositif certification ». Brief équipe sur les comptes Tosa déjà présents chez Département.\n\n💡 **Angle pitch ITS/Tosa**\nFenêtre stratégique post-prise de poste : nouveau directeur cherche à poser sa marque. Apport rapide = Tosa pour signal externe + ITS pour structurer la passation.\n\n📅 **Timing**\n30-90 jours après l'annonce. Au-delà, la roadmap est figée.",
-    "deadline_action": "2026-11-05",
+    "action_reco": "📋 **Signal détecté**\nDépartement Génie Civil de l’École des Ponts : Anne Chevallier succède à Bernard Vaudeville. L’article Département Génie Civil de l’École des Ponts : Anne Chevallier nommée présidente est apparu en…\n\n🎯 **Action à mener**\nNote LinkedIn 100 premiers jours du nouveau DG. Angle « bilan rapide du dispositif certification ». Brief équipe sur les comptes Tosa déjà présents chez Département.\n\n💡 **Angle pitch ITS/Tosa**\nFenêtre stratégique post-prise de poste : nouveau directeur cherche à poser sa marque. Apport rapide = Tosa pour signal externe + ITS pour structurer la passation.\n\n📅 **Timing**\n30-90 jours après l'annonce. Au-delà, la roadmap est figée.",
+    "deadline_action": "2026-11-06",
     "status": "new",
     "date_publication": "2026-10-29",
     "email_draft": {
       "subject": "Département — nouvelle direction : quels chantiers évaluation prévus ?",
-      "body": "Bonjour,\n\nJ'ai noté votre arrivée à la direction chez Département.\nContexte que j'ai vu passer : « Dans un secteur de la construction où les métiers sont appelés à évoluer en profondeur, l’École nationale des ponts et chaussées… ».\n\nFélicitations pour cette prise de poste — belle étape.\n\nJe me permets de vous écrire car beaucoup de directeurs récemment nommés dans le supérieur partagent le même constat à 60-90 jours : besoin de poser rapidement une stratégie claire sur l'évaluation des compétences étudiants — pour répondre aux exigences Qualiopi/RNCP et aux attentes des entreprises partenaires.\n\nChez Isograd, deux solutions utilisées par des écoles comparables :\n\n1. **Tosa** — certification des compétences numériques étudiants (bureautique, code, digital). Argument fort en diplômation, CV, et classements.\n\n2. **ITS** — plateforme d'hébergement d'examens en ligne avec proctoring et banque de questions, opposable en audit.\n\n15 minutes pour vous montrer ce que d'autres directions ont mis en place dans leurs premiers mois ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource de l'info : https://www.planetegrandesecoles.com/ecole-des-ponts-genie-civil-presidente-departement"
+      "body": "Bonjour,\n\nJ'ai noté votre arrivée à la direction chez Département.\nContexte que j'ai vu passer : « Département Génie Civil de l’École des Ponts : Anne Chevallier succède à Bernard Vaudeville. L’article Département Génie Civil de… ».\n\nFélicitations pour cette prise de poste — belle étape.\n\nJe me permets de vous écrire car beaucoup de directeurs récemment nommés dans le supérieur partagent le même constat à 60-90 jours : besoin de poser rapidement une stratégie claire sur l'évaluation des compétences étudiants — pour répondre aux exigences Qualiopi/RNCP et aux attentes des entreprises partenaires.\n\nChez Isograd, deux solutions utilisées par des écoles comparables :\n\n1. **Tosa** — certification des compétences numériques étudiants (bureautique, code, digital). Argument fort en diplômation, CV, et classements.\n\n2. **ITS** — plateforme d'hébergement d'examens en ligne avec proctoring et banque de questions, opposable en audit.\n\n15 minutes pour vous montrer ce que d'autres directions ont mis en place dans leurs premiers mois ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource de l'info : https://www.planetegrandesecoles.com/ecole-des-ponts-genie-civil-presidente-departement"
     },
     "contacts_cibles": [
       {
@@ -191,7 +191,7 @@
   },
   {
     "id": "sig-2026-10-28-8824eda2e27c",
-    "date_capture": "2026-10-29",
+    "date_capture": "2026-10-30",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "Campus",
@@ -208,7 +208,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nDans un paysage de l’enseignement supérieur où des établissements s’associent pour faire vivre des pôles de recherche communs, le Campus Condorcet réunit onze institutions autour des sciences…\n\n🎯 **Action à mener**\nNote LinkedIn 100 premiers jours du nouveau DG. Angle « bilan rapide du dispositif certification ». Brief équipe sur les comptes Tosa déjà présents chez Campus.\n\n💡 **Angle pitch ITS/Tosa**\nFenêtre stratégique post-prise de poste : nouveau directeur cherche à poser sa marque. Apport rapide = Tosa pour signal externe + ITS pour structurer la passation.\n\n📅 **Timing**\n30-90 jours après l'annonce. Au-delà, la roadmap est figée.",
-    "deadline_action": "2026-11-05",
+    "deadline_action": "2026-11-06",
     "status": "new",
     "date_publication": "2026-10-28",
     "email_draft": {
@@ -252,16 +252,16 @@
     ]
   },
   {
-    "id": "sig-2026-10-21-a1764f297ba1",
-    "date_capture": "2026-10-29",
+    "id": "sig-2026-10-30-14179ccefce7",
+    "date_capture": "2026-10-30",
     "vertical": "education",
-    "sous_segment": "programme-ia",
+    "sous_segment": "grande-ecole",
     "compte": "KEDGE",
-    "titre": "KEDGE Business School 22 nouveaux professeurs recrutés pour la rentrée 2026",
-    "description": "KEDGE renforce son corps professoral avec l&#8217;arrivée de 22 nouveaux enseignants-chercheurs qui ont intégré la Faculté de la business school à la rentrée 2026. Issus de huit nationalités différentes, ces nouveaux profils viennent enrichir les expertises de l&#8217;école dans des domaines comme la finance durable, l&#8217;intelligence artificielle, le management ou encore la transition environn",
+    "titre": "KEDGE lance un nouvel MSc Sales & Business Development avec 14 multinationales",
+    "description": "À la rentrée 2027, KEDGE Business School ouvrira un nouvel MSc Sales &#38; Business Development sur ses campus de Paris et Marseille. Particularité de cette formation de niveau bac+5 : elle a été conçue en collaboration avec 14 grandes entreprises internationales, parmi lesquelles Microsoft, Amazon, L&#8217;Oréal et Salesforce. Objectif : former des professionnels du développement [&#8230;] Cet ar",
     "source": "Business Cool",
     "source_tier": 2,
-    "url": "https://business-cool.com/actualites/actu-ecoles/kedge-business-school-recrute-22-nouveaux-professeurs-rentree-2026/",
+    "url": "https://business-cool.com/actualites/actu-ecoles/kedge-msc-sales-business-development-2027/",
     "signal_type": "nouvelle_formation",
     "tier": 1,
     "score": 80,
@@ -270,13 +270,13 @@
       "Cert IA"
     ],
     "owner": null,
-    "action_reco": "📋 **Signal détecté**\nKEDGE renforce son corps professoral avec l&#8217;arrivée de 22 nouveaux enseignants-chercheurs qui ont intégré la Faculté de la business school à la rentrée 2026. Issus de huit nationalités…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme KEDGE. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-11-05",
+    "action_reco": "📋 **Signal détecté**\nÀ la rentrée 2027, KEDGE Business School ouvrira un nouvel MSc Sales &#38; Business Development sur ses campus de Paris et Marseille. Particularité de cette formation de niveau bac+5 : elle a été…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme KEDGE. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
+    "deadline_action": "2026-11-06",
     "status": "new",
-    "date_publication": "2026-10-21",
+    "date_publication": "2026-10-30",
     "email_draft": {
-      "subject": "KEDGE — KEDGE renforce son corps professoral avec : quelle évaluation prévue ?",
-      "body": "Bonjour,\n\nJ'ai vu votre actualité : « KEDGE renforce son corps professoral avec l&#8217;arrivée de 22 nouveaux enseignants-chercheurs qui ont intégré la… ». Beau lancement.\n\nSur ce type de nouveau programme, le timing pour penser le dispositif d'évaluation des compétences est en général la période juste avant la première cohorte — ça permet de cadrer proprement la maquette pédagogique et les outils.\n\nChez Isograd, on opère 2 solutions complémentaires pour un programme comme le vôtre :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital). Argument concret en diplômation, sur le CV et auprès des entreprises partenaires.\n\n2. **ITS** pour héberger les sessions d'examen en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\n3. **Cert IA** — notre badge co-construit avec des écoles partenaires pour les programmes IA. Concrètement, vos étudiants ressortent du programme avec une certification externe sur les compétences IA appliquées. On a une program beta en cours, vous pourriez en faire partie.\n\nDéploiement en 4-6 semaines, budget calibré sur le volume étudiants. 15 minutes pour échanger sur votre cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://business-cool.com/actualites/actu-ecoles/kedge-business-school-recrute-22-nouveaux-professeurs-rentree-2026/"
+      "subject": "KEDGE — À la rentrée 2027, KEDGE Business : quelle évaluation prévue ?",
+      "body": "Bonjour,\n\nJ'ai vu votre actualité : « À la rentrée 2027, KEDGE Business School ouvrira un nouvel MSc Sales &#38; Business Development sur ses campus de Paris… ». Beau lancement.\n\nSur ce type de nouveau programme, le timing pour penser le dispositif d'évaluation des compétences est en général la période juste avant la première cohorte — ça permet de cadrer proprement la maquette pédagogique et les outils.\n\nChez Isograd, on opère 2 solutions complémentaires pour un programme comme le vôtre :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital). Argument concret en diplômation, sur le CV et auprès des entreprises partenaires.\n\n2. **ITS** pour héberger les sessions d'examen en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\nDéploiement en 4-6 semaines, budget calibré sur le volume étudiants. 15 minutes pour échanger sur votre cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://business-cool.com/actualites/actu-ecoles/kedge-msc-sales-business-development-2027/"
     },
     "contacts_cibles": [
       {
@@ -316,7 +316,7 @@
   },
   {
     "id": "sig-stable-4cc03b95f797",
-    "date_capture": "2026-10-29",
+    "date_capture": "2026-10-30",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "Universite de Technologie de Troyes (UTT)",
@@ -336,7 +336,7 @@
     "action_reco": "📋 **Signal détecté**\nBachelor IA - cursus 3 ans\n\n🎯 **Action à mener**\nA croiser site UTT + LinkedIn avant contact\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-10-29",
+    "date_publication": "2026-10-30",
     "email_draft": {
       "subject": "Universite de Technologie de Troyes (UTT) — Bachelor IA - cursus 3 ans : quelle évaluation prévue ?",
       "body": "Bonjour,\n\nJ'ai vu votre actualité : « Bachelor IA - cursus 3 ans ». Beau lancement.\n\nSur ce type de nouveau programme, le timing pour penser le dispositif d'évaluation des compétences est en général la période juste avant la première cohorte — ça permet de cadrer proprement la maquette pédagogique et les outils.\n\nChez Isograd, on opère 2 solutions complémentaires pour un programme comme le vôtre :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital). Argument concret en diplômation, sur le CV et auprès des entreprises partenaires.\n\n2. **ITS** pour héberger les sessions d'examen en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\n3. **Cert IA** — notre badge co-construit avec des écoles partenaires pour les programmes IA. Concrètement, vos étudiants ressortent du programme avec une certification externe sur les compétences IA appliquées. On a une program beta en cours, vous pourriez en faire partie.\n\nDéploiement en 4-6 semaines, budget calibré sur le volume étudiants. 15 minutes pour échanger sur votre cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://www.letudiant.fr/etudes/lactu-des-formations-de-nouveaux-cursus-en-ia-dans-le-superieur.html"
