@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-05-19-c8342a26e939",
-    "date_capture": "2026-11-01",
+    "date_capture": "2026-11-02",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "Université Paris-Saclay",
@@ -53,7 +53,7 @@
   },
   {
     "id": "sig-2026-05-11-64ab3dd75a34",
-    "date_capture": "2026-11-01",
+    "date_capture": "2026-11-02",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "NEOMA Business School (Reims)",
@@ -104,60 +104,8 @@
     ]
   },
   {
-    "id": "sig-2026-10-02-70e5e4e1b0d1",
-    "date_capture": "2026-11-01",
-    "vertical": "ao",
-    "sous_segment": "Marché public ESR (Enseignement Supérieur)",
-    "compte": "Universiteit Utrecht",
-    "titre": "Toetssoftware",
-    "description": "Bent u een bedrijf dat toetssoftware voor summatieve en formatieve toetsen aanbiedt? Wilt u de Universiteit Utrecht (hierna: “UU”) helpen om, door de levering, implementatie en support van een SaaS toetssoftware, een gebruiksvriendelijk toetslandschap voor onze Studenten en medewerkers te faciliteren dat voldoet aan de onderwijskundige en non-functionele eisen en wensen van de UU? Dan zijn wij op ",
-    "source": "TED (Tenders Electronic Daily UE)",
-    "source_tier": 1,
-    "url": "https://ted.europa.eu/fr/notice/-/detail/680822-2026",
-    "signal_type": "ao_publie",
-    "tier": 2,
-    "score": 75,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Récupérer le DCE complet** sur https://ted.europa.eu/fr/notice/-/detail/680822-2026\n🎯 **Décideur cible** : Direction des examens + VP Pédagogie + DSI (vérifier organigramme via site officiel + LinkedIn Sales Nav)\n💡 **Angle de valeur** : ITS comme back-end éval intégrable à votre SI : banque de questions paramétrable, exports complets, multi-rôles candidat/admin/OF\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS probables : Explorance (cas Neoma), EvaluationKIT, Bluepulse, Aurion (ERP scolarité), ExamSoft, Pearson VUE, Caveon",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-10-02",
-    "email_draft": {
-      "subject": "AO Universiteit Utrecht — ISOGRAD souhaite candidater",
-      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"Toetssoftware\"\nDeadline : à définir\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://ted.europa.eu/fr/notice/-/detail/680822-2026"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Acheteur public référencé sur l'AO",
-        "alternatives": [
-          "RAQ",
-          "Responsable des achats"
-        ],
-        "priorite": 1,
-        "raison": "Référent direct de la consultation",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=Universiteit+Utrecht",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Universiteit%20Utrecht%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
-      },
-      {
-        "poste": "Décideur métier (variable selon segment)",
-        "alternatives": [
-          "Direction des examens (ESR)",
-          "Direction des soins (FPH)",
-          "DRH (Collectivité)"
-        ],
-        "priorite": 2,
-        "raison": "Sponsorise le besoin métier en amont",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=Universiteit+Utrecht",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Universiteit%20Utrecht%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
-      }
-    ]
-  },
-  {
     "id": "sig-2026-10-19-0250bc8a054b",
-    "date_capture": "2026-11-01",
+    "date_capture": "2026-11-02",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Beringen",
@@ -209,7 +157,7 @@
   },
   {
     "id": "sig-2026-10-13-2dfb84bcbf43",
-    "date_capture": "2026-11-01",
+    "date_capture": "2026-11-02",
     "vertical": "ao",
     "sous_segment": "Marché public État / Ministères",
     "compte": "Enabel",
@@ -261,7 +209,7 @@
   },
   {
     "id": "sig-2026-10-13-454eb1b96730",
-    "date_capture": "2026-11-01",
+    "date_capture": "2026-11-02",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "CENTRE FRANCOIS BACLESSE",
@@ -313,7 +261,7 @@
   },
   {
     "id": "sig-2026-10-15-339f94f13f59",
-    "date_capture": "2026-11-01",
+    "date_capture": "2026-11-02",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "Université de Liège (3P)",
@@ -365,7 +313,7 @@
   },
   {
     "id": "sig-2026-10-22-d7c9f92bb206",
-    "date_capture": "2026-11-01",
+    "date_capture": "2026-11-02",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Lycee Des Metiers Pablo Neruda",
@@ -417,7 +365,7 @@
   },
   {
     "id": "sig-2026-10-29-c776d91a655f",
-    "date_capture": "2026-11-01",
+    "date_capture": "2026-11-02",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Landstede Groep",
@@ -469,7 +417,7 @@
   },
   {
     "id": "sig-2026-10-30-ee124ec59e65",
-    "date_capture": "2026-11-01",
+    "date_capture": "2026-11-02",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Stichting Regionaal Opleidingencentrum van Twente",
@@ -520,30 +468,30 @@
     ]
   },
   {
-    "id": "sig-2026-10-02-7f9a695b56e9",
-    "date_capture": "2026-11-01",
+    "id": "sig-2026-10-02-70e5e4e1b0d1",
+    "date_capture": "2026-11-02",
     "vertical": "ao",
-    "sous_segment": "Marché public — secteur à qualifier",
-    "compte": "INSTITUT CURIE",
-    "titre": "Prestation d'analyse de cellules TCR-T",
-    "description": "La présente procédure a pour objet un marché visant une prestation d'analyse de cellules TCR-T exprimant le récepteur T 127E10 vis-à-vis de tissus normaux humains HLA-A2.01.",
+    "sous_segment": "Marché public ESR (Enseignement Supérieur)",
+    "compte": "Universiteit Utrecht",
+    "titre": "Toetssoftware",
+    "description": "Bent u een bedrijf dat toetssoftware voor summatieve en formatieve toetsen aanbiedt? Wilt u de Universiteit Utrecht (hierna: “UU”) helpen om, door de levering, implementatie en support van een SaaS toetssoftware, een gebruiksvriendelijk toetslandschap voor onze Studenten en medewerkers te faciliteren dat voldoet aan de onderwijskundige en non-functionele eisen en wensen van de UU? Dan zijn wij op ",
     "source": "TED (Tenders Electronic Daily UE)",
     "source_tier": 1,
-    "url": "https://ted.europa.eu/fr/notice/-/detail/679679-2026",
+    "url": "https://ted.europa.eu/fr/notice/-/detail/680822-2026",
     "signal_type": "ao_publie",
     "tier": 2,
-    "score": 65,
+    "score": 67,
     "produit_match": [
       "ITS"
     ],
     "owner": "Charles",
-    "action_reco": "📋 **Récupérer le DCE complet** sur https://ted.europa.eu/fr/notice/-/detail/679679-2026\n🎯 **Décideur cible** : À enrichir via LinkedIn Sales Nav + site officiel de l'acheteur\n💡 **Angle de valeur** : ITS pour la passation des batteries psychométriques : tests adaptatifs, banque de questions calibrées, rapports automatiques\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS à mapper via questions de cadrage : Explorance, EvaluationKIT, Sphinx, EvalandGo, ExamSoft, plateformes internes",
+    "action_reco": "📋 **Récupérer le DCE complet** sur https://ted.europa.eu/fr/notice/-/detail/680822-2026\n🎯 **Décideur cible** : Direction des examens + VP Pédagogie + DSI (vérifier organigramme via site officiel + LinkedIn Sales Nav)\n💡 **Angle de valeur** : ITS comme back-end éval intégrable à votre SI : banque de questions paramétrable, exports complets, multi-rôles candidat/admin/OF\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS probables : Explorance (cas Neoma), EvaluationKIT, Bluepulse, Aurion (ERP scolarité), ExamSoft, Pearson VUE, Caveon",
     "deadline_action": null,
     "status": "new",
     "date_publication": "2026-10-02",
     "email_draft": {
-      "subject": "AO INSTITUT CURIE — ISOGRAD souhaite candidater",
-      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"Prestation d'analyse de cellules TCR-T\"\nDeadline : à définir\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://ted.europa.eu/fr/notice/-/detail/679679-2026"
+      "subject": "AO Universiteit Utrecht — ISOGRAD souhaite candidater",
+      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"Toetssoftware\"\nDeadline : à définir\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://ted.europa.eu/fr/notice/-/detail/680822-2026"
     },
     "contacts_cibles": [
       {
@@ -554,8 +502,8 @@
         ],
         "priorite": 1,
         "raison": "Référent direct de la consultation",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=INSTITUT+CURIE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22INSTITUT%20CURIE%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=Universiteit+Utrecht",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Universiteit%20Utrecht%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
       },
       {
         "poste": "Décideur métier (variable selon segment)",
@@ -566,14 +514,14 @@
         ],
         "priorite": 2,
         "raison": "Sponsorise le besoin métier en amont",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=INSTITUT+CURIE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22INSTITUT%20CURIE%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=Universiteit+Utrecht",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Universiteit%20Utrecht%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
       }
     ]
   },
   {
     "id": "sig-2026-10-12-5dcca1ee2bdc",
-    "date_capture": "2026-11-01",
+    "date_capture": "2026-11-02",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "CLERMONT AUVERGNE INP",
@@ -625,7 +573,7 @@
   },
   {
     "id": "sig-2026-10-13-7d00e89d9337",
-    "date_capture": "2026-11-01",
+    "date_capture": "2026-11-02",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "WOONBOOG",
@@ -677,7 +625,7 @@
   },
   {
     "id": "sig-2026-10-13-bab3405e79b3",
-    "date_capture": "2026-11-01",
+    "date_capture": "2026-11-02",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "Erasmus Universiteit Rotterdam",
@@ -729,7 +677,7 @@
   },
   {
     "id": "sig-2026-10-14-0d1990651226",
-    "date_capture": "2026-11-01",
+    "date_capture": "2026-11-02",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Direction de la Technique et de l'Innovation",
@@ -781,7 +729,7 @@
   },
   {
     "id": "sig-2026-10-15-3f6b6b45fbf6",
-    "date_capture": "2026-11-01",
+    "date_capture": "2026-11-02",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "CNRS Délégation ALSACE",
@@ -833,7 +781,7 @@
   },
   {
     "id": "sig-2026-10-20-cdee17d7eb6f",
-    "date_capture": "2026-11-01",
+    "date_capture": "2026-11-02",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "Université de technologie de Compiègne (U.T.C.)",
@@ -885,7 +833,7 @@
   },
   {
     "id": "sig-2026-10-21-36d0de3e9d4e",
-    "date_capture": "2026-11-01",
+    "date_capture": "2026-11-02",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Ecole Régionale d'Administration publique ASBL",
@@ -937,7 +885,7 @@
   },
   {
     "id": "sig-2026-10-22-48b0b2c20181",
-    "date_capture": "2026-11-01",
+    "date_capture": "2026-11-02",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Ifremer",
@@ -989,7 +937,7 @@
   },
   {
     "id": "sig-2026-10-27-18e39b0a6ead",
-    "date_capture": "2026-11-01",
+    "date_capture": "2026-11-02",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "AFNOR",
@@ -1040,8 +988,60 @@
     ]
   },
   {
+    "id": "sig-2026-11-02-f78701744e59",
+    "date_capture": "2026-11-02",
+    "vertical": "ao",
+    "sous_segment": "Marché public — secteur à qualifier",
+    "compte": "Commissariat à l'énergie atomique et aux énergies alternatives",
+    "titre": "Prestations de caractérisations et de préparations d’échantillons.",
+    "description": "Le CEA de Grenoble souhaite confier à une entreprise extérieure des prestations de caractérisation morphologiques, structurelles et analytiques, incluant les phases de préparations d'échantillons. Il s'agit d'un accord-cadre à bons de commande, composé de 2 lots, tous mono-attributaires. La présente consultation comprend : -une tranche ferme d'une durée d'un an -une tranche optionnelle n°1 de prol",
+    "source": "TED (Tenders Electronic Daily UE)",
+    "source_tier": 1,
+    "url": "https://ted.europa.eu/fr/notice/-/detail/757824-2026",
+    "signal_type": "ao_publie",
+    "tier": 2,
+    "score": 65,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Récupérer le DCE complet** sur https://ted.europa.eu/fr/notice/-/detail/757824-2026\n🎯 **Décideur cible** : À enrichir via LinkedIn Sales Nav + site officiel de l'acheteur\n💡 **Angle de valeur** : ITS pour la passation des batteries psychométriques : tests adaptatifs, banque de questions calibrées, rapports automatiques\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS à mapper via questions de cadrage : Explorance, EvaluationKIT, Sphinx, EvalandGo, ExamSoft, plateformes internes",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-11-02",
+    "email_draft": {
+      "subject": "AO Commissariat à l'énergie atomique et aux énergies alternatives — ISOGRAD souhaite candidater",
+      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"Prestations de caractérisations et de préparations d’échantillons.\"\nDeadline : à définir\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://ted.europa.eu/fr/notice/-/detail/757824-2026"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Acheteur public référencé sur l'AO",
+        "alternatives": [
+          "RAQ",
+          "Responsable des achats"
+        ],
+        "priorite": 1,
+        "raison": "Référent direct de la consultation",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=Commissariat+%C3%A0+l%27%C3%A9nergie+atomique+et+aux+%C3%A9nergies+alternatives",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Commissariat%20%C3%A0%20l%27%C3%A9nergie%20atomique%20et%20aux%20%C3%A9nergies%20alternatives%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
+      },
+      {
+        "poste": "Décideur métier (variable selon segment)",
+        "alternatives": [
+          "Direction des examens (ESR)",
+          "Direction des soins (FPH)",
+          "DRH (Collectivité)"
+        ],
+        "priorite": 2,
+        "raison": "Sponsorise le besoin métier en amont",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=Commissariat+%C3%A0+l%27%C3%A9nergie+atomique+et+aux+%C3%A9nergies+alternatives",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Commissariat%20%C3%A0%20l%27%C3%A9nergie%20atomique%20et%20aux%20%C3%A9nergies%20alternatives%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-09-07-1aeb8cd8507f",
-    "date_capture": "2026-11-01",
+    "date_capture": "2026-11-02",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "Université de Strasbourg",
@@ -1093,7 +1093,7 @@
   },
   {
     "id": "sig-2026-09-22-32b2e25c8e9f",
-    "date_capture": "2026-11-01",
+    "date_capture": "2026-11-02",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "BELGOPROCESS NV",
@@ -1145,7 +1145,7 @@
   },
   {
     "id": "sig-2026-09-24-37d876ff4bb1",
-    "date_capture": "2026-11-01",
+    "date_capture": "2026-11-02",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "Université d'Artois",
@@ -1197,7 +1197,7 @@
   },
   {
     "id": "sig-2026-09-28-0a517996dcf2",
-    "date_capture": "2026-11-01",
+    "date_capture": "2026-11-02",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Stichting NBD Biblion",
@@ -1248,8 +1248,60 @@
     ]
   },
   {
+    "id": "sig-2026-10-02-7f9a695b56e9",
+    "date_capture": "2026-11-02",
+    "vertical": "ao",
+    "sous_segment": "Marché public — secteur à qualifier",
+    "compte": "INSTITUT CURIE",
+    "titre": "Prestation d'analyse de cellules TCR-T",
+    "description": "La présente procédure a pour objet un marché visant une prestation d'analyse de cellules TCR-T exprimant le récepteur T 127E10 vis-à-vis de tissus normaux humains HLA-A2.01.",
+    "source": "TED (Tenders Electronic Daily UE)",
+    "source_tier": 1,
+    "url": "https://ted.europa.eu/fr/notice/-/detail/679679-2026",
+    "signal_type": "ao_publie",
+    "tier": 3,
+    "score": 57,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Récupérer le DCE complet** sur https://ted.europa.eu/fr/notice/-/detail/679679-2026\n🎯 **Décideur cible** : À enrichir via LinkedIn Sales Nav + site officiel de l'acheteur\n💡 **Angle de valeur** : ITS pour la passation des batteries psychométriques : tests adaptatifs, banque de questions calibrées, rapports automatiques\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS à mapper via questions de cadrage : Explorance, EvaluationKIT, Sphinx, EvalandGo, ExamSoft, plateformes internes",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-10-02",
+    "email_draft": {
+      "subject": "AO INSTITUT CURIE — ISOGRAD souhaite candidater",
+      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"Prestation d'analyse de cellules TCR-T\"\nDeadline : à définir\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://ted.europa.eu/fr/notice/-/detail/679679-2026"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Acheteur public référencé sur l'AO",
+        "alternatives": [
+          "RAQ",
+          "Responsable des achats"
+        ],
+        "priorite": 1,
+        "raison": "Référent direct de la consultation",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=INSTITUT+CURIE",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22INSTITUT%20CURIE%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
+      },
+      {
+        "poste": "Décideur métier (variable selon segment)",
+        "alternatives": [
+          "Direction des examens (ESR)",
+          "Direction des soins (FPH)",
+          "DRH (Collectivité)"
+        ],
+        "priorite": 2,
+        "raison": "Sponsorise le besoin métier en amont",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=INSTITUT+CURIE",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22INSTITUT%20CURIE%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-09-03-2b742b689c79",
-    "date_capture": "2026-11-01",
+    "date_capture": "2026-11-02",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "Stichting Hogeschool van Arnhem en Nijmegen",
@@ -1301,7 +1353,7 @@
   },
   {
     "id": "sig-2026-10-19-ad7ec5106dff",
-    "date_capture": "2026-11-01",
+    "date_capture": "2026-11-02",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Raad van State",
@@ -1353,7 +1405,7 @@
   },
   {
     "id": "sig-2026-09-03-127903395bdd",
-    "date_capture": "2026-11-01",
+    "date_capture": "2026-11-02",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Stichting Xpect013",
@@ -1405,7 +1457,7 @@
   },
   {
     "id": "sig-2026-09-04-8673934d9cdc",
-    "date_capture": "2026-11-01",
+    "date_capture": "2026-11-02",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Koninklijke Bibliotheek",
@@ -1457,7 +1509,7 @@
   },
   {
     "id": "sig-2026-09-08-cf9039dbbf49",
-    "date_capture": "2026-11-01",
+    "date_capture": "2026-11-02",
     "vertical": "ao",
     "sous_segment": "Marché public Collectivité",
     "compte": "Région Occitanie",
@@ -1509,7 +1561,7 @@
   },
   {
     "id": "sig-2026-09-09-6aae6e227469",
-    "date_capture": "2026-11-01",
+    "date_capture": "2026-11-02",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "De Dienst voor het kadaster en de openbare registers (het Kadaster)",
@@ -1561,7 +1613,7 @@
   },
   {
     "id": "sig-2026-09-09-00a33ffef8b9",
-    "date_capture": "2026-11-01",
+    "date_capture": "2026-11-02",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Stichting Amsterdam UMC",
@@ -1613,7 +1665,7 @@
   },
   {
     "id": "sig-2026-09-14-f7d51d8598dc",
-    "date_capture": "2026-11-01",
+    "date_capture": "2026-11-02",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "CNRS Délégation Provence et Corse",
@@ -1665,7 +1717,7 @@
   },
   {
     "id": "sig-2026-09-09-7032431dcd17",
-    "date_capture": "2026-11-01",
+    "date_capture": "2026-11-02",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "Stichting Hogeschool van Arnhem en Nijmegen",
