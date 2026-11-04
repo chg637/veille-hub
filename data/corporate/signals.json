@@ -1,36 +1,7 @@
 [
   {
-    "id": "sig-2026-10-20-94825e282107",
-    "date_capture": "2026-11-03",
-    "vertical": "corporate",
-    "sous_segment": "entreprise",
-    "compte": "Amazon.com",
-    "titre": "Amazon.com va recruter plus de 300 000 personnes aux États-Unis pendant la période des fêtes",
-    "description": "Amazon.com va recruter plus de 300 000 personnes aux États-Unis pendant la période des fêtes Zonebourse Suisse",
-    "source": "Zonebourse Suisse (via Google News)",
-    "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMkU5UURENnFsdy1BRno2WmttTWdSa25IamtaenQtOWRCamVISTk0RjNxWnJmVzZUTXVnanE1MU9obmhjSmI2NzBJeV9sWnBqcFV6MnlPTlhWc2o0bnJ5aFZGb3JKVld1RjhUbUU0blctZ2xTVTNrUUx2RW4yck5aOHFrOWFYVWFSN2JvWklpZHR1TnNKZGhyY3MxdFJsUGVqdXdUMmJ2TExnSUJzSGhzQkQwZTlSdDJiazhseXpXQU9BT2pOU1hvV3k3MG9kMWlkUWhrelp6UW1XWVBCaHhrajlFUlR1ems?oc=5",
-    "signal_type": "plan_recrutement",
-    "tier": 1,
-    "score": 93,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": null,
-    "action_reco": "Amazon.com : ~300000 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-10-20",
-    "email_draft": {
-      "subject": "Amazon.com — fiabiliser la pré-qualification de vos recrutements",
-      "body": "Bonjour,\n\nJ'ai lu que Amazon.com prépare une campagne de recrutement importante (Amazon.com va recruter plus de 300 000 personnes aux États-Unis pendant la période des fêt…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
-      "url_source": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMkU5UURENnFsdy1BRno2WmttTWdSa25IamtaenQtOWRCamVISTk0RjNxWnJmVzZUTXVnanE1MU9obmhjSmI2NzBJeV9sWnBqcFV6MnlPTlhWc2o0bnJ5aFZGb3JKVld1RjhUbUU0blctZ2xTVTNrUUx2RW4yck5aOHFrOWFYVWFSN2JvWklpZHR1TnNKZGhyY3MxdFJsUGVqdXdUMmJ2TExnSUJzSGhzQkQwZTlSdDJiazhseXpXQU9BT2pOU1hvV3k3MG9kMWlkUWhrelp6UW1XWVBCaHhrajlFUlR1ems?oc=5"
-    },
-    "contacts_cibles": []
-  },
-  {
     "id": "sig-2026-10-20-003d8d683d12",
-    "date_capture": "2026-11-03",
+    "date_capture": "2026-11-04",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Amazon",
@@ -59,7 +30,7 @@
   },
   {
     "id": "sig-2026-10-27-d09dd663468a",
-    "date_capture": "2026-11-03",
+    "date_capture": "2026-11-04",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "groupe au 1er décembre 2026",
@@ -96,8 +67,46 @@
     ]
   },
   {
+    "id": "sig-2026-11-03-f35a6844aadf",
+    "date_capture": "2026-11-04",
+    "vertical": "corporate",
+    "sous_segment": "entreprise",
+    "compte": "Antargaz Énergies à Paris",
+    "titre": "Patricia Granvaud nommée DRH d'Antargaz Énergies à Paris",
+    "description": "Patricia Granvaud nommée DRH d'Antargaz Énergies à Paris Presse Agence",
+    "source": "Presse Agence (via Google News)",
+    "source_tier": 2,
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUEVVd1FrSU1haVc4U2lNTUdoZW1Yd0RrVXM3eHhJX1FkYXM1WGR4Ym5YOXlITnRZWEtiODM3TUpwTDZJOVdQaVVSMFdrem55R1J2QUNQd3RZb3E1M0RVWnkwSjI3a1FCODZ3SFY1Z1FvQXhGMXJBZmRZbElJNmduWXZfYzkxcUlDZGN4RkFhUC00RnlMNFpjVThPeDZ5VXA2cFJ1c2pHcFlKWXVXNTQxNEVVTC1id0xNb0c1VjZBMkdEZw?oc=5",
+    "signal_type": "nomination_chro",
+    "tier": 1,
+    "score": 90,
+    "produit_match": [
+      "ITS",
+      "Tosa Corporate"
+    ],
+    "owner": null,
+    "action_reco": "Fenêtre prise de poste ~30j : InMail/email à la nouvelle DRH (Antargaz Énergies à Paris) — angle outillage évaluation des compétences (ITS + Tosa).",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-11-03",
+    "email_draft": {
+      "subject": "Félicitations pour votre nomination DRH chez Antargaz Énergies à Paris",
+      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez Antargaz Énergies à Paris. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUEVVd1FrSU1haVc4U2lNTUdoZW1Yd0RrVXM3eHhJX1FkYXM1WGR4Ym5YOXlITnRZWEtiODM3TUpwTDZJOVdQaVVSMFdrem55R1J2QUNQd3RZb3E1M0RVWnkwSjI3a1FCODZ3SFY1Z1FvQXhGMXJBZmRZbElJNmduWXZfYzkxcUlDZGN4RkFhUC00RnlMNFpjVThPeDZ5VXA2cFJ1c2pHcFlKWXVXNTQxNEVVTC1id0xNb0c1VjZBMkdEZw?oc=5"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "La personne nommée (cible directe)",
+        "alternatives": [],
+        "priorite": 1,
+        "raison": "Fenêtre 30j post-prise de poste = haute disposition aux nouveaux outils",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22La+personne+nomm%C3%A9e+%28cible+directe%29%22&currentCompany=Antargaz+%C3%89nergies+%C3%A0+Paris",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Antargaz%20%C3%89nergies%20%C3%A0%20Paris%22%20La%20personne%20nomm%C3%A9e%20%28cible%20directe%29"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-10-19-36deb0f62159",
-    "date_capture": "2026-11-03",
+    "date_capture": "2026-11-04",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Julius Baer",
@@ -135,7 +144,7 @@
   },
   {
     "id": "sig-2026-09-23-66189bddb55a",
-    "date_capture": "2026-11-03",
+    "date_capture": "2026-11-04",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "gouvernement",
@@ -165,7 +174,7 @@
   },
   {
     "id": "sig-2026-11-02-9de968b0b37f",
-    "date_capture": "2026-11-03",
+    "date_capture": "2026-11-04",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Creandum",
