@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-10-20-003d8d683d12",
-    "date_capture": "2026-11-06",
+    "date_capture": "2026-11-07",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Amazon",
@@ -30,7 +30,7 @@
   },
   {
     "id": "sig-2026-10-27-d09dd663468a",
-    "date_capture": "2026-11-06",
+    "date_capture": "2026-11-07",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "groupe au 1er décembre 2026",
@@ -68,7 +68,7 @@
   },
   {
     "id": "sig-2026-11-03-f35a6844aadf",
-    "date_capture": "2026-11-06",
+    "date_capture": "2026-11-07",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Antargaz Énergies à Paris",
@@ -106,7 +106,7 @@
   },
   {
     "id": "sig-2026-10-19-36deb0f62159",
-    "date_capture": "2026-11-06",
+    "date_capture": "2026-11-07",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Julius Baer",
@@ -143,38 +143,8 @@
     ]
   },
   {
-    "id": "sig-2026-09-23-66189bddb55a",
-    "date_capture": "2026-11-06",
-    "vertical": "corporate",
-    "sous_segment": "entreprise",
-    "compte": "gouvernement",
-    "titre": "Le gouvernement lance un plan pour former à l'IA",
-    "description": "Le gouvernement lance un plan pour former à l'IA Le Monde Informatique",
-    "source": "Le Monde Informatique (via Google News)",
-    "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPejJOTy05V3FMRW5SNWozQXlDRm1pMVdKWWZMUS12QTFtLVktMDVyYXpQLTMzU2tSOVBnUHd6b0M2eFF1WnBJNnVRV281MFlZdmJIbDk2UDNHZFExUll1YXhRdWxPbFZJaEpweWtqRVZOS2dubjVaSUxFVlpKaG1aS1MzeWM3djNqSFdrZnFkVkJOSTJ2UUlpVXdfcVZjcm1FX3l2X1NlRXdLUU82U3d0WdIBtAFBVV95cUxPWU1VVHpyYThrcDBRWTluV2trNm01MFpBS2R1SnNiWXdLWHMwZUZ6QjJ1cHhyTjhfQ2RBUmJOR1ZIYUhWbGdiV0stNGEtLWpGX0hmeWYzX3pHZ2U0NHV1OXFqYzJaXy1ERnpnVUFZQ0pnbmVQZFpaVjFhWWMyVm5TX0ZaNkJYZUtLbFVIcHp5UmRPb3hTc2RqYVNDRjhEeElKbEgzdjRid0dwOWZFMVJjVGpVM2E?oc=5",
-    "signal_type": "plan_ia",
-    "tier": 1,
-    "score": 85,
-    "produit_match": [
-      "ITS",
-      "Tosa Corporate"
-    ],
-    "owner": null,
-    "action_reco": "gouvernement : plan de formation IA. Cibler Head of L&D / CDO — pitch mesure de socle (Cert IA Tosa sept 2026, programme partenaires).",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-09-23",
-    "email_draft": {
-      "subject": "gouvernement — mesurer le socle de compétences IA de vos équipes",
-      "body": "Bonjour,\n\nVotre initiative de formation à l'IA (Le gouvernement lance un plan pour former à l'IA…) m'a interpellé.\n\nPour piloter ce type de programme, nos clients mesurent un socle de compétences avant/après (certification Tosa, plateforme ITS pour vos contenus propres). La Certification IA Tosa sort en septembre 2026 — programme partenaires de lancement en cours.\n\nUn échange de 20 minutes pour voir si cela peut soutenir votre déploiement ?\n\nBien cordialement,\nCharles Gosset — Isograd",
-      "url_source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPejJOTy05V3FMRW5SNWozQXlDRm1pMVdKWWZMUS12QTFtLVktMDVyYXpQLTMzU2tSOVBnUHd6b0M2eFF1WnBJNnVRV281MFlZdmJIbDk2UDNHZFExUll1YXhRdWxPbFZJaEpweWtqRVZOS2dubjVaSUxFVlpKaG1aS1MzeWM3djNqSFdrZnFkVkJOSTJ2UUlpVXdfcVZjcm1FX3l2X1NlRXdLUU82U3d0WdIBtAFBVV95cUxPWU1VVHpyYThrcDBRWTluV2trNm01MFpBS2R1SnNiWXdLWHMwZUZ6QjJ1cHhyTjhfQ2RBUmJOR1ZIYUhWbGdiV0stNGEtLWpGX0hmeWYzX3pHZ2U0NHV1OXFqYzJaXy1ERnpnVUFZQ0pnbmVQZFpaVjFhWWMyVm5TX0ZaNkJYZUtLbFVIcHp5UmRPb3hTc2RqYVNDRjhEeElKbEgzdjRid0dwOWZFMVJjVGpVM2E?oc=5"
-    },
-    "contacts_cibles": []
-  },
-  {
     "id": "sig-2026-11-02-9de968b0b37f",
-    "date_capture": "2026-11-06",
+    "date_capture": "2026-11-07",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Creandum",
