@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-10-20-ca04eebe2326",
-    "date_capture": "2026-11-11",
+    "date_capture": "2026-11-12",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "Lancement",
@@ -19,7 +19,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nL’article Lancement du programme ambassadrices étudiantes TechPourToutes est apparu en premier sur Conférence des grandes écoles .\n\n🎯 **Action à mener**\nEmail au responsable maquette + pitch « Pack Edu Tosa = preuve mesurable compétences digitales pour le dossier accréditation ». Joindre 2 cas pairs. RDV sous 14j.\n\n💡 **Angle pitch ITS/Tosa**\nTosa = preuve opposable de la qualité d'évaluation des compétences (audit Qualiopi, France Compétences). Doublement du signal extérieur dans la promotion du programme labellisé.\n\n📅 **Timing**\n3 mois post-annonce — fenêtre de capitalisation médiatique encore active.",
-    "deadline_action": "2026-11-18",
+    "deadline_action": "2026-11-19",
     "status": "new",
     "date_publication": "2026-10-20",
     "email_draft": {
@@ -66,7 +66,7 @@
   },
   {
     "id": "sig-2026-11-02-e59e98fa5017",
-    "date_capture": "2026-11-11",
+    "date_capture": "2026-11-12",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "Hausse",
@@ -83,7 +83,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nÀ la tête de l’ESPCI Paris – PSL depuis le début de l’été, Emmanuelle Gouillart dévoile ses priorités. Avec un campus rénové, la nouvelle directrice générale entend renforcer l’attractivité de…\n\n🎯 **Action à mener**\nNote LinkedIn 100 premiers jours du nouveau DG. Angle « bilan rapide du dispositif certification ». Brief équipe sur les comptes Tosa déjà présents chez Hausse.\n\n💡 **Angle pitch ITS/Tosa**\nFenêtre stratégique post-prise de poste : nouveau directeur cherche à poser sa marque. Apport rapide = Tosa pour signal externe + ITS pour structurer la passation.\n\n📅 **Timing**\n30-90 jours après l'annonce. Au-delà, la roadmap est figée.",
-    "deadline_action": "2026-11-18",
+    "deadline_action": "2026-11-19",
     "status": "new",
     "date_publication": "2026-11-02",
     "email_draft": {
@@ -127,8 +127,71 @@
     ]
   },
   {
+    "id": "sig-2026-11-12-a7eb85fa21b9",
+    "date_capture": "2026-11-12",
+    "vertical": "education",
+    "sous_segment": "grande-ecole",
+    "compte": "BTS",
+    "titre": "En BTS, les syndicats alertent sur les conditions d'ouverture des 10.000 places",
+    "description": "L'ouverture de 10.000 places supplémentaires en BTS à la rentrée 2027 est accueillie favorablement par les syndicats de la voie professionnelle. Mais pour que cette mesure profite réellement aux bacheliers professionnels, de nombreuses questions restent, pour l'heure, en suspens.",
+    "source": "Educpros (L'Étudiant)",
+    "source_tier": 1,
+    "url": "https://www.letudiant.fr/educpros/enquetes/en-bts-les-syndicats-alertent-sur-les-conditions-d-ouverture-des-10-000-places.html",
+    "signal_type": "nouvelle_formation",
+    "tier": 1,
+    "score": 85,
+    "produit_match": [
+      "Pack Education Tosa",
+      "Cert IA"
+    ],
+    "owner": null,
+    "action_reco": "📋 **Signal détecté**\nL'ouverture de 10.000 places supplémentaires en BTS à la rentrée 2027 est accueillie favorablement par les syndicats de la voie professionnelle. Mais pour que cette mesure profite réellement aux…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme BTS. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
+    "deadline_action": "2026-11-19",
+    "status": "new",
+    "date_publication": "2026-11-12",
+    "email_draft": {
+      "subject": "BTS — L'ouverture de 10.000 places supplémentaires en : quelle évaluation prévue ?",
+      "body": "Bonjour,\n\nJ'ai vu votre actualité : « L'ouverture de 10.000 places supplémentaires en BTS à la rentrée 2027 est accueillie favorablement par les syndicats de… ». Beau lancement.\n\nSur ce type de nouveau programme, le timing pour penser le dispositif d'évaluation des compétences est en général la période juste avant la première cohorte — ça permet de cadrer proprement la maquette pédagogique et les outils.\n\nChez Isograd, on opère 2 solutions complémentaires pour un programme comme le vôtre :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital). Argument concret en diplômation, sur le CV et auprès des entreprises partenaires.\n\n2. **ITS** pour héberger les sessions d'examen en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\nDéploiement en 4-6 semaines, budget calibré sur le volume étudiants. 15 minutes pour échanger sur votre cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://www.letudiant.fr/educpros/enquetes/en-bts-les-syndicats-alertent-sur-les-conditions-d-ouverture-des-10-000-places.html"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Responsable du programme / Directeur(rice) de la formation",
+        "alternatives": [
+          "Coordinateur(rice) pédagogique",
+          "Responsable de filière"
+        ],
+        "priorite": 1,
+        "raison": "Définit le dispositif d'évaluation du nouveau programme",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+du+programme+%2F+Directeur%28rice%29+de+la+formation%22+OR+%22Coordinateur%28rice%29+p%C3%A9dagogique%22+OR+%22Responsable+de+fili%C3%A8re%22&currentCompany=BTS",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22BTS%22%20Responsable%20du%20programme%20/%20Directeur%28rice%29%20de%20la%20formation%20Coordinateur%28rice%29%20p%C3%A9dagogique%20Responsable%20de%20fili%C3%A8re"
+      },
+      {
+        "poste": "Doyen / Directeur(rice) académique",
+        "alternatives": [
+          "VP Pédagogie",
+          "Directeur(rice) des études"
+        ],
+        "priorite": 2,
+        "raison": "Arbitrage sur l'outillage évaluation à l'échelle de l'établissement",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Doyen+%2F+Directeur%28rice%29+acad%C3%A9mique%22+OR+%22VP+P%C3%A9dagogie%22+OR+%22Directeur%28rice%29+des+%C3%A9tudes%22&currentCompany=BTS",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22BTS%22%20Doyen%20/%20Directeur%28rice%29%20acad%C3%A9mique%20VP%20P%C3%A9dagogie%20Directeur%28rice%29%20des%20%C3%A9tudes"
+      },
+      {
+        "poste": "Responsable RNCP / Certifications",
+        "alternatives": [
+          "Référent qualité",
+          "Responsable Qualiopi"
+        ],
+        "priorite": 3,
+        "raison": "Cadrage Qualiopi / preuve d'évaluation pour la certification",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+Certifications%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22+OR+%22Responsable+Qualiopi%22&currentCompany=BTS",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22BTS%22%20Responsable%20RNCP%20/%20Certifications%20R%C3%A9f%C3%A9rent%20qualit%C3%A9%20Responsable%20Qualiopi"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-11-09-3c6d9bf036aa",
-    "date_capture": "2026-11-11",
+    "date_capture": "2026-11-12",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "Audencia",
@@ -146,7 +209,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nAprès un campus à Saint-Ouen à la rentrée 2026, Audencia a annoncé l’ouverture d’un deuxième campus parisien pour la rentrée 2027. L’école connaît une légère hausse de ses effectifs, notamment portée…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme Audencia. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-11-18",
+    "deadline_action": "2026-11-19",
     "status": "new",
     "date_publication": "2026-11-09",
     "email_draft": {
@@ -191,7 +254,7 @@
   },
   {
     "id": "sig-2026-11-10-1007bd23e5d6",
-    "date_capture": "2026-11-11",
+    "date_capture": "2026-11-12",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "CentraleSupélec",
@@ -208,7 +271,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nÀ CentraleSupélec, la réussite est collective. La preuve avec CentraleSupélec Alumni ! Interview de Delphine Bazaud, sa nouvelle présidente, et de Géraldine Fonty, déléguée générale de l'association…\n\n🎯 **Action à mener**\nNote LinkedIn 100 premiers jours du nouveau DG. Angle « bilan rapide du dispositif certification ». Brief équipe sur les comptes Tosa déjà présents chez CentraleSupélec.\n\n💡 **Angle pitch ITS/Tosa**\nFenêtre stratégique post-prise de poste : nouveau directeur cherche à poser sa marque. Apport rapide = Tosa pour signal externe + ITS pour structurer la passation.\n\n📅 **Timing**\n30-90 jours après l'annonce. Au-delà, la roadmap est figée.",
-    "deadline_action": "2026-11-18",
+    "deadline_action": "2026-11-19",
     "status": "new",
     "date_publication": "2026-11-10",
     "email_draft": {
@@ -253,7 +316,7 @@
   },
   {
     "id": "sig-2026-11-06-8b7de1327060",
-    "date_capture": "2026-11-11",
+    "date_capture": "2026-11-12",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "EXCELIA",
@@ -270,7 +333,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nEXCELIA annonce la nomination d&#8217;Aurélie Rosan au poste de directrice des admissions France et du développement en Île-de-France, effective depuis le 2 novembre 2026. Après dix années passées au…\n\n🎯 **Action à mener**\nNote LinkedIn 100 premiers jours du nouveau DG. Angle « bilan rapide du dispositif certification ». Brief équipe sur les comptes Tosa déjà présents chez EXCELIA.\n\n💡 **Angle pitch ITS/Tosa**\nFenêtre stratégique post-prise de poste : nouveau directeur cherche à poser sa marque. Apport rapide = Tosa pour signal externe + ITS pour structurer la passation.\n\n📅 **Timing**\n30-90 jours après l'annonce. Au-delà, la roadmap est figée.",
-    "deadline_action": "2026-11-18",
+    "deadline_action": "2026-11-19",
     "status": "new",
     "date_publication": "2026-11-06",
     "email_draft": {
@@ -314,8 +377,71 @@
     ]
   },
   {
+    "id": "sig-2026-11-12-ffb5166f15a4",
+    "date_capture": "2026-11-12",
+    "vertical": "education",
+    "sous_segment": "grande-ecole",
+    "compte": "Prix",
+    "titre": "Prix Jean-François FIORINA 2026 : découvrez cinq des 25 projets sélectionnés 1/5",
+    "description": "L’article Prix Jean-François FIORINA 2026 : découvrez cinq des 25 projets sélectionnés 1/5 est apparu en premier sur Conférence des grandes écoles .",
+    "source": "CGE",
+    "source_tier": 1,
+    "url": "https://www.cge.asso.fr/liste-actualites/prix-jean-francois-fiorina-2026-projets-selectionnes-1-5/",
+    "signal_type": "nouvelle_formation",
+    "tier": 1,
+    "score": 85,
+    "produit_match": [
+      "Pack Education Tosa",
+      "Cert IA"
+    ],
+    "owner": null,
+    "action_reco": "📋 **Signal détecté**\nL’article Prix Jean-François FIORINA 2026 : découvrez cinq des 25 projets sélectionnés 1/5 est apparu en premier sur Conférence des grandes écoles .\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme Prix. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
+    "deadline_action": "2026-11-19",
+    "status": "new",
+    "date_publication": "2026-11-12",
+    "email_draft": {
+      "subject": "Prix — L’article Prix Jean-François FIORINA 2026  : quelle évaluation prévue ?",
+      "body": "Bonjour,\n\nJ'ai vu votre actualité : « L’article Prix Jean-François FIORINA 2026 : découvrez cinq des 25 projets sélectionnés 1/5 est apparu en premier sur… ». Beau lancement.\n\nSur ce type de nouveau programme, le timing pour penser le dispositif d'évaluation des compétences est en général la période juste avant la première cohorte — ça permet de cadrer proprement la maquette pédagogique et les outils.\n\nChez Isograd, on opère 2 solutions complémentaires pour un programme comme le vôtre :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital). Argument concret en diplômation, sur le CV et auprès des entreprises partenaires.\n\n2. **ITS** pour héberger les sessions d'examen en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\nDéploiement en 4-6 semaines, budget calibré sur le volume étudiants. 15 minutes pour échanger sur votre cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://www.cge.asso.fr/liste-actualites/prix-jean-francois-fiorina-2026-projets-selectionnes-1-5/"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Responsable du programme / Directeur(rice) de la formation",
+        "alternatives": [
+          "Coordinateur(rice) pédagogique",
+          "Responsable de filière"
+        ],
+        "priorite": 1,
+        "raison": "Définit le dispositif d'évaluation du nouveau programme",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+du+programme+%2F+Directeur%28rice%29+de+la+formation%22+OR+%22Coordinateur%28rice%29+p%C3%A9dagogique%22+OR+%22Responsable+de+fili%C3%A8re%22&currentCompany=Prix",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Prix%22%20Responsable%20du%20programme%20/%20Directeur%28rice%29%20de%20la%20formation%20Coordinateur%28rice%29%20p%C3%A9dagogique%20Responsable%20de%20fili%C3%A8re"
+      },
+      {
+        "poste": "Doyen / Directeur(rice) académique",
+        "alternatives": [
+          "VP Pédagogie",
+          "Directeur(rice) des études"
+        ],
+        "priorite": 2,
+        "raison": "Arbitrage sur l'outillage évaluation à l'échelle de l'établissement",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Doyen+%2F+Directeur%28rice%29+acad%C3%A9mique%22+OR+%22VP+P%C3%A9dagogie%22+OR+%22Directeur%28rice%29+des+%C3%A9tudes%22&currentCompany=Prix",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Prix%22%20Doyen%20/%20Directeur%28rice%29%20acad%C3%A9mique%20VP%20P%C3%A9dagogie%20Directeur%28rice%29%20des%20%C3%A9tudes"
+      },
+      {
+        "poste": "Responsable RNCP / Certifications",
+        "alternatives": [
+          "Référent qualité",
+          "Responsable Qualiopi"
+        ],
+        "priorite": 3,
+        "raison": "Cadrage Qualiopi / preuve d'évaluation pour la certification",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+Certifications%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22+OR+%22Responsable+Qualiopi%22&currentCompany=Prix",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Prix%22%20Responsable%20RNCP%20/%20Certifications%20R%C3%A9f%C3%A9rent%20qualit%C3%A9%20Responsable%20Qualiopi"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-11-04-1ee603cdd0ff",
-    "date_capture": "2026-11-11",
+    "date_capture": "2026-11-12",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "Lancement",
@@ -333,7 +459,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nL’article Lancement de la 2e édition du baromètre « IA dans les Grandes écoles » est apparu en premier sur Conférence des grandes écoles .\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme Lancement. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-11-18",
+    "deadline_action": "2026-11-19",
     "status": "new",
     "date_publication": "2026-11-04",
     "email_draft": {
@@ -377,71 +503,8 @@
     ]
   },
   {
-    "id": "sig-2026-11-05-3842d7aea728",
-    "date_capture": "2026-11-11",
-    "vertical": "education",
-    "sous_segment": "grande-ecole",
-    "compte": "Audencia",
-    "titre": "Ce qu’il faut retenir de la rentrée 2026 d’Audencia",
-    "description": "Budget de 100M€, ouverture d’un 2e campus parisien, (ré)affirmation d’un modèle \"multi compétence\" : tout sur la rentrée 2026 d'Audencia L’article Ce qu’il faut retenir de la rentrée 2026 d’Audencia est apparu en premier sur Monde des grandes écoles et universités .",
-    "source": "Monde des Grandes Écoles",
-    "source_tier": 2,
-    "url": "https://www.mondedesgrandesecoles.fr/ce-quil-faut-retenir-de-la-rentree-2026-daudencia/",
-    "signal_type": "nouvelle_formation",
-    "tier": 1,
-    "score": 80,
-    "produit_match": [
-      "Pack Education Tosa",
-      "Cert IA"
-    ],
-    "owner": null,
-    "action_reco": "📋 **Signal détecté**\nBudget de 100M€, ouverture d’un 2e campus parisien, (ré)affirmation d’un modèle \"multi compétence\" : tout sur la rentrée 2026 d'Audencia L’article Ce qu’il faut retenir de la rentrée 2026 d’Audencia…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme Audencia. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-11-18",
-    "status": "new",
-    "date_publication": "2026-11-05",
-    "email_draft": {
-      "subject": "Audencia — Budget de 100M€, ouverture d’un 2e : quelle évaluation prévue ?",
-      "body": "Bonjour,\n\nJ'ai vu votre actualité : « Budget de 100M€, ouverture d’un 2e campus parisien, (ré)affirmation d’un modèle \"multi compétence\" : tout sur la… ». Beau lancement.\n\nSur ce type de nouveau programme, le timing pour penser le dispositif d'évaluation des compétences est en général la période juste avant la première cohorte — ça permet de cadrer proprement la maquette pédagogique et les outils.\n\nChez Isograd, on opère 2 solutions complémentaires pour un programme comme le vôtre :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital). Argument concret en diplômation, sur le CV et auprès des entreprises partenaires.\n\n2. **ITS** pour héberger les sessions d'examen en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\n3. **Cert IA** — notre badge co-construit avec des écoles partenaires pour les programmes IA. Concrètement, vos étudiants ressortent du programme avec une certification externe sur les compétences IA appliquées. On a une program beta en cours, vous pourriez en faire partie.\n\nDéploiement en 4-6 semaines, budget calibré sur le volume étudiants. 15 minutes pour échanger sur votre cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://www.mondedesgrandesecoles.fr/ce-quil-faut-retenir-de-la-rentree-2026-daudencia/"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Responsable du programme / Directeur(rice) de la formation",
-        "alternatives": [
-          "Coordinateur(rice) pédagogique",
-          "Responsable de filière"
-        ],
-        "priorite": 1,
-        "raison": "Définit le dispositif d'évaluation du nouveau programme",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+du+programme+%2F+Directeur%28rice%29+de+la+formation%22+OR+%22Coordinateur%28rice%29+p%C3%A9dagogique%22+OR+%22Responsable+de+fili%C3%A8re%22&currentCompany=Audencia",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Audencia%22%20Responsable%20du%20programme%20/%20Directeur%28rice%29%20de%20la%20formation%20Coordinateur%28rice%29%20p%C3%A9dagogique%20Responsable%20de%20fili%C3%A8re"
-      },
-      {
-        "poste": "Doyen / Directeur(rice) académique",
-        "alternatives": [
-          "VP Pédagogie",
-          "Directeur(rice) des études"
-        ],
-        "priorite": 2,
-        "raison": "Arbitrage sur l'outillage évaluation à l'échelle de l'établissement",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Doyen+%2F+Directeur%28rice%29+acad%C3%A9mique%22+OR+%22VP+P%C3%A9dagogie%22+OR+%22Directeur%28rice%29+des+%C3%A9tudes%22&currentCompany=Audencia",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Audencia%22%20Doyen%20/%20Directeur%28rice%29%20acad%C3%A9mique%20VP%20P%C3%A9dagogie%20Directeur%28rice%29%20des%20%C3%A9tudes"
-      },
-      {
-        "poste": "Responsable RNCP / Certifications",
-        "alternatives": [
-          "Référent qualité",
-          "Responsable Qualiopi"
-        ],
-        "priorite": 3,
-        "raison": "Cadrage Qualiopi / preuve d'évaluation pour la certification",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+Certifications%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22+OR+%22Responsable+Qualiopi%22&currentCompany=Audencia",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Audencia%22%20Responsable%20RNCP%20/%20Certifications%20R%C3%A9f%C3%A9rent%20qualit%C3%A9%20Responsable%20Qualiopi"
-      }
-    ]
-  },
-  {
     "id": "sig-2026-11-06-2e518eb0ff4b",
-    "date_capture": "2026-11-11",
+    "date_capture": "2026-11-12",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "Vinci Higher Education",
@@ -459,7 +522,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nDe Vinci higher Education déploie son nouveau campus à Montpellier CastelMed, découvrez ce que cela signifie pour les étudiants. L’article De Vinci Higher Education inaugure son nouveau campus à…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme Vinci Higher Education. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-11-18",
+    "deadline_action": "2026-11-19",
     "status": "new",
     "date_publication": "2026-11-06",
     "email_draft": {
@@ -504,7 +567,7 @@
   },
   {
     "id": "sig-2026-11-05-ca0876164603",
-    "date_capture": "2026-11-11",
+    "date_capture": "2026-11-12",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "Audencia",
@@ -522,7 +585,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nAudencia poursuit son expansion dans la capitale. Après l&#8217;ouverture de son campus de Saint-Ouen à la rentrée 2026, l&#8217;école de management annonce l&#8217;implantation d&#8217;un deuxième…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme Audencia. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-11-18",
+    "deadline_action": "2026-11-19",
     "status": "new",
     "date_publication": "2026-11-05",
     "email_draft": {
@@ -567,7 +630,7 @@
   },
   {
     "id": "sig-2026-11-05-330283f0f4f4",
-    "date_capture": "2026-11-11",
+    "date_capture": "2026-11-12",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "KEDGE Business School",
@@ -585,7 +648,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nL&#8217;association étudiante SimONU de KEDGE Business School lance « Les Jeudis Politiques », un nouveau cycle de conférences consacré aux grands enjeux politiques et géopolitiques contemporains…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme KEDGE Business School. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-11-18",
+    "deadline_action": "2026-11-19",
     "status": "new",
     "date_publication": "2026-11-05",
     "email_draft": {
@@ -630,7 +693,7 @@
   },
   {
     "id": "sig-2026-10-30-14179ccefce7",
-    "date_capture": "2026-11-11",
+    "date_capture": "2026-11-12",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "KEDGE",
@@ -648,7 +711,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nÀ la rentrée 2027, KEDGE Business School ouvrira un nouvel MSc Sales &#38; Business Development sur ses campus de Paris et Marseille. Particularité de cette formation de niveau bac+5 : elle a été…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme KEDGE. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-11-18",
+    "deadline_action": "2026-11-19",
     "status": "new",
     "date_publication": "2026-10-30",
     "email_draft": {
@@ -693,7 +756,7 @@
   },
   {
     "id": "sig-stable-4cc03b95f797",
-    "date_capture": "2026-11-11",
+    "date_capture": "2026-11-12",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "Universite de Technologie de Troyes (UTT)",
@@ -713,7 +776,7 @@
     "action_reco": "📋 **Signal détecté**\nBachelor IA - cursus 3 ans\n\n🎯 **Action à mener**\nA croiser site UTT + LinkedIn avant contact\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-11-11",
+    "date_publication": "2026-11-12",
     "email_draft": {
       "subject": "Universite de Technologie de Troyes (UTT) — Bachelor IA - cursus 3 ans : quelle évaluation prévue ?",
       "body": "Bonjour,\n\nJ'ai vu votre actualité : « Bachelor IA - cursus 3 ans ». Beau lancement.\n\nSur ce type de nouveau programme, le timing pour penser le dispositif d'évaluation des compétences est en général la période juste avant la première cohorte — ça permet de cadrer proprement la maquette pédagogique et les outils.\n\nChez Isograd, on opère 2 solutions complémentaires pour un programme comme le vôtre :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital). Argument concret en diplômation, sur le CV et auprès des entreprises partenaires.\n\n2. **ITS** pour héberger les sessions d'examen en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\n3. **Cert IA** — notre badge co-construit avec des écoles partenaires pour les programmes IA. Concrètement, vos étudiants ressortent du programme avec une certification externe sur les compétences IA appliquées. On a une program beta en cours, vous pourriez en faire partie.\n\nDéploiement en 4-6 semaines, budget calibré sur le volume étudiants. 15 minutes pour échanger sur votre cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://www.letudiant.fr/etudes/lactu-des-formations-de-nouveaux-cursus-en-ia-dans-le-superieur.html"

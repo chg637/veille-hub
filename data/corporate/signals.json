@@ -1,7 +1,36 @@
 [
   {
+    "id": "sig-2026-11-12-41ad3be07956",
+    "date_capture": "2026-11-12",
+    "vertical": "corporate",
+    "sous_segment": "entreprise",
+    "compte": "filière du nucléaire",
+    "titre": "La filière du nucléaire prévoit de recruter plus de 100.000 personnes en France dans les 10 ans à venir",
+    "description": "La filière du nucléaire prévoit de recruter plus de 100.000 personnes en France dans les 10 ans à venir ici.fr",
+    "source": "ici.fr (via Google News)",
+    "source_tier": 2,
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOWg5X09QMEttV1RoTU5kQVlqWWp1c3lkUXYybGFhX28xMm5tTVJBSHNqWUh5X082YUJlNWF5NnF1X29UTzVBdTVtcnJHYjlORHozMUR1SjZadjlQN1RXSE1yMmtBY2JkMXJkLWtSRW5wbWVTTVJENGJwclFrSVdhVU0wZDdCbTlTUXhhanlBUzFrVkJ0OTZsZTVNZEVrTV9EM2dwNEh4QXZTcGVoektBMllDdDZjVU1WWW9CbHZNeHJzeHIwUlBCVVhtNUtzQUZqeEU5Ylhjb2JHMzJsMjlDUXdaUjNoM0U?oc=5",
+    "signal_type": "plan_recrutement",
+    "tier": 1,
+    "score": 93,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": null,
+    "action_reco": "filière du nucléaire : ~100000 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-11-12",
+    "email_draft": {
+      "subject": "filière du nucléaire — fiabiliser la pré-qualification de vos recrutements",
+      "body": "Bonjour,\n\nJ'ai lu que filière du nucléaire prépare une campagne de recrutement importante (La filière du nucléaire prévoit de recruter plus de 100.000 personnes en France dans les 1…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
+      "url_source": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOWg5X09QMEttV1RoTU5kQVlqWWp1c3lkUXYybGFhX28xMm5tTVJBSHNqWUh5X082YUJlNWF5NnF1X29UTzVBdTVtcnJHYjlORHozMUR1SjZadjlQN1RXSE1yMmtBY2JkMXJkLWtSRW5wbWVTTVJENGJwclFrSVdhVU0wZDdCbTlTUXhhanlBUzFrVkJ0OTZsZTVNZEVrTV9EM2dwNEh4QXZTcGVoektBMllDdDZjVU1WWW9CbHZNeHJzeHIwUlBCVVhtNUtzQUZqeEU5Ylhjb2JHMzJsMjlDUXdaUjNoM0U?oc=5"
+    },
+    "contacts_cibles": []
+  },
+  {
     "id": "sig-2026-10-20-003d8d683d12",
-    "date_capture": "2026-11-11",
+    "date_capture": "2026-11-12",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Amazon",
@@ -30,7 +59,7 @@
   },
   {
     "id": "sig-2026-10-27-d09dd663468a",
-    "date_capture": "2026-11-11",
+    "date_capture": "2026-11-12",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "groupe au 1er décembre 2026",
@@ -68,7 +97,7 @@
   },
   {
     "id": "sig-2026-11-06-856e424a75bc",
-    "date_capture": "2026-11-11",
+    "date_capture": "2026-11-12",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Antargaz Énergies à Paris",
@@ -105,13 +134,13 @@
     ]
   },
   {
-    "id": "sig-2026-11-10-da496ff66946",
-    "date_capture": "2026-11-11",
+    "id": "sig-2026-11-10-386c0fab6c19",
+    "date_capture": "2026-11-12",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "L’Oréal France",
-    "titre": "Jean-Marie Gourmelen nommé DRH de L’Oréal France",
-    "description": "Jean-Marie Gourmelen nommé DRH de L’Oréal France Meet & Match",
+    "titre": "L’Oréal France nomme Jean-Marie Gourmelen directeur des ressources humaines",
+    "description": "L’Oréal France nomme Jean-Marie Gourmelen directeur des ressources humaines Meet & Match",
     "source": "Meet & Match (via Google News)",
     "source_tier": 2,
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01NXVfbDV6Wks1aDgtMnY2WkF3YXBUSlJyWGhfOENLVjVVQzVSYlRDWHJxZHFzc2Q0bnlWOXJOWmNCXzhVZ3ExZ20xNEZpVTB6T1dtT3RrcTYtX0tWaWxmUFFmSzhnWEVVenhXV2E4N20?oc=5",
@@ -143,8 +172,260 @@
     ]
   },
   {
+    "id": "sig-2026-11-12-dce4c1f53aa7",
+    "date_capture": "2026-11-12",
+    "vertical": "corporate",
+    "sous_segment": "Scale-up / Levée Series B+ (Maddyness)",
+    "compte": "Agile",
+    "titre": "Agile Robots : le géant allemand de la robotique lève 450 millions d'euros",
+    "description": "L’article Agile Robots : le géant allemand de la robotique lève 450 millions d&#039;euros est apparu en premier sur Maddyness - Le média pour comprendre l&#039;économie de demain .",
+    "source": "Maddyness",
+    "source_tier": 1,
+    "url": "https://www.maddyness.com/2026/11/12/agile-robots-le-geant-allemand-de-la-robotique-leve-450-millions-deuros/",
+    "signal_type": "levee_fonds",
+    "tier": 1,
+    "score": 80,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Source** : https://www.maddyness.com/2026/11/12/agile-robots-le-geant-allemand-de-la-robotique-leve-450-millions-deuros/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 450.0M EUR (~450.0M€) → scale-up confirmé, plan de recrutement massif sur 12 mois\n🔥 PRIORITÉ — fenêtre 30j (avant que les RH s'organisent)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-11-12",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-11-12",
+    "email_draft": {
+      "subject": "Agile — votre Series — sur l'évaluation candidats à scale",
+      "body": "Bonjour,\n\nJe viens de voir que Agile a bouclé une levée de 450.0M EUR (~450.0M€). Bravo pour cette étape.\n\nSur les 12 prochains mois, vous allez probablement recruter 100+ profils. C'est exactement le moment où la qualité du process d'évaluation devient un goulot d'étranglement.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://www.maddyness.com/2026/11/12/agile-robots-le-geant-allemand-de-la-robotique-leve-450-millions-deuros/"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Chief People Officer",
+        "alternatives": [
+          "Head of People",
+          "VP People",
+          "DRH"
+        ],
+        "priorite": 1,
+        "raison": "Décide outils RH stratégiques post-levée",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Agile",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Agile%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
+      },
+      {
+        "poste": "Head of Talent Acquisition",
+        "alternatives": [
+          "Talent Acquisition Director",
+          "Head of Recruiting"
+        ],
+        "priorite": 2,
+        "raison": "Opérationnel — gère le plan de recrutement massif",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Agile",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Agile%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
+      },
+      {
+        "poste": "Head of Hiring",
+        "alternatives": [
+          "Hiring Manager",
+          "Recruitment Director"
+        ],
+        "priorite": 3,
+        "raison": "Sous-décideur — peut tester l'outil rapidement",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Agile",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Agile%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
+      }
+    ]
+  },
+  {
+    "id": "sig-2026-11-12-648be3f4e330",
+    "date_capture": "2026-11-12",
+    "vertical": "corporate",
+    "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
+    "compte": "Uforce",
+    "titre": "Drone startup Uforce raises $700m backed by Valor Equity Partners, UK National Wealth Fund",
+    "description": "",
+    "source": "Sifted",
+    "source_tier": 1,
+    "url": "https://sifted.eu/articles/drone-startup-uforce-fundraise-uk-national-wealth-fund-scoop/",
+    "signal_type": "levee_fonds",
+    "tier": 1,
+    "score": 80,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Source** : https://sifted.eu/articles/drone-startup-uforce-fundraise-uk-national-wealth-fund-scoop/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 700.0M USD (~644.0M€) → scale-up confirmé, plan de recrutement massif sur 12 mois\n🔥 PRIORITÉ — fenêtre 30j (avant que les RH s'organisent)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-11-12",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-11-12",
+    "email_draft": {
+      "subject": "Uforce — votre Series — sur l'évaluation candidats à scale",
+      "body": "Bonjour,\n\nJe viens de voir que Uforce a bouclé une levée de 700.0M USD (~644.0M€). Bravo pour cette étape.\n\nSur les 12 prochains mois, vous allez probablement recruter 100+ profils. C'est exactement le moment où la qualité du process d'évaluation devient un goulot d'étranglement.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/drone-startup-uforce-fundraise-uk-national-wealth-fund-scoop/"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Chief People Officer",
+        "alternatives": [
+          "Head of People",
+          "VP People",
+          "DRH"
+        ],
+        "priorite": 1,
+        "raison": "Décide outils RH stratégiques post-levée",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Uforce",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Uforce%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
+      },
+      {
+        "poste": "Head of Talent Acquisition",
+        "alternatives": [
+          "Talent Acquisition Director",
+          "Head of Recruiting"
+        ],
+        "priorite": 2,
+        "raison": "Opérationnel — gère le plan de recrutement massif",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Uforce",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Uforce%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
+      },
+      {
+        "poste": "Head of Hiring",
+        "alternatives": [
+          "Hiring Manager",
+          "Recruitment Director"
+        ],
+        "priorite": 3,
+        "raison": "Sous-décideur — peut tester l'outil rapidement",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Uforce",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Uforce%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
+      }
+    ]
+  },
+  {
+    "id": "sig-2026-11-12-85f73a93af4a",
+    "date_capture": "2026-11-12",
+    "vertical": "corporate",
+    "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
+    "compte": "SoftBank",
+    "titre": "SoftBank leads $500m round for Agile Robots",
+    "description": "",
+    "source": "Sifted",
+    "source_tier": 1,
+    "url": "https://sifted.eu/articles/softbank-leads-500m-round-for-agile-robots/",
+    "signal_type": "levee_fonds",
+    "tier": 1,
+    "score": 80,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Source** : https://sifted.eu/articles/softbank-leads-500m-round-for-agile-robots/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 500.0M USD (~460.0M€) → scale-up confirmé, plan de recrutement massif sur 12 mois\n🔥 PRIORITÉ — fenêtre 30j (avant que les RH s'organisent)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-11-12",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-11-12",
+    "email_draft": {
+      "subject": "SoftBank — votre Series — sur l'évaluation candidats à scale",
+      "body": "Bonjour,\n\nJe viens de voir que SoftBank a bouclé une levée de 500.0M USD (~460.0M€). Bravo pour cette étape.\n\nSur les 12 prochains mois, vous allez probablement recruter 100+ profils. C'est exactement le moment où la qualité du process d'évaluation devient un goulot d'étranglement.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/softbank-leads-500m-round-for-agile-robots/"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Chief People Officer",
+        "alternatives": [
+          "Head of People",
+          "VP People",
+          "DRH"
+        ],
+        "priorite": 1,
+        "raison": "Décide outils RH stratégiques post-levée",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=SoftBank",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22SoftBank%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
+      },
+      {
+        "poste": "Head of Talent Acquisition",
+        "alternatives": [
+          "Talent Acquisition Director",
+          "Head of Recruiting"
+        ],
+        "priorite": 2,
+        "raison": "Opérationnel — gère le plan de recrutement massif",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=SoftBank",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22SoftBank%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
+      },
+      {
+        "poste": "Head of Hiring",
+        "alternatives": [
+          "Hiring Manager",
+          "Recruitment Director"
+        ],
+        "priorite": 3,
+        "raison": "Sous-décideur — peut tester l'outil rapidement",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=SoftBank",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22SoftBank%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
+      }
+    ]
+  },
+  {
+    "id": "sig-2026-11-12-905e414c8528",
+    "date_capture": "2026-11-12",
+    "vertical": "corporate",
+    "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
+    "compte": "Orakl Oncology",
+    "titre": "Exclusive: Orakl Oncology raises $34m to test cancer drugs on ‘virtual patients’",
+    "description": "",
+    "source": "Sifted",
+    "source_tier": 1,
+    "url": "https://sifted.eu/articles/exclusive-orakl-oncology-fundraise/",
+    "signal_type": "levee_fonds",
+    "tier": 2,
+    "score": 65,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Source** : https://sifted.eu/articles/exclusive-orakl-oncology-fundraise/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 34.0M USD (~31.3M€) → Series B+, structuration des processus RH en cours\n🎯 Fenêtre 60j (timing optimal post-Series B)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-11-12",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-11-12",
+    "email_draft": {
+      "subject": "Orakl Oncology — votre Series — sur l'évaluation candidats à scale",
+      "body": "Bonjour,\n\nJe viens de voir que Orakl Oncology a bouclé une levée de 34.0M USD (~31.3M€). Bravo pour cette étape.\n\nPost-Series B, c'est le moment où la plupart des scale-ups structurent leur process d'éval candidats. Avant que le volume devienne incontrôlable.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/exclusive-orakl-oncology-fundraise/"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Chief People Officer",
+        "alternatives": [
+          "Head of People",
+          "VP People",
+          "DRH"
+        ],
+        "priorite": 1,
+        "raison": "Décide outils RH stratégiques post-levée",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Orakl+Oncology",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Orakl%20Oncology%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
+      },
+      {
+        "poste": "Head of Talent Acquisition",
+        "alternatives": [
+          "Talent Acquisition Director",
+          "Head of Recruiting"
+        ],
+        "priorite": 2,
+        "raison": "Opérationnel — gère le plan de recrutement massif",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Orakl+Oncology",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Orakl%20Oncology%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
+      },
+      {
+        "poste": "Head of Hiring",
+        "alternatives": [
+          "Hiring Manager",
+          "Recruitment Director"
+        ],
+        "priorite": 3,
+        "raison": "Sous-décideur — peut tester l'outil rapidement",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Orakl+Oncology",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Orakl%20Oncology%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-11-10-6f6f9ea86f55",
-    "date_capture": "2026-11-11",
+    "date_capture": "2026-11-12",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Sumary",
@@ -207,7 +488,7 @@
   },
   {
     "id": "sig-2026-11-10-9a0e0c824bce",
-    "date_capture": "2026-11-11",
+    "date_capture": "2026-11-12",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Exclusive",
