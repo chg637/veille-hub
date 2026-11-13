@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-11-02-d3ea43dfa864",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "CESI",
@@ -12,7 +12,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42932/",
     "signal_type": "rncp_open",
     "tier": 1,
-    "score": 88,
+    "score": 82,
     "produit_match": [
       "ITS"
     ],
@@ -64,7 +64,7 @@
   },
   {
     "id": "sig-2026-11-02-9dedaf5b95b6",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "INSTITUT EUROPEEN F 2I",
@@ -75,7 +75,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42934/",
     "signal_type": "rncp_open",
     "tier": 1,
-    "score": 88,
+    "score": 82,
     "produit_match": [
       "ITS"
     ],
@@ -127,7 +127,7 @@
   },
   {
     "id": "sig-2026-11-02-b2f352a44360",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "ASSOCIATION D'ENSEIGNEMENT TECHNIQUE SUPERIEUR AN21 ACADEMIE NUMERIQUE DU XXIEME SIECLE",
@@ -138,7 +138,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42939/",
     "signal_type": "rncp_open",
     "tier": 1,
-    "score": 88,
+    "score": 82,
     "produit_match": [
       "ITS"
     ],
@@ -190,7 +190,7 @@
   },
   {
     "id": "sig-2026-11-02-601356e84b9e",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "DATAKOO",
@@ -201,7 +201,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42940/",
     "signal_type": "rncp_open",
     "tier": 1,
-    "score": 88,
+    "score": 82,
     "produit_match": [
       "ITS"
     ],
@@ -253,7 +253,7 @@
   },
   {
     "id": "sig-2026-11-02-32ab8d05de17",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 7",
     "compte": "ESGCV",
@@ -264,7 +264,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42945/",
     "signal_type": "rncp_open",
     "tier": 1,
-    "score": 88,
+    "score": 82,
     "produit_match": [
       "ITS"
     ],
@@ -316,7 +316,7 @@
   },
   {
     "id": "sig-2026-11-02-c9ad315c2ae1",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "CHAMBRE DE COMMERCE ET D'INDUSTRIE DE REGION HAUTS-DE-FRANCE",
@@ -327,7 +327,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42947/",
     "signal_type": "rncp_open",
     "tier": 1,
-    "score": 88,
+    "score": 82,
     "produit_match": [
       "ITS"
     ],
@@ -379,7 +379,7 @@
   },
   {
     "id": "sig-2026-11-02-ede6d0fe5e4b",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 6",
     "compte": "FEDERATION ENTREP COMMERCE DISTRIBUTION",
@@ -390,7 +390,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42958/",
     "signal_type": "rncp_open",
     "tier": 1,
-    "score": 88,
+    "score": 82,
     "produit_match": [
       "ITS"
     ],
@@ -442,7 +442,7 @@
   },
   {
     "id": "sig-2026-11-02-0aa429bc73b3",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 5",
     "compte": "CESI",
@@ -452,8 +452,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42933/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
+    "tier": 2,
+    "score": 77,
     "produit_match": [
       "ITS"
     ],
@@ -505,7 +505,7 @@
   },
   {
     "id": "sig-2026-11-02-dfd11707ab84",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 3",
     "compte": "REGIE AUTONOME DES TRANSPORTS PARISIENS",
@@ -515,8 +515,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42937/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
+    "tier": 2,
+    "score": 77,
     "produit_match": [
       "ITS"
     ],
@@ -568,7 +568,7 @@
   },
   {
     "id": "sig-2026-11-02-2d1996fa89ff",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 5",
     "compte": "OCAPIAT",
@@ -578,8 +578,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42938/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
+    "tier": 2,
+    "score": 77,
     "produit_match": [
       "ITS"
     ],
@@ -631,7 +631,7 @@
   },
   {
     "id": "sig-2026-11-02-75453fae2476",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 3",
     "compte": "ASSOCIATION PARITAIRE POUR LE DEVELOPPEMENT DU DIALOGUE SOCIAL DANS LA BRANCHE DU COMMERCE DE DETAIL ALIMENTAIRE NON SPE",
@@ -641,8 +641,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42953/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
+    "tier": 2,
+    "score": 77,
     "produit_match": [
       "ITS"
     ],
@@ -694,7 +694,7 @@
   },
   {
     "id": "sig-2026-11-02-04b471152350",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 3",
     "compte": "FEDERATION ENTREP COMMERCE DISTRIBUTION",
@@ -704,8 +704,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42954/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
+    "tier": 2,
+    "score": 77,
     "produit_match": [
       "ITS"
     ],
@@ -757,7 +757,7 @@
   },
   {
     "id": "sig-2026-11-02-60b75ab3cccb",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 4",
     "compte": "ASSOCIATION PARITAIRE POUR LE DEVELOPPEMENT DU DIALOGUE SOCIAL DANS LA BRANCHE DU COMMERCE DE DETAIL ALIMENTAIRE NON SPE",
@@ -767,8 +767,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42956/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
+    "tier": 2,
+    "score": 77,
     "produit_match": [
       "ITS"
     ],
@@ -819,19 +819,19 @@
     ]
   },
   {
-    "id": "sig-2026-11-02-4d034ebbffff",
-    "date_capture": "2026-11-12",
+    "id": "sig-2026-11-02-b7f23953744c",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche Niveau 5",
-    "compte": "ASSOCIATION PARITAIRE POUR LE DEVELOPPEMENT DU DIALOGUE SOCIAL DANS LA BRANCHE DU COMMERCE DE DETAIL ALIMENTAIRE NON SPE",
+    "compte": "FEDERATION ENTREP COMMERCE DISTRIBUTION",
     "titre": "Nouvelle fiche RNCP42957 — CQP Manager de rayons en point de vente",
-    "description": "CQP Manager de rayons en point de vente. Type :  (Niveau 5). Enregistrement sur demande. Décision du 2026-11-02. Certificateur(s) : ASSOCIATION PARITAIRE POUR LE DEVELOPPEMENT DU DIALOGUE SOCIAL DANS LA BRANCHE DU COMMERCE DE DETAIL ALIMENTAIRE NON SPE, FEDERATION ENTREP COMMERCE DISTRIBUTION.",
+    "description": "CQP Manager de rayons en point de vente. Type :  (Niveau 5). Enregistrement sur demande. Décision du 2026-11-02. Certificateur(s) : FEDERATION ENTREP COMMERCE DISTRIBUTION, ASSOCIATION PARITAIRE POUR LE DEVELOPPEMENT DU DIALOGUE SOCIAL DANS LA BRANCHE DU COMMERCE DE DETAIL ALIMENTAIRE NON SPE.",
     "source": "France Compétences",
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42957/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
+    "tier": 2,
+    "score": 77,
     "produit_match": [
       "ITS"
     ],
@@ -841,7 +841,7 @@
     "status": "new",
     "date_publication": "2026-11-02",
     "email_draft": {
-      "subject": "ASSOCIATION PARITAIRE POUR LE DEVELOPPEMENT DU DIALOGUE SOCIAL DANS LA BRANCHE DU COMMERCE DE DETAIL ALIMENTAIRE NON SPE — CQP Manager de rayons en point : comment vous outillez la passation ?",
+      "subject": "FEDERATION ENTREP COMMERCE DISTRIBUTION — CQP Manager de rayons en point : comment vous outillez la passation ?",
       "body": "Bonjour,\n\nJ'ai noté votre actualité : « CQP Manager de rayons en point de vente ».\n\nSur une nouvelle fiche RNCP/RS, deux sujets pèsent vite côté opérationnel : la passation d'épreuves à scale, et la traçabilité des résultats (audit Qualiopi, contrôle France Compétences).\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens sur laquelle vous déposez VOS propres épreuves (théoriques, pratiques, comportementales) et qui prend en charge :\n\n- Banque de questions structurée par bloc de compétences (alignée sur votre fiche RNCP)\n- Surveillance à distance (proctoring) avec preuves opposables\n- Correction automatique + rapports candidat/admin\n- Traçabilité complète des sessions, exportable pour audit\n- Génération automatique des attestations et duplicatas\n\nAvantage : vous gardez la main pédagogique sur le contenu et vous déléguez l'infrastructure de passation. Déploiement 4-6 semaines pour ouvrir la 1re session.\n\n20 minutes pour vous montrer comment ça tourne chez un certificateur de taille comparable ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource : https://www.francecompetences.fr/recherche/rncp/42957/"
     },
     "contacts_cibles": [
@@ -854,8 +854,8 @@
         ],
         "priorite": 1,
         "raison": "Pilote la déclaration et l'animation de la fiche déposée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=ASSOCIATION+PARITAIRE+POUR+LE+DEVELOPPEMENT+DU+DIALOGUE+SOCIAL+DANS+LA+BRANCHE+DU+COMMERCE+DE+DETAIL+ALIMENTAIRE+NON+SPE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ASSOCIATION%20PARITAIRE%20POUR%20LE%20DEVELOPPEMENT%20DU%20DIALOGUE%20SOCIAL%20DANS%20LA%20BRANCHE%20DU%20COMMERCE%20DE%20DETAIL%20ALIMENTAIRE%20NON%20SPE%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=FEDERATION+ENTREP+COMMERCE+DISTRIBUTION",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22FEDERATION%20ENTREP%20COMMERCE%20DISTRIBUTION%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
       },
       {
         "poste": "Directeur(rice) qualité / Responsable Qualiopi",
@@ -865,8 +865,8 @@
         ],
         "priorite": 2,
         "raison": "Garant de la traçabilité et de l'opposabilité en audit",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=ASSOCIATION+PARITAIRE+POUR+LE+DEVELOPPEMENT+DU+DIALOGUE+SOCIAL+DANS+LA+BRANCHE+DU+COMMERCE+DE+DETAIL+ALIMENTAIRE+NON+SPE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ASSOCIATION%20PARITAIRE%20POUR%20LE%20DEVELOPPEMENT%20DU%20DIALOGUE%20SOCIAL%20DANS%20LA%20BRANCHE%20DU%20COMMERCE%20DE%20DETAIL%20ALIMENTAIRE%20NON%20SPE%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=FEDERATION+ENTREP+COMMERCE+DISTRIBUTION",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22FEDERATION%20ENTREP%20COMMERCE%20DISTRIBUTION%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
       },
       {
         "poste": "Directeur(rice) pédagogique / Responsable ingénierie",
@@ -876,14 +876,14 @@
         ],
         "priorite": 3,
         "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=ASSOCIATION+PARITAIRE+POUR+LE+DEVELOPPEMENT+DU+DIALOGUE+SOCIAL+DANS+LA+BRANCHE+DU+COMMERCE+DE+DETAIL+ALIMENTAIRE+NON+SPE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ASSOCIATION%20PARITAIRE%20POUR%20LE%20DEVELOPPEMENT%20DU%20DIALOGUE%20SOCIAL%20DANS%20LA%20BRANCHE%20DU%20COMMERCE%20DE%20DETAIL%20ALIMENTAIRE%20NON%20SPE%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=FEDERATION+ENTREP+COMMERCE+DISTRIBUTION",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22FEDERATION%20ENTREP%20COMMERCE%20DISTRIBUTION%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
       }
     ]
   },
   {
     "id": "sig-2026-11-02-a6dbb6cd7bfd",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche",
     "compte": "INSTITUT D'ETUDES POLITIQUES DE LILLE",
@@ -893,8 +893,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rs/7802/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
+    "tier": 2,
+    "score": 77,
     "produit_match": [
       "ITS"
     ],
@@ -946,7 +946,7 @@
   },
   {
     "id": "sig-2026-11-02-2c8a3f5f81d8",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche",
     "compte": "INEA CONSEIL",
@@ -956,8 +956,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rs/7805/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
+    "tier": 2,
+    "score": 77,
     "produit_match": [
       "ITS"
     ],
@@ -1009,7 +1009,7 @@
   },
   {
     "id": "sig-2026-11-02-cf028511c304",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche",
     "compte": "AIVANCITY",
@@ -1019,8 +1019,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rs/7806/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
+    "tier": 2,
+    "score": 77,
     "produit_match": [
       "ITS"
     ],
@@ -1072,7 +1072,7 @@
   },
   {
     "id": "sig-2026-11-02-20aa931f59e5",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche",
     "compte": "WEBMARKETING & CO'M",
@@ -1082,8 +1082,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rs/7813/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
+    "tier": 2,
+    "score": 77,
     "produit_match": [
       "ITS"
     ],
@@ -1135,7 +1135,7 @@
   },
   {
     "id": "sig-2026-11-02-58c7a20e9c4b",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche",
     "compte": "MEDIABROS",
@@ -1145,8 +1145,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rs/7820/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
+    "tier": 2,
+    "score": 77,
     "produit_match": [
       "ITS"
     ],
@@ -1198,7 +1198,7 @@
   },
   {
     "id": "sig-2026-11-02-532a8619b480",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche",
     "compte": "AIVANCITY",
@@ -1208,8 +1208,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rs/7822/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
+    "tier": 2,
+    "score": 77,
     "produit_match": [
       "ITS"
     ],
@@ -1261,7 +1261,7 @@
   },
   {
     "id": "sig-2026-11-02-9c868b971d90",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche",
     "compte": "BI'COM",
@@ -1271,8 +1271,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rs/7827/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
+    "tier": 2,
+    "score": 77,
     "produit_match": [
       "ITS"
     ],
@@ -1324,7 +1324,7 @@
   },
   {
     "id": "sig-2026-11-02-af280637c56c",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche",
     "compte": "ETABLISSEMENT D'ENSEIGNEMENT SUPERIEUR CONSULAIRE GRENOBLE ECOLE DE MANAGEMENT",
@@ -1334,8 +1334,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rs/7828/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
+    "tier": 2,
+    "score": 77,
     "produit_match": [
       "ITS"
     ],
@@ -1387,7 +1387,7 @@
   },
   {
     "id": "sig-2026-11-02-48e3f4e1f11a",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche",
     "compte": "HOFI CERT.",
@@ -1397,8 +1397,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rs/7829/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
+    "tier": 2,
+    "score": 77,
     "produit_match": [
       "ITS"
     ],
@@ -1450,7 +1450,7 @@
   },
   {
     "id": "sig-2026-11-02-b77ea613f198",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🔥 Cible prioritaire · Fiche",
     "compte": "FORMANOW",
@@ -1460,8 +1460,8 @@
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rs/7834/",
     "signal_type": "rncp_open",
-    "tier": 1,
-    "score": 83,
+    "tier": 2,
+    "score": 77,
     "produit_match": [
       "ITS"
     ],
@@ -1513,7 +1513,7 @@
   },
   {
     "id": "sig-2026-11-02-9875964ccd9c",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 7",
     "compte": "OPERATING PARTNERS ACADEMY",
@@ -1524,7 +1524,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42935/",
     "signal_type": "rncp_open",
     "tier": 2,
-    "score": 72,
+    "score": 66,
     "produit_match": [
       "ITS"
     ],
@@ -1576,7 +1576,7 @@
   },
   {
     "id": "sig-2026-11-02-71f5e4652cb8",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 6",
     "compte": "ESGCV",
@@ -1587,7 +1587,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42941/",
     "signal_type": "rncp_open",
     "tier": 2,
-    "score": 72,
+    "score": 66,
     "produit_match": [
       "ITS"
     ],
@@ -1639,7 +1639,7 @@
   },
   {
     "id": "sig-2026-11-02-b00a238983b6",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 6",
     "compte": "ASSOCIATION DE FORMATION ET D INNOVATION POUR LES METIERS DE L INDUSTRIE ET DE LA MECANIQUE",
@@ -1650,7 +1650,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42942/",
     "signal_type": "rncp_open",
     "tier": 2,
-    "score": 72,
+    "score": 66,
     "produit_match": [
       "ITS"
     ],
@@ -1702,7 +1702,7 @@
   },
   {
     "id": "sig-2026-11-02-aec8cd82f1d4",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 4",
     "compte": "UNION DES INDUSTRIES ET DES METIERS DE LA METALLURGIE (UIMM)",
@@ -1713,7 +1713,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42931/",
     "signal_type": "rncp_open",
     "tier": 2,
-    "score": 67,
+    "score": 61,
     "produit_match": [
       "ITS"
     ],
@@ -1765,7 +1765,7 @@
   },
   {
     "id": "sig-2026-11-02-29e4ccb835b0",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 5",
     "compte": "INSTITUT JURIDIQUE D'AQUITAINE",
@@ -1776,7 +1776,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42943/",
     "signal_type": "rncp_open",
     "tier": 2,
-    "score": 67,
+    "score": 61,
     "produit_match": [
       "ITS"
     ],
@@ -1828,7 +1828,7 @@
   },
   {
     "id": "sig-2026-11-02-e0a74101f281",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 4",
     "compte": "UNION DES INDUSTRIES ET DES METIERS DE LA METALLURGIE (UIMM)",
@@ -1839,7 +1839,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42948/",
     "signal_type": "rncp_open",
     "tier": 2,
-    "score": 67,
+    "score": 61,
     "produit_match": [
       "ITS"
     ],
@@ -1891,7 +1891,7 @@
   },
   {
     "id": "sig-2026-11-02-e168ea8ee898",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 3",
     "compte": "FEDERATION ENTREP COMMERCE DISTRIBUTION",
@@ -1902,7 +1902,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42949/",
     "signal_type": "rncp_open",
     "tier": 2,
-    "score": 67,
+    "score": 61,
     "produit_match": [
       "ITS"
     ],
@@ -1953,19 +1953,19 @@
     ]
   },
   {
-    "id": "sig-2026-11-02-788d67ad9179",
-    "date_capture": "2026-11-12",
+    "id": "sig-2026-11-02-9cba67221667",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 3",
-    "compte": "ASSOCIATION PARITAIRE POUR LE DEVELOPPEMENT DU DIALOGUE SOCIAL DANS LA BRANCHE DU COMMERCE DE DETAIL ALIMENTAIRE NON SPE",
+    "compte": "FEDERATION ENTREP COMMERCE DISTRIBUTION",
     "titre": "Nouvelle fiche RNCP42951 — CQP Employé de magasin",
-    "description": "CQP Employé de magasin. Type :  (Niveau 3). Enregistrement sur demande. Décision du 2026-11-02. Certificateur(s) : ASSOCIATION PARITAIRE POUR LE DEVELOPPEMENT DU DIALOGUE SOCIAL DANS LA BRANCHE DU COMMERCE DE DETAIL ALIMENTAIRE NON SPE, FEDERATION ENTREP COMMERCE DISTRIBUTION.",
+    "description": "CQP Employé de magasin. Type :  (Niveau 3). Enregistrement sur demande. Décision du 2026-11-02. Certificateur(s) : FEDERATION ENTREP COMMERCE DISTRIBUTION, ASSOCIATION PARITAIRE POUR LE DEVELOPPEMENT DU DIALOGUE SOCIAL DANS LA BRANCHE DU COMMERCE DE DETAIL ALIMENTAIRE NON SPE.",
     "source": "France Compétences",
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rncp/42951/",
     "signal_type": "rncp_open",
     "tier": 2,
-    "score": 67,
+    "score": 61,
     "produit_match": [
       "ITS"
     ],
@@ -1975,7 +1975,7 @@
     "status": "new",
     "date_publication": "2026-11-02",
     "email_draft": {
-      "subject": "ASSOCIATION PARITAIRE POUR LE DEVELOPPEMENT DU DIALOGUE SOCIAL DANS LA BRANCHE DU COMMERCE DE DETAIL ALIMENTAIRE NON SPE — CQP Employé de magasin : comment vous outillez la passation ?",
+      "subject": "FEDERATION ENTREP COMMERCE DISTRIBUTION — CQP Employé de magasin : comment vous outillez la passation ?",
       "body": "Bonjour,\n\nJ'ai noté votre actualité : « CQP Employé de magasin ».\n\nSur une nouvelle fiche RNCP/RS, deux sujets pèsent vite côté opérationnel : la passation d'épreuves à scale, et la traçabilité des résultats (audit Qualiopi, contrôle France Compétences).\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens sur laquelle vous déposez VOS propres épreuves (théoriques, pratiques, comportementales) et qui prend en charge :\n\n- Banque de questions structurée par bloc de compétences (alignée sur votre fiche RNCP)\n- Surveillance à distance (proctoring) avec preuves opposables\n- Correction automatique + rapports candidat/admin\n- Traçabilité complète des sessions, exportable pour audit\n- Génération automatique des attestations et duplicatas\n\nAvantage : vous gardez la main pédagogique sur le contenu et vous déléguez l'infrastructure de passation. Déploiement 4-6 semaines pour ouvrir la 1re session.\n\n20 minutes pour vous montrer comment ça tourne chez un certificateur de taille comparable ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource : https://www.francecompetences.fr/recherche/rncp/42951/"
     },
     "contacts_cibles": [
@@ -1988,8 +1988,8 @@
         ],
         "priorite": 1,
         "raison": "Pilote la déclaration et l'animation de la fiche déposée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=ASSOCIATION+PARITAIRE+POUR+LE+DEVELOPPEMENT+DU+DIALOGUE+SOCIAL+DANS+LA+BRANCHE+DU+COMMERCE+DE+DETAIL+ALIMENTAIRE+NON+SPE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ASSOCIATION%20PARITAIRE%20POUR%20LE%20DEVELOPPEMENT%20DU%20DIALOGUE%20SOCIAL%20DANS%20LA%20BRANCHE%20DU%20COMMERCE%20DE%20DETAIL%20ALIMENTAIRE%20NON%20SPE%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=FEDERATION+ENTREP+COMMERCE+DISTRIBUTION",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22FEDERATION%20ENTREP%20COMMERCE%20DISTRIBUTION%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
       },
       {
         "poste": "Directeur(rice) qualité / Responsable Qualiopi",
@@ -1999,8 +1999,8 @@
         ],
         "priorite": 2,
         "raison": "Garant de la traçabilité et de l'opposabilité en audit",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=ASSOCIATION+PARITAIRE+POUR+LE+DEVELOPPEMENT+DU+DIALOGUE+SOCIAL+DANS+LA+BRANCHE+DU+COMMERCE+DE+DETAIL+ALIMENTAIRE+NON+SPE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ASSOCIATION%20PARITAIRE%20POUR%20LE%20DEVELOPPEMENT%20DU%20DIALOGUE%20SOCIAL%20DANS%20LA%20BRANCHE%20DU%20COMMERCE%20DE%20DETAIL%20ALIMENTAIRE%20NON%20SPE%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=FEDERATION+ENTREP+COMMERCE+DISTRIBUTION",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22FEDERATION%20ENTREP%20COMMERCE%20DISTRIBUTION%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
       },
       {
         "poste": "Directeur(rice) pédagogique / Responsable ingénierie",
@@ -2010,14 +2010,14 @@
         ],
         "priorite": 3,
         "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=ASSOCIATION+PARITAIRE+POUR+LE+DEVELOPPEMENT+DU+DIALOGUE+SOCIAL+DANS+LA+BRANCHE+DU+COMMERCE+DE+DETAIL+ALIMENTAIRE+NON+SPE",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ASSOCIATION%20PARITAIRE%20POUR%20LE%20DEVELOPPEMENT%20DU%20DIALOGUE%20SOCIAL%20DANS%20LA%20BRANCHE%20DU%20COMMERCE%20DE%20DETAIL%20ALIMENTAIRE%20NON%20SPE%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=FEDERATION+ENTREP+COMMERCE+DISTRIBUTION",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22FEDERATION%20ENTREP%20COMMERCE%20DISTRIBUTION%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
       }
     ]
   },
   {
     "id": "sig-2026-11-02-78d346fcd312",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 3",
     "compte": "FEDERATION ENTREP COMMERCE DISTRIBUTION",
@@ -2028,7 +2028,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42952/",
     "signal_type": "rncp_open",
     "tier": 2,
-    "score": 67,
+    "score": 61,
     "produit_match": [
       "ITS"
     ],
@@ -2080,7 +2080,7 @@
   },
   {
     "id": "sig-2026-11-02-88a054f9769a",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 3",
     "compte": "FEDERATION ENTREP COMMERCE DISTRIBUTION",
@@ -2091,7 +2091,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42959/",
     "signal_type": "rncp_open",
     "tier": 2,
-    "score": 67,
+    "score": 61,
     "produit_match": [
       "ITS"
     ],
@@ -2143,7 +2143,7 @@
   },
   {
     "id": "sig-2026-11-02-feadc17a263b",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 4",
     "compte": "FEDERATION ENTREP COMMERCE DISTRIBUTION",
@@ -2154,7 +2154,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42960/",
     "signal_type": "rncp_open",
     "tier": 2,
-    "score": 67,
+    "score": 61,
     "produit_match": [
       "ITS"
     ],
@@ -2206,7 +2206,7 @@
   },
   {
     "id": "sig-2026-11-02-73483d474db8",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 5",
     "compte": "ECOLE SUPERIEUR DES SERVICES",
@@ -2217,7 +2217,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42961/",
     "signal_type": "rncp_open",
     "tier": 2,
-    "score": 67,
+    "score": 61,
     "produit_match": [
       "ITS"
     ],
@@ -2269,7 +2269,7 @@
   },
   {
     "id": "sig-2026-11-02-12fe57efd544",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche Niveau 5",
     "compte": "ESGCV",
@@ -2280,7 +2280,7 @@
     "url": "https://www.francecompetences.fr/recherche/rncp/42962/",
     "signal_type": "rncp_open",
     "tier": 2,
-    "score": 67,
+    "score": 61,
     "produit_match": [
       "ITS"
     ],
@@ -2332,18 +2332,18 @@
   },
   {
     "id": "sig-2026-11-02-b9fd6f87553a",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche",
     "compte": "ASSOCIATION DE RECHERCHE ET DE FORMATION EN INTERVENTION SOCIALE-OCEAN INDIEN - IRTS REUNION-MAYOTTE - CREAI OI",
     "titre": "Nouvelle fiche RS7793 — Superviser et analyser les pratiques dans le champ social et médico-social",
-    "description": "Superviser et analyser les pratiques dans le champ social et médico-social. Type :  (). Enregistrement sur demande. Décision du 2026-11-02. Certificateur(s) : ASSOCIATION DE RECHERCHE ET DE FORMATION EN INTERVENTION SOCIALE-OCEAN INDIEN - IRTS REUNION-MAYOTTE - CREAI OI, HAUTE ECOLE DU TRAVAIL ET DE L'INTERVENTION SOCIALE (ECOLE DE SERVICE SOCIAL) (HETIS), SITE METROPOLE LILLOISE ….",
+    "description": "Superviser et analyser les pratiques dans le champ social et médico-social. Type :  (). Enregistrement sur demande. Décision du 2026-11-02. Certificateur(s) : ASSOCIATION DE RECHERCHE ET DE FORMATION EN INTERVENTION SOCIALE-OCEAN INDIEN - IRTS REUNION-MAYOTTE - CREAI OI, ARIFTS - SAFRANTS, HAUTE ECOLE DU TRAVAIL ET DE L'INTERVENTION SOCIALE (ECOLE DE SERVICE SOCIAL) (HETIS) ….",
     "source": "France Compétences",
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rs/7793/",
     "signal_type": "rncp_open",
     "tier": 2,
-    "score": 67,
+    "score": 61,
     "produit_match": [
       "ITS"
     ],
@@ -2395,7 +2395,7 @@
   },
   {
     "id": "sig-2026-11-02-15f214fe9df6",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche",
     "compte": "LYCEE POLYVALENT ETAT LAETITIA BONAPARTE",
@@ -2406,7 +2406,7 @@
     "url": "https://www.francecompetences.fr/recherche/rs/7794/",
     "signal_type": "rncp_open",
     "tier": 2,
-    "score": 67,
+    "score": 61,
     "produit_match": [
       "ITS"
     ],
@@ -2458,7 +2458,7 @@
   },
   {
     "id": "sig-2026-11-02-a7d94e212681",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche",
     "compte": "NAILS EXPERT",
@@ -2469,7 +2469,7 @@
     "url": "https://www.francecompetences.fr/recherche/rs/7795/",
     "signal_type": "rncp_open",
     "tier": 2,
-    "score": 67,
+    "score": 61,
     "produit_match": [
       "ITS"
     ],
@@ -2521,7 +2521,7 @@
   },
   {
     "id": "sig-2026-11-02-53513ea21677",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche",
     "compte": "UNIVERSITE D'ORLEANS",
@@ -2532,7 +2532,7 @@
     "url": "https://www.francecompetences.fr/recherche/rs/7797/",
     "signal_type": "rncp_open",
     "tier": 2,
-    "score": 67,
+    "score": 61,
     "produit_match": [
       "ITS"
     ],
@@ -2584,7 +2584,7 @@
   },
   {
     "id": "sig-2026-11-02-41baa5a4f314",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche",
     "compte": "CAMBRIDGE ASSESSMENT OVERSEAS LIMITED",
@@ -2595,7 +2595,7 @@
     "url": "https://www.francecompetences.fr/recherche/rs/7799/",
     "signal_type": "rncp_open",
     "tier": 2,
-    "score": 67,
+    "score": 61,
     "produit_match": [
       "ITS"
     ],
@@ -2647,7 +2647,7 @@
   },
   {
     "id": "sig-2026-11-02-23b6ca5b7d59",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche",
     "compte": "L&A SERRA",
@@ -2658,7 +2658,7 @@
     "url": "https://www.francecompetences.fr/recherche/rs/7800/",
     "signal_type": "rncp_open",
     "tier": 2,
-    "score": 67,
+    "score": 61,
     "produit_match": [
       "ITS"
     ],
@@ -2710,7 +2710,7 @@
   },
   {
     "id": "sig-2026-11-02-2c74544b5c2e",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche",
     "compte": "SATTVA YOGA SHALA",
@@ -2721,7 +2721,7 @@
     "url": "https://www.francecompetences.fr/recherche/rs/7801/",
     "signal_type": "rncp_open",
     "tier": 2,
-    "score": 67,
+    "score": 61,
     "produit_match": [
       "ITS"
     ],
@@ -2773,7 +2773,7 @@
   },
   {
     "id": "sig-2026-11-02-0a7cadffb831",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche",
     "compte": "GROUPE PROACTIV",
@@ -2784,7 +2784,7 @@
     "url": "https://www.francecompetences.fr/recherche/rs/7803/",
     "signal_type": "rncp_open",
     "tier": 2,
-    "score": 67,
+    "score": 61,
     "produit_match": [
       "ITS"
     ],
@@ -2836,7 +2836,7 @@
   },
   {
     "id": "sig-2026-11-02-4a4634066d7a",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche",
     "compte": "IDEEREKA",
@@ -2847,7 +2847,7 @@
     "url": "https://www.francecompetences.fr/recherche/rs/7804/",
     "signal_type": "rncp_open",
     "tier": 2,
-    "score": 67,
+    "score": 61,
     "produit_match": [
       "ITS"
     ],
@@ -2899,7 +2899,7 @@
   },
   {
     "id": "sig-2026-11-02-a861d6587e46",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche",
     "compte": "AIVANCITY",
@@ -2910,7 +2910,7 @@
     "url": "https://www.francecompetences.fr/recherche/rs/7807/",
     "signal_type": "rncp_open",
     "tier": 2,
-    "score": 67,
+    "score": 61,
     "produit_match": [
       "ITS"
     ],
@@ -2962,7 +2962,7 @@
   },
   {
     "id": "sig-2026-11-02-5842bc69546f",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche",
     "compte": "MY MUSIC ADS",
@@ -2973,7 +2973,7 @@
     "url": "https://www.francecompetences.fr/recherche/rs/7809/",
     "signal_type": "rncp_open",
     "tier": 2,
-    "score": 67,
+    "score": 61,
     "produit_match": [
       "ITS"
     ],
@@ -3024,19 +3024,19 @@
     ]
   },
   {
-    "id": "sig-2026-11-02-c37e72801494",
-    "date_capture": "2026-11-12",
+    "id": "sig-2026-11-02-2327f3af7222",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche",
-    "compte": "AUTONOMII EVALUATION",
+    "compte": "4 AS",
     "titre": "Nouvelle fiche RS7810 — Réaliser des évaluations de la qualité de l'accompagnement auprès des ESSMS",
-    "description": "Réaliser des évaluations de la qualité de l'accompagnement auprès des ESSMS. Type :  (). Enregistrement sur demande. Décision du 2026-11-02. Certificateur(s) : AUTONOMII EVALUATION, 4 AS.",
+    "description": "Réaliser des évaluations de la qualité de l'accompagnement auprès des ESSMS. Type :  (). Enregistrement sur demande. Décision du 2026-11-02. Certificateur(s) : 4 AS, AUTONOMII EVALUATION.",
     "source": "France Compétences",
     "source_tier": 1,
     "url": "https://www.francecompetences.fr/recherche/rs/7810/",
     "signal_type": "rncp_open",
     "tier": 2,
-    "score": 67,
+    "score": 61,
     "produit_match": [
       "ITS"
     ],
@@ -3046,7 +3046,7 @@
     "status": "new",
     "date_publication": "2026-11-02",
     "email_draft": {
-      "subject": "AUTONOMII EVALUATION — Réaliser des évaluations de la qualité : comment vous outillez la passation ?",
+      "subject": "4 AS — Réaliser des évaluations de la qualité : comment vous outillez la passation ?",
       "body": "Bonjour,\n\nJ'ai noté votre actualité : « Réaliser des évaluations de la qualité de l'accompagnement auprès des ESSMS ».\n\nSur une nouvelle fiche RNCP/RS, deux sujets pèsent vite côté opérationnel : la passation d'épreuves à scale, et la traçabilité des résultats (audit Qualiopi, contrôle France Compétences).\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens sur laquelle vous déposez VOS propres épreuves (théoriques, pratiques, comportementales) et qui prend en charge :\n\n- Banque de questions structurée par bloc de compétences (alignée sur votre fiche RNCP)\n- Surveillance à distance (proctoring) avec preuves opposables\n- Correction automatique + rapports candidat/admin\n- Traçabilité complète des sessions, exportable pour audit\n- Génération automatique des attestations et duplicatas\n\nAvantage : vous gardez la main pédagogique sur le contenu et vous déléguez l'infrastructure de passation. Déploiement 4-6 semaines pour ouvrir la 1re session.\n\n20 minutes pour vous montrer comment ça tourne chez un certificateur de taille comparable ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource : https://www.francecompetences.fr/recherche/rs/7810/"
     },
     "contacts_cibles": [
@@ -3059,8 +3059,8 @@
         ],
         "priorite": 1,
         "raison": "Pilote la déclaration et l'animation de la fiche déposée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=AUTONOMII+EVALUATION",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22AUTONOMII%20EVALUATION%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Responsable+RNCP+%2F+R%C3%A9f%C3%A9rent+certifications%22+OR+%22Responsable+RS%22+OR+%22Responsable+habilitation%22+OR+%22R%C3%A9f%C3%A9rent+France+Comp%C3%A9tences%22&currentCompany=4+AS",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%224%20AS%22%20Responsable%20RNCP%20/%20R%C3%A9f%C3%A9rent%20certifications%20Responsable%20RS%20Responsable%20habilitation%20R%C3%A9f%C3%A9rent%20France%20Comp%C3%A9tences"
       },
       {
         "poste": "Directeur(rice) qualité / Responsable Qualiopi",
@@ -3070,8 +3070,8 @@
         ],
         "priorite": 2,
         "raison": "Garant de la traçabilité et de l'opposabilité en audit",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=AUTONOMII+EVALUATION",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22AUTONOMII%20EVALUATION%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+qualit%C3%A9+%2F+Responsable+Qualiopi%22+OR+%22RAQ%22+OR+%22R%C3%A9f%C3%A9rent+qualit%C3%A9%22&currentCompany=4+AS",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%224%20AS%22%20Directeur%28rice%29%20qualit%C3%A9%20/%20Responsable%20Qualiopi%20RAQ%20R%C3%A9f%C3%A9rent%20qualit%C3%A9"
       },
       {
         "poste": "Directeur(rice) pédagogique / Responsable ingénierie",
@@ -3081,14 +3081,14 @@
         ],
         "priorite": 3,
         "raison": "Conçoit le dispositif d'évaluation aligné avec les blocs de compétences",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=AUTONOMII+EVALUATION",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22AUTONOMII%20EVALUATION%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+p%C3%A9dagogique+%2F+Responsable+ing%C3%A9nierie%22+OR+%22Directeur%28rice%29+des+programmes%22+OR+%22Responsable+ing%C3%A9nierie+certification%22&currentCompany=4+AS",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%224%20AS%22%20Directeur%28rice%29%20p%C3%A9dagogique%20/%20Responsable%20ing%C3%A9nierie%20Directeur%28rice%29%20des%20programmes%20Responsable%20ing%C3%A9nierie%20certification"
       }
     ]
   },
   {
     "id": "sig-2026-11-02-c8bf08af0ec8",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "rncp",
     "sous_segment": "🟡 À qualifier · Fiche",
     "compte": "CMPA FORMATIONS",
@@ -3099,7 +3099,7 @@
     "url": "https://www.francecompetences.fr/recherche/rs/7811/",
     "signal_type": "rncp_open",
     "tier": 2,
-    "score": 67,
+    "score": 61,
     "produit_match": [
       "ITS"
     ],

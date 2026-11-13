@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-11-12-41ad3be07956",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "filière du nucléaire",
@@ -29,37 +29,46 @@
     "contacts_cibles": []
   },
   {
-    "id": "sig-2026-10-20-003d8d683d12",
-    "date_capture": "2026-11-12",
+    "id": "sig-2026-11-13-f17fb8a51ea9",
+    "date_capture": "2026-11-13",
     "vertical": "corporate",
     "sous_segment": "entreprise",
-    "compte": "Amazon",
-    "titre": "Amazon va recruter plus de 300 000 salariés pour la période des fêtes, une première hausse des embauches en trois ans",
-    "description": "Amazon va recruter plus de 300 000 salariés pour la période des fêtes, une première hausse des embauches en trois ans Zonebourse",
-    "source": "Zonebourse (via Google News)",
+    "compte": "Spie CityNetworks",
+    "titre": "Spie CityNetworks nomme une nouvelle DRH issue du groupe",
+    "description": "Spie CityNetworks nomme une nouvelle DRH issue du groupe Le Moniteur",
+    "source": "Le Moniteur (via Google News)",
     "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMDhZbHVYV190Y3pVOU54aFBNMVFGVThwdjJRRnFWVTNUNkZ1cERDYzFDanlMNktoTjg0bzJsYXladjdjX0V6a3M4UFdmYmU3REFvdlBpR1EzWEZtLTZWZ253TzJ4NUpRdWFibHBnZnRQTGNMM3dYTmRtdS0zXzNSRTIyM3dCYWFfZjg2dGZnRUdQX21Hb0JwQms2OEl2TVUwUnJBVUZobTJPeEZXZnpodGlsR1VJUE9DWUtBbWhXaWlubnA3elJHSDd0Ull2NHg4LVZtRU9QdG1fTWhNN0ZpY0VGMGowU0xPdnQzV1h2VjI?oc=5",
-    "signal_type": "plan_recrutement",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWmg4VEhRVHJKUE0yeE1yQ25vVnQ1SmVRZWFjSjBROG1pOGE5cWY4dy1ldFEyMUN0MGJkbE1IMF93MVdRTVI5TTFpTHlkS3lUWlNFdVRrcE1IamluNnF6bmxYRlZhRVJOVElXdmFLcEZmT1ZDa3JoRXJINjZob1hPZklyOGowRmpwYmFBLU41UU9WN3BnMDA1dmNhUk5zeTBpaGF4RzhpNHVJMnNXM25vV0dza3NmaGd2MkJ0Y2x6M05HQloxS19UcFV1ZElxQ0JMVUxr?oc=5",
+    "signal_type": "nomination_chro",
     "tier": 1,
-    "score": 93,
+    "score": 90,
     "produit_match": [
-      "ITS"
+      "ITS",
+      "Tosa Corporate"
     ],
     "owner": null,
-    "action_reco": "Amazon : ~300000 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
+    "action_reco": "Fenêtre prise de poste ~30j : InMail/email à la nouvelle DRH (Spie CityNetworks) — angle outillage évaluation des compétences (ITS + Tosa).",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-10-20",
+    "date_publication": "2026-11-13",
     "email_draft": {
-      "subject": "Amazon — fiabiliser la pré-qualification de vos recrutements",
-      "body": "Bonjour,\n\nJ'ai lu que Amazon prépare une campagne de recrutement importante (Amazon va recruter plus de 300 000 salariés pour la période des fêtes, une première hausse…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
-      "url_source": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMDhZbHVYV190Y3pVOU54aFBNMVFGVThwdjJRRnFWVTNUNkZ1cERDYzFDanlMNktoTjg0bzJsYXladjdjX0V6a3M4UFdmYmU3REFvdlBpR1EzWEZtLTZWZ253TzJ4NUpRdWFibHBnZnRQTGNMM3dYTmRtdS0zXzNSRTIyM3dCYWFfZjg2dGZnRUdQX21Hb0JwQms2OEl2TVUwUnJBVUZobTJPeEZXZnpodGlsR1VJUE9DWUtBbWhXaWlubnA3elJHSDd0Ull2NHg4LVZtRU9QdG1fTWhNN0ZpY0VGMGowU0xPdnQzV1h2VjI?oc=5"
+      "subject": "Félicitations pour votre nomination DRH chez Spie CityNetworks",
+      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez Spie CityNetworks. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWmg4VEhRVHJKUE0yeE1yQ25vVnQ1SmVRZWFjSjBROG1pOGE5cWY4dy1ldFEyMUN0MGJkbE1IMF93MVdRTVI5TTFpTHlkS3lUWlNFdVRrcE1IamluNnF6bmxYRlZhRVJOVElXdmFLcEZmT1ZDa3JoRXJINjZob1hPZklyOGowRmpwYmFBLU41UU9WN3BnMDA1dmNhUk5zeTBpaGF4RzhpNHVJMnNXM25vV0dza3NmaGd2MkJ0Y2x6M05HQloxS19UcFV1ZElxQ0JMVUxr?oc=5"
     },
-    "contacts_cibles": []
+    "contacts_cibles": [
+      {
+        "poste": "La personne nommée (cible directe)",
+        "alternatives": [],
+        "priorite": 1,
+        "raison": "Fenêtre 30j post-prise de poste = haute disposition aux nouveaux outils",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22La+personne+nomm%C3%A9e+%28cible+directe%29%22&currentCompany=Spie+CityNetworks",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Spie%20CityNetworks%22%20La%20personne%20nomm%C3%A9e%20%28cible%20directe%29"
+      }
+    ]
   },
   {
     "id": "sig-2026-10-27-d09dd663468a",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "groupe au 1er décembre 2026",
@@ -97,7 +106,7 @@
   },
   {
     "id": "sig-2026-11-06-856e424a75bc",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Antargaz Énergies à Paris",
@@ -135,7 +144,7 @@
   },
   {
     "id": "sig-2026-11-10-386c0fab6c19",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "L’Oréal France",
@@ -173,7 +182,7 @@
   },
   {
     "id": "sig-2026-11-12-dce4c1f53aa7",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Maddyness)",
     "compte": "Agile",
@@ -236,7 +245,7 @@
   },
   {
     "id": "sig-2026-11-12-648be3f4e330",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Uforce",
@@ -299,7 +308,7 @@
   },
   {
     "id": "sig-2026-11-12-85f73a93af4a",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "SoftBank",
@@ -362,7 +371,7 @@
   },
   {
     "id": "sig-2026-11-12-905e414c8528",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Orakl Oncology",
@@ -424,71 +433,8 @@
     ]
   },
   {
-    "id": "sig-2026-11-10-6f6f9ea86f55",
-    "date_capture": "2026-11-12",
-    "vertical": "corporate",
-    "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
-    "compte": "Sumary",
-    "titre": "AI accounting startup Sumary raises $25m seed",
-    "description": "",
-    "source": "Sifted",
-    "source_tier": 1,
-    "url": "https://sifted.eu/articles/sumary-seed-fundraise/",
-    "signal_type": "levee_fonds",
-    "tier": 2,
-    "score": 65,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Source** : https://sifted.eu/articles/sumary-seed-fundraise/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 25.0M USD (~23.0M€) → Series B+, structuration des processus RH en cours\n🎯 Fenêtre 60j (timing optimal post-Series B)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-11-10",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-11-10",
-    "email_draft": {
-      "subject": "Sumary — votre Series — sur l'évaluation candidats à scale",
-      "body": "Bonjour,\n\nJe viens de voir que Sumary a bouclé une levée de 25.0M USD (~23.0M€). Bravo pour cette étape.\n\nPost-Series B, c'est le moment où la plupart des scale-ups structurent leur process d'éval candidats. Avant que le volume devienne incontrôlable.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/sumary-seed-fundraise/"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Chief People Officer",
-        "alternatives": [
-          "Head of People",
-          "VP People",
-          "DRH"
-        ],
-        "priorite": 1,
-        "raison": "Décide outils RH stratégiques post-levée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=Sumary",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Sumary%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
-      },
-      {
-        "poste": "Head of Talent Acquisition",
-        "alternatives": [
-          "Talent Acquisition Director",
-          "Head of Recruiting"
-        ],
-        "priorite": 2,
-        "raison": "Opérationnel — gère le plan de recrutement massif",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=Sumary",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Sumary%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
-      },
-      {
-        "poste": "Head of Hiring",
-        "alternatives": [
-          "Hiring Manager",
-          "Recruitment Director"
-        ],
-        "priorite": 3,
-        "raison": "Sous-décideur — peut tester l'outil rapidement",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=Sumary",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Sumary%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
-      }
-    ]
-  },
-  {
     "id": "sig-2026-11-10-9a0e0c824bce",
-    "date_capture": "2026-11-12",
+    "date_capture": "2026-11-13",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Exclusive",
