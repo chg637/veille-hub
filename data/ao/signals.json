@@ -1,12 +1,12 @@
 [
   {
     "id": "sig-2026-11-06-92b097f3b0ce",
-    "date_capture": "2026-11-13",
+    "date_capture": "2026-11-14",
     "vertical": "ao",
     "sous_segment": "Marché public Collectivité",
     "compte": "Ecole Régionale d'Administration Publique asbl",
     "titre": "DEVELOPPEMENT DE PROGRAMMES ET DE MODULES D’APPRENTISSAGE EN E-LEARNING DANS LES THEMATIQUES DES MARCHES PUBLICS ET DE L’ORGANISATION FINANCIERE DES ADMINISTRATIONS COMMUNALES ET DES CPAS BRUXELLOIS",
-    "description": "[CPV 72212190] Objets des services du marché : DEVELOPPEMENT DE PROGRAMMES ET DE MODULES DE FORMATION EN E-LEARNING DANS LES THEMATIQUES DES MARCHES PUBLICS ET DE L’ORGANISATION FINANCIERE DES ADMINISTRATIONS COMMUNALES ET DES CPAS BRUXELLOIS.  Le marché public est divisé en lots. Les soumissionnaires sont libres d’introduire une offre pour un ou pour plusieurs lots.   L’ensemble des lots organisés par le présen",
+    "description": "[CPV 72212190] Voorwerp van de diensten van de opdracht: ONTWIKKELING VAN E-LEARNINGOPLEIDINGSPROGRAMMA’S EN -MODULES OVER OVERHEIDSOPDRACHTEN EN DE FINANCIËLE ORGANISATIE VAN DE BRUSSELSE GEMEENTEBESTUREN EN OCMW’S.  De overheidsopdracht is opgedeeld in percelen. De inschrijvers kunnen naar keuze een offerte indienen voor één of meerdere percelen.   Alle percelen van deze opdracht hebben betrekking op de uitwer",
     "source": "BOSA (via Radar AO)",
     "source_tier": 2,
     "url": "https://www.publicprocurement.be/publication-workspaces/097d96ea-31ca-495a-947b-e94be11b7394/general",
@@ -53,7 +53,7 @@
   },
   {
     "id": "sig-2026-05-19-c8342a26e939",
-    "date_capture": "2026-11-13",
+    "date_capture": "2026-11-14",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "Université Paris-Saclay",
@@ -105,7 +105,7 @@
   },
   {
     "id": "sig-2026-05-11-64ab3dd75a34",
-    "date_capture": "2026-11-13",
+    "date_capture": "2026-11-14",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "NEOMA Business School (Reims)",
@@ -157,7 +157,7 @@
   },
   {
     "id": "sig-2026-11-06-3b916fffd504",
-    "date_capture": "2026-11-13",
+    "date_capture": "2026-11-14",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "VISTA college",
@@ -208,60 +208,8 @@
     ]
   },
   {
-    "id": "sig-2026-11-03-4d0da253385d",
-    "date_capture": "2026-11-13",
-    "vertical": "ao",
-    "sous_segment": "Marché public — secteur à qualifier",
-    "compte": "Société nationale SNCF",
-    "titre": "France – Services de certification – JOUE - Évaluations et certifications selon les normes ISO ou autres référentiels pour SNCF",
-    "description": "[CPV 79132000] Prestations d’audits, d’évaluations et de certifications sous accréditation des entités du Groupe SNCF selon les normes ISO (9001, 14001, 20000-1, 27001, 39001, 45001, 50001, 55001) et autres référentiels associés. Les prestations couvrent les certifications initiales, les audits de suivi, de renouvellement, d’extension ainsi que les évaluations spécifiques et prestations d’expertise associées. / ",
-    "source": "TED (via Radar AO)",
-    "source_tier": 1,
-    "url": "https://ted.europa.eu/fr/notice/-/detail/760947-2026",
-    "signal_type": "ao_publie",
-    "tier": 2,
-    "score": 74,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Récupérer le DCE complet** sur https://ted.europa.eu/fr/notice/-/detail/760947-2026\n🎯 **Décideur cible** : À enrichir via LinkedIn Sales Nav + site officiel de l'acheteur\n💡 **Angle de valeur** : ITS comme plateforme de passation de la certification : banque de questions, proctoring, attestations opposables en audit\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS à mapper via questions de cadrage : Explorance, EvaluationKIT, Sphinx, EvalandGo, ExamSoft, plateformes internes\n⏰ Deadline : 2026-11-23 → calculer J-jours et caler les ressources dès maintenant.",
-    "deadline_action": "2026-11-23",
-    "status": "new",
-    "date_publication": "2026-11-03",
-    "email_draft": {
-      "subject": "AO Société nationale SNCF — ISOGRAD souhaite candidater",
-      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"France – Services de certification – JOUE - Évaluations et certifications selon les normes ISO ou autres référentiels pour SNCF\"\nDeadline : 2026-11-23\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://ted.europa.eu/fr/notice/-/detail/760947-2026"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Acheteur public référencé sur l'AO",
-        "alternatives": [
-          "RAQ",
-          "Responsable des achats"
-        ],
-        "priorite": 1,
-        "raison": "Référent direct de la consultation",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=Soci%C3%A9t%C3%A9+nationale+SNCF",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Soci%C3%A9t%C3%A9%20nationale%20SNCF%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
-      },
-      {
-        "poste": "Décideur métier (variable selon segment)",
-        "alternatives": [
-          "Direction des examens (ESR)",
-          "Direction des soins (FPH)",
-          "DRH (Collectivité)"
-        ],
-        "priorite": 2,
-        "raison": "Sponsorise le besoin métier en amont",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=Soci%C3%A9t%C3%A9+nationale+SNCF",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Soci%C3%A9t%C3%A9%20nationale%20SNCF%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
-      }
-    ]
-  },
-  {
     "id": "sig-2026-10-15-339f94f13f59",
-    "date_capture": "2026-11-13",
+    "date_capture": "2026-11-14",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "Université de Liège (3P)",
@@ -312,60 +260,8 @@
     ]
   },
   {
-    "id": "sig-2026-10-22-d7c9f92bb206",
-    "date_capture": "2026-11-13",
-    "vertical": "ao",
-    "sous_segment": "Marché public — secteur à qualifier",
-    "compte": "Lycee Des Metiers Pablo Neruda",
-    "titre": "ACQUISITION D'EQUIPEMENTS SPECIFIQUES DESTINES A L'EQUIPEMENT D'UN PLATEAU TECHNIQUE PEDAGOGIQUE \"SMART GRID\" AU LYCEE PABLO NERUDA (38)",
-    "description": "ACQUISITION D'EQUIPEMENTS SPECIFIQUES DESTINES A L'EQUIPEMENT D'UN PLATEAU TECHNIQUE PEDAGOGIQUE \"SMART GRID\" AU LYCEE PABLO NERUDA (38). Descripteurs : Matériel électrique, Formation, Informatique (matériel), Climatisation.",
-    "source": "BOAMP (API directe)",
-    "source_tier": 1,
-    "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-102162",
-    "signal_type": "ao_publie",
-    "tier": 2,
-    "score": 70,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Récupérer le DCE complet** sur https://www.boamp.fr/pages/avis/?q=idweb:26-102162\n🎯 **Décideur cible** : À enrichir via LinkedIn Sales Nav + site officiel de l'acheteur\n💡 **Angle de valeur** : ITS comme back-end éval intégrable à votre SI : banque de questions paramétrable, exports complets, multi-rôles candidat/admin/OF\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS à mapper via questions de cadrage : Explorance, EvaluationKIT, Sphinx, EvalandGo, ExamSoft, plateformes internes\n⏰ Deadline : 2026-11-20 → calculer J-jours et caler les ressources dès maintenant.",
-    "deadline_action": "2026-11-20",
-    "status": "new",
-    "date_publication": "2026-10-22",
-    "email_draft": {
-      "subject": "AO Lycee Des Metiers Pablo Neruda — ISOGRAD souhaite candidater",
-      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"ACQUISITION D'EQUIPEMENTS SPECIFIQUES DESTINES A L'EQUIPEMENT D'UN PLATEAU TECHNIQUE PEDAGOGIQUE \"SMART GRID\" AU LYCEE PABLO NERUDA (38)\"\nDeadline : 2026-11-20\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://www.boamp.fr/pages/avis/?q=idweb:26-102162"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Acheteur public référencé sur l'AO",
-        "alternatives": [
-          "RAQ",
-          "Responsable des achats"
-        ],
-        "priorite": 1,
-        "raison": "Référent direct de la consultation",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=Lycee+Des+Metiers+Pablo+Neruda",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Lycee%20Des%20Metiers%20Pablo%20Neruda%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
-      },
-      {
-        "poste": "Décideur métier (variable selon segment)",
-        "alternatives": [
-          "Direction des examens (ESR)",
-          "Direction des soins (FPH)",
-          "DRH (Collectivité)"
-        ],
-        "priorite": 2,
-        "raison": "Sponsorise le besoin métier en amont",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=Lycee+Des+Metiers+Pablo+Neruda",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Lycee%20Des%20Metiers%20Pablo%20Neruda%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
-      }
-    ]
-  },
-  {
     "id": "sig-2026-10-30-ee124ec59e65",
-    "date_capture": "2026-11-13",
+    "date_capture": "2026-11-14",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Stichting Regionaal Opleidingencentrum van Twente",
@@ -417,7 +313,7 @@
   },
   {
     "id": "sig-2026-11-03-0330ca69cd02",
-    "date_capture": "2026-11-13",
+    "date_capture": "2026-11-14",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Société nationale SNCF",
@@ -469,7 +365,7 @@
   },
   {
     "id": "sig-2026-11-12-5f3dd67c3f6c",
-    "date_capture": "2026-11-13",
+    "date_capture": "2026-11-14",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "MERCATOR OCEAN",
@@ -521,7 +417,7 @@
   },
   {
     "id": "sig-2026-10-02-70e5e4e1b0d1",
-    "date_capture": "2026-11-13",
+    "date_capture": "2026-11-14",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "Universiteit Utrecht",
@@ -573,7 +469,7 @@
   },
   {
     "id": "sig-2026-11-05-7fa23976618b",
-    "date_capture": "2026-11-13",
+    "date_capture": "2026-11-14",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Saint-Josse-ten-Noode",
@@ -590,7 +486,7 @@
     ],
     "owner": "Charles",
     "action_reco": "📋 **Récupérer le DCE complet** sur https://www.publicprocurement.be/publication-workspaces/7a1ab95d-cd44-4358-b69e-8fcb2adff75a/general\n🎯 **Décideur cible** : À enrichir via LinkedIn Sales Nav + site officiel de l'acheteur\n💡 **Angle de valeur** : ITS comme plateforme de passation de la certification : banque de questions, proctoring, attestations opposables en audit\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS à mapper via questions de cadrage : Explorance, EvaluationKIT, Sphinx, EvalandGo, ExamSoft, plateformes internes",
-    "deadline_action": "2026-11-20",
+    "deadline_action": "2026-11-21",
     "status": "new",
     "date_publication": "2026-11-05",
     "email_draft": {
@@ -625,7 +521,7 @@
   },
   {
     "id": "sig-2026-10-13-454eb1b96730",
-    "date_capture": "2026-11-13",
+    "date_capture": "2026-11-14",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "CENTRE FRANCOIS BACLESSE",
@@ -676,60 +572,8 @@
     ]
   },
   {
-    "id": "sig-2026-10-14-0d1990651226",
-    "date_capture": "2026-11-13",
-    "vertical": "ao",
-    "sous_segment": "Marché public — secteur à qualifier",
-    "compte": "Direction de la Technique et de l'Innovation",
-    "titre": "Service de télémétrie et d'analyse des données datalink ATN/VDL2 et SATCOM",
-    "description": "Il s'agit de mettre en place les moyens d'analyse et de supervision en temps réel des services d'échanges de données entre pilotes et contrôleurs . Ces services datalink sont devenus critiques pour le contrôle aérien avec des exigences de performance de télécommunication soumises à une règlementation européenne. A ce titre, la DSNA se dote d'un service de télémétrie et d'analyse performant pour s'",
-    "source": "TED (Tenders Electronic Daily UE)",
-    "source_tier": 1,
-    "url": "https://ted.europa.eu/fr/notice/-/detail/709660-2026",
-    "signal_type": "ao_publie",
-    "tier": 2,
-    "score": 65,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Récupérer le DCE complet** sur https://ted.europa.eu/fr/notice/-/detail/709660-2026\n🎯 **Décideur cible** : À enrichir via LinkedIn Sales Nav + site officiel de l'acheteur\n💡 **Angle de valeur** : ITS en SaaS multi-tenant : déploiement 4-6 semaines, scalable, zéro infra à maintenir côté acheteur\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS à mapper via questions de cadrage : Explorance, EvaluationKIT, Sphinx, EvalandGo, ExamSoft, plateformes internes",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-10-14",
-    "email_draft": {
-      "subject": "AO Direction de la Technique et de l'Innovation — ISOGRAD souhaite candidater",
-      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"Service de télémétrie et d'analyse des données datalink ATN/VDL2 et SATCOM\"\nDeadline : à définir\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://ted.europa.eu/fr/notice/-/detail/709660-2026"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Acheteur public référencé sur l'AO",
-        "alternatives": [
-          "RAQ",
-          "Responsable des achats"
-        ],
-        "priorite": 1,
-        "raison": "Référent direct de la consultation",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=Direction+de+la+Technique+et+de+l%27Innovation",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Direction%20de%20la%20Technique%20et%20de%20l%27Innovation%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
-      },
-      {
-        "poste": "Décideur métier (variable selon segment)",
-        "alternatives": [
-          "Direction des examens (ESR)",
-          "Direction des soins (FPH)",
-          "DRH (Collectivité)"
-        ],
-        "priorite": 2,
-        "raison": "Sponsorise le besoin métier en amont",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=Direction+de+la+Technique+et+de+l%27Innovation",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Direction%20de%20la%20Technique%20et%20de%20l%27Innovation%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
-      }
-    ]
-  },
-  {
     "id": "sig-2026-10-15-3f6b6b45fbf6",
-    "date_capture": "2026-11-13",
+    "date_capture": "2026-11-14",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "CNRS Délégation ALSACE",
@@ -781,7 +625,7 @@
   },
   {
     "id": "sig-2026-10-20-cdee17d7eb6f",
-    "date_capture": "2026-11-13",
+    "date_capture": "2026-11-14",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "Université de technologie de Compiègne (U.T.C.)",
@@ -833,7 +677,7 @@
   },
   {
     "id": "sig-2026-10-21-36d0de3e9d4e",
-    "date_capture": "2026-11-13",
+    "date_capture": "2026-11-14",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Ecole Régionale d'Administration publique ASBL",
@@ -885,7 +729,7 @@
   },
   {
     "id": "sig-2026-10-22-48b0b2c20181",
-    "date_capture": "2026-11-13",
+    "date_capture": "2026-11-14",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Ifremer",
@@ -937,7 +781,7 @@
   },
   {
     "id": "sig-2026-10-27-18e39b0a6ead",
-    "date_capture": "2026-11-13",
+    "date_capture": "2026-11-14",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "AFNOR",
@@ -989,7 +833,7 @@
   },
   {
     "id": "sig-2026-11-02-f78701744e59",
-    "date_capture": "2026-11-13",
+    "date_capture": "2026-11-14",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Commissariat à l'énergie atomique et aux énergies alternatives",
@@ -1041,7 +885,7 @@
   },
   {
     "id": "sig-2026-11-10-5c97de354a4c",
-    "date_capture": "2026-11-13",
+    "date_capture": "2026-11-14",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "CENTRE NATIONAL D'ETUDES SPATIALES - TOULOUSE",
@@ -1093,7 +937,7 @@
   },
   {
     "id": "sig-2026-11-11-f99cfac02e3c",
-    "date_capture": "2026-11-13",
+    "date_capture": "2026-11-14",
     "vertical": "ao",
     "sous_segment": "Marché public État / Ministères",
     "compte": "Enabel",
@@ -1145,7 +989,7 @@
   },
   {
     "id": "sig-2026-10-02-7f9a695b56e9",
-    "date_capture": "2026-11-13",
+    "date_capture": "2026-11-14",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "INSTITUT CURIE",
@@ -1197,7 +1041,7 @@
   },
   {
     "id": "sig-2026-10-12-5dcca1ee2bdc",
-    "date_capture": "2026-11-13",
+    "date_capture": "2026-11-14",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "CLERMONT AUVERGNE INP",
@@ -1249,7 +1093,7 @@
   },
   {
     "id": "sig-2026-10-13-7d00e89d9337",
-    "date_capture": "2026-11-13",
+    "date_capture": "2026-11-14",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "WOONBOOG",
@@ -1301,7 +1145,7 @@
   },
   {
     "id": "sig-2026-10-13-bab3405e79b3",
-    "date_capture": "2026-11-13",
+    "date_capture": "2026-11-14",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "Erasmus Universiteit Rotterdam",
@@ -1352,16 +1196,68 @@
     ]
   },
   {
-    "id": "sig-2026-10-29-c776d91a655f",
-    "date_capture": "2026-11-13",
+    "id": "sig-2026-10-14-0d1990651226",
+    "date_capture": "2026-11-14",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
-    "compte": "Landstede Groep",
-    "titre": "EA Instroomsysteem mbo en vavo studenten",
-    "description": "Onderwijsgroep Landstede zoekt één opdrachtnemer voor de levering, implementatie, ondersteuning en doorontwikkeling van een integraal Instroomsysteem. De opdracht omvat een standaard SaaS-oplossing die de studentreis ondersteunt, van aanmelding tot plaatsing of afhandeling van de aanmelding. De geschatte waarde van de overeenkomst bedraagt circa € 59.250,- exclusief btw per jaar. Uitgaande van de ",
+    "compte": "Direction de la Technique et de l'Innovation",
+    "titre": "Service de télémétrie et d'analyse des données datalink ATN/VDL2 et SATCOM",
+    "description": "Il s'agit de mettre en place les moyens d'analyse et de supervision en temps réel des services d'échanges de données entre pilotes et contrôleurs . Ces services datalink sont devenus critiques pour le contrôle aérien avec des exigences de performance de télécommunication soumises à une règlementation européenne. A ce titre, la DSNA se dote d'un service de télémétrie et d'analyse performant pour s'",
     "source": "TED (Tenders Electronic Daily UE)",
     "source_tier": 1,
-    "url": "https://ted.europa.eu/fr/notice/-/detail/751486-2026",
+    "url": "https://ted.europa.eu/fr/notice/-/detail/709660-2026",
+    "signal_type": "ao_publie",
+    "tier": 3,
+    "score": 57,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Récupérer le DCE complet** sur https://ted.europa.eu/fr/notice/-/detail/709660-2026\n🎯 **Décideur cible** : À enrichir via LinkedIn Sales Nav + site officiel de l'acheteur\n💡 **Angle de valeur** : ITS en SaaS multi-tenant : déploiement 4-6 semaines, scalable, zéro infra à maintenir côté acheteur\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS à mapper via questions de cadrage : Explorance, EvaluationKIT, Sphinx, EvalandGo, ExamSoft, plateformes internes",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-10-14",
+    "email_draft": {
+      "subject": "AO Direction de la Technique et de l'Innovation — ISOGRAD souhaite candidater",
+      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"Service de télémétrie et d'analyse des données datalink ATN/VDL2 et SATCOM\"\nDeadline : à définir\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://ted.europa.eu/fr/notice/-/detail/709660-2026"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Acheteur public référencé sur l'AO",
+        "alternatives": [
+          "RAQ",
+          "Responsable des achats"
+        ],
+        "priorite": 1,
+        "raison": "Référent direct de la consultation",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=Direction+de+la+Technique+et+de+l%27Innovation",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Direction%20de%20la%20Technique%20et%20de%20l%27Innovation%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
+      },
+      {
+        "poste": "Décideur métier (variable selon segment)",
+        "alternatives": [
+          "Direction des examens (ESR)",
+          "Direction des soins (FPH)",
+          "DRH (Collectivité)"
+        ],
+        "priorite": 2,
+        "raison": "Sponsorise le besoin métier en amont",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=Direction+de+la+Technique+et+de+l%27Innovation",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Direction%20de%20la%20Technique%20et%20de%20l%27Innovation%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
+      }
+    ]
+  },
+  {
+    "id": "sig-2026-10-22-d7c9f92bb206",
+    "date_capture": "2026-11-14",
+    "vertical": "ao",
+    "sous_segment": "Marché public — secteur à qualifier",
+    "compte": "Lycee Des Metiers Pablo Neruda",
+    "titre": "ACQUISITION D'EQUIPEMENTS SPECIFIQUES DESTINES A L'EQUIPEMENT D'UN PLATEAU TECHNIQUE PEDAGOGIQUE \"SMART GRID\" AU LYCEE PABLO NERUDA (38)",
+    "description": "ACQUISITION D'EQUIPEMENTS SPECIFIQUES DESTINES A L'EQUIPEMENT D'UN PLATEAU TECHNIQUE PEDAGOGIQUE \"SMART GRID\" AU LYCEE PABLO NERUDA (38). Descripteurs : Matériel électrique, Formation, Informatique (matériel), Climatisation.",
+    "source": "BOAMP (API directe)",
+    "source_tier": 1,
+    "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-102162",
     "signal_type": "ao_publie",
     "tier": 3,
     "score": 55,
@@ -1369,13 +1265,13 @@
       "ITS"
     ],
     "owner": "Charles",
-    "action_reco": "📋 **Récupérer le DCE complet** sur https://ted.europa.eu/fr/notice/-/detail/751486-2026\n🎯 **Décideur cible** : À enrichir via LinkedIn Sales Nav + site officiel de l'acheteur\n💡 **Angle de valeur** : ITS comme back-end éval intégrable à votre SI : banque de questions paramétrable, exports complets, multi-rôles candidat/admin/OF\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS à mapper via questions de cadrage : Explorance, EvaluationKIT, Sphinx, EvalandGo, ExamSoft, plateformes internes\n⏰ Deadline : 2026-11-13 → calculer J-jours et caler les ressources dès maintenant.",
-    "deadline_action": "2026-11-13",
+    "action_reco": "📋 **Récupérer le DCE complet** sur https://www.boamp.fr/pages/avis/?q=idweb:26-102162\n🎯 **Décideur cible** : À enrichir via LinkedIn Sales Nav + site officiel de l'acheteur\n💡 **Angle de valeur** : ITS comme back-end éval intégrable à votre SI : banque de questions paramétrable, exports complets, multi-rôles candidat/admin/OF\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS à mapper via questions de cadrage : Explorance, EvaluationKIT, Sphinx, EvalandGo, ExamSoft, plateformes internes\n⏰ Deadline : 2026-11-20 → calculer J-jours et caler les ressources dès maintenant.",
+    "deadline_action": "2026-11-20",
     "status": "new",
-    "date_publication": "2026-10-29",
+    "date_publication": "2026-10-22",
     "email_draft": {
-      "subject": "AO Landstede Groep — ISOGRAD souhaite candidater",
-      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"EA Instroomsysteem mbo en vavo studenten\"\nDeadline : 2026-11-13\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://ted.europa.eu/fr/notice/-/detail/751486-2026"
+      "subject": "AO Lycee Des Metiers Pablo Neruda — ISOGRAD souhaite candidater",
+      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"ACQUISITION D'EQUIPEMENTS SPECIFIQUES DESTINES A L'EQUIPEMENT D'UN PLATEAU TECHNIQUE PEDAGOGIQUE \"SMART GRID\" AU LYCEE PABLO NERUDA (38)\"\nDeadline : 2026-11-20\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://www.boamp.fr/pages/avis/?q=idweb:26-102162"
     },
     "contacts_cibles": [
       {
@@ -1386,8 +1282,8 @@
         ],
         "priorite": 1,
         "raison": "Référent direct de la consultation",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=Landstede+Groep",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Landstede%20Groep%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=Lycee+Des+Metiers+Pablo+Neruda",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Lycee%20Des%20Metiers%20Pablo%20Neruda%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
       },
       {
         "poste": "Décideur métier (variable selon segment)",
@@ -1398,66 +1294,14 @@
         ],
         "priorite": 2,
         "raison": "Sponsorise le besoin métier en amont",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=Landstede+Groep",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Landstede%20Groep%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
-      }
-    ]
-  },
-  {
-    "id": "sig-2026-09-14-f7d51d8598dc",
-    "date_capture": "2026-11-13",
-    "vertical": "ao",
-    "sous_segment": "Marché public — secteur à qualifier",
-    "compte": "CNRS Délégation Provence et Corse",
-    "titre": "Prestation de support en biologie moléculaire pour le compte du Centre d’immunologie de Marseille-Luminy (CIML) – UMR7280",
-    "description": "Le laboratoire exploite des lignées murines transgéniques et réalise des analyses de génotypage et de suivi moléculaire. La prestation vise à assurer la bonne exécution des analyses PCR et à garantir la continuité du fonctionnement du laboratoire avec le matériel mis à disposition.",
-    "source": "TED (Tenders Electronic Daily UE)",
-    "source_tier": 1,
-    "url": "https://ted.europa.eu/fr/notice/-/detail/630798-2026",
-    "signal_type": "ao_publie",
-    "tier": 3,
-    "score": 50,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Récupérer le DCE complet** sur https://ted.europa.eu/fr/notice/-/detail/630798-2026\n🎯 **Décideur cible** : À enrichir via LinkedIn Sales Nav + site officiel de l'acheteur\n💡 **Angle de valeur** : ITS pour la passation des batteries psychométriques : tests adaptatifs, banque de questions calibrées, rapports automatiques\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS à mapper via questions de cadrage : Explorance, EvaluationKIT, Sphinx, EvalandGo, ExamSoft, plateformes internes",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-09-14",
-    "email_draft": {
-      "subject": "AO CNRS Délégation Provence et Corse — ISOGRAD souhaite candidater",
-      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"Prestation de support en biologie moléculaire pour le compte du Centre d’immunologie de Marseille-Luminy (CIML) – UMR7280\"\nDeadline : à définir\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://ted.europa.eu/fr/notice/-/detail/630798-2026"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Acheteur public référencé sur l'AO",
-        "alternatives": [
-          "RAQ",
-          "Responsable des achats"
-        ],
-        "priorite": 1,
-        "raison": "Référent direct de la consultation",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=CNRS+D%C3%A9l%C3%A9gation+Provence+et+Corse",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22CNRS%20D%C3%A9l%C3%A9gation%20Provence%20et%20Corse%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
-      },
-      {
-        "poste": "Décideur métier (variable selon segment)",
-        "alternatives": [
-          "Direction des examens (ESR)",
-          "Direction des soins (FPH)",
-          "DRH (Collectivité)"
-        ],
-        "priorite": 2,
-        "raison": "Sponsorise le besoin métier en amont",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=CNRS+D%C3%A9l%C3%A9gation+Provence+et+Corse",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22CNRS%20D%C3%A9l%C3%A9gation%20Provence%20et%20Corse%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=Lycee+Des+Metiers+Pablo+Neruda",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Lycee%20Des%20Metiers%20Pablo%20Neruda%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
       }
     ]
   },
   {
     "id": "sig-2026-09-22-32b2e25c8e9f",
-    "date_capture": "2026-11-13",
+    "date_capture": "2026-11-14",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "BELGOPROCESS NV",
@@ -1509,7 +1353,7 @@
   },
   {
     "id": "sig-2026-09-24-37d876ff4bb1",
-    "date_capture": "2026-11-13",
+    "date_capture": "2026-11-14",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "Université d'Artois",
@@ -1561,7 +1405,7 @@
   },
   {
     "id": "sig-2026-09-28-0a517996dcf2",
-    "date_capture": "2026-11-13",
+    "date_capture": "2026-11-14",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Stichting NBD Biblion",
