@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-11-12-41ad3be07956",
-    "date_capture": "2026-11-19",
+    "date_capture": "2026-11-20",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "filière du nucléaire",
@@ -30,7 +30,7 @@
   },
   {
     "id": "sig-2026-11-16-d8a91263e3dc",
-    "date_capture": "2026-11-19",
+    "date_capture": "2026-11-20",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Renault",
@@ -59,7 +59,7 @@
   },
   {
     "id": "sig-2026-11-16-4dd497bbc6c1",
-    "date_capture": "2026-11-19",
+    "date_capture": "2026-11-20",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Air France",
@@ -87,198 +87,8 @@
     "contacts_cibles": []
   },
   {
-    "id": "sig-2026-11-13-f17fb8a51ea9",
-    "date_capture": "2026-11-19",
-    "vertical": "corporate",
-    "sous_segment": "entreprise",
-    "compte": "Spie CityNetworks",
-    "titre": "Spie CityNetworks nomme une nouvelle DRH issue du groupe",
-    "description": "Spie CityNetworks nomme une nouvelle DRH issue du groupe Le Moniteur",
-    "source": "Le Moniteur (via Google News)",
-    "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWmg4VEhRVHJKUE0yeE1yQ25vVnQ1SmVRZWFjSjBROG1pOGE5cWY4dy1ldFEyMUN0MGJkbE1IMF93MVdRTVI5TTFpTHlkS3lUWlNFdVRrcE1IamluNnF6bmxYRlZhRVJOVElXdmFLcEZmT1ZDa3JoRXJINjZob1hPZklyOGowRmpwYmFBLU41UU9WN3BnMDA1dmNhUk5zeTBpaGF4RzhpNHVJMnNXM25vV0dza3NmaGd2MkJ0Y2x6M05HQloxS19UcFV1ZElxQ0JMVUxr?oc=5",
-    "signal_type": "nomination_chro",
-    "tier": 1,
-    "score": 90,
-    "produit_match": [
-      "ITS",
-      "Tosa Corporate"
-    ],
-    "owner": null,
-    "action_reco": "Fenêtre prise de poste ~30j : InMail/email à la nouvelle DRH (Spie CityNetworks) — angle outillage évaluation des compétences (ITS + Tosa).",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-11-13",
-    "email_draft": {
-      "subject": "Félicitations pour votre nomination DRH chez Spie CityNetworks",
-      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez Spie CityNetworks. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWmg4VEhRVHJKUE0yeE1yQ25vVnQ1SmVRZWFjSjBROG1pOGE5cWY4dy1ldFEyMUN0MGJkbE1IMF93MVdRTVI5TTFpTHlkS3lUWlNFdVRrcE1IamluNnF6bmxYRlZhRVJOVElXdmFLcEZmT1ZDa3JoRXJINjZob1hPZklyOGowRmpwYmFBLU41UU9WN3BnMDA1dmNhUk5zeTBpaGF4RzhpNHVJMnNXM25vV0dza3NmaGd2MkJ0Y2x6M05HQloxS19UcFV1ZElxQ0JMVUxr?oc=5"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "La personne nommée (cible directe)",
-        "alternatives": [],
-        "priorite": 1,
-        "raison": "Fenêtre 30j post-prise de poste = haute disposition aux nouveaux outils",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22La+personne+nomm%C3%A9e+%28cible+directe%29%22&currentCompany=Spie+CityNetworks",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Spie%20CityNetworks%22%20La%20personne%20nomm%C3%A9e%20%28cible%20directe%29"
-      }
-    ]
-  },
-  {
-    "id": "sig-2026-11-17-2470ce6488a1",
-    "date_capture": "2026-11-19",
-    "vertical": "corporate",
-    "sous_segment": "entreprise",
-    "compte": "Systra",
-    "titre": "Vincent Lavaux nouveau DRH chez Systra",
-    "description": "Vincent Lavaux nouveau DRH chez Systra Ville, rail & transports",
-    "source": "Ville, rail & transports (via Google News)",
-    "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVEdmU0pHTzlKUklMa09vVUtKbmRPNGU5V1lUVGNWMm5mTTBCUzlQMG9lNy1valhQUGhKV01Cclo2RExOYzFnd3NqRUxGaUdUa0xTRm8zV0hmMW9nZW50bVo5a284WUxlYjh5R1BRQWc2aUJkMXpPVlF3LVVKR3dfMVZEM2p1WWRWdEVvNi1pby1mTXQzZWJPTFBQN0dJMGs?oc=5",
-    "signal_type": "nomination_chro",
-    "tier": 1,
-    "score": 90,
-    "produit_match": [
-      "ITS",
-      "Tosa Corporate"
-    ],
-    "owner": null,
-    "action_reco": "Fenêtre prise de poste ~30j : InMail/email à la nouvelle DRH (Systra) — angle outillage évaluation des compétences (ITS + Tosa).",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-11-17",
-    "email_draft": {
-      "subject": "Félicitations pour votre nomination DRH chez Systra",
-      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez Systra. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMinwFBVV95cUxNVEdmU0pHTzlKUklMa09vVUtKbmRPNGU5V1lUVGNWMm5mTTBCUzlQMG9lNy1valhQUGhKV01Cclo2RExOYzFnd3NqRUxGaUdUa0xTRm8zV0hmMW9nZW50bVo5a284WUxlYjh5R1BRQWc2aUJkMXpPVlF3LVVKR3dfMVZEM2p1WWRWdEVvNi1pby1mTXQzZWJPTFBQN0dJMGs?oc=5"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "La personne nommée (cible directe)",
-        "alternatives": [],
-        "priorite": 1,
-        "raison": "Fenêtre 30j post-prise de poste = haute disposition aux nouveaux outils",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22La+personne+nomm%C3%A9e+%28cible+directe%29%22&currentCompany=Systra",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Systra%22%20La%20personne%20nomm%C3%A9e%20%28cible%20directe%29"
-      }
-    ]
-  },
-  {
-    "id": "sig-2026-11-19-4016b8009194",
-    "date_capture": "2026-11-19",
-    "vertical": "corporate",
-    "sous_segment": "entreprise",
-    "compte": "Mutuelle Nationale des Hospitaliers",
-    "titre": "Wassila Kriche nommée DRH de la Mutuelle Nationale des Hospitaliers",
-    "description": "Wassila Kriche nommée DRH de la Mutuelle Nationale des Hospitaliers Zonebourse Suisse",
-    "source": "Zonebourse Suisse (via Google News)",
-    "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbWF0cEo0elh4Q2pZMk5hbWFjUG4ySGU5U1QwS1Y4NjZIRXEyX3dRZVNCWXdQWXpuc1BtMTAzeEdqVl94dU9NcDJXNlJCamhJR1k0bm95bFFBa3g3WUo5RnptNmxrVm54MDBKVDFONVZWNk9ZYmJqZHpjN2FjcWRFNWtmSFNERkYyYU5pQVFDR3dJb3hmcU1yUXRWLWtpQm1iaUlQU0Rfcng0YjlQZzJfTE1uVld4S1B2TDBvS1FPZ2RST1I3d0E?oc=5",
-    "signal_type": "nomination_chro",
-    "tier": 1,
-    "score": 90,
-    "produit_match": [
-      "ITS",
-      "Tosa Corporate"
-    ],
-    "owner": null,
-    "action_reco": "Fenêtre prise de poste ~30j : InMail/email à la nouvelle DRH (Mutuelle Nationale des Hospitaliers) — angle outillage évaluation des compétences (ITS + Tosa).",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-11-19",
-    "email_draft": {
-      "subject": "Félicitations pour votre nomination DRH chez Mutuelle Nationale des Hospitaliers",
-      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez Mutuelle Nationale des Hospitaliers. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMixgFBVV95cUxPbWF0cEo0elh4Q2pZMk5hbWFjUG4ySGU5U1QwS1Y4NjZIRXEyX3dRZVNCWXdQWXpuc1BtMTAzeEdqVl94dU9NcDJXNlJCamhJR1k0bm95bFFBa3g3WUo5RnptNmxrVm54MDBKVDFONVZWNk9ZYmJqZHpjN2FjcWRFNWtmSFNERkYyYU5pQVFDR3dJb3hmcU1yUXRWLWtpQm1iaUlQU0Rfcng0YjlQZzJfTE1uVld4S1B2TDBvS1FPZ2RST1I3d0E?oc=5"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "La personne nommée (cible directe)",
-        "alternatives": [],
-        "priorite": 1,
-        "raison": "Fenêtre 30j post-prise de poste = haute disposition aux nouveaux outils",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22La+personne+nomm%C3%A9e+%28cible+directe%29%22&currentCompany=Mutuelle+Nationale+des+Hospitaliers",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Mutuelle%20Nationale%20des%20Hospitaliers%22%20La%20personne%20nomm%C3%A9e%20%28cible%20directe%29"
-      }
-    ]
-  },
-  {
-    "id": "sig-2026-11-04-ac41ef370a08",
-    "date_capture": "2026-11-19",
-    "vertical": "corporate",
-    "sous_segment": "entreprise",
-    "compte": "Antargaz Énergies à Paris",
-    "titre": "Patricia Granvaud nommée DRH d'Antargaz Énergies à Paris",
-    "description": "Patricia Granvaud nommée DRH d'Antargaz Énergies à Paris Presse Agence",
-    "source": "Presse Agence (via Google News)",
-    "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUEVVd1FrSU1haVc4U2lNTUdoZW1Yd0RrVXM3eHhJX1FkYXM1WGR4Ym5YOXlITnRZWEtiODM3TUpwTDZJOVdQaVVSMFdrem55R1J2QUNQd3RZb3E1M0RVWnkwSjI3a1FCODZ3SFY1Z1FvQXhGMXJBZmRZbElJNmduWXZfYzkxcUlDZGN4RkFhUC00RnlMNFpjVThPeDZ5VXA2cFJ1c2pHcFlKWXVXNTQxNEVVTC1id0xNb0c1VjZBMkdEZw?oc=5",
-    "signal_type": "nomination_chro",
-    "tier": 1,
-    "score": 90,
-    "produit_match": [
-      "ITS",
-      "Tosa Corporate"
-    ],
-    "owner": null,
-    "action_reco": "Fenêtre prise de poste ~30j : InMail/email à la nouvelle DRH (Antargaz Énergies à Paris) — angle outillage évaluation des compétences (ITS + Tosa).",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-11-04",
-    "email_draft": {
-      "subject": "Félicitations pour votre nomination DRH chez Antargaz Énergies à Paris",
-      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez Antargaz Énergies à Paris. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUEVVd1FrSU1haVc4U2lNTUdoZW1Yd0RrVXM3eHhJX1FkYXM1WGR4Ym5YOXlITnRZWEtiODM3TUpwTDZJOVdQaVVSMFdrem55R1J2QUNQd3RZb3E1M0RVWnkwSjI3a1FCODZ3SFY1Z1FvQXhGMXJBZmRZbElJNmduWXZfYzkxcUlDZGN4RkFhUC00RnlMNFpjVThPeDZ5VXA2cFJ1c2pHcFlKWXVXNTQxNEVVTC1id0xNb0c1VjZBMkdEZw?oc=5"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "La personne nommée (cible directe)",
-        "alternatives": [],
-        "priorite": 1,
-        "raison": "Fenêtre 30j post-prise de poste = haute disposition aux nouveaux outils",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22La+personne+nomm%C3%A9e+%28cible+directe%29%22&currentCompany=Antargaz+%C3%89nergies+%C3%A0+Paris",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Antargaz%20%C3%89nergies%20%C3%A0%20Paris%22%20La%20personne%20nomm%C3%A9e%20%28cible%20directe%29"
-      }
-    ]
-  },
-  {
-    "id": "sig-2026-11-18-5f480be2f6b7",
-    "date_capture": "2026-11-19",
-    "vertical": "corporate",
-    "sous_segment": "entreprise",
-    "compte": "groupe Systra",
-    "titre": "Vincent Lavaux est nommé directeur des ressources humaines du groupe Systra",
-    "description": "Vincent Lavaux est nommé directeur des ressources humaines du groupe Systra AEF info",
-    "source": "AEF info (via Google News)",
-    "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeTJYQVdPbXpUUUJUSUpIcU5FQ2Q5UHpiaDBIa0lBRUl2dDNqcklDcFlDcjc0TU9vdTl4b2RUcTRudWVMaHB2ZXBfRVpuekQ0NmJsZnB4Q1lJMXJOZ0FpVnVuYlBPWGcyc3g5MURZTG9oWjRHNXdLcktwMGtWNTJ3NGFMOVl0aDJNeUJmN3lfZGNTeUtvZ0JIRFlWYkJtMGw5SVlDaW5rVEJtajluclF6T3lIZw?oc=5",
-    "signal_type": "nomination_chro",
-    "tier": 1,
-    "score": 90,
-    "produit_match": [
-      "ITS",
-      "Tosa Corporate"
-    ],
-    "owner": null,
-    "action_reco": "Fenêtre prise de poste ~30j : InMail/email à la nouvelle DRH (groupe Systra) — angle outillage évaluation des compétences (ITS + Tosa).",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-11-18",
-    "email_draft": {
-      "subject": "Félicitations pour votre nomination DRH chez groupe Systra",
-      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez groupe Systra. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMiswFBVV95cUxPeTJYQVdPbXpUUUJUSUpIcU5FQ2Q5UHpiaDBIa0lBRUl2dDNqcklDcFlDcjc0TU9vdTl4b2RUcTRudWVMaHB2ZXBfRVpuekQ0NmJsZnB4Q1lJMXJOZ0FpVnVuYlBPWGcyc3g5MURZTG9oWjRHNXdLcktwMGtWNTJ3NGFMOVl0aDJNeUJmN3lfZGNTeUtvZ0JIRFlWYkJtMGw5SVlDaW5rVEJtajluclF6T3lIZw?oc=5"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "La personne nommée (cible directe)",
-        "alternatives": [],
-        "priorite": 1,
-        "raison": "Fenêtre 30j post-prise de poste = haute disposition aux nouveaux outils",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22La+personne+nomm%C3%A9e+%28cible+directe%29%22&currentCompany=groupe+Systra",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22groupe%20Systra%22%20La%20personne%20nomm%C3%A9e%20%28cible%20directe%29"
-      }
-    ]
-  },
-  {
     "id": "sig-2026-11-18-25bcb1a0fe07",
-    "date_capture": "2026-11-19",
+    "date_capture": "2026-11-20",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "How Payhawk",
@@ -341,7 +151,7 @@
   },
   {
     "id": "sig-2026-11-17-3701bf94c722",
-    "date_capture": "2026-11-19",
+    "date_capture": "2026-11-20",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "Genesis AI",
