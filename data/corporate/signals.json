@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-11-16-d8a91263e3dc",
-    "date_capture": "2026-11-21",
+    "date_capture": "2026-11-22",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Renault",
@@ -30,7 +30,7 @@
   },
   {
     "id": "sig-2026-11-12-41ad3be07956",
-    "date_capture": "2026-11-21",
+    "date_capture": "2026-11-22",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "filière du nucléaire",
@@ -59,7 +59,7 @@
   },
   {
     "id": "sig-2026-11-16-4dd497bbc6c1",
-    "date_capture": "2026-11-21",
+    "date_capture": "2026-11-22",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Air France",
@@ -88,7 +88,7 @@
   },
   {
     "id": "sig-2026-11-13-f17fb8a51ea9",
-    "date_capture": "2026-11-21",
+    "date_capture": "2026-11-22",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Spie CityNetworks",
@@ -126,7 +126,7 @@
   },
   {
     "id": "sig-2026-11-21-825480b38357",
-    "date_capture": "2026-11-21",
+    "date_capture": "2026-11-22",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "MNH",
@@ -164,15 +164,15 @@
   },
   {
     "id": "sig-2026-11-19-4016b8009194",
-    "date_capture": "2026-11-21",
+    "date_capture": "2026-11-22",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Mutuelle Nationale des Hospitaliers",
     "titre": "Wassila Kriche nommée DRH de la Mutuelle Nationale des Hospitaliers",
-    "description": "Wassila Kriche nommée DRH de la Mutuelle Nationale des Hospitaliers Zonebourse Suisse",
-    "source": "Zonebourse Suisse (via Google News)",
+    "description": "Wassila Kriche nommée DRH de la Mutuelle Nationale des Hospitaliers Zonebourse",
+    "source": "Zonebourse (via Google News)",
     "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbWF0cEo0elh4Q2pZMk5hbWFjUG4ySGU5U1QwS1Y4NjZIRXEyX3dRZVNCWXdQWXpuc1BtMTAzeEdqVl94dU9NcDJXNlJCamhJR1k0bm95bFFBa3g3WUo5RnptNmxrVm54MDBKVDFONVZWNk9ZYmJqZHpjN2FjcWRFNWtmSFNERkYyYU5pQVFDR3dJb3hmcU1yUXRWLWtpQm1iaUlQU0Rfcng0YjlQZzJfTE1uVld4S1B2TDBvS1FPZ2RST1I3d0E?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRV8za1p6VnM1VHdkNjF3aVhKaXJTS244YjRqc3Q5VTVHX0ZUdExoTFl0ejJEMm5WTjluYS1uUVRDZHVpZ2NONTgtT0dSNjQyNk1ISlFCWXFlb0I3eGE3RjVfbDgwcFRDS3RncGhmbVJqYm5XeFhqOUd1QktlNE1ZQkZBdWpOSlpJTDQ1VTkxQ0k2ZUFCd09xWDZadEVQNzZ3Wm5YNUhTUG1EWWlJUDNKTUFDc1VTUEx6UlNOUXVOeWJnNG9qTlZZ?oc=5",
     "signal_type": "nomination_chro",
     "tier": 1,
     "score": 90,
@@ -187,7 +187,7 @@
     "date_publication": "2026-11-19",
     "email_draft": {
       "subject": "Félicitations pour votre nomination DRH chez Mutuelle Nationale des Hospitaliers",
-      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez Mutuelle Nationale des Hospitaliers. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMixgFBVV95cUxPbWF0cEo0elh4Q2pZMk5hbWFjUG4ySGU5U1QwS1Y4NjZIRXEyX3dRZVNCWXdQWXpuc1BtMTAzeEdqVl94dU9NcDJXNlJCamhJR1k0bm95bFFBa3g3WUo5RnptNmxrVm54MDBKVDFONVZWNk9ZYmJqZHpjN2FjcWRFNWtmSFNERkYyYU5pQVFDR3dJb3hmcU1yUXRWLWtpQm1iaUlQU0Rfcng0YjlQZzJfTE1uVld4S1B2TDBvS1FPZ2RST1I3d0E?oc=5"
+      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez Mutuelle Nationale des Hospitaliers. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMixwFBVV95cUxNRV8za1p6VnM1VHdkNjF3aVhKaXJTS244YjRqc3Q5VTVHX0ZUdExoTFl0ejJEMm5WTjluYS1uUVRDZHVpZ2NONTgtT0dSNjQyNk1ISlFCWXFlb0I3eGE3RjVfbDgwcFRDS3RncGhmbVJqYm5XeFhqOUd1QktlNE1ZQkZBdWpOSlpJTDQ1VTkxQ0k2ZUFCd09xWDZadEVQNzZ3Wm5YNUhTUG1EWWlJUDNKTUFDc1VTUEx6UlNOUXVOeWJnNG9qTlZZ?oc=5"
     },
     "contacts_cibles": [
       {
@@ -202,7 +202,7 @@
   },
   {
     "id": "sig-2026-11-04-ac41ef370a08",
-    "date_capture": "2026-11-21",
+    "date_capture": "2026-11-22",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Antargaz Énergies à Paris",
@@ -240,7 +240,7 @@
   },
   {
     "id": "sig-2026-11-20-fb43e4586d2b",
-    "date_capture": "2026-11-21",
+    "date_capture": "2026-11-22",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "SYSTRA",
@@ -278,7 +278,7 @@
   },
   {
     "id": "sig-2026-11-18-5f480be2f6b7",
-    "date_capture": "2026-11-21",
+    "date_capture": "2026-11-22",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "groupe Systra",
@@ -316,7 +316,7 @@
   },
   {
     "id": "sig-2026-11-18-25bcb1a0fe07",
-    "date_capture": "2026-11-21",
+    "date_capture": "2026-11-22",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "How Payhawk",
