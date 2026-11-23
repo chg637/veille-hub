@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-11-16-fddf21cd0f44",
-    "date_capture": "2026-11-22",
+    "date_capture": "2026-11-23",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Gestion des achats et des contracts FINMA",
@@ -53,7 +53,7 @@
   },
   {
     "id": "sig-2026-11-16-f390b99a2be2",
-    "date_capture": "2026-11-22",
+    "date_capture": "2026-11-23",
     "vertical": "ao",
     "sous_segment": "Marché public Collectivité",
     "compte": "Ecole Régionale d'Administration Publique asbl",
@@ -105,7 +105,7 @@
   },
   {
     "id": "sig-2026-05-19-c8342a26e939",
-    "date_capture": "2026-11-22",
+    "date_capture": "2026-11-23",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "Université Paris-Saclay",
@@ -157,7 +157,7 @@
   },
   {
     "id": "sig-2026-05-11-64ab3dd75a34",
-    "date_capture": "2026-11-22",
+    "date_capture": "2026-11-23",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "NEOMA Business School (Reims)",
@@ -209,7 +209,7 @@
   },
   {
     "id": "sig-2026-11-19-8043aead5134",
-    "date_capture": "2026-11-22",
+    "date_capture": "2026-11-23",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Société nationale SNCF",
@@ -261,7 +261,7 @@
   },
   {
     "id": "sig-2026-11-06-3b916fffd504",
-    "date_capture": "2026-11-22",
+    "date_capture": "2026-11-23",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "VISTA college",
@@ -313,7 +313,7 @@
   },
   {
     "id": "sig-2026-11-19-ea5342ba2024",
-    "date_capture": "2026-11-22",
+    "date_capture": "2026-11-23",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "CA PAU BEARN PYRENEES",
@@ -364,8 +364,60 @@
     ]
   },
   {
+    "id": "sig-2026-11-23-bdcf9c47bb38",
+    "date_capture": "2026-11-23",
+    "vertical": "ao",
+    "sous_segment": "Marché public — secteur à qualifier",
+    "compte": "Centrale d'achat Groupe MC-CM asbl",
+    "titre": "Belgique – Services de centres d'évaluation en vue du recrutement – RH Assessment centers",
+    "description": "[CPV 79635000] CM wenst een raamovereenkomst af te sluiten met één opdrachtnemer voor de uitvoering van assessments voor verschillende profielen en functieniveaus binnen CM Vlaanderen.",
+    "source": "TED (via Radar AO)",
+    "source_tier": 1,
+    "url": "https://ted.europa.eu/fr/notice/-/detail/813176-2026",
+    "signal_type": "ao_publie",
+    "tier": 2,
+    "score": 74,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Récupérer le DCE complet** sur https://ted.europa.eu/fr/notice/-/detail/813176-2026\n🎯 **Décideur cible** : À enrichir via LinkedIn Sales Nav + site officiel de l'acheteur\n💡 **Angle de valeur** : ITS : plateforme d'hébergement d'examens (tests recrutement, contrôles, certifications internes) avec correction auto et reporting\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS à mapper via questions de cadrage : Explorance, EvaluationKIT, Sphinx, EvalandGo, ExamSoft, plateformes internes\n⏰ Deadline : 2026-12-21 → calculer J-jours et caler les ressources dès maintenant.",
+    "deadline_action": "2026-12-21",
+    "status": "new",
+    "date_publication": "2026-11-23",
+    "email_draft": {
+      "subject": "AO Centrale d'achat Groupe MC-CM asbl — ISOGRAD souhaite candidater",
+      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"Belgique – Services de centres d'évaluation en vue du recrutement – RH Assessment centers\"\nDeadline : 2026-12-21\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://ted.europa.eu/fr/notice/-/detail/813176-2026"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Acheteur public référencé sur l'AO",
+        "alternatives": [
+          "RAQ",
+          "Responsable des achats"
+        ],
+        "priorite": 1,
+        "raison": "Référent direct de la consultation",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=Centrale+d%27achat+Groupe+MC-CM+asbl",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Centrale%20d%27achat%20Groupe%20MC-CM%20asbl%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
+      },
+      {
+        "poste": "Décideur métier (variable selon segment)",
+        "alternatives": [
+          "Direction des examens (ESR)",
+          "Direction des soins (FPH)",
+          "DRH (Collectivité)"
+        ],
+        "priorite": 2,
+        "raison": "Sponsorise le besoin métier en amont",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=Centrale+d%27achat+Groupe+MC-CM+asbl",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Centrale%20d%27achat%20Groupe%20MC-CM%20asbl%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-11-19-7189f661afc6",
-    "date_capture": "2026-11-22",
+    "date_capture": "2026-11-23",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "CREOS Luxembourg S.A.",
@@ -416,8 +468,60 @@
     ]
   },
   {
+    "id": "sig-2026-11-23-07e5eabb562c",
+    "date_capture": "2026-11-23",
+    "vertical": "ao",
+    "sous_segment": "Marché public — secteur à qualifier",
+    "compte": "Centrale d'achat Groupe MC-CM asbl",
+    "titre": "RH Assessment centers",
+    "description": "[CPV 79635000] CM wenst een raamovereenkomst af te sluiten met één opdrachtnemer voor de uitvoering van assessments voor verschillende profielen en functieniveaus binnen CM Vlaanderen. CM-MC 2026_042 - 1 CM wenst een raamovereenkomst af te sluiten met één opdrachtnemer voor de uitvoering van assessments voor verschillende profielen en functieniveaus binnen CM Vlaanderen. Diensten van beoordelingscentrum voor aan",
+    "source": "BOSA (via Radar AO)",
+    "source_tier": 2,
+    "url": "https://www.publicprocurement.be/publication-workspaces/bca7847b-13f8-48d9-ba88-03f8d6165243/general",
+    "signal_type": "ao_publie",
+    "tier": 2,
+    "score": 74,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Récupérer le DCE complet** sur https://www.publicprocurement.be/publication-workspaces/bca7847b-13f8-48d9-ba88-03f8d6165243/general\n🎯 **Décideur cible** : À enrichir via LinkedIn Sales Nav + site officiel de l'acheteur\n💡 **Angle de valeur** : ITS : plateforme d'hébergement d'examens (tests recrutement, contrôles, certifications internes) avec correction auto et reporting\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS à mapper via questions de cadrage : Explorance, EvaluationKIT, Sphinx, EvalandGo, ExamSoft, plateformes internes\n⏰ Deadline : 2026-12-21 → calculer J-jours et caler les ressources dès maintenant.",
+    "deadline_action": "2026-12-21",
+    "status": "new",
+    "date_publication": "2026-11-23",
+    "email_draft": {
+      "subject": "AO Centrale d'achat Groupe MC-CM asbl — ISOGRAD souhaite candidater",
+      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"RH Assessment centers\"\nDeadline : 2026-12-21\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://www.publicprocurement.be/publication-workspaces/bca7847b-13f8-48d9-ba88-03f8d6165243/general"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Acheteur public référencé sur l'AO",
+        "alternatives": [
+          "RAQ",
+          "Responsable des achats"
+        ],
+        "priorite": 1,
+        "raison": "Référent direct de la consultation",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=Centrale+d%27achat+Groupe+MC-CM+asbl",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Centrale%20d%27achat%20Groupe%20MC-CM%20asbl%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
+      },
+      {
+        "poste": "Décideur métier (variable selon segment)",
+        "alternatives": [
+          "Direction des examens (ESR)",
+          "Direction des soins (FPH)",
+          "DRH (Collectivité)"
+        ],
+        "priorite": 2,
+        "raison": "Sponsorise le besoin métier en amont",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=Centrale+d%27achat+Groupe+MC-CM+asbl",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Centrale%20d%27achat%20Groupe%20MC-CM%20asbl%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-11-18-44a2980e6672",
-    "date_capture": "2026-11-22",
+    "date_capture": "2026-11-23",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Groupe Encevo (Creos, Enovos)",
@@ -469,7 +573,7 @@
   },
   {
     "id": "sig-2026-10-30-ee124ec59e65",
-    "date_capture": "2026-11-22",
+    "date_capture": "2026-11-23",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Stichting Regionaal Opleidingencentrum van Twente",
@@ -521,7 +625,7 @@
   },
   {
     "id": "sig-2026-11-03-0330ca69cd02",
-    "date_capture": "2026-11-22",
+    "date_capture": "2026-11-23",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Société nationale SNCF",
@@ -572,60 +676,8 @@
     ]
   },
   {
-    "id": "sig-2026-11-12-5f3dd67c3f6c",
-    "date_capture": "2026-11-22",
-    "vertical": "ao",
-    "sous_segment": "Marché public — secteur à qualifier",
-    "compte": "MERCATOR OCEAN",
-    "titre": "France – Services de conception de sites WWW (World Wide Web) – Ocean Briefs EU4OceanObs : développement d'une plateforme interactive",
-    "description": "[CPV 72413000] Conception, développement, intégration des contenus, tests et déploiement de la plateforme numérique interactive. Le lot comprend les fonctionnalités interactives et les composants de visualisation réutilisables, la documentation technique et la passation (transfert à MOi). / Revue, mise à jour et adaptation des Ocean Briefs. Le lot comprend le développement des contenus, la production visuelle et",
-    "source": "TED (via Radar AO)",
-    "source_tier": 1,
-    "url": "https://ted.europa.eu/fr/notice/-/detail/787661-2026",
-    "signal_type": "ao_publie",
-    "tier": 2,
-    "score": 68,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Récupérer le DCE complet** sur https://ted.europa.eu/fr/notice/-/detail/787661-2026\n🎯 **Décideur cible** : À enrichir via LinkedIn Sales Nav + site officiel de l'acheteur\n💡 **Angle de valeur** : ITS comme plateforme d'évaluation : sécurité examens, RGPD UE, accessibilité RGAA, intégration LMS/ERP\n💰 Montant estimé : 100 k€ → opportunité moyenne, traitement standard\n🥊 Concurrents ITS à mapper via questions de cadrage : Explorance, EvaluationKIT, Sphinx, EvalandGo, ExamSoft, plateformes internes\n⏰ Deadline : 2026-12-07 → calculer J-jours et caler les ressources dès maintenant.",
-    "deadline_action": "2026-12-07",
-    "status": "new",
-    "date_publication": "2026-11-12",
-    "email_draft": {
-      "subject": "AO MERCATOR OCEAN — ISOGRAD souhaite candidater",
-      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"France – Services de conception de sites WWW (World Wide Web) – Ocean Briefs EU4OceanObs : développement d'une plateforme interactive\"\nDeadline : 2026-12-07\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://ted.europa.eu/fr/notice/-/detail/787661-2026"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Acheteur public référencé sur l'AO",
-        "alternatives": [
-          "RAQ",
-          "Responsable des achats"
-        ],
-        "priorite": 1,
-        "raison": "Référent direct de la consultation",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=MERCATOR+OCEAN",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22MERCATOR%20OCEAN%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
-      },
-      {
-        "poste": "Décideur métier (variable selon segment)",
-        "alternatives": [
-          "Direction des examens (ESR)",
-          "Direction des soins (FPH)",
-          "DRH (Collectivité)"
-        ],
-        "priorite": 2,
-        "raison": "Sponsorise le besoin métier en amont",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=MERCATOR+OCEAN",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22MERCATOR%20OCEAN%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
-      }
-    ]
-  },
-  {
     "id": "sig-2026-10-13-454eb1b96730",
-    "date_capture": "2026-11-22",
+    "date_capture": "2026-11-23",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "CENTRE FRANCOIS BACLESSE",
@@ -677,7 +729,7 @@
   },
   {
     "id": "sig-2026-10-27-18e39b0a6ead",
-    "date_capture": "2026-11-22",
+    "date_capture": "2026-11-23",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "AFNOR",
@@ -729,7 +781,7 @@
   },
   {
     "id": "sig-2026-11-02-f78701744e59",
-    "date_capture": "2026-11-22",
+    "date_capture": "2026-11-23",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Commissariat à l'énergie atomique et aux énergies alternatives",
@@ -781,7 +833,7 @@
   },
   {
     "id": "sig-2026-11-10-5c97de354a4c",
-    "date_capture": "2026-11-22",
+    "date_capture": "2026-11-23",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "CENTRE NATIONAL D'ETUDES SPATIALES - TOULOUSE",
@@ -833,7 +885,7 @@
   },
   {
     "id": "sig-2026-11-18-fcbb309c9024",
-    "date_capture": "2026-11-22",
+    "date_capture": "2026-11-23",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "CMAR Occitanie",
@@ -885,7 +937,7 @@
   },
   {
     "id": "sig-2026-10-02-70e5e4e1b0d1",
-    "date_capture": "2026-11-22",
+    "date_capture": "2026-11-23",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "Universiteit Utrecht",
@@ -937,7 +989,7 @@
   },
   {
     "id": "sig-2026-10-12-5dcca1ee2bdc",
-    "date_capture": "2026-11-22",
+    "date_capture": "2026-11-23",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "CLERMONT AUVERGNE INP",
@@ -989,7 +1041,7 @@
   },
   {
     "id": "sig-2026-10-13-7d00e89d9337",
-    "date_capture": "2026-11-22",
+    "date_capture": "2026-11-23",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "WOONBOOG",
@@ -1041,7 +1093,7 @@
   },
   {
     "id": "sig-2026-10-13-bab3405e79b3",
-    "date_capture": "2026-11-22",
+    "date_capture": "2026-11-23",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "Erasmus Universiteit Rotterdam",
@@ -1093,7 +1145,7 @@
   },
   {
     "id": "sig-2026-10-14-0d1990651226",
-    "date_capture": "2026-11-22",
+    "date_capture": "2026-11-23",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Direction de la Technique et de l'Innovation",
@@ -1145,7 +1197,7 @@
   },
   {
     "id": "sig-2026-10-15-3f6b6b45fbf6",
-    "date_capture": "2026-11-22",
+    "date_capture": "2026-11-23",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "CNRS Délégation ALSACE",
@@ -1197,7 +1249,7 @@
   },
   {
     "id": "sig-2026-10-20-cdee17d7eb6f",
-    "date_capture": "2026-11-22",
+    "date_capture": "2026-11-23",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "Université de technologie de Compiègne (U.T.C.)",
@@ -1249,7 +1301,7 @@
   },
   {
     "id": "sig-2026-10-21-36d0de3e9d4e",
-    "date_capture": "2026-11-22",
+    "date_capture": "2026-11-23",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Ecole Régionale d'Administration publique ASBL",
@@ -1301,7 +1353,7 @@
   },
   {
     "id": "sig-2026-10-22-48b0b2c20181",
-    "date_capture": "2026-11-22",
+    "date_capture": "2026-11-23",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Ifremer",
@@ -1353,7 +1405,7 @@
   },
   {
     "id": "sig-2026-11-18-ff1783330437",
-    "date_capture": "2026-11-22",
+    "date_capture": "2026-11-23",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "ILO",
@@ -1404,8 +1456,60 @@
     ]
   },
   {
+    "id": "sig-2026-11-23-96fb70945bd0",
+    "date_capture": "2026-11-23",
+    "vertical": "ao",
+    "sous_segment": "Marché public — secteur à qualifier",
+    "compte": "Landstede Groep",
+    "titre": "EA Instroomsysteem mbo en vavo studenten",
+    "description": "Onderwijsgroep Landstede zoekt één opdrachtnemer voor de levering, implementatie, ondersteuning en doorontwikkeling van een integraal Instroomsysteem. De opdracht omvat een standaard SaaS-oplossing die de studentreis ondersteunt, van aanmelding tot plaatsing of afhandeling van de aanmelding. De geschatte waarde van de overeenkomst bedraagt circa € 59.250,- exclusief btw per jaar. Uitgaande van de ",
+    "source": "TED (Tenders Electronic Daily UE)",
+    "source_tier": 1,
+    "url": "https://ted.europa.eu/fr/notice/-/detail/811208-2026",
+    "signal_type": "ao_publie",
+    "tier": 3,
+    "score": 55,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Récupérer le DCE complet** sur https://ted.europa.eu/fr/notice/-/detail/811208-2026\n🎯 **Décideur cible** : À enrichir via LinkedIn Sales Nav + site officiel de l'acheteur\n💡 **Angle de valeur** : ITS comme back-end éval intégrable à votre SI : banque de questions paramétrable, exports complets, multi-rôles candidat/admin/OF\n💰 Montant : à estimer via le DCE (chercher la section budget prévisionnel)\n🥊 Concurrents ITS à mapper via questions de cadrage : Explorance, EvaluationKIT, Sphinx, EvalandGo, ExamSoft, plateformes internes\n⏰ Deadline : 2026-11-24 → calculer J-jours et caler les ressources dès maintenant.",
+    "deadline_action": "2026-11-24",
+    "status": "new",
+    "date_publication": "2026-11-23",
+    "email_draft": {
+      "subject": "AO Landstede Groep — ISOGRAD souhaite candidater",
+      "body": "Bonjour,\n\nNous avons identifié votre consultation :\n\"EA Instroomsysteem mbo en vavo studenten\"\nDeadline : 2026-11-24\n\nIsograd opère ITS, une plateforme SaaS d'hébergement d'examens et d'évaluation des compétences. C'est un moteur générique : vous y déposez vos propres contenus (tests, examens, QCM, mises en situation), et ITS s'occupe de la passation, de la correction automatique, de la production des rapports et de l'intégration avec votre SI.\n\nCas d'usage couverts : tests de recrutement, examens académiques, contrôles continus, certifications internes, évaluations comportementales. 60+ établissements déjà déployés (universités, grandes écoles, CFA, grands comptes publics et privés).\n\nAvant la finalisation de notre dossier, nous aurions besoin de quelques clarifications :\n- Volume cible de candidats / sessions par an\n- Modalités de surveillance attendues (proctoring, télésurveillance)\n- Périmètre fonctionnel (banque de questions, génération d'attestations, exports, intégration SI existant)\n- Calendrier prévisionnel de mise en œuvre\n\nPouvons-nous organiser un échange de 30 minutes ?\n\nBien cordialement,\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nDCE : https://ted.europa.eu/fr/notice/-/detail/811208-2026"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Acheteur public référencé sur l'AO",
+        "alternatives": [
+          "RAQ",
+          "Responsable des achats"
+        ],
+        "priorite": 1,
+        "raison": "Référent direct de la consultation",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Acheteur+public+r%C3%A9f%C3%A9renc%C3%A9+sur+l%27AO%22+OR+%22RAQ%22+OR+%22Responsable+des+achats%22&currentCompany=Landstede+Groep",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Landstede%20Groep%22%20Acheteur%20public%20r%C3%A9f%C3%A9renc%C3%A9%20sur%20l%27AO%20RAQ%20Responsable%20des%20achats"
+      },
+      {
+        "poste": "Décideur métier (variable selon segment)",
+        "alternatives": [
+          "Direction des examens (ESR)",
+          "Direction des soins (FPH)",
+          "DRH (Collectivité)"
+        ],
+        "priorite": 2,
+        "raison": "Sponsorise le besoin métier en amont",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22D%C3%A9cideur+m%C3%A9tier+%28variable+selon+segment%29%22+OR+%22Direction+des+examens+%28ESR%29%22+OR+%22Direction+des+soins+%28FPH%29%22+OR+%22DRH+%28Collectivit%C3%A9%29%22&currentCompany=Landstede+Groep",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Landstede%20Groep%22%20D%C3%A9cideur%20m%C3%A9tier%20%28variable%20selon%20segment%29%20Direction%20des%20examens%20%28ESR%29%20Direction%20des%20soins%20%28FPH%29%20DRH%20%28Collectivit%C3%A9%29"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-09-24-37d876ff4bb1",
-    "date_capture": "2026-11-22",
+    "date_capture": "2026-11-23",
     "vertical": "ao",
     "sous_segment": "Marché public ESR (Enseignement Supérieur)",
     "compte": "Université d'Artois",
@@ -1457,7 +1561,7 @@
   },
   {
     "id": "sig-2026-09-28-0a517996dcf2",
-    "date_capture": "2026-11-22",
+    "date_capture": "2026-11-23",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "Stichting NBD Biblion",
@@ -1509,7 +1613,7 @@
   },
   {
     "id": "sig-2026-10-02-7f9a695b56e9",
-    "date_capture": "2026-11-22",
+    "date_capture": "2026-11-23",
     "vertical": "ao",
     "sous_segment": "Marché public — secteur à qualifier",
     "compte": "INSTITUT CURIE",

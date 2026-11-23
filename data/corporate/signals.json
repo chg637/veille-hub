@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-11-16-d8a91263e3dc",
-    "date_capture": "2026-11-22",
+    "date_capture": "2026-11-23",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Renault",
@@ -30,7 +30,7 @@
   },
   {
     "id": "sig-2026-11-12-41ad3be07956",
-    "date_capture": "2026-11-22",
+    "date_capture": "2026-11-23",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "filière du nucléaire",
@@ -59,7 +59,7 @@
   },
   {
     "id": "sig-2026-11-16-4dd497bbc6c1",
-    "date_capture": "2026-11-22",
+    "date_capture": "2026-11-23",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Air France",
@@ -88,7 +88,7 @@
   },
   {
     "id": "sig-2026-11-13-f17fb8a51ea9",
-    "date_capture": "2026-11-22",
+    "date_capture": "2026-11-23",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Spie CityNetworks",
@@ -126,7 +126,7 @@
   },
   {
     "id": "sig-2026-11-21-825480b38357",
-    "date_capture": "2026-11-22",
+    "date_capture": "2026-11-23",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "MNH",
@@ -164,7 +164,7 @@
   },
   {
     "id": "sig-2026-11-19-4016b8009194",
-    "date_capture": "2026-11-22",
+    "date_capture": "2026-11-23",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Mutuelle Nationale des Hospitaliers",
@@ -202,7 +202,7 @@
   },
   {
     "id": "sig-2026-11-04-ac41ef370a08",
-    "date_capture": "2026-11-22",
+    "date_capture": "2026-11-23",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Antargaz Énergies à Paris",
@@ -239,8 +239,46 @@
     ]
   },
   {
+    "id": "sig-2026-11-10-386c0fab6c19",
+    "date_capture": "2026-11-23",
+    "vertical": "corporate",
+    "sous_segment": "entreprise",
+    "compte": "L’Oréal France",
+    "titre": "L’Oréal France nomme Jean-Marie Gourmelen directeur des ressources humaines",
+    "description": "L’Oréal France nomme Jean-Marie Gourmelen directeur des ressources humaines Meet & Match",
+    "source": "Meet & Match (via Google News)",
+    "source_tier": 2,
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01NXVfbDV6Wks1aDgtMnY2WkF3YXBUSlJyWGhfOENLVjVVQzVSYlRDWHJxZHFzc2Q0bnlWOXJOWmNCXzhVZ3ExZ20xNEZpVTB6T1dtT3RrcTYtX0tWaWxmUFFmSzhnWEVVenhXV2E4N20?oc=5",
+    "signal_type": "nomination_chro",
+    "tier": 1,
+    "score": 90,
+    "produit_match": [
+      "ITS",
+      "Tosa Corporate"
+    ],
+    "owner": null,
+    "action_reco": "Fenêtre prise de poste ~30j : InMail/email à la nouvelle DRH (L’Oréal France) — angle outillage évaluation des compétences (ITS + Tosa).",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-11-10",
+    "email_draft": {
+      "subject": "Félicitations pour votre nomination DRH chez L’Oréal France",
+      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez L’Oréal France. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMicEFVX3lxTE01NXVfbDV6Wks1aDgtMnY2WkF3YXBUSlJyWGhfOENLVjVVQzVSYlRDWHJxZHFzc2Q0bnlWOXJOWmNCXzhVZ3ExZ20xNEZpVTB6T1dtT3RrcTYtX0tWaWxmUFFmSzhnWEVVenhXV2E4N20?oc=5"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "La personne nommée (cible directe)",
+        "alternatives": [],
+        "priorite": 1,
+        "raison": "Fenêtre 30j post-prise de poste = haute disposition aux nouveaux outils",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22La+personne+nomm%C3%A9e+%28cible+directe%29%22&currentCompany=L%E2%80%99Or%C3%A9al+France",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22L%E2%80%99Or%C3%A9al%20France%22%20La%20personne%20nomm%C3%A9e%20%28cible%20directe%29"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-11-20-fb43e4586d2b",
-    "date_capture": "2026-11-22",
+    "date_capture": "2026-11-23",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "SYSTRA",
@@ -278,7 +316,7 @@
   },
   {
     "id": "sig-2026-11-18-5f480be2f6b7",
-    "date_capture": "2026-11-22",
+    "date_capture": "2026-11-23",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "groupe Systra",
@@ -316,7 +354,7 @@
   },
   {
     "id": "sig-2026-11-18-25bcb1a0fe07",
-    "date_capture": "2026-11-22",
+    "date_capture": "2026-11-23",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "How Payhawk",
