@@ -1,36 +1,7 @@
 [
   {
-    "id": "sig-2026-11-16-d8a91263e3dc",
-    "date_capture": "2026-11-23",
-    "vertical": "corporate",
-    "sous_segment": "entreprise",
-    "compte": "Renault",
-    "titre": "Renault va recruter 2 000 salariés dans ses usines françaises… tout en supprimant 1 000 postes",
-    "description": "Renault va recruter 2 000 salariés dans ses usines françaises… tout en supprimant 1 000 postes L'Automobile Magazine",
-    "source": "L'Automobile Magazine (via Google News)",
-    "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWE9sYVNrcURldnZOUVNlSjV2UTRnUWZJaTZmS1lJc05LZjNYNTFSM2g2azVjbDE3S09jTFY4OG5XSU1kc3I4c1ItbVdaQkJ1ZjJTUHVudjFhMDJVZ2FFTnNOMlA0T1dCMEM5WFBzN0ZKeVg3TUxmallhZ1R3UG1lTTNXZDdEaS1jbU5MbXN4eXo3VFFVRG9NS3NzRXhYUGlTMm5XQlUxYVZnRmViQmJxMkI4a0ozamtuUzdSSk1DSFppWlhlc09WbHFhaE92YUlZQ1J5WjhWa1lGUzNVUll6N0ZFM0NUS3dLU3hmbkxyR0RKQlE?oc=5",
-    "signal_type": "plan_recrutement",
-    "tier": 1,
-    "score": 93,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": null,
-    "action_reco": "Renault : ~2000 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-11-16",
-    "email_draft": {
-      "subject": "Renault — fiabiliser la pré-qualification de vos recrutements",
-      "body": "Bonjour,\n\nJ'ai lu que Renault prépare une campagne de recrutement importante (Renault va recruter 2 000 salariés dans ses usines françaises… tout en supprimant 1 000 po…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
-      "url_source": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWE9sYVNrcURldnZOUVNlSjV2UTRnUWZJaTZmS1lJc05LZjNYNTFSM2g2azVjbDE3S09jTFY4OG5XSU1kc3I4c1ItbVdaQkJ1ZjJTUHVudjFhMDJVZ2FFTnNOMlA0T1dCMEM5WFBzN0ZKeVg3TUxmallhZ1R3UG1lTTNXZDdEaS1jbU5MbXN4eXo3VFFVRG9NS3NzRXhYUGlTMm5XQlUxYVZnRmViQmJxMkI4a0ozamtuUzdSSk1DSFppWlhlc09WbHFhaE92YUlZQ1J5WjhWa1lGUzNVUll6N0ZFM0NUS3dLU3hmbkxyR0RKQlE?oc=5"
-    },
-    "contacts_cibles": []
-  },
-  {
     "id": "sig-2026-11-12-41ad3be07956",
-    "date_capture": "2026-11-23",
+    "date_capture": "2026-11-24",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "filière du nucléaire",
@@ -58,8 +29,37 @@
     "contacts_cibles": []
   },
   {
+    "id": "sig-2026-11-16-d8a91263e3dc",
+    "date_capture": "2026-11-24",
+    "vertical": "corporate",
+    "sous_segment": "entreprise",
+    "compte": "Renault",
+    "titre": "Renault va recruter 2 000 salariés dans ses usines françaises… tout en supprimant 1 000 postes",
+    "description": "Renault va recruter 2 000 salariés dans ses usines françaises… tout en supprimant 1 000 postes L'Automobile Magazine",
+    "source": "L'Automobile Magazine (via Google News)",
+    "source_tier": 2,
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWE9sYVNrcURldnZOUVNlSjV2UTRnUWZJaTZmS1lJc05LZjNYNTFSM2g2azVjbDE3S09jTFY4OG5XSU1kc3I4c1ItbVdaQkJ1ZjJTUHVudjFhMDJVZ2FFTnNOMlA0T1dCMEM5WFBzN0ZKeVg3TUxmallhZ1R3UG1lTTNXZDdEaS1jbU5MbXN4eXo3VFFVRG9NS3NzRXhYUGlTMm5XQlUxYVZnRmViQmJxMkI4a0ozamtuUzdSSk1DSFppWlhlc09WbHFhaE92YUlZQ1J5WjhWa1lGUzNVUll6N0ZFM0NUS3dLU3hmbkxyR0RKQlE?oc=5",
+    "signal_type": "plan_recrutement",
+    "tier": 1,
+    "score": 93,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": null,
+    "action_reco": "Renault : ~2000 recrutements annoncés. Cibler Head of TA / DRH — pitch ITS pré-qualification candidats à volume.",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-11-16",
+    "email_draft": {
+      "subject": "Renault — fiabiliser la pré-qualification de vos recrutements",
+      "body": "Bonjour,\n\nJ'ai lu que Renault prépare une campagne de recrutement importante (Renault va recruter 2 000 salariés dans ses usines françaises… tout en supprimant 1 000 po…).\n\nIsograd Testing Services (ITS) permet d'évaluer objectivement les compétences (bureautique, data, tech, IA) des candidats en amont des entretiens — vos équipes TA gagnent du temps de screening et fiabilisent les shortlists.\n\nSeriez-vous disponible pour un échange de 20 minutes ?\n\nBien cordialement,\nCharles Gosset — Isograd",
+      "url_source": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWE9sYVNrcURldnZOUVNlSjV2UTRnUWZJaTZmS1lJc05LZjNYNTFSM2g2azVjbDE3S09jTFY4OG5XSU1kc3I4c1ItbVdaQkJ1ZjJTUHVudjFhMDJVZ2FFTnNOMlA0T1dCMEM5WFBzN0ZKeVg3TUxmallhZ1R3UG1lTTNXZDdEaS1jbU5MbXN4eXo3VFFVRG9NS3NzRXhYUGlTMm5XQlUxYVZnRmViQmJxMkI4a0ozamtuUzdSSk1DSFppWlhlc09WbHFhaE92YUlZQ1J5WjhWa1lGUzNVUll6N0ZFM0NUS3dLU3hmbkxyR0RKQlE?oc=5"
+    },
+    "contacts_cibles": []
+  },
+  {
     "id": "sig-2026-11-16-4dd497bbc6c1",
-    "date_capture": "2026-11-23",
+    "date_capture": "2026-11-24",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Air France",
@@ -88,7 +88,7 @@
   },
   {
     "id": "sig-2026-11-13-f17fb8a51ea9",
-    "date_capture": "2026-11-23",
+    "date_capture": "2026-11-24",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Spie CityNetworks",
@@ -125,8 +125,46 @@
     ]
   },
   {
+    "id": "sig-2026-11-17-2470ce6488a1",
+    "date_capture": "2026-11-24",
+    "vertical": "corporate",
+    "sous_segment": "entreprise",
+    "compte": "Systra",
+    "titre": "Vincent Lavaux nouveau DRH chez Systra",
+    "description": "Vincent Lavaux nouveau DRH chez Systra Ville, rail & transports",
+    "source": "Ville, rail & transports (via Google News)",
+    "source_tier": 2,
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVEdmU0pHTzlKUklMa09vVUtKbmRPNGU5V1lUVGNWMm5mTTBCUzlQMG9lNy1valhQUGhKV01Cclo2RExOYzFnd3NqRUxGaUdUa0xTRm8zV0hmMW9nZW50bVo5a284WUxlYjh5R1BRQWc2aUJkMXpPVlF3LVVKR3dfMVZEM2p1WWRWdEVvNi1pby1mTXQzZWJPTFBQN0dJMGs?oc=5",
+    "signal_type": "nomination_chro",
+    "tier": 1,
+    "score": 90,
+    "produit_match": [
+      "ITS",
+      "Tosa Corporate"
+    ],
+    "owner": null,
+    "action_reco": "Fenêtre prise de poste ~30j : InMail/email à la nouvelle DRH (Systra) — angle outillage évaluation des compétences (ITS + Tosa).",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-11-17",
+    "email_draft": {
+      "subject": "Félicitations pour votre nomination DRH chez Systra",
+      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez Systra. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMinwFBVV95cUxNVEdmU0pHTzlKUklMa09vVUtKbmRPNGU5V1lUVGNWMm5mTTBCUzlQMG9lNy1valhQUGhKV01Cclo2RExOYzFnd3NqRUxGaUdUa0xTRm8zV0hmMW9nZW50bVo5a284WUxlYjh5R1BRQWc2aUJkMXpPVlF3LVVKR3dfMVZEM2p1WWRWdEVvNi1pby1mTXQzZWJPTFBQN0dJMGs?oc=5"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "La personne nommée (cible directe)",
+        "alternatives": [],
+        "priorite": 1,
+        "raison": "Fenêtre 30j post-prise de poste = haute disposition aux nouveaux outils",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22La+personne+nomm%C3%A9e+%28cible+directe%29%22&currentCompany=Systra",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Systra%22%20La%20personne%20nomm%C3%A9e%20%28cible%20directe%29"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-11-21-825480b38357",
-    "date_capture": "2026-11-23",
+    "date_capture": "2026-11-24",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "MNH",
@@ -164,7 +202,7 @@
   },
   {
     "id": "sig-2026-11-19-4016b8009194",
-    "date_capture": "2026-11-23",
+    "date_capture": "2026-11-24",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Mutuelle Nationale des Hospitaliers",
@@ -202,7 +240,7 @@
   },
   {
     "id": "sig-2026-11-04-ac41ef370a08",
-    "date_capture": "2026-11-23",
+    "date_capture": "2026-11-24",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Antargaz Énergies à Paris",
@@ -240,7 +278,7 @@
   },
   {
     "id": "sig-2026-11-10-386c0fab6c19",
-    "date_capture": "2026-11-23",
+    "date_capture": "2026-11-24",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "L’Oréal France",
@@ -277,46 +315,8 @@
     ]
   },
   {
-    "id": "sig-2026-11-20-fb43e4586d2b",
-    "date_capture": "2026-11-23",
-    "vertical": "corporate",
-    "sous_segment": "entreprise",
-    "compte": "SYSTRA",
-    "titre": "SYSTRA nomme Vincent Lavaux DRH après une hausse de 58 % de ses effectifs",
-    "description": "SYSTRA nomme Vincent Lavaux DRH après une hausse de 58 % de ses effectifs business-times.fr",
-    "source": "business-times.fr (via Google News)",
-    "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mdzJOOG1HSUlzbDNCVlhkZ1FIc2FfTGpzdGlJTFNLMmhlT0tLRHg0RnZfMmpjMmxNOFYwT0xGT0lXOExYaXhBRkR6VGpZYUIzakFpNTNqV2x6Nk9NaEFWZS1B?oc=5",
-    "signal_type": "nomination_chro",
-    "tier": 1,
-    "score": 90,
-    "produit_match": [
-      "ITS",
-      "Tosa Corporate"
-    ],
-    "owner": null,
-    "action_reco": "Fenêtre prise de poste ~30j : InMail/email à la nouvelle DRH (SYSTRA) — angle outillage évaluation des compétences (ITS + Tosa).",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-11-20",
-    "email_draft": {
-      "subject": "Félicitations pour votre nomination DRH chez SYSTRA",
-      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez SYSTRA. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mdzJOOG1HSUlzbDNCVlhkZ1FIc2FfTGpzdGlJTFNLMmhlT0tLRHg0RnZfMmpjMmxNOFYwT0xGT0lXOExYaXhBRkR6VGpZYUIzakFpNTNqV2x6Nk9NaEFWZS1B?oc=5"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "La personne nommée (cible directe)",
-        "alternatives": [],
-        "priorite": 1,
-        "raison": "Fenêtre 30j post-prise de poste = haute disposition aux nouveaux outils",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22La+personne+nomm%C3%A9e+%28cible+directe%29%22&currentCompany=SYSTRA",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22SYSTRA%22%20La%20personne%20nomm%C3%A9e%20%28cible%20directe%29"
-      }
-    ]
-  },
-  {
     "id": "sig-2026-11-18-5f480be2f6b7",
-    "date_capture": "2026-11-23",
+    "date_capture": "2026-11-24",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "groupe Systra",
@@ -349,69 +349,6 @@
         "raison": "Fenêtre 30j post-prise de poste = haute disposition aux nouveaux outils",
         "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22La+personne+nomm%C3%A9e+%28cible+directe%29%22&currentCompany=groupe+Systra",
         "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22groupe%20Systra%22%20La%20personne%20nomm%C3%A9e%20%28cible%20directe%29"
-      }
-    ]
-  },
-  {
-    "id": "sig-2026-11-18-25bcb1a0fe07",
-    "date_capture": "2026-11-23",
-    "vertical": "corporate",
-    "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
-    "compte": "How Payhawk",
-    "titre": "How Payhawk raised $280m amid fintech downturn",
-    "description": "",
-    "source": "Sifted",
-    "source_tier": 1,
-    "url": "https://sifted.eu/articles/payhawk-series-c/",
-    "signal_type": "levee_fonds",
-    "tier": 1,
-    "score": 80,
-    "produit_match": [
-      "ITS"
-    ],
-    "owner": "Charles",
-    "action_reco": "📋 **Source** : https://sifted.eu/articles/payhawk-series-c/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 280.0M USD (~257.6M€) → scale-up confirmé, plan de recrutement massif sur 12 mois\n🔥 PRIORITÉ — fenêtre 30j (avant que les RH s'organisent)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-11-18",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-11-18",
-    "email_draft": {
-      "subject": "How Payhawk — votre Series — sur l'évaluation candidats à scale",
-      "body": "Bonjour,\n\nJe viens de voir que How Payhawk a bouclé une levée de 280.0M USD (~257.6M€). Bravo pour cette étape.\n\nSur les 12 prochains mois, vous allez probablement recruter 100+ profils. C'est exactement le moment où la qualité du process d'évaluation devient un goulot d'étranglement.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/payhawk-series-c/"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "Chief People Officer",
-        "alternatives": [
-          "Head of People",
-          "VP People",
-          "DRH"
-        ],
-        "priorite": 1,
-        "raison": "Décide outils RH stratégiques post-levée",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=How+Payhawk",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22How%20Payhawk%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
-      },
-      {
-        "poste": "Head of Talent Acquisition",
-        "alternatives": [
-          "Talent Acquisition Director",
-          "Head of Recruiting"
-        ],
-        "priorite": 2,
-        "raison": "Opérationnel — gère le plan de recrutement massif",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=How+Payhawk",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22How%20Payhawk%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
-      },
-      {
-        "poste": "Head of Hiring",
-        "alternatives": [
-          "Hiring Manager",
-          "Recruitment Director"
-        ],
-        "priorite": 3,
-        "raison": "Sous-décideur — peut tester l'outil rapidement",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=How+Payhawk",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22How%20Payhawk%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
       }
     ]
   }
