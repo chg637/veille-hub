@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-11-12-41ad3be07956",
-    "date_capture": "2026-11-24",
+    "date_capture": "2026-11-25",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "filière du nucléaire",
@@ -30,7 +30,7 @@
   },
   {
     "id": "sig-2026-11-16-d8a91263e3dc",
-    "date_capture": "2026-11-24",
+    "date_capture": "2026-11-25",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Renault",
@@ -59,7 +59,7 @@
   },
   {
     "id": "sig-2026-11-16-4dd497bbc6c1",
-    "date_capture": "2026-11-24",
+    "date_capture": "2026-11-25",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Air France",
@@ -88,7 +88,7 @@
   },
   {
     "id": "sig-2026-11-13-f17fb8a51ea9",
-    "date_capture": "2026-11-24",
+    "date_capture": "2026-11-25",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Spie CityNetworks",
@@ -126,7 +126,7 @@
   },
   {
     "id": "sig-2026-11-17-2470ce6488a1",
-    "date_capture": "2026-11-24",
+    "date_capture": "2026-11-25",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Systra",
@@ -164,7 +164,7 @@
   },
   {
     "id": "sig-2026-11-21-825480b38357",
-    "date_capture": "2026-11-24",
+    "date_capture": "2026-11-25",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "MNH",
@@ -202,7 +202,7 @@
   },
   {
     "id": "sig-2026-11-19-4016b8009194",
-    "date_capture": "2026-11-24",
+    "date_capture": "2026-11-25",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Mutuelle Nationale des Hospitaliers",
@@ -239,46 +239,8 @@
     ]
   },
   {
-    "id": "sig-2026-11-04-ac41ef370a08",
-    "date_capture": "2026-11-24",
-    "vertical": "corporate",
-    "sous_segment": "entreprise",
-    "compte": "Antargaz Énergies à Paris",
-    "titre": "Patricia Granvaud nommée DRH d'Antargaz Énergies à Paris",
-    "description": "Patricia Granvaud nommée DRH d'Antargaz Énergies à Paris Presse Agence",
-    "source": "Presse Agence (via Google News)",
-    "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUEVVd1FrSU1haVc4U2lNTUdoZW1Yd0RrVXM3eHhJX1FkYXM1WGR4Ym5YOXlITnRZWEtiODM3TUpwTDZJOVdQaVVSMFdrem55R1J2QUNQd3RZb3E1M0RVWnkwSjI3a1FCODZ3SFY1Z1FvQXhGMXJBZmRZbElJNmduWXZfYzkxcUlDZGN4RkFhUC00RnlMNFpjVThPeDZ5VXA2cFJ1c2pHcFlKWXVXNTQxNEVVTC1id0xNb0c1VjZBMkdEZw?oc=5",
-    "signal_type": "nomination_chro",
-    "tier": 1,
-    "score": 90,
-    "produit_match": [
-      "ITS",
-      "Tosa Corporate"
-    ],
-    "owner": null,
-    "action_reco": "Fenêtre prise de poste ~30j : InMail/email à la nouvelle DRH (Antargaz Énergies à Paris) — angle outillage évaluation des compétences (ITS + Tosa).",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-11-04",
-    "email_draft": {
-      "subject": "Félicitations pour votre nomination DRH chez Antargaz Énergies à Paris",
-      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez Antargaz Énergies à Paris. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUEVVd1FrSU1haVc4U2lNTUdoZW1Yd0RrVXM3eHhJX1FkYXM1WGR4Ym5YOXlITnRZWEtiODM3TUpwTDZJOVdQaVVSMFdrem55R1J2QUNQd3RZb3E1M0RVWnkwSjI3a1FCODZ3SFY1Z1FvQXhGMXJBZmRZbElJNmduWXZfYzkxcUlDZGN4RkFhUC00RnlMNFpjVThPeDZ5VXA2cFJ1c2pHcFlKWXVXNTQxNEVVTC1id0xNb0c1VjZBMkdEZw?oc=5"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "La personne nommée (cible directe)",
-        "alternatives": [],
-        "priorite": 1,
-        "raison": "Fenêtre 30j post-prise de poste = haute disposition aux nouveaux outils",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22La+personne+nomm%C3%A9e+%28cible+directe%29%22&currentCompany=Antargaz+%C3%89nergies+%C3%A0+Paris",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Antargaz%20%C3%89nergies%20%C3%A0%20Paris%22%20La%20personne%20nomm%C3%A9e%20%28cible%20directe%29"
-      }
-    ]
-  },
-  {
     "id": "sig-2026-11-10-386c0fab6c19",
-    "date_capture": "2026-11-24",
+    "date_capture": "2026-11-25",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "L’Oréal France",
@@ -316,7 +278,7 @@
   },
   {
     "id": "sig-2026-11-18-5f480be2f6b7",
-    "date_capture": "2026-11-24",
+    "date_capture": "2026-11-25",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "groupe Systra",
@@ -349,6 +311,137 @@
         "raison": "Fenêtre 30j post-prise de poste = haute disposition aux nouveaux outils",
         "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22La+personne+nomm%C3%A9e+%28cible+directe%29%22&currentCompany=groupe+Systra",
         "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22groupe%20Systra%22%20La%20personne%20nomm%C3%A9e%20%28cible%20directe%29"
+      }
+    ]
+  },
+  {
+    "id": "sig-2026-11-11-a270761e2d85",
+    "date_capture": "2026-11-25",
+    "vertical": "corporate",
+    "sous_segment": "entreprise",
+    "compte": "Ingérop",
+    "titre": "Ingérop nomme Anne Elisabeth Cutier à la direction RH",
+    "description": "Ingérop nomme Anne Elisabeth Cutier à la direction RH business-times.fr",
+    "source": "business-times.fr (via Google News)",
+    "source_tier": 2,
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByeTZObHB6cU9LUm9YWlZiWWJBclFRejJ4RmNiR3dvZlh2MkNMTlVJbXAxd1VjRmNtWkhqWnlhVjY4ZGtQQ1VCYkkzRHdiUVY0RGhkczV4T2JGV0tKM0JCYTc2NGl3cmJ0Uk02aw?oc=5",
+    "signal_type": "nomination_chro",
+    "tier": 1,
+    "score": 90,
+    "produit_match": [
+      "ITS",
+      "Tosa Corporate"
+    ],
+    "owner": null,
+    "action_reco": "Fenêtre prise de poste ~30j : InMail/email à la nouvelle DRH (Ingérop) — angle outillage évaluation des compétences (ITS + Tosa).",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-11-11",
+    "email_draft": {
+      "subject": "Félicitations pour votre nomination DRH chez Ingérop",
+      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez Ingérop. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMibEFVX3lxTFByeTZObHB6cU9LUm9YWlZiWWJBclFRejJ4RmNiR3dvZlh2MkNMTlVJbXAxd1VjRmNtWkhqWnlhVjY4ZGtQQ1VCYkkzRHdiUVY0RGhkczV4T2JGV0tKM0JCYTc2NGl3cmJ0Uk02aw?oc=5"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "La personne nommée (cible directe)",
+        "alternatives": [],
+        "priorite": 1,
+        "raison": "Fenêtre 30j post-prise de poste = haute disposition aux nouveaux outils",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22La+personne+nomm%C3%A9e+%28cible+directe%29%22&currentCompany=Ing%C3%A9rop",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Ing%C3%A9rop%22%20La%20personne%20nomm%C3%A9e%20%28cible%20directe%29"
+      }
+    ]
+  },
+  {
+    "id": "sig-2026-11-18-e690ee832ce9",
+    "date_capture": "2026-11-25",
+    "vertical": "corporate",
+    "sous_segment": "entreprise",
+    "compte": "États-Unis | Remington Hospitality",
+    "titre": "États-Unis | Remington Hospitality lance DRIVEN, une académie pour former ses futurs directeurs généraux",
+    "description": "États-Unis | Remington Hospitality lance DRIVEN, une académie pour former ses futurs directeurs généraux La Tribune de l'Hôtellerie",
+    "source": "La Tribune de l'Hôtellerie (via Google News)",
+    "source_tier": 2,
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONW55dlZNakllaENEZk9MQ1g3R1E0Y2R2aTY5a3l3dUZ0bzVpT3pJdVQ4cjh6TjhPVlEwVVc5azJzMzBfR2dHcEhONUxJblpaVVc5d0cyU09IVElFMUVkdXhWUEw2NlplQmdIVnRlWWdqbHdMR1JiRkFDR3lxTEw5Y0lYclJoVVI0TVBBcl81VEdvWEhrZVJkNA?oc=5",
+    "signal_type": "plan_ia",
+    "tier": 1,
+    "score": 85,
+    "produit_match": [
+      "ITS",
+      "Tosa Corporate"
+    ],
+    "owner": null,
+    "action_reco": "États-Unis | Remington Hospitality : plan de formation IA. Cibler Head of L&D / CDO — pitch mesure de socle (Cert IA Tosa sept 2026, programme partenaires).",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-11-18",
+    "email_draft": {
+      "subject": "États-Unis | Remington Hospitality — mesurer le socle de compétences IA de vos équipes",
+      "body": "Bonjour,\n\nVotre initiative de formation à l'IA (États-Unis | Remington Hospitality lance DRIVEN, une académie pour former ses futurs direc…) m'a interpellé.\n\nPour piloter ce type de programme, nos clients mesurent un socle de compétences avant/après (certification Tosa, plateforme ITS pour vos contenus propres). La Certification IA Tosa sort en septembre 2026 — programme partenaires de lancement en cours.\n\nUn échange de 20 minutes pour voir si cela peut soutenir votre déploiement ?\n\nBien cordialement,\nCharles Gosset — Isograd",
+      "url_source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONW55dlZNakllaENEZk9MQ1g3R1E0Y2R2aTY5a3l3dUZ0bzVpT3pJdVQ4cjh6TjhPVlEwVVc5azJzMzBfR2dHcEhONUxJblpaVVc5d0cyU09IVElFMUVkdXhWUEw2NlplQmdIVnRlWWdqbHdMR1JiRkFDR3lxTEw5Y0lYclJoVVI0TVBBcl81VEdvWEhrZVJkNA?oc=5"
+    },
+    "contacts_cibles": []
+  },
+  {
+    "id": "sig-2026-11-25-6b2e7598d438",
+    "date_capture": "2026-11-25",
+    "vertical": "corporate",
+    "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
+    "compte": "PolyAIs",
+    "titre": "PolyAI’s ex-machine learning chief raises $20m for new robotics startup",
+    "description": "",
+    "source": "Sifted",
+    "source_tier": 1,
+    "url": "https://sifted.eu/articles/polyais-ex-machine-learning-chief-raises-20m-for-new-robotics-startup/",
+    "signal_type": "levee_fonds",
+    "tier": 3,
+    "score": 50,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Source** : https://sifted.eu/articles/polyais-ex-machine-learning-chief-raises-20m-for-new-robotics-startup/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 20.0M USD (~18.4M€) → Series A late, signal mais startup encore early\n📌 À surveiller — relancer dans 3-6 mois quand ils auront recruté 30+\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-11-25",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-11-25",
+    "email_draft": {
+      "subject": "PolyAIs — votre Series — sur l'évaluation candidats à scale",
+      "body": "Bonjour,\n\nJe viens de voir que PolyAIs a bouclé une levée de 20.0M USD (~18.4M€). Bravo pour cette étape.\n\nUne levée à cette taille s'accompagne souvent d'un plan de recrutement ambitieux. Anticiper l'outillage évite la dette technique RH.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/polyais-ex-machine-learning-chief-raises-20m-for-new-robotics-startup/"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Chief People Officer",
+        "alternatives": [
+          "Head of People",
+          "VP People",
+          "DRH"
+        ],
+        "priorite": 1,
+        "raison": "Décide outils RH stratégiques post-levée",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=PolyAIs",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22PolyAIs%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
+      },
+      {
+        "poste": "Head of Talent Acquisition",
+        "alternatives": [
+          "Talent Acquisition Director",
+          "Head of Recruiting"
+        ],
+        "priorite": 2,
+        "raison": "Opérationnel — gère le plan de recrutement massif",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=PolyAIs",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22PolyAIs%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
+      },
+      {
+        "poste": "Head of Hiring",
+        "alternatives": [
+          "Hiring Manager",
+          "Recruitment Director"
+        ],
+        "priorite": 3,
+        "raison": "Sous-décideur — peut tester l'outil rapidement",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=PolyAIs",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22PolyAIs%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
       }
     ]
   }
