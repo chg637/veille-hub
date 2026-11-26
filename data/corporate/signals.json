@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-11-12-41ad3be07956",
-    "date_capture": "2026-11-25",
+    "date_capture": "2026-11-26",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "filière du nucléaire",
@@ -30,7 +30,7 @@
   },
   {
     "id": "sig-2026-11-16-d8a91263e3dc",
-    "date_capture": "2026-11-25",
+    "date_capture": "2026-11-26",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Renault",
@@ -59,7 +59,7 @@
   },
   {
     "id": "sig-2026-11-16-4dd497bbc6c1",
-    "date_capture": "2026-11-25",
+    "date_capture": "2026-11-26",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Air France",
@@ -88,7 +88,7 @@
   },
   {
     "id": "sig-2026-11-13-f17fb8a51ea9",
-    "date_capture": "2026-11-25",
+    "date_capture": "2026-11-26",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Spie CityNetworks",
@@ -126,7 +126,7 @@
   },
   {
     "id": "sig-2026-11-17-2470ce6488a1",
-    "date_capture": "2026-11-25",
+    "date_capture": "2026-11-26",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Systra",
@@ -164,7 +164,7 @@
   },
   {
     "id": "sig-2026-11-21-825480b38357",
-    "date_capture": "2026-11-25",
+    "date_capture": "2026-11-26",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "MNH",
@@ -201,46 +201,8 @@
     ]
   },
   {
-    "id": "sig-2026-11-19-4016b8009194",
-    "date_capture": "2026-11-25",
-    "vertical": "corporate",
-    "sous_segment": "entreprise",
-    "compte": "Mutuelle Nationale des Hospitaliers",
-    "titre": "Wassila Kriche nommée DRH de la Mutuelle Nationale des Hospitaliers",
-    "description": "Wassila Kriche nommée DRH de la Mutuelle Nationale des Hospitaliers Zonebourse",
-    "source": "Zonebourse (via Google News)",
-    "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRV8za1p6VnM1VHdkNjF3aVhKaXJTS244YjRqc3Q5VTVHX0ZUdExoTFl0ejJEMm5WTjluYS1uUVRDZHVpZ2NONTgtT0dSNjQyNk1ISlFCWXFlb0I3eGE3RjVfbDgwcFRDS3RncGhmbVJqYm5XeFhqOUd1QktlNE1ZQkZBdWpOSlpJTDQ1VTkxQ0k2ZUFCd09xWDZadEVQNzZ3Wm5YNUhTUG1EWWlJUDNKTUFDc1VTUEx6UlNOUXVOeWJnNG9qTlZZ?oc=5",
-    "signal_type": "nomination_chro",
-    "tier": 1,
-    "score": 90,
-    "produit_match": [
-      "ITS",
-      "Tosa Corporate"
-    ],
-    "owner": null,
-    "action_reco": "Fenêtre prise de poste ~30j : InMail/email à la nouvelle DRH (Mutuelle Nationale des Hospitaliers) — angle outillage évaluation des compétences (ITS + Tosa).",
-    "deadline_action": null,
-    "status": "new",
-    "date_publication": "2026-11-19",
-    "email_draft": {
-      "subject": "Félicitations pour votre nomination DRH chez Mutuelle Nationale des Hospitaliers",
-      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez Mutuelle Nationale des Hospitaliers. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMixwFBVV95cUxNRV8za1p6VnM1VHdkNjF3aVhKaXJTS244YjRqc3Q5VTVHX0ZUdExoTFl0ejJEMm5WTjluYS1uUVRDZHVpZ2NONTgtT0dSNjQyNk1ISlFCWXFlb0I3eGE3RjVfbDgwcFRDS3RncGhmbVJqYm5XeFhqOUd1QktlNE1ZQkZBdWpOSlpJTDQ1VTkxQ0k2ZUFCd09xWDZadEVQNzZ3Wm5YNUhTUG1EWWlJUDNKTUFDc1VTUEx6UlNOUXVOeWJnNG9qTlZZ?oc=5"
-    },
-    "contacts_cibles": [
-      {
-        "poste": "La personne nommée (cible directe)",
-        "alternatives": [],
-        "priorite": 1,
-        "raison": "Fenêtre 30j post-prise de poste = haute disposition aux nouveaux outils",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22La+personne+nomm%C3%A9e+%28cible+directe%29%22&currentCompany=Mutuelle+Nationale+des+Hospitaliers",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Mutuelle%20Nationale%20des%20Hospitaliers%22%20La%20personne%20nomm%C3%A9e%20%28cible%20directe%29"
-      }
-    ]
-  },
-  {
     "id": "sig-2026-11-10-386c0fab6c19",
-    "date_capture": "2026-11-25",
+    "date_capture": "2026-11-26",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "L’Oréal France",
@@ -277,16 +239,16 @@
     ]
   },
   {
-    "id": "sig-2026-11-18-5f480be2f6b7",
-    "date_capture": "2026-11-25",
+    "id": "sig-2026-11-19-4016b8009194",
+    "date_capture": "2026-11-26",
     "vertical": "corporate",
     "sous_segment": "entreprise",
-    "compte": "groupe Systra",
-    "titre": "Vincent Lavaux est nommé directeur des ressources humaines du groupe Systra",
-    "description": "Vincent Lavaux est nommé directeur des ressources humaines du groupe Systra AEF info",
-    "source": "AEF info (via Google News)",
+    "compte": "Mutuelle Nationale des Hospitaliers",
+    "titre": "Wassila Kriche nommée DRH de la Mutuelle Nationale des Hospitaliers",
+    "description": "Wassila Kriche nommée DRH de la Mutuelle Nationale des Hospitaliers Zonebourse",
+    "source": "Zonebourse (via Google News)",
     "source_tier": 2,
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeTJYQVdPbXpUUUJUSUpIcU5FQ2Q5UHpiaDBIa0lBRUl2dDNqcklDcFlDcjc0TU9vdTl4b2RUcTRudWVMaHB2ZXBfRVpuekQ0NmJsZnB4Q1lJMXJOZ0FpVnVuYlBPWGcyc3g5MURZTG9oWjRHNXdLcktwMGtWNTJ3NGFMOVl0aDJNeUJmN3lfZGNTeUtvZ0JIRFlWYkJtMGw5SVlDaW5rVEJtajluclF6T3lIZw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRV8za1p6VnM1VHdkNjF3aVhKaXJTS244YjRqc3Q5VTVHX0ZUdExoTFl0ejJEMm5WTjluYS1uUVRDZHVpZ2NONTgtT0dSNjQyNk1ISlFCWXFlb0I3eGE3RjVfbDgwcFRDS3RncGhmbVJqYm5XeFhqOUd1QktlNE1ZQkZBdWpOSlpJTDQ1VTkxQ0k2ZUFCd09xWDZadEVQNzZ3Wm5YNUhTUG1EWWlJUDNKTUFDc1VTUEx6UlNOUXVOeWJnNG9qTlZZ?oc=5",
     "signal_type": "nomination_chro",
     "tier": 1,
     "score": 90,
@@ -295,13 +257,13 @@
       "Tosa Corporate"
     ],
     "owner": null,
-    "action_reco": "Fenêtre prise de poste ~30j : InMail/email à la nouvelle DRH (groupe Systra) — angle outillage évaluation des compétences (ITS + Tosa).",
+    "action_reco": "Fenêtre prise de poste ~30j : InMail/email à la nouvelle DRH (Mutuelle Nationale des Hospitaliers) — angle outillage évaluation des compétences (ITS + Tosa).",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-11-18",
+    "date_publication": "2026-11-19",
     "email_draft": {
-      "subject": "Félicitations pour votre nomination DRH chez groupe Systra",
-      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez groupe Systra. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMiswFBVV95cUxPeTJYQVdPbXpUUUJUSUpIcU5FQ2Q5UHpiaDBIa0lBRUl2dDNqcklDcFlDcjc0TU9vdTl4b2RUcTRudWVMaHB2ZXBfRVpuekQ0NmJsZnB4Q1lJMXJOZ0FpVnVuYlBPWGcyc3g5MURZTG9oWjRHNXdLcktwMGtWNTJ3NGFMOVl0aDJNeUJmN3lfZGNTeUtvZ0JIRFlWYkJtMGw5SVlDaW5rVEJtajluclF6T3lIZw?oc=5"
+      "subject": "Félicitations pour votre nomination DRH chez Mutuelle Nationale des Hospitaliers",
+      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez Mutuelle Nationale des Hospitaliers. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMixwFBVV95cUxNRV8za1p6VnM1VHdkNjF3aVhKaXJTS244YjRqc3Q5VTVHX0ZUdExoTFl0ejJEMm5WTjluYS1uUVRDZHVpZ2NONTgtT0dSNjQyNk1ISlFCWXFlb0I3eGE3RjVfbDgwcFRDS3RncGhmbVJqYm5XeFhqOUd1QktlNE1ZQkZBdWpOSlpJTDQ1VTkxQ0k2ZUFCd09xWDZadEVQNzZ3Wm5YNUhTUG1EWWlJUDNKTUFDc1VTUEx6UlNOUXVOeWJnNG9qTlZZ?oc=5"
     },
     "contacts_cibles": [
       {
@@ -309,14 +271,52 @@
         "alternatives": [],
         "priorite": 1,
         "raison": "Fenêtre 30j post-prise de poste = haute disposition aux nouveaux outils",
-        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22La+personne+nomm%C3%A9e+%28cible+directe%29%22&currentCompany=groupe+Systra",
-        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22groupe%20Systra%22%20La%20personne%20nomm%C3%A9e%20%28cible%20directe%29"
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22La+personne+nomm%C3%A9e+%28cible+directe%29%22&currentCompany=Mutuelle+Nationale+des+Hospitaliers",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Mutuelle%20Nationale%20des%20Hospitaliers%22%20La%20personne%20nomm%C3%A9e%20%28cible%20directe%29"
+      }
+    ]
+  },
+  {
+    "id": "sig-2026-11-25-ba28a160ff62",
+    "date_capture": "2026-11-26",
+    "vertical": "corporate",
+    "sous_segment": "entreprise",
+    "compte": "Pierre & Vacances-Center Parcs",
+    "titre": "Carole Prouhèze DRH de Pierre & Vacances-Center Parcs",
+    "description": "Carole Prouhèze DRH de Pierre & Vacances-Center Parcs La Tribune de l'Hôtellerie",
+    "source": "La Tribune de l'Hôtellerie (via Google News)",
+    "source_tier": 2,
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSWE1VEI0WG5KQkloOXlrZmRnSHhRVElCcE1LV0FVMDBWdklZT2wxSnBNVDd1cGRLSWgzaHlMdERkc3dxNHBoRnhjY1BHSDZhUmhPemZCb0RRNXBEWnhTMnQtdGhfcFJ1YzEteE44VWJBLS1wY3RkYUFRV0doVm1ZZGZoOGNjTGNhOHJTbGdnMi1wQmpET0E?oc=5",
+    "signal_type": "nomination_chro",
+    "tier": 1,
+    "score": 90,
+    "produit_match": [
+      "ITS",
+      "Tosa Corporate"
+    ],
+    "owner": null,
+    "action_reco": "Fenêtre prise de poste ~30j : InMail/email à la nouvelle DRH (Pierre & Vacances-Center Parcs) — angle outillage évaluation des compétences (ITS + Tosa).",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-11-25",
+    "email_draft": {
+      "subject": "Félicitations pour votre nomination DRH chez Pierre & Vacances-Center Parcs",
+      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez Pierre & Vacances-Center Parcs. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMilgFBVV95cUxQSWE1VEI0WG5KQkloOXlrZmRnSHhRVElCcE1LV0FVMDBWdklZT2wxSnBNVDd1cGRLSWgzaHlMdERkc3dxNHBoRnhjY1BHSDZhUmhPemZCb0RRNXBEWnhTMnQtdGhfcFJ1YzEteE44VWJBLS1wY3RkYUFRV0doVm1ZZGZoOGNjTGNhOHJTbGdnMi1wQmpET0E?oc=5"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "La personne nommée (cible directe)",
+        "alternatives": [],
+        "priorite": 1,
+        "raison": "Fenêtre 30j post-prise de poste = haute disposition aux nouveaux outils",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22La+personne+nomm%C3%A9e+%28cible+directe%29%22&currentCompany=Pierre+%26+Vacances-Center+Parcs",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Pierre%20%26%20Vacances-Center%20Parcs%22%20La%20personne%20nomm%C3%A9e%20%28cible%20directe%29"
       }
     ]
   },
   {
     "id": "sig-2026-11-11-a270761e2d85",
-    "date_capture": "2026-11-25",
+    "date_capture": "2026-11-26",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "Ingérop",
@@ -353,8 +353,46 @@
     ]
   },
   {
+    "id": "sig-2026-11-18-5f480be2f6b7",
+    "date_capture": "2026-11-26",
+    "vertical": "corporate",
+    "sous_segment": "entreprise",
+    "compte": "groupe Systra",
+    "titre": "Vincent Lavaux est nommé directeur des ressources humaines du groupe Systra",
+    "description": "Vincent Lavaux est nommé directeur des ressources humaines du groupe Systra AEF info",
+    "source": "AEF info (via Google News)",
+    "source_tier": 2,
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeTJYQVdPbXpUUUJUSUpIcU5FQ2Q5UHpiaDBIa0lBRUl2dDNqcklDcFlDcjc0TU9vdTl4b2RUcTRudWVMaHB2ZXBfRVpuekQ0NmJsZnB4Q1lJMXJOZ0FpVnVuYlBPWGcyc3g5MURZTG9oWjRHNXdLcktwMGtWNTJ3NGFMOVl0aDJNeUJmN3lfZGNTeUtvZ0JIRFlWYkJtMGw5SVlDaW5rVEJtajluclF6T3lIZw?oc=5",
+    "signal_type": "nomination_chro",
+    "tier": 1,
+    "score": 90,
+    "produit_match": [
+      "ITS",
+      "Tosa Corporate"
+    ],
+    "owner": null,
+    "action_reco": "Fenêtre prise de poste ~30j : InMail/email à la nouvelle DRH (groupe Systra) — angle outillage évaluation des compétences (ITS + Tosa).",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-11-18",
+    "email_draft": {
+      "subject": "Félicitations pour votre nomination DRH chez groupe Systra",
+      "body": "Bonjour,\n\nFélicitations pour votre prise de poste en tant que DRH chez groupe Systra. Belle étape.\n\nJe me permets de vous écrire car beaucoup de DRH récemment nommés me partagent le même constat dans leurs premières semaines : un manque de visibilité sur le niveau réel des compétences en interne, et un process d'évaluation candidats hétérogène selon qui recrute.\n\nJe vends ITS chez Isograd — une plateforme d'évaluation utilisée par des entreprises comparables pour deux usages :\n\n1. **Cartographier les compétences existantes** (techniques, bureautiques) avec des tests calibrés. Vous obtenez en 2 semaines une photo objective de votre population.\n\n2. **Industrialiser le screening candidats** avec des tests automatisés intégrés à votre ATS. Standardise les décisions d'embauche.\n\nL'avantage de prendre 15 minutes maintenant : voir si ça peut vous servir d'argument dans vos premiers chantiers (audit compétences, refonte process recrutement, plan d'embauche, transition Qualiopi…).\n\nDisponible cette semaine ou la suivante ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'annonce : https://news.google.com/rss/articles/CBMiswFBVV95cUxPeTJYQVdPbXpUUUJUSUpIcU5FQ2Q5UHpiaDBIa0lBRUl2dDNqcklDcFlDcjc0TU9vdTl4b2RUcTRudWVMaHB2ZXBfRVpuekQ0NmJsZnB4Q1lJMXJOZ0FpVnVuYlBPWGcyc3g5MURZTG9oWjRHNXdLcktwMGtWNTJ3NGFMOVl0aDJNeUJmN3lfZGNTeUtvZ0JIRFlWYkJtMGw5SVlDaW5rVEJtajluclF6T3lIZw?oc=5"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "La personne nommée (cible directe)",
+        "alternatives": [],
+        "priorite": 1,
+        "raison": "Fenêtre 30j post-prise de poste = haute disposition aux nouveaux outils",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22La+personne+nomm%C3%A9e+%28cible+directe%29%22&currentCompany=groupe+Systra",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22groupe%20Systra%22%20La%20personne%20nomm%C3%A9e%20%28cible%20directe%29"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-11-18-e690ee832ce9",
-    "date_capture": "2026-11-25",
+    "date_capture": "2026-11-26",
     "vertical": "corporate",
     "sous_segment": "entreprise",
     "compte": "États-Unis | Remington Hospitality",
@@ -383,8 +421,71 @@
     "contacts_cibles": []
   },
   {
+    "id": "sig-2026-11-26-ebd8a8740e7d",
+    "date_capture": "2026-11-26",
+    "vertical": "corporate",
+    "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
+    "compte": "ElevenLabs",
+    "titre": "ElevenLabs in talks to raise funding at $33bn valuation, reports say",
+    "description": "",
+    "source": "Sifted",
+    "source_tier": 1,
+    "url": "https://sifted.eu/articles/elevenlabs-funding-round-raise-33-bn-latest/",
+    "signal_type": "levee_fonds",
+    "tier": 2,
+    "score": 65,
+    "produit_match": [
+      "ITS"
+    ],
+    "owner": "Charles",
+    "action_reco": "📋 **Source** : https://sifted.eu/articles/elevenlabs-funding-round-raise-33-bn-latest/\n🎯 **Décideur cible** : Chief People Officer / Head of Talent Acquisition / Head of Hiring\n💡 **Angle de valeur** : industrialiser l'évaluation des candidats à scale, standardiser les tests compétences (techniques + soft) sur ITS\n💰 Levée 33.0M USD (~30.4M€) → Series B+, structuration des processus RH en cours\n🎯 Fenêtre 60j (timing optimal post-Series B)\n🥊 **Concurrents probables** : AssessFirst, Central Test, Codingame, HackerRank, BrightHire (selon profil tech vs sales)\n📅 Date annonce : 2026-11-26",
+    "deadline_action": null,
+    "status": "new",
+    "date_publication": "2026-11-26",
+    "email_draft": {
+      "subject": "ElevenLabs — votre Series — sur l'évaluation candidats à scale",
+      "body": "Bonjour,\n\nJe viens de voir que ElevenLabs a bouclé une levée de 33.0M USD (~30.4M€). Bravo pour cette étape.\n\nPost-Series B, c'est le moment où la plupart des scale-ups structurent leur process d'éval candidats. Avant que le volume devienne incontrôlable.\n\nChez Isograd, on opère ITS, une plateforme SaaS d'évaluation des compétences techniques utilisée par des scale-ups qui recrutent 50 à 500 personnes par an. Le principe : standardiser le screening technique des candidats (devs, data, ops, sales) avec des tests calibrés, automatisés, et opposables.\n\nTrois cas concrets de clients comparables :\n- Réduction du temps de qualif technique de 45min à 12min par candidat\n- Doublement du taux de présence en entretien final (candidats qualifiés en amont)\n- Standardisation entre les recruteurs (fini les évaluations subjectives selon qui interview)\n\n15 minutes pour vous montrer concrètement la plateforme ?\n\nCharles GOSSET\nSales Manager — Isograd / ITS\n\nSource de l'info : https://sifted.eu/articles/elevenlabs-funding-round-raise-33-bn-latest/"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Chief People Officer",
+        "alternatives": [
+          "Head of People",
+          "VP People",
+          "DRH"
+        ],
+        "priorite": 1,
+        "raison": "Décide outils RH stratégiques post-levée",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Chief+People+Officer%22+OR+%22Head+of+People%22+OR+%22VP+People%22+OR+%22DRH%22&currentCompany=ElevenLabs",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ElevenLabs%22%20Chief%20People%20Officer%20Head%20of%20People%20VP%20People%20DRH"
+      },
+      {
+        "poste": "Head of Talent Acquisition",
+        "alternatives": [
+          "Talent Acquisition Director",
+          "Head of Recruiting"
+        ],
+        "priorite": 2,
+        "raison": "Opérationnel — gère le plan de recrutement massif",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Talent+Acquisition%22+OR+%22Talent+Acquisition+Director%22+OR+%22Head+of+Recruiting%22&currentCompany=ElevenLabs",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ElevenLabs%22%20Head%20of%20Talent%20Acquisition%20Talent%20Acquisition%20Director%20Head%20of%20Recruiting"
+      },
+      {
+        "poste": "Head of Hiring",
+        "alternatives": [
+          "Hiring Manager",
+          "Recruitment Director"
+        ],
+        "priorite": 3,
+        "raison": "Sous-décideur — peut tester l'outil rapidement",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Head+of+Hiring%22+OR+%22Hiring+Manager%22+OR+%22Recruitment+Director%22&currentCompany=ElevenLabs",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22ElevenLabs%22%20Head%20of%20Hiring%20Hiring%20Manager%20Recruitment%20Director"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-11-25-6b2e7598d438",
-    "date_capture": "2026-11-25",
+    "date_capture": "2026-11-26",
     "vertical": "corporate",
     "sous_segment": "Scale-up / Levée Series B+ (Sifted)",
     "compte": "PolyAIs",

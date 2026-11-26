@@ -1,7 +1,7 @@
 [
   {
     "id": "sig-2026-11-25-e1591724bbbf",
-    "date_capture": "2026-11-25",
+    "date_capture": "2026-11-26",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "L’ISG renouvelle son grade de master et",
@@ -19,7 +19,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nISG grade de master : visa renouvelé pour six ans, grade de licence pour le BMI sur huit campus. L’article L ISG renouvelle son grade de master et décroche le grade de licence pour son Bachelor est…\n\n🎯 **Action à mener**\nEmail au responsable maquette + pitch « Pack Edu Tosa = preuve mesurable compétences digitales pour le dossier accréditation ». Joindre 2 cas pairs. RDV sous 14j.\n\n💡 **Angle pitch ITS/Tosa**\nTosa = preuve opposable de la qualité d'évaluation des compétences (audit Qualiopi, France Compétences). Doublement du signal extérieur dans la promotion du programme labellisé.\n\n📅 **Timing**\n3 mois post-annonce — fenêtre de capitalisation médiatique encore active.",
-    "deadline_action": "2026-12-02",
+    "deadline_action": "2026-12-03",
     "status": "new",
     "date_publication": "2026-11-25",
     "email_draft": {
@@ -66,7 +66,7 @@
   },
   {
     "id": "sig-2026-11-12-a7eb85fa21b9",
-    "date_capture": "2026-11-25",
+    "date_capture": "2026-11-26",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "BTS",
@@ -84,7 +84,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nL'ouverture de 10.000 places supplémentaires en BTS à la rentrée 2027 est accueillie favorablement par les syndicats de la voie professionnelle. Mais pour que cette mesure profite réellement aux…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme BTS. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-12-02",
+    "deadline_action": "2026-12-03",
     "status": "new",
     "date_publication": "2026-11-12",
     "email_draft": {
@@ -128,8 +128,132 @@
     ]
   },
   {
+    "id": "sig-2026-11-26-5965ad5df209",
+    "date_capture": "2026-11-26",
+    "vertical": "education",
+    "sous_segment": "programme-ia",
+    "compte": "Mohamed",
+    "titre": "emlyon tech school : Mohamed Senhadji nommé directeur exécutif",
+    "description": "emlyon tech school directeur : Mohamed Senhadji prend la tête de la nouvelle école tech et IA d'emlyon. L’article emlyon tech school : Mohamed Senhadji nommé directeur exécutif est apparu en premier sur Planète Grandes Écoles .",
+    "source": "Planète Grandes Écoles",
+    "source_tier": 2,
+    "url": "https://www.planetegrandesecoles.com/emlyon-tech-school-directeur-mohamed-senhadji",
+    "signal_type": "nomination_dg",
+    "tier": 1,
+    "score": 85,
+    "produit_match": [
+      "Pack Education Tosa"
+    ],
+    "owner": null,
+    "action_reco": "📋 **Signal détecté**\nemlyon tech school directeur : Mohamed Senhadji prend la tête de la nouvelle école tech et IA d'emlyon. L’article emlyon tech school : Mohamed Senhadji nommé directeur exécutif est apparu en premier…\n\n🎯 **Action à mener**\nNote LinkedIn 100 premiers jours du nouveau DG. Angle « bilan rapide du dispositif certification ». Brief équipe sur les comptes Tosa déjà présents chez Mohamed.\n\n💡 **Angle pitch ITS/Tosa**\nFenêtre stratégique post-prise de poste : nouveau directeur cherche à poser sa marque. Apport rapide = Tosa pour signal externe + ITS pour structurer la passation.\n\n📅 **Timing**\n30-90 jours après l'annonce. Au-delà, la roadmap est figée.",
+    "deadline_action": "2026-12-03",
+    "status": "new",
+    "date_publication": "2026-11-26",
+    "email_draft": {
+      "subject": "Mohamed — nouvelle direction : quels chantiers évaluation prévus ?",
+      "body": "Bonjour,\n\nJ'ai noté votre arrivée à la direction chez Mohamed.\nContexte que j'ai vu passer : « emlyon tech school directeur : Mohamed Senhadji prend la tête de la nouvelle école tech et IA d'emlyon. L’article emlyon tech… ».\n\nFélicitations pour cette prise de poste — belle étape.\n\nJe me permets de vous écrire car beaucoup de directeurs récemment nommés dans le supérieur partagent le même constat à 60-90 jours : besoin de poser rapidement une stratégie claire sur l'évaluation des compétences étudiants — pour répondre aux exigences Qualiopi/RNCP et aux attentes des entreprises partenaires.\n\nChez Isograd, deux solutions utilisées par des écoles comparables :\n\n1. **Tosa** — certification des compétences numériques étudiants (bureautique, code, digital). Argument fort en diplômation, CV, et classements.\n\n2. **ITS** — plateforme d'hébergement d'examens en ligne avec proctoring et banque de questions, opposable en audit.\n\n15 minutes pour vous montrer ce que d'autres directions ont mis en place dans leurs premiers mois ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource de l'info : https://www.planetegrandesecoles.com/emlyon-tech-school-directeur-mohamed-senhadji"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Le(la) nouveau(elle) directeur(rice) directement",
+        "alternatives": [
+          "Directeur(rice) général(e)",
+          "Présidence"
+        ],
+        "priorite": 1,
+        "raison": "Fenêtre 30-90j post-prise de poste — ouvert aux nouveaux chantiers",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Le%28la%29+nouveau%28elle%29+directeur%28rice%29+directement%22+OR+%22Directeur%28rice%29+g%C3%A9n%C3%A9ral%28e%29%22+OR+%22Pr%C3%A9sidence%22&currentCompany=Mohamed",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Mohamed%22%20Le%28la%29%20nouveau%28elle%29%20directeur%28rice%29%20directement%20Directeur%28rice%29%20g%C3%A9n%C3%A9ral%28e%29%20Pr%C3%A9sidence"
+      },
+      {
+        "poste": "Directeur(rice) de cabinet / Adjoint(e)",
+        "alternatives": [
+          "Bras droit",
+          "Chief of Staff"
+        ],
+        "priorite": 2,
+        "raison": "Pré-qualifie les dossiers stratégiques du nouveau directeur",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+de+cabinet+%2F+Adjoint%28e%29%22+OR+%22Bras+droit%22+OR+%22Chief+of+Staff%22&currentCompany=Mohamed",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Mohamed%22%20Directeur%28rice%29%20de%20cabinet%20/%20Adjoint%28e%29%20Bras%20droit%20Chief%20of%20Staff"
+      },
+      {
+        "poste": "Directeur(rice) des programmes / Académique",
+        "alternatives": [
+          "Doyen",
+          "VP Pédagogie"
+        ],
+        "priorite": 3,
+        "raison": "Souvent en pleine relecture de la roadmap pédagogique post-nomination",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+des+programmes+%2F+Acad%C3%A9mique%22+OR+%22Doyen%22+OR+%22VP+P%C3%A9dagogie%22&currentCompany=Mohamed",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22Mohamed%22%20Directeur%28rice%29%20des%20programmes%20/%20Acad%C3%A9mique%20Doyen%20VP%20P%C3%A9dagogie"
+      }
+    ]
+  },
+  {
+    "id": "sig-2026-11-26-234ad078f0cd",
+    "date_capture": "2026-11-26",
+    "vertical": "education",
+    "sous_segment": "grande-ecole",
+    "compte": "IÉSEG",
+    "titre": "IÉSEG : Julien Marchal nommé directeur marketing et développement commercial",
+    "description": "IÉSEG directeur marketing : Julien Marchal rejoint le comité de direction pour piloter le recrutement. L’article IÉSEG : Julien Marchal nommé directeur marketing et développement commercial est apparu en premier sur Planète Grandes Écoles .",
+    "source": "Planète Grandes Écoles",
+    "source_tier": 2,
+    "url": "https://www.planetegrandesecoles.com/ieseg-directeur-marketing-julien-marchal",
+    "signal_type": "nomination_dg",
+    "tier": 1,
+    "score": 85,
+    "produit_match": [
+      "Pack Education Tosa"
+    ],
+    "owner": null,
+    "action_reco": "📋 **Signal détecté**\nIÉSEG directeur marketing : Julien Marchal rejoint le comité de direction pour piloter le recrutement. L’article IÉSEG : Julien Marchal nommé directeur marketing et développement commercial est…\n\n🎯 **Action à mener**\nNote LinkedIn 100 premiers jours du nouveau DG. Angle « bilan rapide du dispositif certification ». Brief équipe sur les comptes Tosa déjà présents chez IÉSEG.\n\n💡 **Angle pitch ITS/Tosa**\nFenêtre stratégique post-prise de poste : nouveau directeur cherche à poser sa marque. Apport rapide = Tosa pour signal externe + ITS pour structurer la passation.\n\n📅 **Timing**\n30-90 jours après l'annonce. Au-delà, la roadmap est figée.",
+    "deadline_action": "2026-12-03",
+    "status": "new",
+    "date_publication": "2026-11-26",
+    "email_draft": {
+      "subject": "IÉSEG — nouvelle direction : quels chantiers évaluation prévus ?",
+      "body": "Bonjour,\n\nJ'ai noté votre arrivée à la direction chez IÉSEG.\nContexte que j'ai vu passer : « IÉSEG directeur marketing : Julien Marchal rejoint le comité de direction pour piloter le recrutement. L’article IÉSEG : Julien… ».\n\nFélicitations pour cette prise de poste — belle étape.\n\nJe me permets de vous écrire car beaucoup de directeurs récemment nommés dans le supérieur partagent le même constat à 60-90 jours : besoin de poser rapidement une stratégie claire sur l'évaluation des compétences étudiants — pour répondre aux exigences Qualiopi/RNCP et aux attentes des entreprises partenaires.\n\nChez Isograd, deux solutions utilisées par des écoles comparables :\n\n1. **Tosa** — certification des compétences numériques étudiants (bureautique, code, digital). Argument fort en diplômation, CV, et classements.\n\n2. **ITS** — plateforme d'hébergement d'examens en ligne avec proctoring et banque de questions, opposable en audit.\n\n15 minutes pour vous montrer ce que d'autres directions ont mis en place dans leurs premiers mois ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource de l'info : https://www.planetegrandesecoles.com/ieseg-directeur-marketing-julien-marchal"
+    },
+    "contacts_cibles": [
+      {
+        "poste": "Le(la) nouveau(elle) directeur(rice) directement",
+        "alternatives": [
+          "Directeur(rice) général(e)",
+          "Présidence"
+        ],
+        "priorite": 1,
+        "raison": "Fenêtre 30-90j post-prise de poste — ouvert aux nouveaux chantiers",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Le%28la%29+nouveau%28elle%29+directeur%28rice%29+directement%22+OR+%22Directeur%28rice%29+g%C3%A9n%C3%A9ral%28e%29%22+OR+%22Pr%C3%A9sidence%22&currentCompany=I%C3%89SEG",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22I%C3%89SEG%22%20Le%28la%29%20nouveau%28elle%29%20directeur%28rice%29%20directement%20Directeur%28rice%29%20g%C3%A9n%C3%A9ral%28e%29%20Pr%C3%A9sidence"
+      },
+      {
+        "poste": "Directeur(rice) de cabinet / Adjoint(e)",
+        "alternatives": [
+          "Bras droit",
+          "Chief of Staff"
+        ],
+        "priorite": 2,
+        "raison": "Pré-qualifie les dossiers stratégiques du nouveau directeur",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+de+cabinet+%2F+Adjoint%28e%29%22+OR+%22Bras+droit%22+OR+%22Chief+of+Staff%22&currentCompany=I%C3%89SEG",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22I%C3%89SEG%22%20Directeur%28rice%29%20de%20cabinet%20/%20Adjoint%28e%29%20Bras%20droit%20Chief%20of%20Staff"
+      },
+      {
+        "poste": "Directeur(rice) des programmes / Académique",
+        "alternatives": [
+          "Doyen",
+          "VP Pédagogie"
+        ],
+        "priorite": 3,
+        "raison": "Souvent en pleine relecture de la roadmap pédagogique post-nomination",
+        "sales_nav_url": "https://www.linkedin.com/sales/search/people?keywords=%22Directeur%28rice%29+des+programmes+%2F+Acad%C3%A9mique%22+OR+%22Doyen%22+OR+%22VP+P%C3%A9dagogie%22&currentCompany=I%C3%89SEG",
+        "linkedin_public_url": "https://www.linkedin.com/search/results/people/?keywords=%22I%C3%89SEG%22%20Directeur%28rice%29%20des%20programmes%20/%20Acad%C3%A9mique%20Doyen%20VP%20P%C3%A9dagogie"
+      }
+    ]
+  },
+  {
     "id": "sig-2026-11-25-fa29f656af53",
-    "date_capture": "2026-11-25",
+    "date_capture": "2026-11-26",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "Prix",
@@ -147,7 +271,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nL’article Prix Jean-François FIORINA 2026 : découvrez cinq des 25 projets sélectionnés 3/5 est apparu en premier sur Conférence des grandes écoles .\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme Prix. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-12-02",
+    "deadline_action": "2026-12-03",
     "status": "new",
     "date_publication": "2026-11-25",
     "email_draft": {
@@ -192,7 +316,7 @@
   },
   {
     "id": "sig-2026-11-18-4f7bca8f270a",
-    "date_capture": "2026-11-25",
+    "date_capture": "2026-11-26",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "Prix",
@@ -210,7 +334,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nL’article Prix Jean-François FIORINA 2026 : découvrez cinq des 25 projets sélectionnés 2/5 est apparu en premier sur Conférence des grandes écoles .\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme Prix. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-12-02",
+    "deadline_action": "2026-12-03",
     "status": "new",
     "date_publication": "2026-11-18",
     "email_draft": {
@@ -255,7 +379,7 @@
   },
   {
     "id": "sig-2026-11-12-ffb5166f15a4",
-    "date_capture": "2026-11-25",
+    "date_capture": "2026-11-26",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "Prix",
@@ -273,7 +397,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nL’article Prix Jean-François FIORINA 2026 : découvrez cinq des 25 projets sélectionnés 1/5 est apparu en premier sur Conférence des grandes écoles .\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme Prix. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-12-02",
+    "deadline_action": "2026-12-03",
     "status": "new",
     "date_publication": "2026-11-12",
     "email_draft": {
@@ -318,7 +442,7 @@
   },
   {
     "id": "sig-2026-11-04-1ee603cdd0ff",
-    "date_capture": "2026-11-25",
+    "date_capture": "2026-11-26",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "Lancement",
@@ -336,7 +460,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nL’article Lancement de la 2e édition du baromètre « IA dans les Grandes écoles » est apparu en premier sur Conférence des grandes écoles .\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme Lancement. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-12-02",
+    "deadline_action": "2026-12-03",
     "status": "new",
     "date_publication": "2026-11-04",
     "email_draft": {
@@ -381,7 +505,7 @@
   },
   {
     "id": "sig-2026-11-25-438d479d1c9a",
-    "date_capture": "2026-11-25",
+    "date_capture": "2026-11-26",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "L’EM Normandie et l’École FAUCHON",
@@ -399,7 +523,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nÀ la rentrée 2027, l’EM Normandie et l’École FAUCHON ouvriront un bachelor post-bac en trois ans qui associe arts culinaires et gestion d’entreprise. Les étudiants se formeront au management au Havre…\n\n🎯 **Action à mener**\nNote de connexion LinkedIn au directeur de programme L’EM Normandie et l’École FAUCHON. Pitch « Intégrer la certification dans la maquette dès le lancement ». Demande de RDV 30 min.\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
-    "deadline_action": "2026-12-02",
+    "deadline_action": "2026-12-03",
     "status": "new",
     "date_publication": "2026-11-25",
     "email_draft": {
@@ -444,7 +568,7 @@
   },
   {
     "id": "sig-2026-11-19-ec3c62e4645f",
-    "date_capture": "2026-11-25",
+    "date_capture": "2026-11-26",
     "vertical": "education",
     "sous_segment": "grande-ecole",
     "compte": "IMT-BS",
@@ -461,7 +585,7 @@
     ],
     "owner": null,
     "action_reco": "📋 **Signal détecté**\nInstitut Mines-Télécom Business School (IMT-BS) et l’IAE Limoges officialisent leur partenariat en signant une convention ce lundi 23 novembre 2026. Annoncé en février, ce rapprochement s’est déjà…\n\n🎯 **Action à mener**\nEmail direction Harmonisation. Pitch « standard commun certification post-fusion ». RDV pédagogique + DSI sous 30j.\n\n💡 **Angle pitch ITS/Tosa**\nHarmoniser les référentiels d'évaluation entre les entités fusionnées. ITS = plateforme unifiée pour tous les programmes du nouvel ensemble.\n\n📅 **Timing**\n6-12 mois post-annonce — phase d'intégration opérationnelle.",
-    "deadline_action": "2026-12-25",
+    "deadline_action": "2026-12-26",
     "status": "new",
     "date_publication": "2026-11-19",
     "email_draft": null,
@@ -492,7 +616,7 @@
   },
   {
     "id": "sig-stable-4cc03b95f797",
-    "date_capture": "2026-11-25",
+    "date_capture": "2026-11-26",
     "vertical": "education",
     "sous_segment": "Cert IA — beta",
     "compte": "Universite de Technologie de Troyes (UTT)",
@@ -512,7 +636,7 @@
     "action_reco": "📋 **Signal détecté**\nBachelor IA - cursus 3 ans\n\n🎯 **Action à mener**\nA croiser site UTT + LinkedIn avant contact\n\n💡 **Angle pitch ITS/Tosa**\nCadrer le dispositif d'évaluation AVANT la 1re cohorte : Tosa pour certifier les compétences numériques, ITS pour héberger les examens. Si programme IA → Cert IA beta possible.\n\n📅 **Timing**\nAvant le lancement de la 1re promo (4-6 semaines de déploiement).",
     "deadline_action": null,
     "status": "new",
-    "date_publication": "2026-11-25",
+    "date_publication": "2026-11-26",
     "email_draft": {
       "subject": "Universite de Technologie de Troyes (UTT) — Bachelor IA - cursus 3 ans : quelle évaluation prévue ?",
       "body": "Bonjour,\n\nJ'ai vu votre actualité : « Bachelor IA - cursus 3 ans ». Beau lancement.\n\nSur ce type de nouveau programme, le timing pour penser le dispositif d'évaluation des compétences est en général la période juste avant la première cohorte — ça permet de cadrer proprement la maquette pédagogique et les outils.\n\nChez Isograd, on opère 2 solutions complémentaires pour un programme comme le vôtre :\n\n1. **Tosa** pour certifier les compétences numériques de vos étudiants (bureautique, code, digital). Argument concret en diplômation, sur le CV et auprès des entreprises partenaires.\n\n2. **ITS** pour héberger les sessions d'examen en ligne avec banque de questions, surveillance à distance, traçabilité Qualiopi.\n\n3. **Cert IA** — notre badge co-construit avec des écoles partenaires pour les programmes IA. Concrètement, vos étudiants ressortent du programme avec une certification externe sur les compétences IA appliquées. On a une program beta en cours, vous pourriez en faire partie.\n\nDéploiement en 4-6 semaines, budget calibré sur le volume étudiants. 15 minutes pour échanger sur votre cible ?\n\nCharles GOSSET\nSales Manager — Isograd / Tosa\n\nSource : https://www.letudiant.fr/etudes/lactu-des-formations-de-nouveaux-cursus-en-ia-dans-le-superieur.html"
